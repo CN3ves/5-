@@ -1,3 +1,6 @@
+[create an anchor](#Conflict)
+
+
 **1) Character creation**
 
 **1.1) Character creation: Concept**
