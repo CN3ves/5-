@@ -1,5 +1,18 @@
-[create an anchor](#1-character-creation)
-[create an anchor](#2-conflict)
+# Table of contents
+
+1) [Character creation](#1-character-creation)
+  1.1) [Character creation: Concept](#1.1-character-creation-concept)
+  1.2) [Abilities](#1.2-character-creation-abilities)
+  1.3) [Stats](#1.3-haracter-creation-stats)
+  1.4) [Background](#1.4-character-creation-background)
+2) [Conflict](#2-conflict)
+  2.1) [Structure](#2.1-Conflict-Structure)
+  2.2) [Call action](#2.2-Conflict-Call-action)
+  2.3) [Call effect](#2.3-Conflict-Call-effect)
+3) [Further options](#3-Further-options)
+4) [Character progression](#4-Character-progression)
+5) [Character story arc](#5-Character-story-arc)
+
 
 <details>
   <summary>Click to expand</summary>
@@ -9,10 +22,14 @@
 1) Character creation
 ---------------------
 
-**1.1) Character creation: Concept**
+## 1.1) Character creation: Concept
+[back to Table of contents](#table-of-contents)
+
 > **Concept:** Define your character using two or three descriptive words. This concept can be as simple as the common race/class/specialization combination'
 
-**1.2) Character creation: Abilities**
+## 1.2) Character creation: Abilities
+[back to Table of contents](#table-of-contents)
+
 > **Racial ability:** Suggest a race for your character. Any race is valid so you can play classic races, modification of these (twisted elves, gracious dwarves) or something totally new (energetic half-koalas, sentient chairs). Think what would be the most striking characteristic of your race. (As a sentient chair, you can easily hide among other furniture of similar taste, so the racial ability Hide in the Furniture would be suitable). You can add one more positive racial trait by also taking one negative racial to balance. 
 
 > **Cultural ability:** Suggest a culture's, profession's or group's ability that your character acquired due to his upbringing and experience. Note that this could be a cross-race or cross-borders trait shared by many members of a region or vocation. Let's say a player wants to play a noble crusader. Nobles are all posh bastards exploiting our good proletarian comrades regardless of their origin and crusaders are all the same throughout the realms, because they have a unifying set of beliefs. A possible cultural trait related to the professional training and social class could be Knight in Shining Armour: you polish your armour so well and so often that the light reflected on it is too bright for most mortal eyes to handle. Just as for the racial ability you can add one more positive cultural trait by also taking one negative trait to balance.
@@ -21,7 +38,9 @@
 
 > **Frustration:** Adventuring is a difficult, stressful and frustrating activity. How will you react under stress, when the difficulties of the adventure are too much and you can't handle the frustration of the constant struggling? This trait will determine how the character reacts when mentally overwhelmed by the stress of the adventure. 
 
-**1.3) Character creation: Stats**
+## 1.3) Character creation: Stats
+[back to Table of contents](#table-of-contents)
+
 > **Attributes:** Attributes reflect the general aptitudes the character have for specific situations. These can be changed, added and removed to fit any setting or game style, but the main attributes should be simple and clear, while allowing broad character differences.
     * *Combat:* Reflects an extensive battle and combat training, both psychical and mental. Due to this above average training, the character gains a bonus to skills when in a combat scene that is, one involving fights and any other violent confrontations (for example casting, defending, attacking).
     * *Social:* Reflects an extensive understanding of others' motives, desires and feelings. Due to this above average understanding, the character gains a bonus when interacting with other sentient creatures non-violently (for example lie to a guard, calm a dog, explain to aliens you receive them in peace).
@@ -48,7 +67,9 @@ By default, all attributes start at 0, which represent the average Joe, that mig
 *Skill detail* The details by which skills need to be defined depends heavily on the duration and setting of the game. Let's consider a character that is a good swimmer. It could be considered that this is reflected by the athletics skill. However, athletics includes both running and swimming, which are fairly different activities. As such, athletics may be too general to describe the indented action, which is swimming. So if a skill can easily and logically be split into more than one skill, it probably should. On the other hand, there may be games and settings that required the distinction between related skills (underwater swimming, high sea swimming, swimming pool swimming) or even complementary skills (hold breath and underwater swimming). Note that most of these should be self corrected as the game progresses 
 *Balancing characters*: It is important to ensure that all players have relatively balanced characters and no one is "over-qualified". A rough estimation of the skill levels for all characters would be to sum up all skill experience. Simply put, the experience (XP) is the equal to the level value, so a full level 3 skill requires 6 XP from level 0
 
-**1.4) Character creation: Background**
+## 1.4) Character creation: Background
+[back to Table of contents](#table-of-contents)
+
 > **Tying up:** Go back to your previous choices and make sure you have a background justification for each one (abilities, attributes and skills). In addition to that, consider where your character comes from (the town or region) and what are the important locations and organizations, famous or influential persons and even peculiar traditions and believes from there. Also, any adult person would have met someone else throughout his life right? Think about your character existing relationships. This could reflect relevant connections to specific organizations and institutions, important people that may play a significant role in the world or simply the friendly neighbour next door. Remember that people maintain both good and bad relationships, some being more cooperative other more competitive, so it may be interesting to consider one negative relationship for each two or three positive relationships to avoid having an "over-friendly" character. You can now tie all the information into a character background. 
 
 > **Secret:** Unless the characters have known each other for a long time, chances are that they don't know everything about each other. Having hidden information that other players need to discover, will add twists and excitement to the story and to the characters. These do not have to be dark secrets (I worship the great evil demon and will offer the party as a sacrifice, first chance I get), but they should be though as the starting point for smaller character-centred stories within the game (Are they spying for some organization? Were they double-crossed by the King's Guard and are looking for revenge? Are they looking or their long lost brother or trying to stir up a war? Maybe the character origins cannot be known for some reason?). Add a secret event to your background that you can use for a personal quest. 
@@ -56,8 +77,9 @@ By default, all attributes start at 0, which represent the average Joe, that mig
 2) Conflict
 -----------
 
+## 2.1) Conflict: Structure
+[back to Table of contents](#table-of-contents)
 
-**2.1) Conflict: Structure**
 >**Turns:** This system uses turns to structure the game, where each turn is made by a single action of every player. This gives the opportunity for every player to take an action if he wishes to do so, preventing anyone from being overshadowed accidentally. However, players are allowed to pass and are not forced "to play" their turn. At the begging of each turn, the previous actions are resolved, the consequences described and the new situation introduced. As players take their turn, they first narrate the consequences of the previous player's actions and then their own actions, so even if they pass their turn, they still have some influence in what happens during the turn and contribute to the story development.
 
 >**Conflict**: Conflict arises any time the outcome of the players' actions is uncertain. This could reflect any type of situation, from convincing a guide that travelling into the depth of a forest filled with evil creatures is a good idea, to finding your way in a maze-like temple or just the classic beating up some goblin under a tree. Since conflict describes any uncertain situation, there are various types of conflict. Simple conflicts require a single skill check to succeed (searching for traps, bribing a corrupt guard, striking a goblin). Other conflicts can require more than one single skill check. The prime example is combat, which is a structured conflict that requires successive checks to defeat the other group. In addition, there are other complex conflicts that are not structured but require completing multiple sub-tasks (A sceptical merchant needs to hear two good arguments that the piece you the players are trying to sell is really an important relic, continuously finding clues to track a dragon, dismantle a complex mechanism)
@@ -66,7 +88,9 @@ By default, all attributes start at 0, which represent the average Joe, that mig
 
 >**Lethality:** Generally, conflict is not lethal, so the goal of the conflict is not to kill everything, but to gain the clear upper-hand (win) in the conflict. Lethality is recommended for dramatic purposes and as a logic results from a failed conflict. For example, failing to negotiate a pardon may result in the character's execution, while being chewed by a dragon is likely to deal lethal damage. The general idea is that, during a fight, the characters manage to avoid actually being slashed, pierced or bashed by their adversaries, but gradually put strain their body and mind doing so. As such, the characters lose their capacity to continue the conflict as they get into difficult positions, near-misses and some light scratches. Which means that, as in real life, if you get hit by a sword, to bleed to death. 
 
-**2.2) Conflict: Call action**
+## 2.2) Conflict: Call action
+[back to Table of contents](#table-of-contents)
+
 > Whenever a player wants a character to do something that may fail, the player must call for a skill, roll 2d6 and confirm is the sum of the two dice is within the success range. As simple as that, the result is immediately known. One important thing to keep in mind is the number 5. This number shows up a lot in this system!
 
 > **Success range**: The original method to estimate the success range is to add 5 to the resulting modifier (bonus and penalties). When rolling 2d6, any resulting sum that falls between 5 and that number (inclusive) is a success.
@@ -96,7 +120,9 @@ Medium threat = 3 or 5
 High threat = 6-10
 Heroic threat = 10 +
 
-**2.3) Conflict: Call effect**
+## 2.3) Conflict: Call effect
+[back to Table of contents](#table-of-contents)
+
 > Besides deciding on what actions to do, players may also decide to call on an effect. Effects arise when handling failure or as a result of a condition acquired by the player. Calling on an effect generally allows players to make tradeoffs, temporally removing the default effect. For example, consider how you can:
 * Accept an instantaneous worsening of the penalty for a chance to ignore it in the future.
 * Give up a bonus to provoke a specific effect.
@@ -120,7 +146,9 @@ Again, players should feel free to call on custom effect and add new and unique 
 > **Wounds and Frustration**: Even though conflict is not deadly, wounds can occur. In addition, the constant struggle can put a lot of mental pressure on the characters. As mentioned before, strain is a "forced success" failure handling tradeoff, where permanent wounds are avoided by placing additional (temporary) strain on the characters. However, this tradeoff is not without its drawbacks (otherwise it would be just a trade with no "off"). Wounds and frustration still occur as a side-effects of accumulated strain so, at the end of each conflict as the characters rest and all their strain is removed, there is a chance that a character was wounded either directly by an enemy or indirectly by the strain placed on his body (muscle injury from a bad swing). To determine if a character received a physical or mental wound, roll 2d6 and, if the the lowest dice value is equal or less than the strain accumulated during that conflict, the character was wounded in combat or became stressed from a difficult social interaction by that amount. Notice that “Obverse-based conflicts” are often simple and can be handled with without incurring strain penalties. If that is not the case, these conflicts can work both ways, either the player gets frustrated because we can’t track the bandits or he trips and falls as he tries to follow their tracks.
 Physical and mental (stress/frustration) wounds have a maximum of 10 levels, at which point the character is exhausted from accumulated wounds or loses his mind completely, becoming unplayable. By having more than 5 levels of wounds, the player risks permanent damage in the form of a new descriptor. If the sum of the wound roll is below the level of the wound, then a new wound description is gained for physical wounds or the frustration trait kicks in for the mental wounds. 
 
-**3) Further options**
+3) Further options
+------------------
+[back to Table of contents](#table-of-contents)
 
 >**Helping**: The success rates in this system are expected to be very low, so helping each other should be a common strategy for solving conflicts. Helping would seem intuitive in cases like combat: Everyone smash the goblin until the goblin hurts! In such a case, even though every success contributes to the common goal, the probability of success of any individual attempt is unchanged. The player's may attempt to directly change the chances of success by actively helping another player. Helping takes advantage of the unstructured "turn-based" flow of the system and considers the different types of conflict previously described:
 
@@ -209,7 +237,10 @@ Note that magic is the only way to target out-of-range, so this comes at a cost.
 * Given his readiness to help, a fifth magical check can settle the bartender bias in favour of the player.
 And so on, slowly working the barkeeper until he is irresistibly and unquestionably following the player's orders. Note how the magical effects are mostly statementing and reinforcing the underlying feelings already present. This can be worked over days or months, going back and forwards as spells and social interactions skills will alternatively fail and succeed.
 
-**4) Character progression**
+4) Character progression
+------------------------
+[back to Table of contents](#table-of-contents)
+
 > In this system, characters do not level up or gain quanta of power at certain points in a deterministic way. They age and gain experience as one does! Characters can progress, or improve, in 3 different ways: gain experience with skills, acquire better equipment and learn new abilities.
 
 >**Skill experience**: Because of the skills’ dynamics and flexibility, a “learn by doing” levelling system is very suitable. The main idea is that, by using a specific skill the character may gain experience with it as he explores and finds out new ways of doing it or simply gains deeper understanding of how it is done. However, this doesn't happen all the time. Just because you keep breaking eggs, it doesn't mean you gain greater insights about this task. Sometimes, something happens, a piece of shell got into the egg white, and you wonder if there is a better way. And only some of those times, you find there is and actually start doing it better. This concept is reflected in the game by the 3 checks/rules for levelling up skills:
@@ -242,7 +273,10 @@ This issue is well illustrated by magical skills. Let's consider fire bolt, fire
 
 > **Training**: Availability of training is setting specific, but paying for (or being rewarded) training or to study some particular skill may be something relevant, especially at low levels. Simple practice, instead of training may also be appropriate in these cases. Access to low level skill training (up to level 3) should be common, but it should be difficult to find someone skilled enough to provide high-level skill training. Long term training may be possible for training attributes (such as magic and heavy armour), where one character may be taught the principles of spell-casting and become trained in the arcane arts. However, training a main attribute is a lifetime job, so that is unlikely to be available without a very structured routine lasting years. Finally, new racial or cultural abilities may be learned, as the character may join specific schools or learn from other masters that teach a different aspect of one's heritage or a different interpretation, approach or philosophy within one's culture. All trained abilities should follow the "3-level progression" suggested for skill abilities, illustrating the character's progress in mastering a new skill.
 
-**5) Character story arc**
+5) Character story arc
+----------------------
+[back to Table of contents](#table-of-contents)
+
 > Players are allowed to contribute to the story in different ways, not just by deciding what their characters are doing.
 
 > **What do you see?**: After introducing any new scene, place or situation, the players should be asked what they see: Do you spot someone in the corner table? Is there something strange in the wall? Are all the books arranged strangely? Players should have the opportunity to contribute with interesting details in every scene, if nothing else just to add new descriptions to bring out different things about the places they visit.
