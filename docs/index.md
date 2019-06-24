@@ -2,7 +2,7 @@
 
 <details>
   <summary>Click to expand</summary>
-  whatever
+  One other note on the game, which I think gives an idea of the tone. The first adventure will be what the makers of the game term a Funnel.
 </details>
 
 **1) Character creation**
