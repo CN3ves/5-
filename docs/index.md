@@ -1,17 +1,17 @@
 # Table of contents
 
-1) [Character creation](#1-character-creation)  
-  1.1) [Concept](#11-character-creation-concept)  
-  1.2) [Abilities](#12-character-creation-abilities)  
-  1.3) [Stats](#13-character-creation-stats)  
-  1.4) [Background](#14-character-creation-background)  
-2) [Conflict](#2-conflict)  
-  2.1) [Structure](#21-Conflict-Structure)  
-  2.2) [Call action](#22-Conflict-Call-action)  
-  2.3) [Call effect](#23-Conflict-Call-effect)  
-3) [Further options](#3-Further-options)  
-4) [Character progression](#4-Character-progression)  
-5) [Character story arc](#5-Character-story-arc)  
+1. [Character creation](#1-character-creation)  
+  1.1. [Concept](#11-character-creation-concept)  
+  1.2. [Abilities](#12-character-creation-abilities)  
+  1.3. [Stats](#13-character-creation-stats)  
+  1.4. [Background](#14-character-creation-background)  
+2. [Conflict](#2-conflict)  
+  2.1. [Structure](#21-conflict-structure)  
+  2.2. [Call action](#22-conflict-call-action)  
+  2.3. [Call effect](#23-conflict-call-effect)  
+3. [Further options](#3-further-options)  
+4. [Character progression](#4-character-progression)  
+5. [Character story arc](#5-character-story-arc)  
 
 
 <details>
