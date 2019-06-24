@@ -3,7 +3,7 @@
 1) [Character creation](#1-character-creation)  
   1.1) [Concept](#11-character-creation-concept)  
   1.2) [Abilities](#12-character-creation-abilities)  
-  1.3) [Stats](#13-haracter-creation-stats)  
+  1.3) [Stats](#13-character-creation-stats)  
   1.4) [Background](#14-character-creation-background)  
 2) [Conflict](#2-conflict)  
   2.1) [Structure](#21-Conflict-Structure)  
