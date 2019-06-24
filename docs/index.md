@@ -1,4 +1,5 @@
-[create an anchor](#Conflict)
+[create an anchor](#conflict)
+[create an anchor](#character-creation-stats)
 
 <details>
   <summary>Click to expand</summary>
