@@ -1,5 +1,9 @@
 [create an anchor](#Conflict)
 
+<details>
+  <summary>Click to expand</summary>
+  whatever
+</details>
 
 **1) Character creation**
 
