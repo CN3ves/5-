@@ -12,7 +12,7 @@
 
 > **Frustration:** Adventuring is a difficult, stressful and frustrating activity. How will you react under stress, when the difficulties of the adventure are too much and you can't handle the frustration of the constant struggling? This trait will determine how the character reacts when mentally overwhelmed by the stress of the adventure. 
 
-1.3) Character creation: Stats
+**1.3) Character creation: Stats**
 > **Attributes:** Attributes reflect the general aptitudes the character have for specific situations. These can be changed, added and removed to fit any setting or game style, but the main attributes should be simple and clear, while allowing broad character differences.
     * *Combat:* Reflects an extensive battle and combat training, both psychical and mental. Due to this above average training, the character gains a bonus to skills when in a combat scene that is, one involving fights and any other violent confrontations (for example casting, defending, attacking).
     * *Social:* Reflects an extensive understanding of others' motives, desires and feelings. Due to this above average understanding, the character gains a bonus when interacting with other sentient creatures non-violently (for example lie to a guard, calm a dog, explain to aliens you receive them in peace).
