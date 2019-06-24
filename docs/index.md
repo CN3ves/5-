@@ -1,7 +1,7 @@
 # Table of contents
 
 1) [Character creation](#1-character-creation)  
-  1.1) [Character creation: Concept](#11-character-creation-concept)  
+  1.1) [Concept](#11-character-creation-concept)  
   1.2) [Abilities](#12-character-creation-abilities)  
   1.3) [Stats](#13-haracter-creation-stats)  
   1.4) [Background](#14-character-creation-background)  
