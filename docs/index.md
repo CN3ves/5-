@@ -53,6 +53,8 @@ By default, all attributes start at 0, which represent the average Joe, that mig
 > **Secret:** Unless the characters have known each other for a long time, chances are that they don't know everything about each other. Having hidden information that other players need to discover, will add twists and excitement to the story and to the characters. These do not have to be dark secrets (I worship the great evil demon and will offer the party as a sacrifice, first chance I get), but they should be though as the starting point for smaller character-centred stories within the game (Are they spying for some organization? Were they double-crossed by the King's Guard and are looking for revenge? Are they looking or their long lost brother or trying to stir up a war? Maybe the character origins cannot be known for some reason?). Add a secret event to your background that you can use for a personal quest. 
  
 **2) Conflict**
+---------------
+---------------
 
 **2.1) Conflict: Structure**
 >**Turns:** This system uses turns to structure the game, where each turn is made by a single action of every player. This gives the opportunity for every player to take an action if he wishes to do so, preventing anyone from being overshadowed accidentally. However, players are allowed to pass and are not forced "to play" their turn. At the begging of each turn, the previous actions are resolved, the consequences described and the new situation introduced. As players take their turn, they first narrate the consequences of the previous player's actions and then their own actions, so even if they pass their turn, they still have some influence in what happens during the turn and contribute to the story development.
