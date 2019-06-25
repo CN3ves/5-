@@ -9,8 +9,7 @@ The Master's Vault
 
 
 
-CHAPTER 0
----------  
+## CHAPTER 0
 ### Adventure Overview
 [back to Table of contents](#table-of-contents)
 
@@ -58,9 +57,8 @@ year. Her favorite group of disciples was also her last and most recent: the pla
 </details> 
 
 
-CHAPTER 1
----------  
-## Flashback
+## CHAPTER 1
+### Flashback
 
 It was six months ago that Elaria Feywing, known throughout the Kingdom of Skylark as The Master, took all of you in as pupils. The old elf woman’s skills in magic, combat, and survival are legendary. She trained Marigold the Brave, who slew the infamous great blue dragon Diraxthese, and Blouton Buttertree, who closed the Demon Portal of Nargoth, and so many other famous heroes. Of all the would-be treasure seekers, mercenaries, and do-gooders that came across her doorstep begging for her wisdom, it was you who were selected by Elaria. Why did you come to The Master’s mansion?
 
