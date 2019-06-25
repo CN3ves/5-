@@ -1,4 +1,6 @@
 # Table of contents
+[homepage](index.md)  
+
 
 1. [Character creation](#1-character-creation)  
   1.1. [Concept](#11-character-creation-concept)  
