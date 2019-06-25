@@ -1,4 +1,4 @@
-Welcome to my little page for the PbP 5+ system developing and testing :)
+Welcome to my little page for a PbP system developing and testing :)
 I am currently running two playtest games on [GP](https://gamersplane.com/), which you can check here:  
   
   1) [The Master's Vault](https://github.com/CN3ves/System/test1.html): using the basic [rules v01](https://github.com/CN3ves/System/rules1.html)  
