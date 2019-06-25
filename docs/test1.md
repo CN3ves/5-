@@ -69,11 +69,11 @@ ___
 
 <p align="center"> <b>Rowan Cainr</b>: <br></p>
 <img src="https://gamersplane.com/ucp/avatars/avatar.png" align="left"/ > 
-People are stupid and common, and the food and wine in this province no longer holds savor, and it no longer delights me to judge either. There must be more than this provincial life.<br/>
+People are stupid and common, and the food and wine in this province no longer holds savor, and it no longer delights me to judge either. There must be more than this provincial life.<br/><br/><br/>
 
 <p align="center"> <b>Longtooth Briarsmith</b>: <br></p> 
 <img src="https://gamersplane.com/characters/avatars/11245.jpg?1561460660" align="left"/ > 
-Longtooths' plan is to be able to eventualy hunt exotic game for his dishes. <br/>
+Longtooths' plan is to be able to eventualy hunt exotic game for his dishes. <br/><br/><br/><br/>
 
 <p align="center"> <b>Gullk</b>: <br></p> 
 <img src="https://gamersplane.com/characters/avatars/11363.jpg?1561461272" align="left" /> 
