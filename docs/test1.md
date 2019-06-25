@@ -1,4 +1,5 @@
-# Table of contents
+The Master's Vault
+------------------
 [homepage](index.md)  
 
 [CHAPTER 0: Adventure Overview](#chapter0)  
@@ -27,7 +28,8 @@ year. Her favorite group of disciples was also her last and most recent: the pla
 **Characters**:  
   
   * *Rowan Cainr (human)*: A grand fellow, admired of Lord and Lady alike. A rapier as finely honed as his wit, and hair, teeth, and sensibilities as fine as any noble's patents he's forged. 
-  * *Longtooth Briarsmith, the wizard (Orc)*: A traveling cook, partially made famous for his use of non standard food stuffs. <details>
+  * *Longtooth Briarsmith, the wizard (Orc)*: A traveling cook, partially made famous for his use of non standard food stuffs. 
+<details>
   <summary>Photo ID</summary>
   <img src="https://gamersplane.com/characters/avatars/11245.jpg?1561460660"> alt="hi" class="inline"/>
 </details>
