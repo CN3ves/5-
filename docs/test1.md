@@ -32,19 +32,19 @@ year. Her favorite group of disciples was also her last and most recent: the pla
 
 <details>
   <summary>Longtooth Briarsmith, the wizard (Orc)</summary>
-  <img src="https://gamersplane.com/characters/avatars/11245.jpg?1561460660" align="left"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4u_1drzHDghfEmJDNwODDOy8iicCtUzXhnoZyncKKivqrPpRNlQ" align="left"/>
   A traveling cook, partially made famous for his use of non standard food stuffs <BR clear="left">
 </details>
 
 <details>
   <summary>Gullk, the Landtalker (Goblin)</summary>
-  <img src="https://gamersplane.com/characters/avatars/11363.jpg?1561461272" align="left" />
+  <img src="https://i.pinimg.com/474x/42/01/12/4201122c927b8371f74e541b8c5b5319--character-portraits-character-ideas.jpg" align="left" />
   He was a goblin and then he was a ranger <BR clear="left">
 </details>
 
 <details>
   <summary>Saurkhan Whitepelt (Rhakshasa)</summary>
-  <img src="https://gamersplane.com/characters/avatars/11398.jpg?1561461272" align="left" />
+  <img src="https://storage.ning.com/topology/rest/1.0/file/get/903740?profile=RESIZE_1024x1024" align="left" />
   A sellsword. A heartless mercenary, willing to do any job for the right price. And he wears a monocle. <BR clear="left">
         
   
