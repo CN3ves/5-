@@ -2,8 +2,8 @@ The Master's Vault
 ------------------
 [homepage](index.md)  
 
-[CHAPTER 0: Adventure Overview](#chapter0-adventure-overview)  
-[CHAPTER 1: Flashback](#chapter1-flashback)  
+[CHAPTER 0: Adventure Overview](#chapter-0-adventure-overview)  
+[CHAPTER 1: Flashback](#chapter-1-flashback)  
 [INTERLUDE 1: Adventure Overview](#chapter0)  
 [CHAPTER 2: Adventure Overview](#chapter0)  
 
