@@ -68,7 +68,7 @@ year. Her favorite group of disciples was also her last and most recent: the pla
 ___
 
 <p align="center"> <b>Rowan Cainr</b>: <br></p>
-<img src="https://gamersplane.com/ucp/avatars/avatar.png" align="left" width="1%" height="1%" / > 
+<img src="https://gamersplane.com/ucp/avatars/avatar.png" align="left" width="50" height="50" / > 
 People are stupid and common, and the food and wine in this province no longer holds savor, and it no longer delights me to judge either. There must be more than this provincial life.<br/><br/><br/>
 
 <p align="center"> <b>Longtooth Briarsmith</b>: <br></p> 
