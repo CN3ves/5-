@@ -67,17 +67,18 @@ year. Her favorite group of disciples was also her last and most recent: the pla
 
 ___
 
-<p align="right"> 
-  <b>Rowan Cainr</b>: <br>People are stupid and common, and the food and wine in this province no longer holds savor, and it no longer delights me to judge either. There must be more than this provincial life.
-</p>
+<p align="center"> 
+  <b>Rowan Cainr</b>: <br></p>
+People are stupid and common, and the food and wine in this province no longer holds savor, and it no longer delights me to judge either. There must be more than this provincial life.
+
+<p align="center"> 
+  <b>Longtooth Briarsmith</b>: <br><img src="https://gamersplane.com/characters/avatars/11245.jpg?1561460660"><br></p> Longtooths' plan is to be able to eventualy hunt exotic game for his dishes. 
+
 
 <p align="right"> 
-  <b>Longtooth Briarsmith</b>: <br><img src="https://gamersplane.com/characters/avatars/11245.jpg?1561460660"><br> Longtooths' plan is to be able to eventualy hunt exotic game for his dishes. 
-</p>
+  <b>Gullk</b>: <br><img src="https://gamersplane.com/characters/avatars/11398.jpg?1561461272"><br></p>
+  Gullk is the master hunter of his tribe and is out to look for new challenges and to improve his skills further than he can just by staying in his tribe. Also, he might want to try some exotic meat if he can find it. He can team up with Longtooth for a good hunt 
 
-<p align="right"> 
-  <b>Gullk</b>: <br><img src="https://gamersplane.com/characters/avatars/11398.jpg?1561461272"><br> Gullk is the master hunter of his tribe and is out to look for new challenges and to improve his skills further than he can just by staying in his tribe. Also, he might want to try some exotic meat if he can find it. He can team up with Longtooth for a good hunt 
-</p>
 
 ___
 
