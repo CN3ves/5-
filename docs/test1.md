@@ -67,6 +67,10 @@ year. Her favorite group of disciples was also her last and most recent: the pla
 
 ___
 
+<p align="center">
+  <img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="256" title="Github Logo">
+</p>
+
 <p class="text-right">Right aligned text.</p>
 
 <p class="text-right"> <b>Rowan Cainr</b>: People are stupid and common, and the food and wine in this province no longer holds savor, and it no longer delights me to judge either. There must be more than this provincial life.</p>
