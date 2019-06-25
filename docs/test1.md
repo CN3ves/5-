@@ -73,7 +73,7 @@ People are stupid and common, and the food and wine in this province no longer h
 
 **Longtooth Briarsmith**
 <img src="https://gamersplane.com/characters/avatars/11245.jpg?1561460660" align="left" width="50" height="50" /> 
-Longtooths' plan is to be able to eventualy hunt exotic game for his dishes. 
+Longtooths' plan is to be able to eventualy hunt exotic game for his dishes. <br/> 
 
 **Gullk**
 <img src="https://gamersplane.com/characters/avatars/11363.jpg?1561461272" align="left" width="50" height="50" /> 
