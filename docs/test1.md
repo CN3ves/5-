@@ -29,10 +29,10 @@ year. Her favorite group of disciples was also her last and most recent: the pla
   
   * *Rowan Cainr (human)*: A grand fellow, admired of Lord and Lady alike. A rapier as finely honed as his wit, and hair, teeth, and sensibilities as fine as any noble's patents he's forged. 
   * *Longtooth Briarsmith, the wizard (Orc)*: A traveling cook, partially made famous for his use of non standard food stuffs. 
-<details>
-  <summary>Photo ID</summary>
-  <img src="https://gamersplane.com/characters/avatars/11245.jpg?1561460660"> alt="hi" class="inline"/>
-</details>
+  <details>
+    <summary>Photo ID</summary>
+    <img src="https://gamersplane.com/characters/avatars/11245.jpg?1561460660" alt="hi" class="inline"/>
+  </details>
 
   * *Gullk, the Landtalker* (Goblin): He was a goblin and then he was a ranger
   * *Saurkhan Whitepelt* (Rhakshasa): A heartless mercenary, willing to do any job for the right price. And he wears a monocle. 
