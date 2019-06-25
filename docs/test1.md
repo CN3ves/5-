@@ -70,17 +70,17 @@ ___
 **Rowan Cainr**  
 
 <img src="https://gamersplane.com/ucp/avatars/avatar.png" align="left" width="50" height="50" /> 
-People are stupid and common, and the food and wine in this province no longer holds savor, and it no longer delights me to judge either. There must be more than this provincial life.
+People are stupid and common, and the food and wine in this province no longer holds savor, and it no longer delights me to judge either. There must be more than this provincial life.<br/> 
 
 **Longtooth Briarsmith**  
 
 <img src="https://gamersplane.com/characters/avatars/11245.jpg?1561460660" align="left" width="50" height="50" /> 
-Longtooths' plan is to be able to eventualy hunt exotic game for his dishes. <br/> <br/> 
+Longtooths' plan is to be able to eventualy hunt exotic game for his dishes. <br/> <br/> <br/> 
 
 **Gullk**  
 
 <img src="https://gamersplane.com/characters/avatars/11363.jpg?1561461272" align="left" width="50" height="50" /> 
-Gullk is the master hunter of his tribe and is out to look for new challenges and to improve his skills further than he can just by staying in his tribe. Also, he might want to try some exotic meat if he can find it. He can team up with Longtooth for a good hunt 
+Gullk is the master hunter of his tribe and is out to look for new challenges and to improve his skills further than he can just by staying in his tribe. Also, he might want to try some exotic meat if he can find it. He can team up with Longtooth for a good hunt <br/> 
 
 ___
 
