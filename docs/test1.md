@@ -33,7 +33,7 @@ year. Her favorite group of disciples was also her last and most recent: the pla
 
 <details>
   <summary>Longtooth Briarsmith, the wizard (Orc)</summary>
-  <img src="https://gamersplane.com/characters/avatars/11245.jpg?1561460660"align="left" />
+  <img src="https://gamersplane.com/characters/avatars/11245.jpg?1561460660" align="left" />
   A traveling cook, partially made famous for his use of non standard food stuffs <BR clear="left">
 </details>
 
