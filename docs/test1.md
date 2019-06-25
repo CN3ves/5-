@@ -83,14 +83,14 @@ Gullk is the master hunter of his tribe and is out to look for new challenges an
 
 ___
 
-<center><i>Over the last half-year you’ve learned <u>Elaria Feywing</u> is intense, but fair and encouraging. Though The Master is over eight centuries old, her elf blood keeps her thin, lithe, and youthful which allows her to enforce your rigorous training regimen. You are each learning different skills in magic, combat, and more, but you all take your meals together.</i></center>  
+<center><i>Over the last half-year you’ve learned <u>Elaria Feywing</u> is intense, but fair and encouraging. Though The Master is over eight centuries old, her elf blood keeps her thin, lithe, and youthful which allows her to enforce your rigorous training regimen. You are each learning different skills in magic, combat, and more, but you all take your meals together.</i></center><br/>  
   
+<center><i>You are sitting at a long dining table enjoying a hot breakfast together. Elaria puts down her porridge spoon and stands up, looking you all in the eye, her golden hair framing her own green orbs. She cracks a smile as she begins speaking. <b>“It is time for your first test in real combat. We have a rat infestation in the basement. A giant rat infestation. I managed to get them contained in the larder, but they’ll soon eat through all our supplies and the door itself if you don’t go down there to exterminate.”</b> Her green eyes twinkle with mischievous delight as she adds, <b>“I also seem to have misplaced the key to the larder after locking them in, so you’ll have to get through the door and past the barricade I set up before you can get to the rats.”</b></i></center><br/>  
   
-<center><i>You are sitting at a long dining table enjoying a hot breakfast together. Elaria puts down her porridge spoon and stands up, looking you all in the eye, her golden hair framing her own green orbs. She cracks a smile as she begins speaking. <b>“It is time for your first test in real combat. We have a rat infestation in the basement. A giant rat infestation. I managed to get them contained in the larder, but they’ll soon eat through all our supplies and the door itself if you don’t go down there to exterminate.”</b> Her green eyes twinkle with mischievous delight as she adds, <b>“I also seem to have misplaced the key to the larder after locking them in, so you’ll have to get through the door and past the barricade I set up before you can get to the rats.”</b></i></center>  
-  
-    
-<center><i>The Master sits back down in her chair and puts a spoonful of porridge to her lips. Before actually eating she looks at all of you and says, <b>“Well what are you waiting for?”</b> You know by now that’s your cue to head down to the basement.</i></center>  
+<center><i>The Master sits back down in her chair and puts a spoonful of porridge to her lips. Before actually eating she looks at all of you and says, <b>“Well what are you waiting for?”</b> You know by now that’s your cue to head down to the basement.</i></center><br/>
   
 <center><i>... You all know the basement is where she keeps her hoard of foods, ingredients and rare spices that make her porridge legendary!</i></center>
 
 ___
+
+
