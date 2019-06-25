@@ -34,19 +34,19 @@ year. Her favorite group of disciples was also her last and most recent: the pla
 <details>
   <summary>Longtooth Briarsmith, the wizard (Orc)</summary>
   <img src="https://gamersplane.com/characters/avatars/11245.jpg?1561460660"align="left" />
-  A traveling cook, partially made famous for his use of non standard food stuffs  <br/><br>
+  A traveling cook, partially made famous for his use of non standard food stuffs <BR clear="left">
 </details>
 
 <details>
   <summary>Gullk, the Landtalker (Goblin)</summary>
   <img src="https://gamersplane.com/characters/avatars/11363.jpg?1561461272" align="left" />
-  He was a goblin and then he was a ranger  <br/><br>
+  He was a goblin and then he was a ranger <BR clear="left">
 </details>
 
 <details>
   <summary>Saurkhan Whitepelt (Rhakshasa)</summary>
   <img src="https://gamersplane.com/characters/avatars/11398.jpg?1561461272" align="left" />
-  A sellsword. A heartless mercenary, willing to do any job for the right price. And he wears a monocle.  <br/><br>
+  A sellsword. A heartless mercenary, willing to do any job for the right price. And he wears a monocle. <BR clear="left">
         
   
 </details>
@@ -55,7 +55,7 @@ year. Her favorite group of disciples was also her last and most recent: the pla
   <summary>Klaus von Stern (Gargoyle)</summary>
   <img src="https://gamersplane.com/characters/avatars/11394.jpg?1561461271" align="left" />
   Klaus is a stone gargoyle enchanted to have its own will by some wayward magician quite a long time ago. Since then he was seeking a way to stop people from running away in horror from his offers to share a drink of his homemade wines and beers, and becoming a great adventurer seemed like a good idea at that time. Klaus looks like a mobile statue, but he does wear closes (when he can catch a tailor to made them for him), especially fancy ones when he can afford it. He also wears glasses, but avoids any kind of footwear - and attempts to get gloves usually don't go well. Despite having wings, he also cannot fly - apparently breaking laws of physics is not as easy as those of biology.
-  He is made from stone, and no one quite has any idea how his organism works - it's very likely that he is completely dependent on magic of that old spell cast on him. Somehow he can taste things and feel pain, and on rare occasions even get poisoned, but his pain tolerance is great and it's harder for him to get drunk (he did manage it a couple of times, though). Klaus is sophisticated and doesn't like conflict, preferring to either wait the danger while camouflaged like a statue or scare it away. He might look like a great force, big and intimidating stone wall with claws and fangs, but he is pretty bad at fighting and has no idea about how to use a weapon. Even a table leg. He also can and will try to be a peacemaker when possible, but his appearances don't really help with diplomatic approach. His profession and a hobby is winemaking - he loves brewing his own alcohol, and often succeeds at coming up with original recipes, and not just for wine, but beer and other types of drinks too. He does tend to forget limitations of other beings' biology sometimes, but he tries his best to match everyone's taste. And he loves oranges.  <br/><br>   
+  He is made from stone, and no one quite has any idea how his organism works - it's very likely that he is completely dependent on magic of that old spell cast on him. Somehow he can taste things and feel pain, and on rare occasions even get poisoned, but his pain tolerance is great and it's harder for him to get drunk (he did manage it a couple of times, though). Klaus is sophisticated and doesn't like conflict, preferring to either wait the danger while camouflaged like a statue or scare it away. He might look like a great force, big and intimidating stone wall with claws and fangs, but he is pretty bad at fighting and has no idea about how to use a weapon. Even a table leg. He also can and will try to be a peacemaker when possible, but his appearances don't really help with diplomatic approach. His profession and a hobby is winemaking - he loves brewing his own alcohol, and often succeeds at coming up with original recipes, and not just for wine, but beer and other types of drinks too. He does tend to forget limitations of other beings' biology sometimes, but he tries his best to match everyone's taste. And he loves oranges. <BR clear="left">
 </details> 
 
 
@@ -68,17 +68,17 @@ ___
 **Rowan Cainr:**  
 
 <img src="https://gamersplane.com/ucp/avatars/avatar.png" align="left" width="50" height="50" /> 
-People are stupid and common, and the food and wine in this province no longer holds savor, and it no longer delights me to judge either. There must be more than this provincial life.<br/> <br/> 
+People are stupid and common, and the food and wine in this province no longer holds savor, and it no longer delights me to judge either. There must be more than this provincial life. <BR clear="left">
 
 **Longtooth Briarsmith**:
 
 <img src="https://gamersplane.com/characters/avatars/11245.jpg?1561460660" align="left" width="50" height="50" /> 
-Longtooths' plan is to be able to eventualy hunt exotic game for his dishes. <br/> <br/> <br/> 
+Longtooths' plan is to be able to eventualy hunt exotic game for his dishes. <BR clear="left">
 
 **Gullk**:  
 
 <img src="https://gamersplane.com/characters/avatars/11363.jpg?1561461272" align="left" width="50" height="50" /> 
-Gullk is the master hunter of his tribe and is out to look for new challenges and to improve his skills further than he can just by staying in his tribe. Also, he might want to try some exotic meat if he can find it. He can team up with Longtooth for a good hunt <br/> 
+Gullk is the master hunter of his tribe and is out to look for new challenges and to improve his skills further than he can just by staying in his tribe. Also, he might want to try some exotic meat if he can find it. He can team up with Longtooth for a good hunt <BR clear="left">
 
 ___
 
