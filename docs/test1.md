@@ -25,11 +25,11 @@ year. Her favorite group of disciples was also her last and most recent: the pla
 <br/>
   
 **Characters**:  
-<details>
+<div><details>
   <summary>Rowan Cainr (human)</summary>
   <img src="https://gamersplane.com/ucp/avatars/avatar.png" align="left" /> 
    A grand fellow, admired of Lord and Lady alike. A rapier as finely honed as his wit, and hair, teeth, and sensibilities as fine as any noble's patents he's forged.<br> 
-</details>
+</details></div>
 
 <details>
   <summary>Longtooth Briarsmith, the wizard (Orc)</summary>
