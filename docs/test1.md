@@ -22,7 +22,8 @@ year. Her favorite group of disciples was also her last and most recent: the pla
   <summary><b>The Mirriam Vale map</b></summary>
   <img src="https://i.ytimg.com/vi/TKnoiSXeUDk/maxresdefault.jpg"/>
 </details>  
-<br/>
+  
+  
   
 **Characters**:  
 <details>
