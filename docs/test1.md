@@ -22,7 +22,7 @@ year. Her favorite group of disciples was also her last and most recent: the pla
 
 <details>
   <summary><b>The Mirriam Vale map</b></summary>
-  <img src="https://i.ytimg.com/vi/TKnoiSXeUDk/maxresdefault.jpg" alt="hi" class="inline"/>
+  <img src="https://i.ytimg.com/vi/TKnoiSXeUDk/maxresdefault.jpg"/>
 </details>
 
 **Characters**:  
@@ -30,21 +30,25 @@ year. Her favorite group of disciples was also her last and most recent: the pla
   <summary>Rowan Cainr (human)</summary>
    A grand fellow, admired of Lord and Lady alike. A rapier as finely honed as his wit, and hair, teeth, and sensibilities as fine as any noble's patents he's forged. 
 </details> 
+
 <details>
   <summary>Longtooth Briarsmith, the wizard (Orc)</summary>
   A traveling cook, partially made famous for his use of non standard food stuffs
-  <img src="https://gamersplane.com/characters/avatars/11245.jpg?1561460660" alt="hi" class="inline"/>
+  <img src="https://gamersplane.com/characters/avatars/11245.jpg?1561460660" class="inline"/>
 </details> 
+
 <details>
   <summary>Gullk, the Landtalker (Goblin)</summary>
   He was a goblin and then he was a ranger
-  <img src="https://gamersplane.com/characters/custom/11363/" alt="hi" class="inline"/>
+  <img src="https://gamersplane.com/characters/custom/11363/" class="inline"/>
 </details> 
+
 <details>
   <summary>Saurkhan Whitepelt (Rhakshasa)</summary>
   A sellsword. A heartless mercenary, willing to do any job for the right price. And he wears a monocle. 
-  <img src="https://gamersplane.com/characters/avatars/11398.jpg?1561461272" alt="hi" class="inline"/>
+  <img src="https://gamersplane.com/characters/avatars/11398.jpg?1561461272" class="inline"/>
 </details> 
+
 <details>
   <summary>Klaus von Stern (Gargoyle)</summary>
   Klaus is a stone gargoyle enchanted to have its own will by some wayward magician quite a long time ago. Since then he was seeking a way to stop people from running away in horror from his offers to share a drink of his homemade wines and beers, and becoming a great adventurer seemed like a good idea at that time. Klaus looks like a mobile statue, but he does wear closes (when he can catch a tailor to made them for him), especially fancy ones when he can afford it. He also wears glasses, but avoids any kind of footwear - and attempts to get gloves usually don't go well. Despite having wings, he also cannot fly - apparently breaking laws of physics is not as easy as those of biology.
