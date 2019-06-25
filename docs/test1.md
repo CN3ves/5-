@@ -67,6 +67,8 @@ year. Her favorite group of disciples was also her last and most recent: the pla
 
 ___
 
+<p class="text-right">Right aligned text.</p>
+
 <p class="text-right"> <b>Rowan Cainr</b>: People are stupid and common, and the food and wine in this province no longer holds savor, and it no longer delights me to judge either. There must be more than this provincial life.</p>
 
   **Longtooth Briarsmith**: <br><img src="https://gamersplane.com/characters/avatars/11245.jpg?1561460660"><br> Longtooths' plan is to be able to eventualy hunt exotic game for his dishes. 
