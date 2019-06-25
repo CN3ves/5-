@@ -20,31 +20,31 @@ year. Her favorite group of disciples was also her last and most recent: the pla
 
 <details>
   <summary><b>The Mirriam Vale map</b></summary>
-  <img src="https://i.ytimg.com/vi/TKnoiSXeUDk/maxresdefault.jpg" width="200" height="200" />
+  <img src="https://i.ytimg.com/vi/TKnoiSXeUDk/maxresdefault.jpg" />
 </details>  
 <br/> 
 <p><b>Characters:</b></p>
 <details>
   <summary>Rowan Cainr (human)</summary>
-  <img src="https://gamersplane.com/ucp/avatars/avatar.png" align="left" width="100" height="100" /> 
+  <img src="https://gamersplane.com/ucp/avatars/avatar.png" align="left" /> 
    A grand fellow, admired of Lord and Lady alike. A rapier as finely honed as his wit, and hair, teeth, and sensibilities as fine as any noble's patents he's forged.<BR clear="left">
 </details>
 
 <details>
   <summary>Longtooth Briarsmith, the wizard (Orc)</summary>
-  <img src="https://gamersplane.com/characters/avatars/11245.jpg?1561460660" align="left" width="100" height="100" />
+  <img src="https://gamersplane.com/characters/avatars/11245.jpg?1561460660" align="left"/>
   A traveling cook, partially made famous for his use of non standard food stuffs <BR clear="left">
 </details>
 
 <details>
   <summary>Gullk, the Landtalker (Goblin)</summary>
-  <img src="https://gamersplane.com/characters/avatars/11363.jpg?1561461272" align="left" width="100" height="100" />
+  <img src="https://gamersplane.com/characters/avatars/11363.jpg?1561461272" align="left" />
   He was a goblin and then he was a ranger <BR clear="left">
 </details>
 
 <details>
   <summary>Saurkhan Whitepelt (Rhakshasa)</summary>
-  <img src="https://gamersplane.com/characters/avatars/11398.jpg?1561461272" align="left" width="100" height="100" />
+  <img src="https://gamersplane.com/characters/avatars/11398.jpg?1561461272" align="left" />
   A sellsword. A heartless mercenary, willing to do any job for the right price. And he wears a monocle. <BR clear="left">
         
   
