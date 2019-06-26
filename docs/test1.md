@@ -75,9 +75,7 @@ Gullk is the master hunter of his tribe and is out to look for new challenges an
 
 ___
 
-<center><i>Over the last half-year you’ve learned <u>Elaria Feywing</u> is intense, but fair and encouraging. Though The Master is over eight centuries old, her elf blood keeps her thin, lithe, and youthful which allows her to enforce your rigorous training regimen. You are each learning different skills in magic, combat, and more, but you all take your meals together.</i></center><br/>  
-  
-<center><i>You are sitting at a long dining table enjoying a hot breakfast together. Elaria puts down her porridge spoon and stands up, looking you all in the eye, her golden hair framing her own green orbs. She cracks a smile as she begins speaking.</i></center> 
+<center><i>Over the last half-year you’ve learned <u>Elaria Feywing</u> is intense, but fair and encouraging. Though The Master is over eight centuries old, her elf blood keeps her thin, lithe, and youthful which allows her to enforce your rigorous training regimen. You are each learning different skills in magic, combat, and more, but you all take your meals together.\n\nYou are sitting at a long dining table enjoying a hot breakfast together. Elaria puts down her porridge spoon and stands up, looking you all in the eye, her golden hair framing her own green orbs. She cracks a smile as she begins speaking.</i></center> 
 
 **Elaria Feywing**: “It is time for your first test in real combat. We have a rat infestation in the basement. A giant rat infestation. I managed to get them contained in the larder, but they’ll soon eat through all our supplies and the door itself if you don’t go down there to exterminate.”  
 *Her green eyes twinkle with mischievous delight as she adds,*   
