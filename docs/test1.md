@@ -75,16 +75,36 @@ Gullk is the master hunter of his tribe and is out to look for new challenges an
 
 ___
 
-<center><i>Over the last half-year you’ve learned <u>Elaria Feywing</u> is intense, but fair and encouraging. Though The Master is over eight centuries old, her elf blood keeps her thin, lithe, and youthful which allows her to enforce your rigorous training regimen. You are each learning different skills in magic, combat, and more, but you all take your meals together.\n\nYou are sitting at a long dining table enjoying a hot breakfast together. Elaria puts down her porridge spoon and stands up, looking you all in the eye, her golden hair framing her own green orbs. She cracks a smile as she begins speaking.</i></center> 
+<center><i>Over the last half-year you’ve learned <u>Elaria Feywing</u> is intense, but fair and encouraging. Though The Master is over eight centuries old, her elf blood keeps her thin, lithe, and youthful which allows her to enforce your rigorous training regimen. You are each learning different skills in magic, combat, and more, but you all take your meals together.</i></center> 
+
+<center><i>You are sitting at a long dining table enjoying a hot breakfast together. Elaria puts down her porridge spoon and stands up, looking you all in the eye, her golden hair framing her own green orbs. She cracks a smile as she begins speaking.</i></center> 
 
 **Elaria Feywing**: “It is time for your first test in real combat. We have a rat infestation in the basement. A giant rat infestation. I managed to get them contained in the larder, but they’ll soon eat through all our supplies and the door itself if you don’t go down there to exterminate.”  
-*Her green eyes twinkle with mischievous delight as she adds,*   
-“I also seem to have misplaced the key to the larder after locking them in, so you’ll have to get through the door and past the barricade I set up before you can get to the rats.”
-  
-<center><i>The Master sits back down in her chair and puts a spoonful of porridge to her lips. Before actually eating she looks at all of you and says, <b>“Well what are you waiting for?”</b> You know by now that’s your cue to head down to the basement.</i></center><br/>
-  
-<center><i>... You all know the basement is where she keeps her hoard of foods, ingredients and rare spices that make her porridge legendary!</i></center>
+<center><i>Her green eyes twinkle with mischievous delight as she adds,</i></center>
+**Elaria Feywing**: “I also seem to have misplaced the key to the larder after locking them in, so you’ll have to get through the door and past the barricade I set up before you can get to the rats.”
+<center><i>The Master sits back down in her chair and puts a spoonful of porridge to her lips. Before actually eating she looks at all of you and says,</i></center>
+**Elaria Feywing**: “Well what are you waiting for?”
+<center><i>You know by now that’s your cue to head down to the basement, the basement is where ELaria keeps her hoard of foods, ingredients and rare spices that make her porridge legendary!</i></center>
 
 ___
+
+**Longtooth Briarsmith**:
+
+<img src="https://gamersplane.com/characters/avatars/11245.jpg?1561460660" align="left" width="50" height="50" /> 
+<b>Well you heard the lady. <i>Orc</i></b> he snorts as Longtooth grins his long tooth and grabs a knife from the kitchen as he heads to the basement. <BR clear="left">
+
+**Saurkhan Whitepelt**:
+
+<img src="https://gamersplane.com/characters/avatars/11398.jpg?1561560983" align="left" width="50" height="50" /> 
+<b>No door keeps me from my destiny!</b> he tries, but fails, to debilitated the door. <b>The structural integrity of said door is too great! We must find another way!</b> <BR clear="left">
+  
+**Rowan Cainr:**  
+
+<img src="https://gamersplane.com/ucp/avatars/avatar.png" align="left" width="50" height="50" /> 
+Fear not, I will belay the difference! <BR clear="left">
+
+___
+
+
 
 
