@@ -104,8 +104,5 @@ Fear not, I will belay the difference! <BR clear="left">
 
 ___
 
-
-<a href="#" data-toggle="tooltip" data-original-title="{{site.data.glossary.jekyll_platform}}">Jekyll</a> is my favorite tool for building websites.
-
-<a href="#" data-toggle="tooltip" data-original-title="{{site.data.glossary.jekyll_platform}}">longtooth</a> <img src="https://gamersplane.com/characters/avatars/11245.jpg?1561460660" align="left" width="50" height="50" />.
+<abbr title="pixels per inch">PPI</abbr>
 
