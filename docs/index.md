@@ -1,39 +1,36 @@
 # Table of contents
 1. [Character creation](#character-creation)  
 2. [Character statistics](#character-statistics)  
-
-
-
+3. [Conflict resolution](#conflict-resolution)  
 
 
 # Character Creation  
 [top](#table-of-contents)
   
-  1. **Define its concept**, describing it using two or three words. *For example, you can consider the common race/class/specialization combination as a staeting point for the character concept*.
-  2. Think **how you wish to role-play the character**, and what for of actions it will be good at.
-  3. Determine if there are any **defining characteristics** that distinguich the character. *For example, are there any inheritable racial features, or aquired cultural or professional skill? Perhaps some personal ability gained from past experiences?*. 
-  4. Consider how your charatcer will react accumulating frustration and stress of adventureing. *How does the charatcer behave under stress or how does it explode when the frustrationis too much to handle?*
+  1. **Define its concept**, describing it using two or three words. *For example, you can consider the common race/class/specialization combination as a staeting point for the character concept*. 
+  2. Choose the charatcer's [atrributes](#attributes). By default, all attributes start at 0, which represent the average person. A player can choose one single attribute that his character excels at, by sacrificing another attribute.
+  3. Think **how you wish to role-play the character**, and what for of actions it will be good at. Which general [skills](#skills) would better reflect these actions? 
+  All other skills are at level 0.
+  4. Determine if there are any **defining characteristics** that distinguich the character. *For example, are there any inheritable racial features, or aquired cultural or professional skill? Perhaps some personal ability gained from past experiences?*. 
+  5. Consider how your charatcer will react accumulating frustration and stress of adventureing. *How does the charatcer behave under stress or how does it explode when the frustrationis too much to handle?*
 
 # Charatcer statistics
 [top](#table-of-contents)  
   
-  1. **Attributes:** Attributes reflect the general aptitudes the character have for specific situations:
-> *Combat:* Reflects an extensive battle and combat training, both psychical and mental. Influences charcter effectiveness under any violent confrontation.  
+### Attributes: 
+Attributes reflect the general aptitudes the character have for specific situations:
+> *Combat:* Reflects an extensive battle and combat training, both psychical and mental. Influences character effectiveness underany violent confrontation.  
   
-  *Social:* Reflects an extensive understanding of others' motives, desires and feelings. Due to this above average understanding, the character gains a bonus when interacting with other sentient creatures non-violently (for example lie to a guard, calm a dog, explain to aliens you receive them in peace).
-    * *Explore:* Reflects a particular eye for details and understanding what they mean. Due to this above average attention, the character gains a bonus when interacting with objects (for example, searching for papers, tracking an animal, deciphering a book)
-    Similarly, characters that are below average will gain a situational penalty on their skills.
-By default, all attributes start at 0, which represent the average Joe, that mighty hero who excels at nothing but also is not crap at anything! However, a player can choose one single attribute that his character excels at, by sacrificing another attribute. The idea is that if a character spent more time than usual practicing something, then it stands to reason that it also spent less time than usual doing something else. For example, a mighty wizard that spent years in a room reading ancient scrolls may have grown fat and lazy and have his physical capacity reduced
+> *Social:* Reflects an extensive understanding of others' motives, desires and feelings. Influences character effectiveness when interating with sentient creatures.
+  
+> *Explore:* Reflects a particular eye for details and understanding what they mean. Influences charcater effectiveness when searching for out-of-place details.
 
-> **Training:** A second type of attributes can be considered. The role of these attributes is to control access to specific skills and actions and to prevent untrained characters from using them. Consider which specialized skills your character is trained with and add them to your training section.
-    Let's take the example of magic and casters. Because access to magic varies from setting to setting, it can be added as a training attribute. The Magic Attribute's main function is as a "gate" that controls how easy or difficult it is for any character to access magic powers.
-    1) Is magic commonplace and every player can attempt casting a spell? There is no need to use Magic as a training attribute in this case, because training is not required to use it. You can consider adding it as a main attribute if it is that relevant to the setting, as it can add new situational bonus to the game, offering a finer control and skill definition.
-    2) Is magic something most players can't do without some level of studying and learning? Then set Magic to either trained or untrained and limit its use to those trained. Also consider if and how characters can gain training during the game.
-    3) Is magic so rare and precious that only a selected few will ever dream of using it after studying for a very long time? Set the Magic as a training attribute as before, but feel free to require a cost of training, which could be a penalty on another attribute, requirement for expensive resources and materials or something else that will force the player to consider his choice carefully. Magic is so powerful and rare in this case that its choice is actively penalized.
-    The previous case, illustrates an example of how a training attribute can be used to control access to certain skills. However, training attributes could also be dependent on the main attributes. Let's think about another example. Heavy armour is usually something with a highly restrictive use. It requires strong, highly trained, combat-focused characters. How would this be reflected in this system? Simply give it a dependency that is, make it depend on something else. In this case, Heavy armour can be a training attribute which depends on the combat attribute being 1, so only players that are physically trained and combat-focused can be trained on using heavy armour.
-    Note that these ideas can be extended to any other attributes. Are the players from a peace-loving community? You can make Violence a training attribute! Do they live in a realm that centralizes and monopolizes the means of violence? Then maybe adding a Weapons training attribute could reflect that!
+### Skills:
+If the attributes are what distinguishes the characters' broad strengths or weaknesses, skills are the fine differences that will make a character unique. Skills refer to anything a character may do and measure and how good the character is at doing those actions. *Skills include everything*, from weapons and armour to interact with other creatures and objects. While the attributes are a small set of limited options, the idea is to have a free and fluid skills list, allowing skills to be made up on the fly. 
 
-> **Skills:** If the attributes are what distinguishes the characters' broad strengths or weaknesses, skills are the fine differences that will make a character unique. Skills refer to anything a character may do, including using weapons, casting spells or jumping on one foot, binge watching Netflix all night, and how good the character is at doing that thing. While the attributes are a small set of limited options, the idea is to have a free and fluid skills list, allowing skills to be made up on the fly. All skills start at level 0. Feel free to suggest any number of skills your character has some with experience. From these, define which you are pursuing (level 1), which you are an apprentice of (level 2) and a few you are experienced with (level 3). The chosen skills should reflect the characters aptitudes including combat skills, functional skills and social skills! The success probabilities are very low at low skill levels, so focusing on just one of these aspects may result in clearly unbalanced characters with obvious weakness. The suggested skills need to reflect a similar and related group of actions, such as running, axe handling, dodging, fire spells and so on.
+
+
+
 *Skill level (rough interpretation)*
 * Ignorant (lv0): I have never heard of it but I'll try it (11% success)
 * Pursuing (lv1): Understand the basics of what it is, but nothing in depth (24% success)
@@ -44,15 +41,18 @@ By default, all attributes start at 0, which represent the average Joe, that mig
 *Skill detail* The details by which skills need to be defined depends heavily on the duration and setting of the game. Let's consider a character that is a good swimmer. It could be considered that this is reflected by the athletics skill. However, athletics includes both running and swimming, which are fairly different activities. As such, athletics may be too general to describe the indented action, which is swimming. So if a skill can easily and logically be split into more than one skill, it probably should. On the other hand, there may be games and settings that required the distinction between related skills (underwater swimming, high sea swimming, swimming pool swimming) or even complementary skills (hold breath and underwater swimming). Note that most of these should be self corrected as the game progresses 
 *Balancing characters*: It is important to ensure that all players have relatively balanced characters and no one is "over-qualified". A rough estimation of the skill levels for all characters would be to sum up all skill experience. Simply put, the experience (XP) is the equal to the level value, so a full level 3 skill requires 6 XP from level 0
 
-## 1.4) Character creation: Background
-[back to Table of contents](#table-of-contents)
 
-> **Tying up:** Go back to your previous choices and make sure you have a background justification for each one (abilities, attributes and skills). In addition to that, consider where your character comes from (the town or region) and what are the important locations and organizations, famous or influential persons and even peculiar traditions and believes from there. Also, any adult person would have met someone else throughout his life right? Think about your character existing relationships. This could reflect relevant connections to specific organizations and institutions, important people that may play a significant role in the world or simply the friendly neighbour next door. Remember that people maintain both good and bad relationships, some being more cooperative other more competitive, so it may be interesting to consider one negative relationship for each two or three positive relationships to avoid having an "over-friendly" character. You can now tie all the information into a character background. 
+**Training** 
+A second type of attributes can be considered. The role of these attributes is to control access to specific skills and actions and to prevent untrained characters from using them. Consider which specialized skills your character is trained with and add them to your training section.
+    Let's take the example of magic and casters. Because access to magic varies from setting to setting, it can be added as a training attribute. The Magic Attribute's main function is as a "gate" that controls how easy or difficult it is for any character to access magic powers.
+    1) Is magic commonplace and every player can attempt casting a spell? There is no need to use Magic as a training attribute in this case, because training is not required to use it. You can consider adding it as a main attribute if it is that relevant to the setting, as it can add new situational bonus to the game, offering a finer control and skill definition.
+    2) Is magic something most players can't do without some level of studying and learning? Then set Magic to either trained or untrained and limit its use to those trained. Also consider if and how characters can gain training during the game.
+    3) Is magic so rare and precious that only a selected few will ever dream of using it after studying for a very long time? Set the Magic as a training attribute as before, but feel free to require a cost of training, which could be a penalty on another attribute, requirement for expensive resources and materials or something else that will force the player to consider his choice carefully. Magic is so powerful and rare in this case that its choice is actively penalized.
+    The previous case, illustrates an example of how a training attribute can be used to control access to certain skills. However, training attributes could also be dependent on the main attributes. Let's think about another example. Heavy armour is usually something with a highly restrictive use. It requires strong, highly trained, combat-focused characters. How would this be reflected in this system? Simply give it a dependency that is, make it depend on something else. In this case, Heavy armour can be a training attribute which depends on the combat attribute being 1, so only players that are physically trained and combat-focused can be trained on using heavy armour.
+    Note that these ideas can be extended to any other attributes. Are the players from a peace-loving community? You can make Violence a training attribute! Do they live in a realm that centralizes and monopolizes the means of violence? Then maybe adding a Weapons training attribute could reflect that!
 
-> **Secret:** Unless the characters have known each other for a long time, chances are that they don't know everything about each other. Having hidden information that other players need to discover, will add twists and excitement to the story and to the characters. These do not have to be dark secrets (I worship the great evil demon and will offer the party as a sacrifice, first chance I get), but they should be though as the starting point for smaller character-centred stories within the game (Are they spying for some organization? Were they double-crossed by the King's Guard and are looking for revenge? Are they looking or their long lost brother or trying to stir up a war? Maybe the character origins cannot be known for some reason?). Add a secret event to your background that you can use for a personal quest. 
- 
-2) Conflict
------------
+3. Conflict resolution
+[top](#table-of-contents)
 
 ## 2.1) Conflict: Structure
 [back to Table of contents](#table-of-contents)
