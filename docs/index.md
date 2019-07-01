@@ -18,7 +18,7 @@
 [top](#table-of-contents)  
   
   1.**Attributes:** Attributes reflect the general aptitudes the character have for specific situations:
-> *Combat:* Reflects an extensive battle and combat training, both psychical and mental. Influences charcter effectiveness under any violent confrontation.
+> *Combat:* Reflects an extensive battle and combat training, both psychical and mental. Influences charcter effectiveness under any violent confrontation.  
 *Social:* Reflects an extensive understanding of others' motives, desires and feelings. Due to this above average understanding, the character gains a bonus when interacting with other sentient creatures non-violently (for example lie to a guard, calm a dog, explain to aliens you receive them in peace).
     * *Explore:* Reflects a particular eye for details and understanding what they mean. Due to this above average attention, the character gains a bonus when interacting with objects (for example, searching for papers, tracking an animal, deciphering a book)
     Similarly, characters that are below average will gain a situational penalty on their skills.
