@@ -28,7 +28,10 @@ Attributes reflect the general aptitudes the character have for specific situati
 ### Skills:
 If the attributes are what distinguishes the characters' broad strengths or weaknesses, skills are the fine differences that will make a character unique. Skills refer to anything a character may do and measure and how good the character is at doing those actions. *Skills include everything*, from weapons and armour to interact with other creatures and objects. While the attributes are a small set of limited options, the idea is to have a free and fluid skills list, allowing skills to be made up on the fly. 
 
-
+<details>
+  <summary>General skills</summary>
+  check this https://ruscumag.wordpress.com/2009/09/16/rpg-design-skill-systems-ii-the-basic-skills/
+</details>  
 
 
 *Skill level (rough interpretation)*
