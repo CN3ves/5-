@@ -7,7 +7,7 @@
 
 
 # Character Creation  
-[back to Table of contents](#table-of-contents)
+[top](#table-of-contents)
   
   1. **Define its concept**, describing it using two or three words. *For example, you can consider the common race/class/specialization combination as a staeting point for the character concept*.
   2. Think **how you wish to role-play the character**, and what for of actions it will be good at.
@@ -15,11 +15,11 @@
   4. Consider how your charatcer will react accumulating frustration and stress of adventureing. *How does the charatcer behave under stress or how does it explode when the frustrationis too much to handle?*
 
 # Charatcer statistics
-[back to Table of contents](#table-of-contents)
-
-> **Attributes:** Attributes reflect the general aptitudes the character have for specific situations. These can be changed, added and removed to fit any setting or game style, but the main attributes should be simple and clear, while allowing broad character differences.
-    * *Combat:* Reflects an extensive battle and combat training, both psychical and mental. Due to this above average training, the character gains a bonus to skills when in a combat scene that is, one involving fights and any other violent confrontations (for example casting, defending, attacking).
-    * *Social:* Reflects an extensive understanding of others' motives, desires and feelings. Due to this above average understanding, the character gains a bonus when interacting with other sentient creatures non-violently (for example lie to a guard, calm a dog, explain to aliens you receive them in peace).
+[top](#table-of-contents)  
+  
+  1.**Attributes:** Attributes reflect the general aptitudes the character have for specific situations:
+> *Combat:* Reflects an extensive battle and combat training, both psychical and mental. Influences charcter effectiveness under any violent confrontation.
+*Social:* Reflects an extensive understanding of others' motives, desires and feelings. Due to this above average understanding, the character gains a bonus when interacting with other sentient creatures non-violently (for example lie to a guard, calm a dog, explain to aliens you receive them in peace).
     * *Explore:* Reflects a particular eye for details and understanding what they mean. Due to this above average attention, the character gains a bonus when interacting with objects (for example, searching for papers, tracking an animal, deciphering a book)
     Similarly, characters that are below average will gain a situational penalty on their skills.
 By default, all attributes start at 0, which represent the average Joe, that mighty hero who excels at nothing but also is not crap at anything! However, a player can choose one single attribute that his character excels at, by sacrificing another attribute. The idea is that if a character spent more time than usual practicing something, then it stands to reason that it also spent less time than usual doing something else. For example, a mighty wizard that spent years in a room reading ancient scrolls may have grown fat and lazy and have his physical capacity reduced
