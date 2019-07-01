@@ -1,16 +1,13 @@
 # Table of contents
-<details>
-  <summary>Contents</summary>
-  1. [Character creation](#character-creation)  
-  2. [Character crstatisticseation](#character-statistics)  
-  
-</details>
+1. [Character creation](#character-creation)  
+2. [Character statistics](#character-statistics)  
 
 
 
 
 
 # Character Creation  
+[back to Table of contents](#table-of-contents)
   
   1. **Define its concept**, describing it using two or three words. *For example, you can consider the common race/class/specialization combination as a staeting point for the character concept*.
   2. Think **how you wish to role-play the character**, and what for of actions it will be good at.
