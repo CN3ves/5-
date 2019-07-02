@@ -199,7 +199,7 @@ So far, there are four types of damage characters are subjected to: temporary st
 * Major wounds (wound level above 5) require trained medical treatment and access to adequate medical supplies. Proper medical care will reduce wounds by the highest value on a 2d6 roll.
 * Descriptors do not heal by themselves and generally require a double roll (narration and effect) to be removed or adequate treatment to be obtained. Some physical wounds cannot be completely removed.
 
-## 3 Other
+## 3. Other
 ### 3.1 Equipment
 [top](#table-of-contents)  
 
