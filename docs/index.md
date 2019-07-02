@@ -32,9 +32,9 @@ _____
 
 Attributes reflect the general aptitudes the character have for *specific situations* and are generally constant throughout the character's adventuring life:  
 
-> **Combat**: Reflects an extensive battle and combat training, both psychical and mental. Influences character's effectiveness when violent interaction with other creatures.  
+> **Fight**: Reflects an extensive battle and combat training, both psychical and mental. Influences character's effectiveness when violent interaction with other creatures. 
   
-> **Social**: Reflects an extensive understanding of others' motives, desires and feelings. Influences character's effectiveness when iterating non-violently with sentient creatures.
+> **Mingle**: Reflects an extensive understanding of others' motives, desires and feelings. Influences character's effectiveness when iterating non-violently with sentient creatures. 
   
 > **Explore**: Reflects a particular eye for details and understanding what they mean. Influences character's effectiveness when dealing with objects and searching for out-of-place details.
 
@@ -43,21 +43,21 @@ Attributes reflect the general aptitudes the character have for *specific situat
 ### 2.2 Skills:
 [top](#table-of-contents)  
 
-If the attributes are what distinguishes the characters' broad strengths or weaknesses, skills are the fine differences that will make a character unique. Skills refer to anything a character may do *and so include every possible action*, from using weapons and armour to interact with other creatures and objects. While the attributes are a small set of limited options, the idea is to have a free and fluid skill's list, allowing skills to be made up *on the fly*. Skills measure how good the character is at doing a given action and are *defined by their level (mastery) and tier (power)*. Broadly, skills can be divided into the following groups:
+If the attributes are what distinguishes the characters' broad strengths or weaknesses, skills are the fine differences that will make a character unique. Skills refer to anything a character may do *and so include every possible action*, from using weapons and armour to interact with other creatures and objects. While the attributes are a small set of limited options, the idea is to have a free and fluid skill's list, allowing skills to be made up *on the fly*. Skills measure how good the character is at doing a given action and are *defined by their level (mastery) and tier (power)*. Broadly, skills can be divided into the following categories:
 
-> **Combat skills**: Use of weapons and armour and well as tactical evaluations *(Evade, Dodge, Sword, Feint, Use terrain, etc.)*  
-> **Magic/Technological skills**: Understanding the complexities of using supernatural powers or advanced technology *(Elemental magic, Shielding, Magic Resistance, Counter magic, Alien technology, etc.)*
+> **Combat skills**: Use of weapons and armour and well as tactical evaluations *(Evade, Dodge, Sword, Feint, Use terrain, etc.)*. Suggestions of category specialised areas: Melee, Ranged, Armour, Tactics.  
+> **Magic/Technological skills**: Understanding the complexities of using supernatural powers or advanced technology *(Elemental magic, Shielding, Magic Resistance, Counter magic, Alien technology, etc.)*. Suggestions of category specialised areas: Offensive, Defensive, Disruptive, Enhance.
 
-> **Education skills**: Knowing, remembering and understanding information previously studied *( Theology, Alchemy, Metallurgy, Herbalist, Languages, etc.)*  
-> **Professional skills**: Any type of skills related to a profession, background or speciality *(Impersonation, Gambling, Disguise, First Aid, Herbalism, etc.)* 
+> **Education skills**: Knowing, remembering and understanding information previously studied *( Theology, Alchemy, Metallurgy, Herbalist, Languages, etc.)* Suggestions of category specialised areas: Nature, Society, Linguistics, Crafts.  
+> **Professional skills**: Any type of skills related to a profession, background or speciality *(Impersonation, Gambling, Disguise, First Aid, Herbalism, etc.)* Suggestions of category specialised areas: Arts, Games, Medicine, Spying.  
 
-> **Social skills**: Interact with other sentient creatures to change their perception, opinions and attitudes *(Persuasion, Negotiation, Bribery, Intimidation, Rumour-Mongering, etc.)*  
-> **Perception skills**: Use of senses, instinct and intuition to notice something *(Sight, Hearing, Search, Thermal Vision, Sense Motive, etc.)*  
+> **Social skills**: Interact with other sentient creatures to change their perception, opinions and attitudes *(Persuasion, Negotiation, Bribery, Intimidation, Rumour-Mongering, etc.)*. Suggestions of category specialised areas: Friendly, Threat, Negotiate, Reason.
+> **Perception skills**: Use of senses, instinct and intuition to notice something *(Sight, Hearing, Search, Thermal Vision, Sense Motive, etc.)*. Suggestions of category specialised areas: Vision, Hearing, Search, Motive.
 
-> **Movement skills**: Use body movement, dexterity and strength in demanding or risky ways *(Swim, Climb, Contortionist, Swim, Stealth, etc.*)  
-> **Manipulation skills**: Interact with, manipulate and change objects *(Use Tool, Repair, Disarm Trap, Forgery, Sabotage, etc.)*  
+> **Movement skills**: Use body movement, dexterity and strength in demanding or risky ways *(Swim, Climb, Contortionist, Swim, Stealth, etc.*). Suggestions of category specialised areas: Strength, Dexterity, Hidding, Riding.
+> **Manipulation skills**: Interact with, manipulate and change objects *(Use Tool, Repair, Disarm Trap, Forgery, Sabotage, etc.)*.Suggestions of category specialised areas: Create, Repair, Destroy, Activate.
 
-**At creation**: All skills start at level 0. Select a total of 3 suitable skills from each of the following groups:
+**At creation**: All skills start at level 0. Select a total of 2 suitable skills from each of the following groups:
   * Combat and Magic/Technological skills (+1 or -1 skill as per Combat attribute).
   * Professional and Education skills.
   * Social and Perception skills (+1 or -1 skill as per Social attribute).
@@ -72,17 +72,18 @@ Because of the skills’ fluid dynamics and flexibility, a “learn by doing” 
   
   1. Every time you roll a 2d6 for a skill, if the result is a double (same value on both dice) you level up that skill if the rolled value is above your *current skill level plus skill tier*. 
   2. *When you reach level 4 on a skill*, you upgrade your skill to a higher tier.
-  3. *Once you reach the maximum level of a skill* (level up with a double 6), you can add a non-cumulative +1 bonus to all related skills of the same tier.
+  3. *Once you reach the maximum level of a skill* (level up with a double 6), you can add 1) a non-cumulative +1 bonus to all skills of the that tier and specialised are, and 2) a +1 bonus to the same skil at the tier above.
   
-**Skill Tiers**: While the skill level represents how successful the character is using the skill, the skill tier reflects the power, specificity or deeper understanding of the skill. Higher power skills are more difficult to handle, even if the character is experienced with its previous uses. When upgrading a skill tier, you gain:  
+**Upgrading**: While the skill level represents how successful the character is using the skill, the skill tier reflects the power, specificity or deeper understanding of the skill. Higher power skills are more difficult to handle, even if the character is experienced with its previous uses. When upgrading a skill tier, you gain:  
   
-  1. A higher tier version of the same skill or ability at level 0 *and*
-  2. Training (+1 level) on related skill of the same current tier.  
+  1. A higher tier version of the same skill at level 0,
+  2. Training (+1 level) on a skill of the current tier and specialised area.  
+  3. A new ability at tier 1 and level 0 attached to your skill. These abilities should provide special effects on top of the base skill. 
   
 *For example:*
   
-  * Upgrading Sword skill: Add sword iaijutsu ability (counter attack on defence) of the next tier at level 0 and level up your axe skill, since both are melee weapons that depend on strength and similar movements. 
-  * Upgrading Fire spell: Add fire burning bolt ability (burn condition) of the next tier at level 0 and you level up different magic skill (say water spell).
-  * Upgrading History knowledge: Add the more specialised noble lineages skill of the next tier at level 0 and level up to a different knowledge (say politics)*
+  * Upgrading Sword skill: 1) add sword to the next tier at level 0, 2) level up your axe skill, since both are melee weapons, and 3) gain the iaijutsu ability (counter attack on defence) at level 0 and tier 1.
+  * Upgrading Fire spell: 1) add fire spell to the next tier at level 0, 2) level up different magic skill (say water spell), and 3) gain the burning bolt ability (burn condition) at level 0 and tier 1.
+  * Upgrading History knowledge: 1) add history knowledge to the next tier at level 0, 2) level up to a different knowledge (say politics), and 3) add the more specialised noble lineages skill (ability) at level 0 and tier 1.
 
 **Training**: Characters can only use skills that reflect their concept and background. *A uneducated tribal warrior may automatically fail magic/technological skills and some "civilised" knowledge (dynastic  succession rules) and social skills (court etiquette) for example*. However,  the character is allowed to train and study to unlock these skills as fitting the game setting. 
