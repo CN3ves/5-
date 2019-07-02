@@ -4,12 +4,15 @@ This system aims to be a simple and general way to play any type of RPG, with a 
   2. The players *call on* matching action or effect
   3. The action is resolved by rolling two six-sided dice (2d6) and sum up the values.
   4. The results of all intervening charatcers, both playable (PC) and non-playable (NPC) are interpreted based on the results
+  
+_____
 
 # Table of contents
 1. [Character creation](#character-creation)  
 2. [Character statistics](#character-statistics)  
 3. [Conflict resolution](#conflict-resolution)  
 
+_____
 
 # Character Creation  
 [top](#table-of-contents)
