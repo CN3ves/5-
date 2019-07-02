@@ -67,11 +67,11 @@ If the attributes are what distinguishes the characters' broad strengths or weak
 
 <details>
   <summary><u><i>Character creation</i></u></summary>
-  All skills start at level 0. Select a total of 2 suitable skills from each of the following groups:
-  * Combat and Magic/Technological skills (+1 or -1 skill as per Combat attribute).
-  * Professional and Education skills.
-  * Social and Perception skills (+1 or -1 skill as per Social attribute).
-  * Movement and manipulation skills (+1 or -1 skill as per Explore attribute). 
+  All skills start at level 0. Select a total of 2 suitable skills from each of the following groups:<br>
+  * Combat and Magic/Technological skills (+1 or -1 skill as per Combat attribute).<br>
+  * Professional and Education skills.<br>
+  * Social and Perception skills (+1 or -1 skill as per Social attribute).<br>
+  * Movement and manipulation skills (+1 or -1 skill as per Explore attribute).<br>
   Set the chosen skills to level 3. 
 </details>
 
