@@ -3,11 +3,11 @@
 
 This system uses turns to structure the game, where **each turn is made by a single intervention from every player**, giving the opportunity for every player to take an action if he wishes to do so. Importantly, **all actuinf withing a turn occurs simiultaneously** so there is no clear initiative or turn order. At the begging of each turn, the previous actions are resolved, the consequences described and the new situation introduced. **Conflict arises any time the outcome of the players' actions is uncertain**. As such, each conflict should reflect a specific situations matching one of the character's attributes. All conflicts are solved with a narrative approache, where the results from the previous turn inform on the behavior of the NPCs on the next turn. *This is to day that, for example, a dragon does not have to be bashed to a pulp of negative HP to be defeated, its actions are determined by the number of successes and failures the players accumulated during the conflict*. During conflict, **each player is allows to choose two actions each turn** with a potential defense action being called if the character is attacked. Actions are free-form and if the player comes up with an idea, that should be implemented within reason. Basic actions include:
 
-  > **Move action**: cover 1 "space" of movement.
-  > **Attack action**: actively attempt to cause damage to a target (either with sword or word!).
-  > **Defence action**: protect from and adversary's attack or insult.
-  > **Manoeuver action**: try to impose a disadvantage on a target (disarm, hide, gain terrain advantage, etc.)
-  > **Interact action**: interact with items, be it picking them from the floor or from a bag, reloading a weapon or drinking a potion, etc.
+  > **Move action**: cover 1 "space" of movement.  
+  > **Attack action**: actively attempt to cause damage to a target (either with sword or word!).  
+  > **Defence action**: protect from and adversary's attack or insult.  
+  > **Manoeuver action**: try to impose a disadvantage on a target (disarm, hide, gain terrain advantage, etc.)  
+  > **Interact action**: interact with items, be it picking them from the floor or from a bag, reloading a weapon or drinking a potion, etc.  
   > **Recover action**:** recover from a previous attack or simply fall back to overview the battle field or catch some breath.
 
 
