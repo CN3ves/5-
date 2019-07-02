@@ -1,22 +1,33 @@
-
-3. Conflict resolution
+## 3. Conflict resolution
 [top](#table-of-contents)
 
-## 2.1) Conflict: Structure
-[back to Table of contents](#table-of-contents)
+This system uses turns to structure the game, where **each turn is made by a single intervention from every player**, giving the opportunity for every player to take an action if he wishes to do so. Importantly, **all actuinf withing a turn occurs simiultaneously** so there is no clear initiative or turn order. At the begging of each turn, the previous actions are resolved, the consequences described and the new situation introduced. **Conflict arises any time the outcome of the players' actions is uncertain**. As such, each conflict should reflect a specific situations matching one of the character's attributes. All conflicts are solved with a narrative approache, where the results from the previous turn inform on the behavior of the NPCs on the next turn. *This is to day that, for example, a dragon does not have to be bashed to a pulp of negative HP to be defeated, its actions are determined by the number of successes and failures the players accumulated during the conflict*. During conflict, **each player is allows to choose two actions each turn** with a potential defense action being called if the character is attacked. Actions are free-form and if the player comes up with an idea, that should be implemented within reason. Basic actions include:
 
->**Turns:** This system uses turns to structure the game, where each turn is made by a single action of every player. This gives the opportunity for every player to take an action if he wishes to do so, preventing anyone from being overshadowed accidentally. However, players are allowed to pass and are not forced "to play" their turn. At the begging of each turn, the previous actions are resolved, the consequences described and the new situation introduced. As players take their turn, they first narrate the consequences of the previous player's actions and then their own actions, so even if they pass their turn, they still have some influence in what happens during the turn and contribute to the story development.
+  > **Move action**: cover 1 "space" of movement.
+  > **Attack action**: actively attempt to cause damage to a target (either with sword or word!).
+  > **Defence action**: protect from and adversary's attack or insult.
+  > **Manoeuver action**: try to impose a disadvantage on a target (disarm, hide, gain terrain advantage, etc.)
+  > **Interact action**: interact with items, be it picking them from the floor or from a bag, reloading a weapon or drinking a potion, etc.
+  > **Recover action**:** recover from a previous attack or simply fall back to overview the battle field or catch some breath.
 
->**Conflict**: Conflict arises any time the outcome of the players' actions is uncertain. This could reflect any type of situation, from convincing a guide that travelling into the depth of a forest filled with evil creatures is a good idea, to finding your way in a maze-like temple or just the classic beating up some goblin under a tree. Since conflict describes any uncertain situation, there are various types of conflict. Simple conflicts require a single skill check to succeed (searching for traps, bribing a corrupt guard, striking a goblin). Other conflicts can require more than one single skill check. The prime example is combat, which is a structured conflict that requires successive checks to defeat the other group. In addition, there are other complex conflicts that are not structured but require completing multiple sub-tasks (A sceptical merchant needs to hear two good arguments that the piece you the players are trying to sell is really an important relic, continuously finding clues to track a dragon, dismantle a complex mechanism)
 
->**Attributes:** All conflicts have an associated attribute that provides situational bonuses or penalties to the characters. Violent conflicts are tied with the Combat attribute, non-violent interactions with other creatures are associated with the Social attribute and any conflict relating to non-living and non-sentient objects with be base on the Observe attribute.
+### 3.1) Call action
+[top](#table-of-contents)
 
->**Lethality:** Generally, conflict is not lethal, so the goal of the conflict is not to kill everything, but to gain the clear upper-hand (win) in the conflict. Lethality is recommended for dramatic purposes and as a logic results from a failed conflict. For example, failing to negotiate a pardon may result in the character's execution, while being chewed by a dragon is likely to deal lethal damage. The general idea is that, during a fight, the characters manage to avoid actually being slashed, pierced or bashed by their adversaries, but gradually put strain their body and mind doing so. As such, the characters lose their capacity to continue the conflict as they get into difficult positions, near-misses and some light scratches. Which means that, as in real life, if you get hit by a sword, to bleed to death. 
+Whenever a player wants a character to do something that may fail, the player must call for a skill, roll 2d6 and confirm is the sum of the two dice is within the success range. As simple as that, the result is immediately known. One important thing to keep in mind is the number 5. This number shows up a lot in this system!
 
-## 2.2) Conflict: Call action
-[back to Table of contents](#table-of-contents)
 
-> Whenever a player wants a character to do something that may fail, the player must call for a skill, roll 2d6 and confirm is the sum of the two dice is within the success range. As simple as that, the result is immediately known. One important thing to keep in mind is the number 5. This number shows up a lot in this system!
+
+>**Movement**:In this system, there are no grids, maps or any other sort of objective locations and positions during conflicts. The general layout is described, highlighting particularities that could be used for or against the players and all characters involved will start in relative positions to each other. Each character can be close, nearby, in range or out of range to any other character:
+* Close enemies can be attacked normally with melee weapons, but with a -1 penalty for ranged weapons and magic. If hit once,
+ranged attackers will be forced into a defensive position and see their attack disrupted.
+* Nearby enemies can be attacked with melee weapons (after moving), long reach weapons, ranged weapons and magic.
+* In range enemies can be attacked with ranged weapons and magic.
+* Out of range enemies can be attacked only with higher level magic.
+Positions are not linear, but exponentially spread. The character occupies the close space and need to move 1 "spaces" to a nearby position, 2 "spaces" to get to an in range target or 4 "spaces" to reach an out of reach target. 
+
+
+
 
 > **Success range**: The original method to estimate the success range is to add 5 to the resulting modifier (bonus and penalties). When rolling 2d6, any resulting sum that falls between 5 and that number (inclusive) is a success.
 After some drinks in this tavern, I feel like exploring a bit more this new city and try to go to the next tavern. I have two levels of drunken walking so:
@@ -45,8 +56,8 @@ Medium threat = 3 or 5
 High threat = 6-10
 Heroic threat = 10 +
 
-## 2.3) Conflict: Call effect
-[back to Table of contents](#table-of-contents)
+### 3.2) Conflict: Call effect
+[top](#table-of-contents)
 
 > Besides deciding on what actions to do, players may also decide to call on an effect. Effects arise when handling failure or as a result of a condition acquired by the player. Calling on an effect generally allows players to make tradeoffs, temporally removing the default effect. For example, consider how you can:
 * Accept an instantaneous worsening of the penalty for a chance to ignore it in the future.
@@ -58,6 +69,7 @@ Heroic threat = 10 +
 2) The action is interrupted: Failing once prevents the action from being repeated because something else happened, not because the player isn't skilled enough to do it. The player tries to jump over a wagon to get a clean shot at the tyrant lord, however, the wagon's owner shows up and starts to comment the on-going public execution with the player.
 3) The action succeeds anyway: Fail forward is an interesting concept that allows the player to succeed even if they fail, but with an added twist or complication. It is similar to having the action interrupted, but it allows for the player to get what he wants. As the player is looking for the incriminating secret papers in the tyrant lord's office, even though the player manages to identify and take them, the paper weight that was on the table is dropped, making a very noticeable noise.
 4) Forced success: When a player fails an action, it can be converted to a success by pushing the character to its limits, for example by increasing a level of frustration or getting wounded. This is in fact the common way to solve failing defence actions in combat. When players are hit by a sword waving guard, instead of being wounded, the player automatically calls on a forced success effect and escapes untouched, at the cost of gaining physical strain (trading the permanent penalty for a temporary one!)
+**Helping**: The success rates in this system a
 
 > **Narration effects**: To keep thinks more interesting, when a 1 is rolled in any dice, the next player must call a narration but effect, that is, describe the action resolution as normally but add an extra sentence starting with but. This effect attenuates the results of the action, so for a failed roll, the player fails but there was something positive, while for a successful roll there was a consequence unaccounted. The player tries to hide before the guards come into the room. He fails to find a place to hide, but he notices an open window through which he can escape.
 The opposite situation would be a call to narration and effect. These are done when the player rolls a double, regardless of the dice values. Similarly, the effect is to provide unexpectedly enhance the action's result, so players' fail then something worse happens, or if the players' succeeds and something better occurs. The player successfully climbs over the wall (and) as he recovers from his back pain.
@@ -71,86 +83,13 @@ Again, players should feel free to call on custom effect and add new and unique 
 > **Wounds and Frustration**: Even though conflict is not deadly, wounds can occur. In addition, the constant struggle can put a lot of mental pressure on the characters. As mentioned before, strain is a "forced success" failure handling tradeoff, where permanent wounds are avoided by placing additional (temporary) strain on the characters. However, this tradeoff is not without its drawbacks (otherwise it would be just a trade with no "off"). Wounds and frustration still occur as a side-effects of accumulated strain so, at the end of each conflict as the characters rest and all their strain is removed, there is a chance that a character was wounded either directly by an enemy or indirectly by the strain placed on his body (muscle injury from a bad swing). To determine if a character received a physical or mental wound, roll 2d6 and, if the the lowest dice value is equal or less than the strain accumulated during that conflict, the character was wounded in combat or became stressed from a difficult social interaction by that amount. Notice that “Obverse-based conflicts” are often simple and can be handled with without incurring strain penalties. If that is not the case, these conflicts can work both ways, either the player gets frustrated because we can’t track the bandits or he trips and falls as he tries to follow their tracks.
 Physical and mental (stress/frustration) wounds have a maximum of 10 levels, at which point the character is exhausted from accumulated wounds or loses his mind completely, becoming unplayable. By having more than 5 levels of wounds, the player risks permanent damage in the form of a new descriptor. If the sum of the wound roll is below the level of the wound, then a new wound description is gained for physical wounds or the frustration trait kicks in for the mental wounds. 
 
-3) Further options
-------------------
-[back to Table of contents](#table-of-contents)
-
->**Helping**: The success rates in this system are expected to be very low, so helping each other should be a common strategy for solving conflicts. Helping would seem intuitive in cases like combat: Everyone smash the goblin until the goblin hurts! In such a case, even though every success contributes to the common goal, the probability of success of any individual attempt is unchanged. The player's may attempt to directly change the chances of success by actively helping another player. Helping takes advantage of the unstructured "turn-based" flow of the system and considers the different types of conflict previously described:
-
-* For simple conflicts that require a single skill check to succeed (like picking a lock), if the acting player fails an action, the next player is allowed to use his action to help by simply calling the same skill. If successful, the helping player modifier is added to the acting player success range and the result re-evaluated. As the first player is struggling with the lock, the second one approaches and, after careful inspection recognizes the mechanism, guiding the first one as he successfully picks the lock and opens the door.
-* In a structured conflict that requires successive checks (like combat), players can try to out-manoeuver the adversary, forcing them into a disadvantageous position, providing a +1 bonus for the next players. The player distracts a goblin, allowing another one to approach undetected.
-* In other complex conflicts requiring completing multiple sub-tasks (like deciphering an ancient book), because the characters have time to exchange information and help each other interpreting new findings and brainstorm solutions, all character benefit from each other's help. Every success on any skill will provide a +1 bonus for all the following tasks. The players read different passages of the ancient scrolls, struggling to understand their meaning. At last, one uncovers a pattern within the text. Sharing this finding with the others, they continue studying the scrolls now knowing some of the patterns of the text.
-Note that helping is not without a cost as, even if the action is successful, both players used up their turns to solve it. Likewise, if it fails, both players will suffer the consequences (If a player fails to help disarm a trap, both of them are affected, instead of just one). It is worth reminding that any other failure handling method can be considered, but the call failure effect must be the same for all players involved, be it gaining frustration levels, acquiring a descriptor or being spotted by the evil entity lurking nearby.
-
->**Healing**: So far, there are four types of damage characters are subjected to: temporary strain, permanent wounds, cumulative stress and descriptors.
+So far, there are four types of damage characters are subjected to: temporary strain, permanent wounds, cumulative stress and descriptors.
 * Strain is recovered completely as soon as the characters leave a conflict and assuming they can rest for a little while before moving into the next conflict.
 * Frustration heals when the players are back to safety and have time to get a proper meal, drink and rest. For each relaxing moment the character has, its frustration is decreased by the lowest value on a 2d6 roll.
 * Minor wounds (wound level up to 5) require simple treatment that can be provided by anyone, reducing the wound level by the difference between the lowest value on a 2d6 roll.
 * Major wounds (wound level above 5) require trained medical treatment and access to adequate medical supplies. Proper medical care will reduce wounds by the highest value on a 2d6 roll.
 * Descriptors do not heal by themselves and generally require a double roll (narration and effect) to be removed or adequate treatment to be obtained. Some physical wounds cannot be completely removed.
 
->**Movement**:In this system, there are no grids, maps or any other sort of objective locations and positions during conflicts. The general layout is described, highlighting particularities that could be used for or against the players and all characters involved will start in relative positions to each other. Each character can be close, nearby, in range or out of range to any other character:
-* Close enemies can be attacked normally with melee weapons, but with a -1 penalty for ranged weapons and magic. If hit once,
-ranged attackers will be forced into a defensive position and see their attack disrupted.
-* Nearby enemies can be attacked with melee weapons (after moving), long reach weapons, ranged weapons and magic.
-* In range enemies can be attacked with ranged weapons and magic.
-* Out of range enemies can be attacked only with higher level magic.
-Positions are not linear, but exponentially spread. The character occupies the close space and need to move 1 "spaces" to a nearby position, 2 "spaces" to get to an in range target or 4 "spaces" to reach an out of reach target. 
-
-> **Basic actions**: The player is free to come up with any action he wants, from I lower my club on the goblin's head to spin elegantly over the assassin's back and throw a dagger at his back as a fall on one knee. Actions are free-form and if the player comes up with an idea, that should be implemented within reason. Conflict has no clear initiative or turn order and everyone acts "simultaneously".
-Each character can only take a "2 actions per turn", plus one free move, regardless of what these actions are. By default, it is assumed that the character makes one move followed by simultaneous attack and defence actions. As such, during a "default turn", each player will roll 4d6, 2d6 for attacking and 2d6 for defending. Some examples of default actions are defined as follows:
-* Move action: cover 1 "space" of movement
-* Attack action: actively attempt to cause damage to a target (either with sword or word!) by calling a valid weapon-type action (skill check)
-* Defence action: protect from and adversary's attack by calling a valid defence-type action (skill check)
-* Manoeuver action: Players may try to impose a disadvantage on a target (gain +1 bonus or a descriptor)
-* Interact action: Players may wish to interact with items, be it picking them from the floor or from a bag, reloading a weapon or drinking a potion or calling an action note covered by the other actions.
-* Reload action: Players may reload their ranged weapons before attacking.
-* Hide action: Players may attempt remaining hidden from the adversaries.
-* Recover action: the player may need to stand up or recover from a previous attack or may simply wish to fall back to overview the battle field or catch some breath, removing 1 strain penalty accumulated from the conflict.
-Once again, players should feel free to define new actions to fit their needs.
-
-> **Stances**: Given that the "default turn" is fairly restrictive and simply replacing one action for another does not provide many strategic options, it could be interesting to generate options by defining stances. Stances reflect how the character is currently approaching conflict. Different character may focus on different parts of a conflict, some are more careful, some more impulsive, others more calculating. Based on the intended approach, the player can call a stance effect, replacing the default actions to fit their stance, gambling actions for additional bonus or shifting bonus and penalties to improve a specific action and the cost of another. Some examples of stances the characters may take are:
-* Aggressive stance: The character will focus on attacking the target, ignoring the defence and becoming more exposed
-Modifiers: +1 bonus to attack, -1 penalty to defence
-Fail: Take a defence action as normal
-Success: You can give up the defence action for a second attack action with no bonus.
-Bonus: On a second hit, the target loses the attack action (being forced into a defensive stance), otherwise the player is exposed to counter.
-* Defensive stance: The character will prioritize his defence, trying to stand his ground above all.
-Modifiers: +1 bonus to defence, -1 penalty to attack
-Fail: You counter attack as normal.
-Success:You can give up the attack action for a second defence action with no bonus.
-Bonus: On a second defence, counter second target "with shield" (or other plausible method) calling an out-manoeuvre effect.
-* Manoeuvring stance: The character will try to out-manoeuvre the target (feinting, move to a better position, etc.)
-Modifiers: no change
-Fail: Attack with a -1 penalty.
-Success: The target gets an out-manoeuvred descriptor (call effect for +1 bonus) for 1 turn and you can give up attack for another manoeuvre
-Bonus: On a second success, impose another suitable descriptor (disarm, prone, taunted, confused, grappled).
-* Ranged stance: The character will focus on reloading his ranged weapon, being more exposed to attacks.
-Modifiers: +1 bonus to ranged attack, -1 to defence
-Fail: You can't fail reloading, can you?
-Success: You are allowed to make a ranged attack
-Bonus: You attack from far away
-* Stealthy stance: The character will prioritize staying out of sight.
-Modifiers: +1 bonus to sneaky skills, -1 penalty to defence
-Fail: The character is caught surprised and forced to defend
-Success: The character is hidden can attack with +1 bonus.
-Bonus: On a successful attack, you remain hidden.
-* Recovery stance: The character will fall back and take a breath before joining the battle again.
-Modifiers: +1 bonus to defence, -1 penalty to all else
-Fail: If you fail your defence, you can't recover
-Success: You get away from the battle and will not be attacked
-Bonus: You recover from 1 strain penalty
-* Casting stance: The character focus on spell casting by first gathering the arcane energies required
-Modifiers: +1 bonus to magic, -1 penalty to defence
-Fail: Your the arcane energies you gathered dissipate.
-Success: You are allowed to make a ranged attack, you can give up your defense action to avoid casting strain
-Bonus: Take 1 less casting strain from your multicasting
-* Anti-magic stance: The character focus the attention on disrupting other casters, which requires concentration.
-Modifiers: +1 to disrupt magic, -1 penalty to defence
-Fail: You must physically defend from the spell
-Success: You block the magic completely and can give up your attack to cast the back the spell with -1 penalty of the corresponding spell skill
-Bonus: On a hit, the enemy spell caster will not be able to cast next turn
-Once again, players should feel free to define new actions to fit their needs.
 
 > **Magic (area/shape skills)**: 
 In principle, magic is just a skill like any other skill, so you use it as you'd use your sword skill. One difference is that, a spell can be shaped and increase the area of effect, while that would be difficult to do that with a sword. As such, the skill level determines how many targets a spell can have, which will also define the possible shapes of a spell. Before casting a spell, you must decide on the power of the spell. The spell power is the number of targets the spell will have, with the possibility of repeating the same target. For each new target the spell skill level is reduced by 1, which means that more powerful spells are more difficult to cast. A player decides to cast a fire spell, which is a level 3 skill. The player decides to use the maximum spell power. Because the minimum level is 0, the fire skill can only be reduced 3 times, meaning that the maximum number of targets is 3. However, the player decides that the spell is focused around on particular enemy, which will be targeted twice (or once with higher power) and use the "leftover" target on another nearby enemy. The fire spell is then muli-casted 3 times at level 0. Once the spell power is chosen, the next choice is the shape of the spell, which it will determine the possible targets and how one can defend from it. A line spell can hit targets in "different zone" and will be dodgeable, while splash spell will hit all target in one or "two zones" and will only be blockable. Increasing the spell power, not only makes it more difficult to cast, it also puts extra strain on the caster. For each roll (target), if the lowest dice value is below the number of targets considered, add 1 casting strain. Casting strain applies only to the specific magic skill used and restores 1 per turn where the character does not cast a spell. If you multi-cast a fire spells with four targets, then for each of the 4 rolls, take the lowest value. The number of dice values below 4 is the casting-strain applied specifically to fire spells, all other spells being unaffected. Be careful as casting strain is a mental effort, so the strain left for each individual magic skill will be individually converted to frustration at the end of the conflict. Abusing magic powers is a quick way to insanity!
@@ -180,12 +119,6 @@ Since the skill level is naturally capped at 5 by the way the system works, and 
 * Other gear: These are smaller items such as necklaces, rings and charms, which are unlikely to be related to any particular skill. These items may have setting specific functions, such as being required to cast spells: A level 3 water magic caster may not be able to cast any spells if her create water ring is not equipped (basically a generalization of the spell book concept). These items can provide other benefits such changing attribute values (ring of rudeness: -1 Social), modify specific skill bonus (sword rune: +1 sword skill), or any type of descriptor with effects such as automatic successes (mantle of rose scent: you automatically convince blind creatures you're a talking rose), magic immunity or any other effects.
 * Consumables: Item such as potions and scrolls that are consumed upon use provide immediate rewards, such as healing wounds, removing strain, gaining bonuses or access to certain skills. Some items should be just what they say on the label (antidote, potion of strength, love potion, scroll of toad shape)
 * Other: Any item can be relevant without changing the character stats or adding any magical descriptor. Walkie-talkies can have their mundane function and simply allow easier communication, where easier communication can then be used to set up ambushes.
-
-> **Abilities**: The characters are not limited to their initial abilities (racial, cultural and personal). As the adventure continues, they can acquire further abilities. The main way to do so, st to level up skills. Upon reaching level 3 in a skill, the player is allowed to choose a skill ability, illustrating a new technique the character learned by gaining experience in that particular skill. These skills start at level 3 as risky tradeoffs (Sword Dance: When using a sword, gain +1 bonus in dodging, but the defence action fails, you lose your balance and get -1 penalty on every action next turn). At level 4, the ability bonuses are increased (If the target is hit, additionally prevent him from attacking) and at level 5, the skill is mastered and the penalty is removed.
-Another way to gain abilities is through plot rewards, particularly from character-specific plots. In these cases, the character will simply learn a new personal skill that is associated with how the player has defined and played the character. The method for levelling skills may lead to super efficient characters at the end of a long-term game, with all relevant skills maxed out. Additional complexity may be introduced with tree-type skill progression, that skill, skills that depend on other skills. This basically means that the skills abilities become no the more than access to new skills (acquisition of new training attributes).
-This issue is well illustrated by magical skills. Let's consider fire bolt, fire ball and fire storm. It is clear that there is a difference in power between these. The system, even though allowing to tune the power and shape of spells, may not capture these spells completely. As such, it could be thought that the skill ability gained at fire bolt level 3 is fire ball, whereas the skill ability for level 3 fire ball is fire storm. This way, it is possible to generate a hierarchy of magical spells, increasing the existing number of the fire spell skill and ensuring consistency in magical power growth.
-
-> **Training**: Availability of training is setting specific, but paying for (or being rewarded) training or to study some particular skill may be something relevant, especially at low levels. Simple practice, instead of training may also be appropriate in these cases. Access to low level skill training (up to level 3) should be common, but it should be difficult to find someone skilled enough to provide high-level skill training. Long term training may be possible for training attributes (such as magic and heavy armour), where one character may be taught the principles of spell-casting and become trained in the arcane arts. However, training a main attribute is a lifetime job, so that is unlikely to be available without a very structured routine lasting years. Finally, new racial or cultural abilities may be learned, as the character may join specific schools or learn from other masters that teach a different aspect of one's heritage or a different interpretation, approach or philosophy within one's culture. All trained abilities should follow the "3-level progression" suggested for skill abilities, illustrating the character's progress in mastering a new skill.
 
 5) Character story arc
 ----------------------
