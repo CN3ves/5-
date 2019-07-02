@@ -80,6 +80,6 @@ Because of the skills’ fluid dynamics and flexibility, a “learn by doing” 
   
 *For example:*
   
-  * Upgrading Sword skill: Add sword iaijutsu ability (counter attack on defence) of next tier at level 0 and level up your axe skill, since both are melee weapons that depend on strength and similar movements. 
-  * Upgrading Fire spell: Add fire burning bolt ability (burn condition) of next tier at level 0 and you level up different magic skill (say water spell).
-  * Upgrading History knowledge: Add the more specialised noble lineages skill of next tier at level 0 and level up to a differend knowledge (say politics)*
+  * Upgrading Sword skill: Add sword iaijutsu ability (counter attack on defence) of the next tier at level 0 and level up your axe skill, since both are melee weapons that depend on strength and similar movements. 
+  * Upgrading Fire spell: Add fire burning bolt ability (burn condition) of the next tier at level 0 and you level up different magic skill (say water spell).
+  * Upgrading History knowledge: Add the more specialised noble lineages skill of the next tier at level 0 and level up to a different knowledge (say politics)*
