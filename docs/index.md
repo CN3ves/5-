@@ -27,7 +27,8 @@ _____
 [top](#table-of-contents)  
   
 ### Attributes: 
-Attributes reflect the general aptitudes the character have for *specific situations*:
+Attributes reflect the general aptitudes the character have for **specific situations** and are generally constant throughout the character's adventureing life:  
+
 > *Combat:* Reflects an extensive battle and combat training, both psychical and mental. Influences character's effectiveness when violently interaction with ither creatures.  
   
 > *Social:* Reflects an extensive understanding of others' motives, desires and feelings. Influences character's effectiveness when interating non-violently with sentient creatures.
@@ -37,29 +38,34 @@ Attributes reflect the general aptitudes the character have for *specific situat
 **At creation**: All attributes are set to 0, reflecting an average skill for each situation. A player can choose one single attribute that his character excels (+1) at, by sacrificing another attribute (-1), indicating that the charatcer spent more time than usual practicing one type of situation, so also less time than usual doing practicing the other.
 
 ### Skills:
-If the attributes are what distinguishes the characters' broad strengths or weaknesses, skills are the fine differences that will make a character unique. Skills refer to anything a character may do and measure and how good the character is at doing those actions. *Skills include everything*, from weapons and armour to interact with other creatures and objects. While the attributes are a small set of limited options, the idea is to have a free and fluid skill's list, allowing skills to be made up *on the fly*. Broadly, skills can be divided in groups of skills:
+If the attributes are what distinguishes the characters' broad strengths or weaknesses, skills are the fine differences that will make a character unique. Skills refer to anything a character may do **and so include every possible action**, from using weapons and armour to interact with other creatures and objects. While the attributes are a small set of limited options, the idea is to have a free and fluid skill's list, allowing skills to be made up *on the fly*. Skills measure how good the character is at doing a given action and are **defined by their level (mastery) and tier (power)**. Broadly, skills can be divided in the following groups:
 
-> Perception skills: Use of senses to notice something, including *Sight, Hearing, Touch, Smell,  Sense Vibrations, Sense Magic, Sense Magnetic Fields, Low Light Vision, Dark Vision, Thermal Vision, See Invisibility, etc...*  
-> Movement skills: Use body movement in demanding or risky ways, including *Run, Fly, Swim, Burrow, Climb, Contortionist, etc...*  
-> Manipulation skills: Interact with and manipulate objects, including *Use Tool, Lock Pick, Repair, Tie knot, Disarm trap, dissasemble object, create object, Forgery, Saboteur, etc...*  
-> Education skills: Knowing, remembering and understanding information previously studied, including *Arcane Lore, Religious Lore, Alchemy, Metallurgy, Herbalist, Medicine, Archeology, Linguistics, Law, Tactics, Languages, etc...*  
-> Social skills: Interact with other sentient creatures, including *Persuasion, Trickery,  Fast Talk, Rhetoric, Intimidation, Negotiation, Bribery, Seduction, Leadership, Sense Motive, Rumor-Mongering, etc...*  
-> Job skills: Improvisation, Acting, Impersonation, Gambling, Stealth, Disguise, First Aid, Medicine, Pharmacology, Herbalism, 
-> magic skills: Power Gathering, Shielding, Magic Resistance, Gesture, Ritual Magic, Counter magic, Arcane Symbols, Attunement, Enchant tems, Warding (setting up defenses around an area), Elemental magic, etc...
-> Combat skills: Block, Dodge, Evade (for use against area-effect weapons or losing pursuit), Use (Weapon Group), Unarmed Combat (often subdivided by technique), Armor Use, Power Armor Operation, specific Martial Arts, Reaction (how quickly the character comes on guard), Tactics (usually used to arrange fights so as to give one side of the other an attacking advantage or to reduce the damage they take), Vital Points (attacking sensitive areas), Nerve Strikes, and Stance (a basic familiarity with combat, used to either increase the number of options available or – in the form of abilities such as “Base Attack Bonus” – to provide a basis for using most weapons).
-> widerness skills: Survival, Fire-building, Weatherlore, Hunting, Scrounging, Harvesting (resource collection, such as mining or lumberjacking), Navigation, Tracking, Homesteading (herding, fishing, and agriculture), and Camping (arranging a comfortable and secure place to stay).
+> Perception skills: Use of senses to notice something, including *Sight, Hearing, Search, Thermal Vision, Sense Motive, etc...*  
+> Movement skills: Use body movement in demanding or risky ways, including *Swim, Climb, Contortionist, Swim, Stealth, etc...*  
+> Manipulation skills: Interact with and manipulate objects, including *Use Tool, Repair, Disarm Trap, Forgery, Sabotage, etc...*  
+> Education skills: Knowing, remembering and understanding information previously studied, including *Religious Lore, Alchemy, Metallurgy, Herbalist, Languages, etc...*  
+> Social skills: Interact with other sentient creatures, including *Persuasion, Negotiation, Bribery, Intimidation, Rumor-Mongering, etc...*  
+> Professional skills: Any type of professional skills, including *Impersonation, Gambling, Disguise, First Aid, herbalism, etc...* 
+> Magic/Technological skills: Use supernatural powers or advanced technology, including *Elemental magic, Shielding, Magic Resistance, Counter magic, Alien technolgy , etc...*
+> Combat skills: Use of weapons and armour and well as tactical evaluations, including *Block, Evade, Dodge, Sword, Feint, etc*
 
-**At creation**: All other skills are at level 0.
+**At creation**: All skills are at level 0. Select a total of 3 suitible skill from each of the follwoing groups:
+  * Combat and Magic/Technological skills (+1 or -1 skill as per Combat attribute).
+  * Professional and Education skills.
+  * Social and Perception skills (+1 or -1 skill as per Social attribute).
+  * Movement and manipulation skills (+1 or -1 skill as per Explore attribute).
+Set the chosen skills to level 3. 
 
+**Skill progression**: Because of the skills’ dynamics and flexibility, a “learn by doing” levelling system is very suitable:  
+  
+  1. Every time you roll a 2d6, is the result is a double (same value on both dice) you level up the skill you called if the value is above you're current skill level plus skill tier. 
+  2. When you reach level 4 on a skill, you gain training on a related skill (+1 level) and unlock a higher tier of the level 4 skill.
+  3. Once you reach the maximum level of a skill (level up with a double 6), you can add a +1 bonus on all related skills of the same tier.
+  
+**Skill Tiers**: Tier reflect he speficifity or power of ta skill and can be as simple as enhanced skill or a new skill-related ability. *For example, Sword skill *tier 1) can be upgraded to Enchanced Sword skill (tier 2) or to a Sword dance or a Iaijutsu ability (tier 2), or a Fire bolt spell (tier 1) can be upgraded to either an enchanced fire bolt (tier 2) or a fire ball (tier 2)
 
-**Training** 
-A second type of attributes can be considered. The role of these attributes is to control access to specific skills and actions and to prevent untrained characters from using them. Consider which specialized skills your character is trained with and add them to your training section.
-    Let's take the example of magic and casters. Because access to magic varies from setting to setting, it can be added as a training attribute. The Magic Attribute's main function is as a "gate" that controls how easy or difficult it is for any character to access magic powers.
-    1) Is magic commonplace and every player can attempt casting a spell? There is no need to use Magic as a training attribute in this case, because training is not required to use it. You can consider adding it as a main attribute if it is that relevant to the setting, as it can add new situational bonus to the game, offering a finer control and skill definition.
-    2) Is magic something most players can't do without some level of studying and learning? Then set Magic to either trained or untrained and limit its use to those trained. Also consider if and how characters can gain training during the game.
-    3) Is magic so rare and precious that only a selected few will ever dream of using it after studying for a very long time? Set the Magic as a training attribute as before, but feel free to require a cost of training, which could be a penalty on another attribute, requirement for expensive resources and materials or something else that will force the player to consider his choice carefully. Magic is so powerful and rare in this case that its choice is actively penalized.
-    The previous case, illustrates an example of how a training attribute can be used to control access to certain skills. However, training attributes could also be dependent on the main attributes. Let's think about another example. Heavy armour is usually something with a highly restrictive use. It requires strong, highly trained, combat-focused characters. How would this be reflected in this system? Simply give it a dependency that is, make it depend on something else. In this case, Heavy armour can be a training attribute which depends on the combat attribute being 1, so only players that are physically trained and combat-focused can be trained on using heavy armour.
-    Note that these ideas can be extended to any other attributes. Are the players from a peace-loving community? You can make Violence a training attribute! Do they live in a realm that centralizes and monopolizes the means of violence? Then maybe adding a Weapons training attribute could reflect that!
+**Training**: Some skills, such as those from the Magic/Technological group mat require extensive study and training to use. These skills can be bouded by a corresponding knowledge skill, where the knowlede can both be theoretical (study) or preactical (experimenting). As such, the level of these skills is limited by the level of their knowlege. On the other hand, it is assumed that character can read or practice during their travels (down-time), so Knowledge skills have the particularity that they can be levelled up passively (given appropriate justification).
+
 
 3. Conflict resolution
 [top](#table-of-contents)
@@ -224,24 +230,13 @@ Note that magic is the only way to target out-of-range, so this comes at a cost.
 * Given his readiness to help, a fifth magical check can settle the bartender bias in favour of the player.
 And so on, slowly working the barkeeper until he is irresistibly and unquestionably following the player's orders. Note how the magical effects are mostly statementing and reinforcing the underlying feelings already present. This can be worked over days or months, going back and forwards as spells and social interactions skills will alternatively fail and succeed.
 
-4) Character progression
+## Character progression
 ------------------------
 [back to Table of contents](#table-of-contents)
 
 > In this system, characters do not level up or gain quanta of power at certain points in a deterministic way. They age and gain experience as one does! Characters can progress, or improve, in 3 different ways: gain experience with skills, acquire better equipment and learn new abilities.
 
->**Skill experience**: Because of the skills’ dynamics and flexibility, a “learn by doing” levelling system is very suitable. The main idea is that, by using a specific skill the character may gain experience with it as he explores and finds out new ways of doing it or simply gains deeper understanding of how it is done. However, this doesn't happen all the time. Just because you keep breaking eggs, it doesn't mean you gain greater insights about this task. Sometimes, something happens, a piece of shell got into the egg white, and you wonder if there is a better way. And only some of those times, you find there is and actually start doing it better. This concept is reflected in the game by the 3 checks/rules for levelling up skills:
-1) Observe something: Every time you use a skill (roll a 2d6 by calling an action) there is a chance that something happens or you notice something new about that skill. For example, the more you slash goblins, the more likely it is for you to notice new slashing angles to improve your... slashing. You notice something different when you roll a 6 on any dice, regardless of the actual result, so you can learn both by failing and by succeeding!
-2) Learn something: However, noticing that a given goblin slashed particularly well is not enough. You may wonder why that was, and if different parts of a goblin have different "slashing efficiencies", but only sometimes will you understand why that goblin slashed so easily. Given that you notice something different (rolled a 6), your observation may lead to a meaningful insight (re-roll/explode the 6 die). If the new roll is above your next skill level, you gain experience on that skill, as learn something about the action that is above your skill.
-3) Improve skill: Gaining experience in a certain skill, means that you have a better idea of how it works, but even though picking up the basics is probably fast, mastering a skill requires years of accumulated experience, continuously noticing small details and trying new methods. So you only level up your skill by accumulating enough experience to develop some sort of practical improvement in the way to use your skill.The amount of accumulated experience needed to level up a skill is equal to the value of the next level of the skill. Once you have accumulated that much experience, your skill levels up and your probability of success goes up!In summary:
-1) Every time you roll a 2d6, re-roll any 6s and if the new value is above the called skill level+1 (next level), you gain experience.
-2) Once your experience value surpasses the value of your skill level+1 (next level), that skill levels up
-*Accumulated experience per skill level:*
-For level 1: 1XP (+1)
-For level 2: 3XP (+2)
-For level 3: 6XP (+3)
-For level 4: 10XP (+4)
-For level 5: 15XP (+5)
+
 
 > **Equipment**: As skills, equipment is free-form and can be defined on the fly. To create a new piece of equipment or item, simply name it by defining it by adding an adjective to the base name: Rusting Sword, Long Rope, Fast Horse, Long-ranged Rifle, Heavy Armour, Amazing Laser Blaster. To that, a small extra descriptor may be added if the equipment has any distinctive feature or power (compare useless robes with useless robes of might). Of course, super cool and legendary items can have names that are a reference to some historical or mythical place, event or person, and players could use these as opportunities for flashback chapters or as part of their character arcs.
 Since the skill level is naturally capped at 5 by the way the system works, and that is still not a great success probability, equipment is a way to further improve the character. This can be done in 3 main ways:
