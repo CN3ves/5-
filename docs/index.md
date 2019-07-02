@@ -45,14 +45,14 @@ Attributes reflect the general aptitudes the character have for [*specific situa
   
 > **Explore**: Reflects a particular eye for details and understanding what they mean. Influences the character's effectiveness when dealing with objects and finding out-of-place details *(other situations)*.
 <details>
-  <summary><u>Character creation</u></summary>
+  <summary><u><i>Character creation</i></u></summary>
   All attributes are set to 0, reflecting an average effectiveness for each type situation. A player can choose one single attribute that his character excels (+1) at, by sacrificing another attribute (-1), indicating that the character spent more time than usual practicing one type of situation, so also less time than usual doing practicing the other.
 </details>
 
 ### 1.3 Character skills
 [top](#table-of-contents)  
 
-If the attributes are what distinguishes the characters' broad strengths or weaknesses, skills are the fine differences that will make a character unique. Skills refer to anything a character may do *and so include every possible action*, from using weapons and armour to interact with other creatures and objects. While the attributes are a small set of limited options, the idea is to have a free and fluid skill's list, allowing skills to be made up *on the fly*. Skills measure how good the character is at doing a given action and are *defined by their level (mastery) and tier (power)*. Broadly, skills can be divided into the following categories:  
+If the attributes are what distinguishes the characters' broad strengths or weaknesses, skills are the fine differences that will make a character unique. Skills refer to anything a character may do *and so include every possible action*, from using weapons and armour to interacting with other creatures and objects. While the attributes are a small set of limited options, the idea is to have a free and fluid skill's list, allowing skills to be made up *on the fly* as required. Skills measure how good the character is at doing a given action and are *defined by their level (mastery) and tier (power)*. Broadly, skills can be divided into the following categories:  
 
 > **Combat skills**: Use of weapons and armour and well as tactical evaluations *(Evade, Dodge, Sword, Feint, Use terrain, etc.)*.
 > **Magic/Technological skills**: Understanding the complexities of using supernatural powers or advanced technology *(Elemental magic, Shielding, Magic Resistance, Counter magic, Alien technology, etc.)*. 
@@ -65,13 +65,15 @@ If the attributes are what distinguishes the characters' broad strengths or weak
 > **Movement skills**: Use body movement, dexterity and strength in demanding or risky ways *(Swim, Climb, Contortionist, Swim, Stealth, etc.*). Examples of category's specialised areas: Strength, Dexterity, Hiding, Riding.
 > **Manipulation skills**: Interact with, manipulate and change objects *(Use Tool, Repair, Disarm Trap, Forgery, Sabotage, etc.)*. 
 
-**At creation**: All skills start at level 0. Select a total of 2 suitable skills from each of the following groups:
+<details>
+  <summary><u><i>Character creation</i></u></summary>
+  All skills start at level 0. Select a total of 2 suitable skills from each of the following groups:
   * Combat and Magic/Technological skills (+1 or -1 skill as per Combat attribute).
   * Professional and Education skills.
   * Social and Perception skills (+1 or -1 skill as per Social attribute).
-  * Movement and manipulation skills (+1 or -1 skill as per Explore attribute).  
-  
-Set the chosen skills to level 3. 
+  * Movement and manipulation skills (+1 or -1 skill as per Explore attribute). 
+  Set the chosen skills to level 3. 
+</details>
 
 ### 1.4 Character progression  
 [top](#table-of-contents)  
