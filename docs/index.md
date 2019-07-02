@@ -9,10 +9,10 @@ _____
 
 # Table of contents
 1. [Character creation](#character-creation)  
-2. [Character statistics](#character-statistics)  
-  2.1 [Attributes](#attributes)
-  2.2 [Skills](#skills)
-  2.2 [Skill progression](#skill-progression)
+2. [Character statistics](#character-statistics)    
+  2.1 [Attributes](#attributes)  
+  2.2 [Skills](#skills)  
+  2.2 [Skill progression](#skill-progression)  
 3. [Conflict resolution](#conflict-resolution)  
 
 _____
