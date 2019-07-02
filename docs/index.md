@@ -73,16 +73,13 @@ Because of the skills’ fluid dynamics and flexibility, a “learn by doing” 
   2. *When you reach level 4 on a skill*, you upgrade your skill to a higher tier.
   3. *Once you reach the maximum level of a skill* (level up with a double 6), you can add a non-cumulative +1 bonus to all related skills of the same tier.
   
-**Skill Tiers**: While the skill level represents how successful the character is using the skill, the skill tier reflects the power of the skill. Higher power skills are more difficult to handle, even if the character is experienced with its previous uses. When upgrading a skill tier, you gain:  
+**Skill Tiers**: While the skill level represents how successful the character is using the skill, the skill tier reflects the power, specificity or deeper understanding of the skill. Higher power skills are more difficult to handle, even if the character is experienced with its previous uses. When upgrading a skill tier, you gain:  
   
-  1. A higher tier version of the same skill at level 0 *and*
-  2. Training (+1 level) on related skill of the same current tier, or a new skill-related ability.  
+  1. A higher tier version of the same skill or ability at level 0 *and*
+  2. Training (+1 level) on related skill of the same current tier.  
   
-*For example:  
+*For example:*
   
-  * Upgrading Sword skill: Add sword skill of next tier at level 0 and you may decide to add +1 level on your axe skill, since both are melee weapons that depend on strength and similar movements, or you could instead learn an Iaijutsu ability (counter attack on defence). 
-  * Upgrading Fire spell: Add fire spell skill of next tier at level 0 and you can add +1 level to a different magic skill (say water spell) or gain a new fire ability, such as fire ball (+1 target) or burning bolt (burn condition). 
-  * Upgrading History knowledge: Add history skill of next tier at level 0 and you could add +1 level to a differend knowledge or learn the noble lineages skill when upgrading a history knowledge, showing deeper and more specialised understanding of the subject.*
-
-**Training**: Some skills, such as those from the Magic/Technological group may require extensive study and training to use. These skills can be bounded by a corresponding knowledge skill, where the knowledge can both be theoretical (study) or practical (experimenting). As such, *the level of such skills is limited by the level of their knowledge*. On the other hand, it is assumed that the characters can read or practice during their travels (down-time), so Knowledge skills have the particularity that they can be levelled up passively (given appropriate justification).
-
+  * Upgrading Sword skill: Add sword iaijutsu ability (counter attack on defence) of next tier at level 0 and level up your axe skill, since both are melee weapons that depend on strength and similar movements. 
+  * Upgrading Fire spell: Add fire burning bolt ability (burn condition) of next tier at level 0 and you level up different magic skill (say water spell).
+  * Upgrading History knowledge: Add the more specialised noble lineages skill of next tier at level 0 and level up to a differend knowledge (say politics)*
