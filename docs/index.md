@@ -29,8 +29,8 @@ _____
 [top](#table-of-contents)
   
   1. **Define the character concept** using a two or three word description. *For example, you can consider the common race/class/specialization as a starting point (Elven Wizard of Illusion) or add adjectives to your background (Educated and Charming Noble)*. 
-  2. Choose the character's general [strength and weakness](#12-attributes), if any. *In what type of situations would the character feel more conformable?*
-  3. Think **how you wish to roleplay the character**, and what [sort of actions](#13-skills) you'd want it to do. *Will the character walks in the shadows, spying on his enemies? Or will it solve most problems at sword's point?*
+  2. Choose the character's general [strength and weakness](#12-character-attributes), if any. *In what type of situations would the character feel more conformable?*
+  3. Think **how you wish to roleplay the character**, and what [sort of actions](#13-character-skills) you'd want it to do. *Will the character walks in the shadows, spying on his enemies? Or will it solve most problems at sword's point?*
   4. Determine if there are any **defining characteristics** that distinguishes the character. *For example, are there any inheritable racial features, or particular cultural or professional skills that may be acquired? Perhaps some personal ability gained from past experiences?*
   5. Consider how your character will react to the ever increasing frustration and stress of adventuring. *How does the character behave under stress or when the frustration is too just too much to handle?*
 
@@ -45,7 +45,7 @@ Attributes reflect the general aptitudes the character have for [*specific situa
   
 > **Explore**: Reflects a particular eye for details and understanding what they mean. Influences the character's effectiveness when dealing with objects and finding out-of-place details *(other situations)*.
 <details>
-  <summary><b>Character creation</b></summary>
+  <summary><u>Character creation</u></summary>
   All attributes are set to 0, reflecting an average effectiveness for each type situation. A player can choose one single attribute that his character excels (+1) at, by sacrificing another attribute (-1), indicating that the character spent more time than usual practicing one type of situation, so also less time than usual doing practicing the other.
 </details>
 
