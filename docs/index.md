@@ -8,26 +8,26 @@ This system aims to be a simple and general way to play any type of RPG, with a 
 _____
 
 # Table of contents
-1. [Character creation](#character-creation)  
-2. [Character statistics](#character-statistics)    
-  2.1 [Attributes](#attributes)  
-  2.2 [Skills](#skills)  
-  2.2 [Skill progression](#skill-progression)  
+1. [Character creation](#1-character-creation)  
+2. [Character statistics](#2-character-statistics)    
+  2.1 [Attributes](#21-attributes)  
+  2.2 [Skills](#22-skills)  
+  2.2 [Skill progression](#23-skill-progression)  
 3. [Conflict resolution](#conflict-resolution)  
 
 _____
 
-# Character Creation  
+# 1. Character Creation  
 [top](#table-of-contents)
   
   1. **Define the character concept** using a two or three word description. *For example, you can consider the common race/class/specialization combination as a starting point (Elven Wizard of Illusion) or add adjectives to your background (Educated and Charming Noble)*. 
-  2. Choose the character's general [strength and weakness](#attributes), if any. *In what type of situations would the character fell more conformable?*
-  3. Think **how you wish to roleplay the character**, and what [sort of actions](#skills) you'd want it to do. *Will the character walks in the shadows, spying on his enemies? Or will it solve most problems at sword's point?*
+  2. Choose the character's general [strength and weakness](#21-attributes), if any. *In what type of situations would the character fell more conformable?*
+  3. Think **how you wish to roleplay the character**, and what [sort of actions](#22-skills) you'd want it to do. *Will the character walks in the shadows, spying on his enemies? Or will it solve most problems at sword's point?*
   4. Determine if there are any **defining characteristics** that distinguishes the character. *For example, are there any inheritable racial features, or particular cultural or professional skills that may be acquired? Perhaps some personal ability gained from past experiences?*. 
   5. Consider how your character will react to the ever increasing frustration and stress of adventuring. *How does the character behave under stress or when the frustration is too just too much to handle?*
 
-# Charatcer statistics  
-### Attributes: 
+# 2. Character statistics  
+### 2.1 Attributes: 
 [top](#table-of-contents)  
 
 Attributes reflect the general aptitudes the character have for *specific situations* and are generally constant throughout the character's adventuring life:  
@@ -40,7 +40,7 @@ Attributes reflect the general aptitudes the character have for *specific situat
 
 **At creation**: All attributes are set to 0, reflecting an average skill for each situation. A player can choose one single attribute that his character excels (+1) at, by sacrificing another attribute (-1), indicating that the character spent more time than usual practicing one type of situation, so also less time than usual doing practicing the other.
 
-### Skills:
+### 2.2 Skills:
 [top](#table-of-contents)  
 
 If the attributes are what distinguishes the characters' broad strengths or weaknesses, skills are the fine differences that will make a character unique. Skills refer to anything a character may do *and so include every possible action*, from using weapons and armour to interact with other creatures and objects. While the attributes are a small set of limited options, the idea is to have a free and fluid skill's list, allowing skills to be made up *on the fly*. Skills measure how good the character is at doing a given action and are *defined by their level (mastery) and tier (power)*. Broadly, skills can be divided into the following groups:
@@ -64,7 +64,7 @@ If the attributes are what distinguishes the characters' broad strengths or weak
   * Movement and manipulation skills (+1 or -1 skill as per Explore attribute).
 Set the chosen skills to level 3. 
 
-#### Skill progression  
+### 2.3 Skill progression  
 [top](#table-of-contents)  
 
 Because of the skills’ fluid dynamics and flexibility, a “learn by doing” levelling system is very suitable:  
