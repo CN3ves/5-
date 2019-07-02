@@ -1,9 +1,9 @@
 This system aims to be a simple and general way to play any type of RPG, with a particular focus on play-by-post (PbP) gaming. As such, the idea is to provide simplified rules that allow to keep the game flowing at a good narrative pace. In addition, the system is free-form, so it allows anything to be used or done, as long as it is reasonable within the game's setting. The way it works is:  
   
   1. The scene is introduced and the players describe *their intentions*.
-  2. The players *call for an action or an effect*.
-  3. The action is resolved by rolling two six-sided dice (2d6) and sum up the values.
-  4. The results of all intervening characters, both playable (PC) and non-playable (NPC) are interpreted based on the results.
+  2. Each player *call for an action or an effect*.
+  3. Every action is resolved by rolling two six-sided dice (2d6) and sum up the values.
+  4. The actions of all intervening characters, both playable (PC) and non-playable (NPC) are described based on the results.
   
 _____
 
@@ -28,24 +28,26 @@ _____
 ### 1.1 Character Creation  
 [top](#table-of-contents)
   
-  1. **Define the character concept** using a two or three word description. *For example, you can consider the common race/class/specialization combination as a starting point (Elven Wizard of Illusion) or add adjectives to your background (Educated and Charming Noble)*. 
-  2. Choose the character's general [strength and weakness](#12-attributes), if any. *In what type of situations would the character fell more conformable?*
+  1. **Define the character concept** using a two or three word description. *For example, you can consider the common race/class/specialization as a starting point (Elven Wizard of Illusion) or add adjectives to your background (Educated and Charming Noble)*. 
+  2. Choose the character's general [strength and weakness](#12-attributes), if any. *In what type of situations would the character feel more conformable?*
   3. Think **how you wish to roleplay the character**, and what [sort of actions](#13-skills) you'd want it to do. *Will the character walks in the shadows, spying on his enemies? Or will it solve most problems at sword's point?*
-  4. Determine if there are any **defining characteristics** that distinguishes the character. *For example, are there any inheritable racial features, or particular cultural or professional skills that may be acquired? Perhaps some personal ability gained from past experiences?*. 
+  4. Determine if there are any **defining characteristics** that distinguishes the character. *For example, are there any inheritable racial features, or particular cultural or professional skills that may be acquired? Perhaps some personal ability gained from past experiences?*
   5. Consider how your character will react to the ever increasing frustration and stress of adventuring. *How does the character behave under stress or when the frustration is too just too much to handle?*
 
 ### 1.2 Character attributes
 [top](#table-of-contents)  
 
-Attributes reflect the general aptitudes the character have for [*specific situations*](#21-conflict-structure)   and are generally constant throughout the character's adventuring life:  
+Attributes reflect the general aptitudes the character have for [*specific situations*](#21-conflict-structure) and mostly remain constant throughout the character's adventuring life:  
 
-> **Fight**: Reflects an extensive battle and combat training, both psychical and mental. Influences character's effectiveness when violent interaction with other creatures. 
+> **Fight**: Reflects an extensive battle and combat training, both psychical and mental. Influences the character's effectiveness when in violent confrontation with other creatures *(combat situations)*. 
   
-> **Mingle**: Reflects an extensive understanding of others' motives, desires and feelings. Influences character's effectiveness when iterating non-violently with sentient creatures. 
+> **Mingle**: Reflects an extensive understanding of others' motives, desires and feelings. Influences the character's effectiveness when interating non-violently with sentient creatures *(social situations)*. 
   
-> **Explore**: Reflects a particular eye for details and understanding what they mean. Influences character's effectiveness when dealing with objects and searching for out-of-place details.
-
-**At creation**: All attributes are set to 0, reflecting an average skill for each situation. A player can choose one single attribute that his character excels (+1) at, by sacrificing another attribute (-1), indicating that the character spent more time than usual practicing one type of situation, so also less time than usual doing practicing the other.
+> **Explore**: Reflects a particular eye for details and understanding what they mean. Influences the character's effectiveness when dealing with objects and finding out-of-place details *(other situations)*.
+<details>
+  <summary><b>Character creation</b></summary>
+  All attributes are set to 0, reflecting an average effectiveness for each type situation. A player can choose one single attribute that his character excels (+1) at, by sacrificing another attribute (-1), indicating that the character spent more time than usual practicing one type of situation, so also less time than usual doing practicing the other.
+</details>
 
 ### 1.3 Character skills
 [top](#table-of-contents)  
