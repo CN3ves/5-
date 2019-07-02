@@ -12,7 +12,7 @@ _____
   1.1 [Creation](#11-character-creation)  
   1.2 [Attributes](#12-character-attributes)  
   1.3 [Skills](#13-character-skills)  
-  1.4 [Progression](#14-character-progression)
+  1.4 [Progression](#14-character-progression)  
   1.5 [Abilities](#15-character-abilities)
 2. [Conflict](#2-conflict)  
   2.1 [Structure](#21-conflict-structure)  
