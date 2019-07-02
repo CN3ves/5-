@@ -61,7 +61,8 @@ If the attributes are what distinguishes the characters' broad strengths or weak
   * Combat and Magic/Technological skills (+1 or -1 skill as per Combat attribute).
   * Professional and Education skills.
   * Social and Perception skills (+1 or -1 skill as per Social attribute).
-  * Movement and manipulation skills (+1 or -1 skill as per Explore attribute).
+  * Movement and manipulation skills (+1 or -1 skill as per Explore attribute).  
+  
 Set the chosen skills to level 3. 
 
 ### 2.3 Skill progression  
