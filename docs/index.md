@@ -43,18 +43,18 @@ Attributes reflect the general aptitudes the character have for *specific situat
 ### 2.2 Skills:
 [top](#table-of-contents)  
 
-If the attributes are what distinguishes the characters' broad strengths or weaknesses, skills are the fine differences that will make a character unique. Skills refer to anything a character may do *and so include every possible action*, from using weapons and armour to interact with other creatures and objects. While the attributes are a small set of limited options, the idea is to have a free and fluid skill's list, allowing skills to be made up *on the fly*. Skills measure how good the character is at doing a given action and are *defined by their level (mastery) and tier (power)*. Broadly, skills can be divided into the following categories:
-> **Combat skills**: Use of weapons and armour and well as tactical evaluations *(Evade, Dodge, Sword, Feint, Use terrain, etc.)*. Examples of category's specialised areas: Melee, Ranged, Armour, Tactics.  
-> **Magic/Technological skills**: Understanding the complexities of using supernatural powers or advanced technology *(Elemental magic, Shielding, Magic Resistance, Counter magic, Alien technology, etc.)*. Examples of category's specialised areas: Offensive, Defensive, Disruptive, Enhance.
+If the attributes are what distinguishes the characters' broad strengths or weaknesses, skills are the fine differences that will make a character unique. Skills refer to anything a character may do *and so include every possible action*, from using weapons and armour to interact with other creatures and objects. While the attributes are a small set of limited options, the idea is to have a free and fluid skill's list, allowing skills to be made up *on the fly*. Skills measure how good the character is at doing a given action and are *defined by their level (mastery) and tier (power)*. Broadly, skills can be divided into the following categories:  
 
-> **Education skills**: Knowing, remembering and understanding information previously studied *( Theology, Alchemy, Metallurgy, Herbalist, Languages, etc.)* Examples of category's specialised areas: Nature, Society, Linguistics, Crafts.  
-> **Professional skills**: Any type of skills related to a profession, background or speciality *(Impersonation, Gambling, Disguise, First Aid, Herbalism, etc.)* Examples of category's specialised areas: Arts, Games, Medicine, Spying.  
+> **Combat skills**: Use of weapons and armour and well as tactical evaluations *(Evade, Dodge, Sword, Feint, Use terrain, etc.)*.
+> **Magic/Technological skills**: Understanding the complexities of using supernatural powers or advanced technology *(Elemental magic, Shielding, Magic Resistance, Counter magic, Alien technology, etc.)*. 
 
-> **Social skills**: Interact with other sentient creatures to change their perception, opinions and attitudes *(Persuasion, Negotiation, Bribery, Intimidation, Rumour-Mongering, etc.)*. Examples of category's specialised areas: Friendly, Threat, Negotiate, Reason.
-> **Perception skills**: Use of senses, instinct and intuition to notice something *(Sight, Hearing, Search, Thermal Vision, Sense Motive, etc.)*. Examples of category's specialised areas: Vision, Hearing, Search, Motive.
+> **Education skills**: Knowing, remembering and understanding information previously studied *( Theology, Alchemy, Metallurgy, Herbalist, Languages, etc.)*
+> **Professional skills**: Any type of skills related to a profession, background or speciality *(Impersonation, Gambling, Disguise, First Aid, Herbalism, etc.)* 
 
+> **Social skills**: Interact with other sentient creatures to change their perception, opinions and attitudes *(Persuasion, Negotiation, Bribery, Intimidation, Rumour-Mongering, etc.)*.
+> **Perception skills**: Use of senses, instinct and intuition to notice something *(Sight, Hearing, Search, Thermal Vision, Sense Motive, etc.)*. 
 > **Movement skills**: Use body movement, dexterity and strength in demanding or risky ways *(Swim, Climb, Contortionist, Swim, Stealth, etc.*). Examples of category's specialised areas: Strength, Dexterity, Hiding, Riding.
-> **Manipulation skills**: Interact with, manipulate and change objects *(Use Tool, Repair, Disarm Trap, Forgery, Sabotage, etc.)*. Examples of category's specialised areas: Create, Repair, Destroy, Activate.
+> **Manipulation skills**: Interact with, manipulate and change objects *(Use Tool, Repair, Disarm Trap, Forgery, Sabotage, etc.)*. 
 
 **At creation**: All skills start at level 0. Select a total of 2 suitable skills from each of the following groups:
   * Combat and Magic/Technological skills (+1 or -1 skill as per Combat attribute).
@@ -71,12 +71,12 @@ Because of the skills’ fluid dynamics and flexibility, a “learn by doing” 
   
   1. Every time you roll a 2d6 for a skill, if the result is a double (same value on both dice) you level up that skill if the rolled value is above your *current skill level plus skill tier*. 
   2. *When you reach level 4 of a skill*, you upgrade your skill to a higher tier.
-  3. *Once you reach the maximum level of a skill* (level up with a double 6), you can add 1) a non-cumulative +1 bonus to all skills of the that tier and specialised area, and 2) a +1 bonus to the same skill at the tier above.
+  3. *Once you reach the maximum level of a skill* (level up with a double 6), add 1) a +1 bonus to the same skill at tboth its tier and the tier immediately above.
   
 **Upgrading**: While the skill level represents how successful the character is using the skill, the skill tier reflects the power, specificity or deeper understanding of the skill. Higher power skills are more difficult to handle, even if the character is experienced with its previous uses. When upgrading a skill tier, you gain:  
   
   1. A higher tier version of the same skill at level 0,
-  2. Training (+1 level) on a skill of the same tier and specialised area (before upgrading).  
+  2. Training (+1 level) on a similar or related skill of the tier before upgrading.  
   3. A new ability at tier 1 and level 0 attached to your skill. These abilities should provide special effects on top of the base skill. 
   
 *For example:*
