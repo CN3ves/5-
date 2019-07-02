@@ -83,3 +83,5 @@ Because of the skills’ fluid dynamics and flexibility, a “learn by doing” 
   * Upgrading Sword skill: Add sword iaijutsu ability (counter attack on defence) of the next tier at level 0 and level up your axe skill, since both are melee weapons that depend on strength and similar movements. 
   * Upgrading Fire spell: Add fire burning bolt ability (burn condition) of the next tier at level 0 and you level up different magic skill (say water spell).
   * Upgrading History knowledge: Add the more specialised noble lineages skill of the next tier at level 0 and level up to a different knowledge (say politics)*
+
+**Training**: Characters can only use skills that reflect their concept and background. *A uneducated tribal warrior may automatically fail magic/technological skills and some "civilised" knowledge (dynastic  succession rules) and social skills (court etiquette) for example*. However,  the character is allowed to train and study to unlock these skills as fitting the game setting. 
