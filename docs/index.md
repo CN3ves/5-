@@ -30,7 +30,7 @@ _____
 ### 2.1 Attributes: 
 [top](#table-of-contents)  
 
-Attributes reflect the general aptitudes the character have for *specific situations* and are generally constant throughout the character's adventuring life:  
+Attributes reflect the general aptitudes the character have for [*specific situations*](#conflict-resolution)   and are generally constant throughout the character's adventuring life:  
 
 > **Fight**: Reflects an extensive battle and combat training, both psychical and mental. Influences character's effectiveness when violent interaction with other creatures. 
   
@@ -48,7 +48,7 @@ If the attributes are what distinguishes the characters' broad strengths or weak
 > **Combat skills**: Use of weapons and armour and well as tactical evaluations *(Evade, Dodge, Sword, Feint, Use terrain, etc.)*.
 > **Magic/Technological skills**: Understanding the complexities of using supernatural powers or advanced technology *(Elemental magic, Shielding, Magic Resistance, Counter magic, Alien technology, etc.)*. 
 
-> **Education skills**: Knowing, remembering and understanding information previously studied *( Theology, Alchemy, Metallurgy, Herbalist, Languages, etc.)*
+> **Education skills**: Knowing, remembering and understanding information previously studied *(Theology, Alchemy, Metallurgy, Survival, Languages, etc.)*
 > **Professional skills**: Any type of skills related to a profession, background or speciality *(Impersonation, Gambling, Disguise, First Aid, Herbalism, etc.)* 
 
 > **Social skills**: Interact with other sentient creatures to change their perception, opinions and attitudes *(Persuasion, Negotiation, Bribery, Intimidation, Rumour-Mongering, etc.)*.
@@ -85,4 +85,16 @@ Because of the skills’ fluid dynamics and flexibility, a “learn by doing” 
   * Upgrading Fire spell: 1) add fire spell to the next tier at level 0; 2) level up different magic skill (say water spell); and 3) gain the burning bolt ability (burn condition) at level 0 and tier 1.
   * Upgrading History knowledge: 1) add history knowledge to the next tier at level 0; 2) level up to a different knowledge (say politics); and 3) add the more specialised noble lineages skill (ability) at level 0 and tier 1.
 
-**Training**: Characters can only use skills that reflect their concept and background. *An uneducated tribal warrior may automatically fail magic/technological skills and some "civilised" knowledge (dynastic  succession rules) and social skills (court etiquette) for example*. However,  the character is allowed to train and study to unlock these skills as fitting the game setting. 
+**Training**: Characters can only use skills that reflect their concept and background. *An uneducated tribal warrior may automatically fail magic/technological skills and some "civilised" knowledge (dynastic succession rules) and social skills (court etiquette) for example*. However,  the character is allowed to train and study to unlock these skills as fitting the game setting. 
+
+## 3. Conflict resolution
+[top](#table-of-contents)
+
+This system uses turns to structure the game, where **each turn is made by a single intervention from every player**, giving the opportunity for every player to take an action if he wishes to do so. Importantly, **all actuinf withing a turn occurs simiultaneously** so there is no clear initiative or turn order. At the begging of each turn, the previous actions are resolved, the consequences described and the new situation introduced. **Conflict arises any time the outcome of the players' actions is uncertain**. As such, each conflict should reflect a specific situations matching one of the character's attributes. All conflicts are solved with a narrative approache, where the results from the previous turn inform on the behavior of the NPCs on the next turn. *This is to day that, for example, a dragon does not have to be bashed to a pulp of negative HP to be defeated, its actions are determined by the number of successes and failures the players accumulated during the conflict*. During conflict, **each player is allows to choose two actions each turn** with a potential defense action being called if the character is attacked. Actions are free-form and if the player comes up with an idea, that should be implemented within reason. Basic actions include:
+
+  > **Move action**: cover 1 "space" of movement.  
+  > **Attack action**: actively attempt to cause damage to a target (either with sword or word!).  
+  > **Defence action**: protect from and adversary's attack or insult.  
+  > **Manoeuver action**: try to impose a disadvantage on a target (disarm, hide, gain terrain advantage, etc.)  
+  > **Interact action**: interact with items, be it picking them from the floor or from a bag, reloading a weapon or drinking a potion, etc.  
+  > **Recover action**:** recover from a previous attack or simply fall back to overview the battle field or catch some breath.
