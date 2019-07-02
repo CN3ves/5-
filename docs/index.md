@@ -13,7 +13,7 @@ _____
   2.1 [Attributes](#21-attributes)  
   2.2 [Skills](#22-skills)  
   2.2 [Skill progression](#23-skill-progression)  
-3. [Conflict resolution](#conflict-resolution)  
+3. [Conflict resolution](#3-conflict-resolution)  
 
 _____
 
@@ -30,7 +30,7 @@ _____
 ### 2.1 Attributes: 
 [top](#table-of-contents)  
 
-Attributes reflect the general aptitudes the character have for [*specific situations*](#conflict-resolution)   and are generally constant throughout the character's adventuring life:  
+Attributes reflect the general aptitudes the character have for [*specific situations*](#3-conflict-resolution)   and are generally constant throughout the character's adventuring life:  
 
 > **Fight**: Reflects an extensive battle and combat training, both psychical and mental. Influences character's effectiveness when violent interaction with other creatures. 
   
