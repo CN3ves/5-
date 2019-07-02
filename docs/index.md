@@ -26,10 +26,10 @@ _____
   4. Determine if there are any **defining characteristics** that distinguishes the character. *For example, are there any inheritable racial features, or particular cultural or professional skills that may be acquired? Perhaps some personal ability gained from past experiences?*. 
   5. Consider how your character will react to the ever increasing frustration and stress of adventuring. *How does the character behave under stress or when the frustration is too just too much to handle?*
 
-# Charatcer statistics
-[top](#table-of-contents)  
-  
+# Charatcer statistics  
 ### Attributes: 
+[top](#table-of-contents)  
+
 Attributes reflect the general aptitudes the character have for *specific situations* and are generally constant throughout the character's adventuring life:  
 
 > **Combat**: Reflects an extensive battle and combat training, both psychical and mental. Influences character's effectiveness when violent interaction with other creatures.  
@@ -41,6 +41,8 @@ Attributes reflect the general aptitudes the character have for *specific situat
 **At creation**: All attributes are set to 0, reflecting an average skill for each situation. A player can choose one single attribute that his character excels (+1) at, by sacrificing another attribute (-1), indicating that the character spent more time than usual practicing one type of situation, so also less time than usual doing practicing the other.
 
 ### Skills:
+[top](#table-of-contents)  
+
 If the attributes are what distinguishes the characters' broad strengths or weaknesses, skills are the fine differences that will make a character unique. Skills refer to anything a character may do *and so include every possible action*, from using weapons and armour to interact with other creatures and objects. While the attributes are a small set of limited options, the idea is to have a free and fluid skill's list, allowing skills to be made up *on the fly*. Skills measure how good the character is at doing a given action and are *defined by their level (mastery) and tier (power)*. Broadly, skills can be divided into the following groups:
 
 > **Combat skills**: Use of weapons and armour and well as tactical evaluations *(Evade, Dodge, Sword, Feint, Use terrain, etc.)*
@@ -62,7 +64,9 @@ If the attributes are what distinguishes the characters' broad strengths or weak
   * Movement and manipulation skills (+1 or -1 skill as per Explore attribute).
 Set the chosen skills to level 3. 
 
-#### Skill progression
+#### Skill progression  
+[top](#table-of-contents)  
+
 Because of the skills’ fluid dynamics and flexibility, a “learn by doing” levelling system is very suitable:  
   
   1. Every time you roll a 2d6 for a skill, if the result is a double (same value on both dice) you level up that skill if the rolled value is above your *current skill level plus skill tier*. 
