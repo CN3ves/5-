@@ -28,16 +28,16 @@ _____
 ### 1.1 Character Creation  
 [top](#table-of-contents)
   
-  1. **Define the character concept** using a two or three word description. *For example, you can consider the common race/class/specialization as a starting point (Elven Wizard of Illusion) or add adjectives to your background (Educated and Charming Noble)*. 
+  1. `Define the character concept` using a two or three word description. *For example, you can consider the common race/class/specialization as a starting point (Elven Wizard of Illusion) or add adjectives to your background (Educated and Charming Noble)*. 
   2. Choose the character's general [strength and weakness](#12-character-attributes), if any. *In what type of situations would the character feel more conformable?*
-  3. Think **how you wish to roleplay the character**, and what [sort of actions](#13-character-skills) you'd want it to do. *Will the character walks in the shadows, spying on his enemies? Or will it solve most problems at sword's point?*
-  4. Determine if there are any **defining characteristics** that distinguishes the character. *For example, are there any inheritable racial features, or particular cultural or professional skills that may be acquired? Perhaps some personal ability gained from past experiences?*
-  5. Consider how your character will react to the ever increasing frustration and stress of adventuring. *How does the character behave under stress or when the frustration is too just too much to handle?*
+  3. Think `how you wish to roleplay the character`, and what [sort of actions](#13-character-skills) you'd want it to do. *Will the character walks in the shadows, spying on his enemies? Or will it solve most problems at sword's point?*
+  4. Determine if there are any `defining characteristics` that distinguishes the character. *For example, are there any inheritable racial features, or particular cultural or professional skills that may be acquired? Perhaps some personal ability gained from past experiences?*
+  5. Consider how your character will `react to the ever increasing frustration` and stress of adventuring. *How does the character behave under stress or when the frustration is too just too much to handle?*
 
 ### 1.2 Character attributes
 [top](#table-of-contents)  
 
-Attributes reflect the general aptitudes the character have for [*specific situations*](#21-conflict-structure) and mostly remain constant throughout the character's adventuring life:  
+`Attributes reflect the general aptitudes` the character have for [*specific situations*](#21-conflict-structure) and mostly remain constant throughout the character's adventuring life:  
 
 > **Fight**: Reflects an extensive battle and combat training, both psychical and mental. Influences the character's effectiveness when in violent confrontation with other creatures *(combat situations)*. 
   
@@ -52,18 +52,27 @@ Attributes reflect the general aptitudes the character have for [*specific situa
 ### 1.3 Character skills
 [top](#table-of-contents)  
 
-If the attributes are what distinguishes the characters' broad strengths or weaknesses, skills are the fine differences that will make a character unique. Skills refer to anything a character may do *and so include every possible action*, from using weapons and armour to interacting with other creatures and objects. While the attributes are a small set of limited options, the idea is to have a free and fluid skill's list, allowing skills to be made up *on the fly* as required. Skills measure how good the character is at doing a given action and are *defined by their level (mastery) and tier (power)*. Broadly, skills can be divided into the following categories:  
+If the attributes are what distinguishes the characters' broad strengths or weaknesses, skills are the fine differences that will make a character unique. Skills refer to anything a character may do *and so include every possible action*, from using weapons and armour to interacting with other creatures and objects. While the attributes are a small set of limited options, the idea is to have a free and fluid skill's list, allowing skills to be made up *on the fly* as required. `Skills measure how good the character is at doing a given action and are defined by their level (mastery) and tier (power)`. Broadly, skills can be divided into the following categories:  
 
-> **Combat skills**: Use of weapons and armour and well as tactical evaluations *(Evade, Dodge, Sword, Feint, Use terrain, etc.)*.
-> **Magic/Technological skills**: Understanding the complexities of using supernatural powers or advanced technology *(Elemental magic, Shielding, Magic Resistance, Counter magic, Alien technology, etc.)*. 
+
+<details>
+  <blockquote>
+  <summary><b>*Combat skills</b>: Use of weapons and armour and well as tactical evaluations</summary>
+  Evade, Dodge, Sword, Feint, Use terrain, etc.
+  </blockquote>
+</details>
+    
+    
+> **Combat skills**: Use of weapons and armour and well as tactical evaluations *(Evade, Dodge, Sword, Feint, Use terrain, etc.)*
+> **Magic/Technological skills**: Understanding the complexities of using supernatural powers or advanced technology *(Elemental magic, Shielding, Magic Resistance, Counter magic, Alien technology, etc.)*
 
 > **Education skills**: Knowing, remembering and understanding information previously studied *(Theology, Alchemy, Metallurgy, Survival, Languages, etc.)*
 > **Professional skills**: Any type of skills related to a profession, background or speciality *(Impersonation, Gambling, Disguise, First Aid, Herbalism, etc.)* 
 
-> **Social skills**: Interact with other sentient creatures to change their perception, opinions and attitudes *(Persuasion, Negotiation, Bribery, Intimidation, Rumour-Mongering, etc.)*.
-> **Perception skills**: Use of senses, instinct and intuition to notice something *(Sight, Hearing, Search, Thermal Vision, Sense Motive, etc.)*. 
-> **Movement skills**: Use body movement, dexterity and strength in demanding or risky ways *(Swim, Climb, Contortionist, Swim, Stealth, etc.*). Examples of category's specialised areas: Strength, Dexterity, Hiding, Riding.
-> **Manipulation skills**: Interact with, manipulate and change objects *(Use Tool, Repair, Disarm Trap, Forgery, Sabotage, etc.)*. 
+> **Social skills**: Interact with other sentient creatures to change their perception, opinions and attitudes *(Persuasion, Negotiation, Bribery, Intimidation, Rumour-Mongering, etc.)*
+> **Perception skills**: Use of senses, instinct and intuition to notice something *(Sight, Hearing, Search, Thermal Vision, Sense Motive, etc.)*
+> **Movement skills**: Use body movement, dexterity and strength in demanding or risky ways *(Swim, Climb, Contortionist, Swim, Stealth, etc.*)
+> **Manipulation skills**: Interact with, manipulate and change objects *(Use Tool, Repair, Disarm Trap, Forgery, Sabotage, etc.)*
 
 <details>
   <summary><u><i>Character creation</i></u></summary>
