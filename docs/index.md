@@ -1,3 +1,10 @@
+This system aims to be a simple and general way to play any type of RPG, with a particular focus on play-by-post (PbP) gaming. As such, the idea is to provide simplified rules that allow to keep the game flowing at a good narrative pace. In addition, the system is free-form, so it allows anything to be used or done, as long at it is reasonable within the game's seeting. The way it works is:  
+  
+  1. The scene is introduced and the players discribe *their intentions*
+  2. The players *call on* matching action or effect
+  3. The action is resolved by rolling two six-sided dice (2d6) and sum up the values.
+  4. The results of all intervening charatcers, both playable (PC) and non-playable (NPC) are interpreted based on the results
+
 # Table of contents
 1. [Character creation](#character-creation)  
 2. [Character statistics](#character-statistics)  
@@ -7,42 +14,39 @@
 # Character Creation  
 [top](#table-of-contents)
   
-  1. **Define its concept**, describing it using two or three words. *For example, you can consider the common race/class/specialization combination as a staeting point for the character concept*. 
-  2. Choose the charatcer's [atrributes](#attributes). By default, all attributes start at 0, which represent the average person. A player can choose one single attribute that his character excels at, by sacrificing another attribute.
-  3. Think **how you wish to role-play the character**, and what for of actions it will be good at. Which general [skills](#skills) would better reflect these actions? 
-  All other skills are at level 0.
-  4. Determine if there are any **defining characteristics** that distinguich the character. *For example, are there any inheritable racial features, or aquired cultural or professional skill? Perhaps some personal ability gained from past experiences?*. 
-  5. Consider how your charatcer will react accumulating frustration and stress of adventureing. *How does the charatcer behave under stress or how does it explode when the frustrationis too much to handle?*
+  1. **Define the character concept** using a two or three words description. *For example, you can consider the common race/class/specialization combination as a starting point (Elven Wizard of Illusion) or add advetices to your background (Educated and Chamrming Noble)*. 
+  2. Choose the character's general [strenght and weakness](#attributes), if any. *In what type of situations would the character fell more conforable?*
+  3. Think **how you wish to role-play the character**, and what [sort of actions](#skills) you'd want it to do. *Will the character walks in the shadows, spying on his enemies? Or will it solve most problems at sword's point?*
+  4. Determine if there are any **defining characteristics** that distinguich the character. *For example, are there any inheritable racial features, or particular cultural or professional skills that may be aquired? Perhaps some personal ability gained from past experiences?*. 
+  5. Consider how your charatcer will react to the ever increasing frustration and stress of adventuring. *How does the character behave under stress or how does it explode when the frustrationis too just too much to handle?*
 
 # Charatcer statistics
 [top](#table-of-contents)  
   
 ### Attributes: 
-Attributes reflect the general aptitudes the character have for specific situations:
-> *Combat:* Reflects an extensive battle and combat training, both psychical and mental. Influences character effectiveness underany violent confrontation.  
+Attributes reflect the general aptitudes the character have for *specific situations*:
+> *Combat:* Reflects an extensive battle and combat training, both psychical and mental. Influences character's effectiveness when violently interaction with ither creatures.  
   
-> *Social:* Reflects an extensive understanding of others' motives, desires and feelings. Influences character effectiveness when interating with sentient creatures.
+> *Social:* Reflects an extensive understanding of others' motives, desires and feelings. Influences character's effectiveness when interating non-violently with sentient creatures.
   
-> *Explore:* Reflects a particular eye for details and understanding what they mean. Influences charcater effectiveness when searching for out-of-place details.
+> *Explore:* Reflects a particular eye for details and understanding what they mean. Influences character's effectiveness when dealing with objects and searching for out-of-place details.
+
+**At creation**: All attributes are set to 0, reflecting an average skill for each situation. A player can choose one single attribute that his character excels (+1) at, by sacrificing another attribute (-1), indicating that the charatcer spent more time than usual practicing one type of situation, so also less time than usual doing practicing the other.
 
 ### Skills:
-If the attributes are what distinguishes the characters' broad strengths or weaknesses, skills are the fine differences that will make a character unique. Skills refer to anything a character may do and measure and how good the character is at doing those actions. *Skills include everything*, from weapons and armour to interact with other creatures and objects. While the attributes are a small set of limited options, the idea is to have a free and fluid skills list, allowing skills to be made up on the fly. 
+If the attributes are what distinguishes the characters' broad strengths or weaknesses, skills are the fine differences that will make a character unique. Skills refer to anything a character may do and measure and how good the character is at doing those actions. *Skills include everything*, from weapons and armour to interact with other creatures and objects. While the attributes are a small set of limited options, the idea is to have a free and fluid skill's list, allowing skills to be made up *on the fly*. Broadly, skills can be divided in groups of skills:
 
-<details>
-  <summary>General skills</summary>
-  check this https://ruscumag.wordpress.com/2009/09/16/rpg-design-skill-systems-ii-the-basic-skills/
-</details>  
+> Perception skills: Use of senses to notice something, including *Sight, Hearing, Touch, Smell,  Sense Vibrations, Sense Magic, Sense Magnetic Fields, Low Light Vision, Dark Vision, Thermal Vision, See Invisibility, etc...*  
+> Movement skills: Use body movement in demanding or risky ways, including *Run, Fly, Swim, Burrow, Climb, Contortionist, etc...*  
+> Manipulation skills: Interact with and manipulate objects, including *Use Tool, Lock Pick, Repair, Tie knot, Disarm trap, dissasemble object, create object, Forgery, Saboteur, etc...*  
+> Education skills: Knowing, remembering and understanding information previously studied, including *Arcane Lore, Religious Lore, Alchemy, Metallurgy, Herbalist, Medicine, Archeology, Linguistics, Law, Tactics, Languages, etc...*  
+> Social skills: Interact with other sentient creatures, including *Persuasion, Trickery,  Fast Talk, Rhetoric, Intimidation, Negotiation, Bribery, Seduction, Leadership, Sense Motive, Rumor-Mongering, etc...*  
+> Job skills: Improvisation, Acting, Impersonation, Gambling, Stealth, Disguise, First Aid, Medicine, Pharmacology, Herbalism, 
+> magic skills: Power Gathering, Shielding, Magic Resistance, Gesture, Ritual Magic, Counter magic, Arcane Symbols, Attunement, Enchant tems, Warding (setting up defenses around an area), Elemental magic, etc...
+> Combat skills: Block, Dodge, Evade (for use against area-effect weapons or losing pursuit), Use (Weapon Group), Unarmed Combat (often subdivided by technique), Armor Use, Power Armor Operation, specific Martial Arts, Reaction (how quickly the character comes on guard), Tactics (usually used to arrange fights so as to give one side of the other an attacking advantage or to reduce the damage they take), Vital Points (attacking sensitive areas), Nerve Strikes, and Stance (a basic familiarity with combat, used to either increase the number of options available or – in the form of abilities such as “Base Attack Bonus” – to provide a basis for using most weapons).
+> widerness skills: Survival, Fire-building, Weatherlore, Hunting, Scrounging, Harvesting (resource collection, such as mining or lumberjacking), Navigation, Tracking, Homesteading (herding, fishing, and agriculture), and Camping (arranging a comfortable and secure place to stay).
 
-
-*Skill level (rough interpretation)*
-* Ignorant (lv0): I have never heard of it but I'll try it (11% success)
-* Pursuing (lv1): Understand the basics of what it is, but nothing in depth (24% success)
-* Apprentice (lv2): I have used it for at least a few times and have a good grasp of the basics and uses (41% success)
-* Experienced (lv3): I have used on it regular basis and I am comfortable using it (54% success)
-* Expert (lv4): I know have a complex understanding of it (73% success)
-* Master (lv5): I am a vault of knowledge (79% success)
-*Skill detail* The details by which skills need to be defined depends heavily on the duration and setting of the game. Let's consider a character that is a good swimmer. It could be considered that this is reflected by the athletics skill. However, athletics includes both running and swimming, which are fairly different activities. As such, athletics may be too general to describe the indented action, which is swimming. So if a skill can easily and logically be split into more than one skill, it probably should. On the other hand, there may be games and settings that required the distinction between related skills (underwater swimming, high sea swimming, swimming pool swimming) or even complementary skills (hold breath and underwater swimming). Note that most of these should be self corrected as the game progresses 
-*Balancing characters*: It is important to ensure that all players have relatively balanced characters and no one is "over-qualified". A rough estimation of the skill levels for all characters would be to sum up all skill experience. Simply put, the experience (XP) is the equal to the level value, so a full level 3 skill requires 6 XP from level 0
+**At creation**: All other skills are at level 0.
 
 
 **Training** 
