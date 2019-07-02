@@ -76,7 +76,7 @@ Because of the skills’ fluid dynamics and flexibility, a “learn by doing” 
 **Upgrading**: While the skill level represents how successful the character is using the skill, the skill tier reflects the power, specificity or deeper understanding of the skill. Higher power skills are more difficult to handle, even if the character is experienced with its previous uses. When upgrading a skill tier, you gain:  
   
   1. A higher tier version of the same skill at level 0,
-  2. Training (+1 level) on a skill of the current tier and specialised area.  
+  2. Training (+1 level) on a skill of the same tier and specialised area (before upgrading).  
   3. A new ability at tier 1 and level 0 attached to your skill. These abilities should provide special effects on top of the base skill. 
   
 *For example:*
