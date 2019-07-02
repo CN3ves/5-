@@ -54,13 +54,12 @@ _____
 
 If the attributes are what distinguishes the characters' broad strengths or weaknesses, skills are the fine differences that will make a character unique. Skills refer to anything a character may do *and so include every possible action*, from using weapons and armour to interacting with other creatures and objects. While the attributes are a small set of limited options, the idea is to have a free and fluid skill's list, allowing skills to be made up *on the fly* as required. `Skills measure how good the character is at doing a given action and are defined by their level (mastery) and tier (power)`. Broadly, skills can be divided into the following categories:  
 
-
+<blockquote>
 <details>
-  <blockquote>
   <summary><b>*Combat skills</b>: Use of weapons and armour and well as tactical evaluations</summary>
-  Evade, Dodge, Sword, Feint, Use terrain, etc.
-  </blockquote>
+  <i>Evade, Dodge, Sword, Feint, Use terrain, etc.</i>
 </details>
+</blockquote>
     
     
 > **Combat skills**: Use of weapons and armour and well as tactical evaluations *(Evade, Dodge, Sword, Feint, Use terrain, etc.)*
