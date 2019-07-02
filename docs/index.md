@@ -57,8 +57,11 @@ If the attributes are what distinguishes the characters' broad strengths or weak
 <blockquote>
 <details>
   <summary><b>*Combat skills</b>: Use of weapons and armour and well as tactical evaluations</summary>
-  <i>Evade, Dodge, Sword, Feint, Use terrain, etc.</i>
+  <i>Weapons: Sword, </i><br>
+  <i>Armour:  Evade, Dodge, </i><br>
+  <i>Tactical:  Feint, Use terrain, etc.</i><br>
 </details>
+  
 </blockquote>
     
     
