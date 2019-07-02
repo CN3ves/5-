@@ -16,10 +16,10 @@ _____
   1.5 [Abilities](#15-character-abilities)
 2. [Conflict](#2-conflict)  
   2.1 [Structure](#21-conflict-structure)  
-  2.2 [Actions](#22-conflict-actions)
+  2.2 [Actions](#22-conflict-actions)  
   2.3 [Effects](#23-conflict-effects)
 3. [Other](#3-other)  
-  3.1 [Equipment](#31-equipment)
+  3.1 [Equipment](#31-equipment)  
   3.2 [Scenes](#32-scenes)
 
 _____
@@ -89,16 +89,24 @@ Because of the skills’ fluid dynamics and flexibility, a “learn by doing” 
 **Training**: Characters can only use skills that reflect their concept and background. *An uneducated tribal warrior may automatically fail magic/technological skills and some "civilised" knowledge (dynastic succession rules) and social skills (court etiquette) for example*. However,  the character is allowed to train and study to unlock these skills as fitting the game setting. 
 
 ### 1.5 Character abilities  
+[top](#table-of-contents)  
+
 *For example:*
   
   * Upgrading Sword skill: 1) add sword to the next tier at level 0; 2) level up your axe skill, since both are melee weapons; and 3) gain the iaijutsu ability (counter attack on defence) at level 0 and tier 1.
   * Upgrading Fire spell: 1) add fire spell to the next tier at level 0; 2) level up different magic skill (say water spell); and 3) gain the burning bolt ability (burn condition) at level 0 and tier 1.
   * Upgrading History knowledge: 1) add history knowledge to the next tier at level 0; 2) level up to a different knowledge (say politics); and 3) add the more specialised noble lineages skill (ability) at level 0 and tier 1.
 
-## 2. Conflict resolution
+## 2. Conflict
+### 2.1 Conflict Structure
 [top](#table-of-contents)
 
-This system uses turns to structure the game, where **each turn is made by a single intervention from every player**, giving the opportunity for every player to take an action if he wishes to do so. Importantly, **all actuinf withing a turn occurs simiultaneously** so there is no clear initiative or turn order. At the begging of each turn, the previous actions are resolved, the consequences described and the new situation introduced. **Conflict arises any time the outcome of the players' actions is uncertain**. As such, each conflict should reflect a specific situations matching one of the character's attributes. All conflicts are solved with a narrative approache, where the results from the previous turn inform on the behavior of the NPCs on the next turn. *This is to day that, for example, a dragon does not have to be bashed to a pulp of negative HP to be defeated, its actions are determined by the number of successes and failures the players accumulated during the conflict*. During conflict, **each player is allows to choose two actions each turn** with a potential defense action being called if the character is attacked. Actions are free-form and if the player comes up with an idea, that should be implemented within reason. Basic actions include:
+This system uses turns to structure the game, where **each turn is made by a single intervention from every player**, giving the opportunity for every player to take an action if he wishes to do so. Importantly, **all actuinf withing a turn occurs simiultaneously** so there is no clear initiative or turn order. At the begging of each turn, the previous actions are resolved, the consequences described and the new situation introduced. **Conflict arises any time the outcome of the players' actions is uncertain**. As such, each conflict should reflect a specific situations matching one of the character's attributes. All conflicts are solved with a narrative approache, where the results from the previous turn inform on the behavior of the NPCs on the next turn. *This is to day that, for example, a dragon does not have to be bashed to a pulp of negative HP to be defeated, its actions are determined by the number of successes and failures the players accumulated during the conflict*. 
+
+### 2.2 Conflict actions
+[top](#table-of-contents)  
+
+During conflict, **each player is allows to choose two actions each turn** with a potential defense action being called if the character is attacked. Actions are free-form and if the player comes up with an idea, that should be implemented within reason. Basic actions include:
 
   > **Move action**: cover 1 "space" of movement.  
   > **Attack action**: actively attempt to cause damage to a target (either with sword or word!).  
