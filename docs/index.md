@@ -69,7 +69,7 @@ If the attributes are what distinguishes the characters' broad strengths or weak
 </details>
 
 <details>
-  <summary><b>* Movement skills</b>: Use body movement, dexterity and strength in demanding or risky ways <summary>
+  <summary><b>* Movement skills</b>: Use body movement, dexterity and strength in demanding or risky ways </summary>
   <i>Swim, Climb, Contortionist, Swim, Stealth, Evade, Dodge, etc.</i><br
 </details>
     
@@ -82,13 +82,11 @@ If the attributes are what distinguishes the characters' broad strengths or weak
   <summary><b>* Perception skills</b>: Use of senses, instinct and intuition to notice something </summary>
   <i>Sight, Hearing, Search, Thermal Vision, Sense Motive, etc.</i><br>
 </details>
-</blockquote>
 
 <details>
   <summary><b>* Manipulation skills</b>: Interact with, manipulate and change objects </summary>
   <i>(Use Tool, Repair, Disarm Trap, Forgery, Sabotage, etc.</i><br>
 </details>
-</blockquote>
 
 <details>
   <summary><b>* Education skills</b>: Knowing, remembering and understanding information previously studied</summary>
@@ -100,15 +98,16 @@ If the attributes are what distinguishes the characters' broad strengths or weak
   <i>Impersonation, Gambling, Disguise, First Aid, Herbalism, etc.</i><br>
 </details>
 </blockquote>
+https://ruscumag.wordpress.com/2009/09/16/rpg-design-skill-systems-ii-the-basic-skills/
+https://ruscumag.wordpress.com/2009/09/17/rpg-design-skill-systems-iii-the-optional-skills/
 
 <details>
   <summary><u><i>At Character Creation ...</i></u></summary>
   All skills start at level 0. Select a total of 2 suitable skills from each of the following groups:<br>
   * Combat and Magic/Technological skills (+1 or -1 skill as per Combat attribute).<br>
-  * Professional and Education skills.<br>
   * Social and Perception skills (+1 or -1 skill as per Social attribute).<br>
   * Movement and manipulation skills (+1 or -1 skill as per Explore attribute).<br>
-  Set the chosen skills to level 3. 
+  Set the chosen skills to level 2 and then choose 3 more skills from any list and set them to level 3. 
 </details>
 
 ### 1.4 Character progression  
