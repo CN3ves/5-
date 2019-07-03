@@ -61,11 +61,11 @@ If the attributes are what distinguishes the characters' broad strengths or weak
   <i>Armour:  Padded armour, Leather armour, Hide armour, Chain mail, Scale mail, Breastplate, Ring Mail, Full plate, etc. </i><br>
   <i>Tactical: Feint, Disarm, Grapple, Knock, Push, Use terrain, Distract, Taunt etc.</i><br>
 </details>
+  
+<details>
   <summary><b>* Magic/Technological skills</b>: Understanding the complexities of using supernatural powers or advanced technology </summary>
   <i>Weapons: (Elemental magic, Shielding, Magic Resistance, Counter magic, Alien technology, etc.) </i><br>
- 
 </details>
-  
 </blockquote>
 
 > **Education skills**: Knowing, remembering and understanding information previously studied *(Theology, Alchemy, Metallurgy, Survival, Languages, etc.)*
