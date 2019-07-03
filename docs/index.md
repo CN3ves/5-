@@ -75,7 +75,7 @@ If the attributes are what distinguishes the characters' broad strengths or weak
     
 <details>
   <summary><b>* Social skills</b>: Interact with other sentient creatures to change their perception, opinions and attitudes</summary>
-  <i>Persuasion, Negotiation, Bribery, Intimidation, Rumour-Mongering, etc. </i><br
+  <i>Persuasion, Negotiation, Bribery, Intimidation, Rumour-Mongering, etc. </i><br>
 </details>
   
 <details>
@@ -98,6 +98,7 @@ If the attributes are what distinguishes the characters' broad strengths or weak
   <i>Impersonation, Gambling, Disguise, First Aid, Herbalism, etc.</i><br>
 </details>
 </blockquote>
+
 https://ruscumag.wordpress.com/2009/09/16/rpg-design-skill-systems-ii-the-basic-skills/
 https://ruscumag.wordpress.com/2009/09/17/rpg-design-skill-systems-iii-the-optional-skills/
 
