@@ -64,17 +64,42 @@ If the attributes are what distinguishes the characters' broad strengths or weak
   
 <details>
   <summary><b>* Magic/Technological skills</b>: Understanding the complexities of using supernatural powers or advanced technology </summary>
-  <i>Weapons: (Elemental magic, Shielding, Magic Resistance, Counter magic, Alien technology, etc.) </i><br>
+  <i>Magic: Elemental magic, Shiel, Magic Resistance, Counter magic, Enchant etc. </i><br>
+  <i>Technology:  Alien technology, etc. </i><br>
+</details>
+
+<details>
+  <summary><b>* Movement skills</b>: Use body movement, dexterity and strength in demanding or risky ways <summary>
+  <i>Swim, Climb, Contortionist, Swim, Stealth, Evade, Dodge, etc.</i><br
+</details>
+    
+<details>
+  <summary><b>* Social skills</b>: Interact with other sentient creatures to change their perception, opinions and attitudes</summary>
+  <i>Persuasion, Negotiation, Bribery, Intimidation, Rumour-Mongering, etc. </i><br
+</details>
+  
+<details>
+  <summary><b>* Perception skills</b>: Use of senses, instinct and intuition to notice something </summary>
+  <i>Sight, Hearing, Search, Thermal Vision, Sense Motive, etc.</i><br>
 </details>
 </blockquote>
 
-> **Education skills**: Knowing, remembering and understanding information previously studied *(Theology, Alchemy, Metallurgy, Survival, Languages, etc.)*
-> **Professional skills**: Any type of skills related to a profession, background or speciality *(Impersonation, Gambling, Disguise, First Aid, Herbalism, etc.)* 
+<details>
+  <summary><b>* Manipulation skills</b>: Interact with, manipulate and change objects </summary>
+  <i>(Use Tool, Repair, Disarm Trap, Forgery, Sabotage, etc.</i><br>
+</details>
+</blockquote>
 
-> **Social skills**: Interact with other sentient creatures to change their perception, opinions and attitudes *(Persuasion, Negotiation, Bribery, Intimidation, Rumour-Mongering, etc.)*
-> **Perception skills**: Use of senses, instinct and intuition to notice something *(Sight, Hearing, Search, Thermal Vision, Sense Motive, etc.)*
-> **Movement skills**: Use body movement, dexterity and strength in demanding or risky ways *(Swim, Climb, Contortionist, Swim, Stealth, Evade, Dodge, etc.*)
-> **Manipulation skills**: Interact with, manipulate and change objects *(Use Tool, Repair, Disarm Trap, Forgery, Sabotage, etc.)*
+<details>
+  <summary><b>* Education skills</b>: Knowing, remembering and understanding information previously studied</summary>
+  <i>Theology, Alchemy, Metallurgy, Survival, Languages, etc. </i><br
+</details>
+  
+<details>
+  <summary><b>* Professional skills</b>: Any type of skills related to a profession, background or speciality </summary>
+  <i>Impersonation, Gambling, Disguise, First Aid, Herbalism, etc.</i><br>
+</details>
+</blockquote>
 
 <details>
   <summary><u><i>At Character Creation ...</i></u></summary>
