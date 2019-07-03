@@ -56,45 +56,45 @@ If the attributes are what distinguishes the characters' broad strengths or weak
 
 <blockquote>
 <details>
-  <summary><b>* Combat skills</b>: Use of weapons and armour as well as tactical evaluations</summary>
+  <summary><b>Combat skills</b>: Use of weapons and armour as well as tactical evaluations</summary>
   <i>Weapons: Sword, Spear, Crossbow, Axe, Hammer, Bow, Halberd, Sword, Club, etc. </i><br>
   <i>Armour:  Padded armour, Leather armour, Hide armour, Chain mail, Scale mail, Breastplate, Ring Mail, Full plate, etc. </i><br>
   <i>Tactical: Feint, Disarm, Grapple, Knock, Push, Use terrain, Distract, Taunt etc.</i><br>
 </details>
   
 <details>
-  <summary><b>* Magic/Technological skills</b>: Understanding the complexities of using supernatural powers or advanced technology </summary>
+  <summary><b>Magic/Technological skills</b>: Understanding the complexities of using supernatural powers or advanced technology </summary>
   <i>Magic: Elemental magic, Shiel, Magic Resistance, Counter magic, Enchant etc. </i><br>
   <i>Technology:  Alien technology, etc. </i><br>
 </details>
 
 <details>
-  <summary><b>* Movement skills</b>: Use body movement, dexterity and strength in demanding or risky ways </summary>
-  <i>Swim, Climb, Contortionist, Swim, Stealth, Evade, Dodge, etc.</i><br
+  <summary><b>Movement skills</b>: Use body movement, dexterity and strength in demanding or risky ways </summary>
+  <i>Swim, Climb, Contortionist, Swim, Stealth, Evade, Dodge, etc.</i><br>
 </details>
     
 <details>
-  <summary><b>* Social skills</b>: Interact with other sentient creatures to change their perception, opinions and attitudes</summary>
+  <summary><b>Social skills</b>: Interact with other sentient creatures to change their perception, opinions and attitudes</summary>
   <i>Persuasion, Negotiation, Bribery, Intimidation, Rumour-Mongering, etc. </i><br>
 </details>
   
 <details>
-  <summary><b>* Perception skills</b>: Use of senses, instinct and intuition to notice something </summary>
+  <summary><b>Perception skills</b>: Use of senses, instinct and intuition to notice something </summary>
   <i>Sight, Hearing, Search, Thermal Vision, Sense Motive, etc.</i><br>
 </details>
 
 <details>
-  <summary><b>* Manipulation skills</b>: Interact with, manipulate and change objects </summary>
+  <summary><b>Manipulation skills</b>: Interact with, manipulate and change objects </summary>
   <i>(Use Tool, Repair, Disarm Trap, Forgery, Sabotage, etc.</i><br>
 </details>
 
 <details>
-  <summary><b>* Education skills</b>: Knowing, remembering and understanding information previously studied</summary>
+  <summary><b>Education skills</b>: Knowing, remembering and understanding information previously studied</summary>
   <i>Theology, Alchemy, Metallurgy, Survival, Languages, etc. </i><br
 </details>
   
 <details>
-  <summary><b>* Professional skills</b>: Any type of skills related to a profession, background or speciality </summary>
+  <summary><b>Professional skills</b>: Any type of skills related to a profession, background or speciality </summary>
   <i>Impersonation, Gambling, Disguise, First Aid, Herbalism, etc.</i><br>
 </details>
 </blockquote>
