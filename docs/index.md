@@ -64,43 +64,58 @@ If the attributes are what distinguishes the characters' broad strengths or weak
   
 <details>
   <summary><b>Magic/Technological skills</b>: Understanding the complexities of using supernatural powers or advanced technology </summary>
-  <i>Magic: Elemental magic, Shiel, Magic Resistance, Counter magic, Enchant etc. </i><br>
-  <i>Technology:  Alien technology, etc. </i><br>
+  <i>Magic: Elemental magic, Power Gathering, Shield, Magic Resistance, Counter magic, Enchant, Enhance, Ritual casting, Mind control, etc. </i><br>
+  <i>Technology: Laser weapons, Power armour, Spacecrafts, Alien technology, Plasma weapons, etc. </i><br>
 </details>
 
 <details>
   <summary><b>Movement skills</b>: Use body movement, dexterity and strength in demanding or risky ways </summary>
-  <i>Swim, Climb, Contortionist, Swim, Stealth, Evade, Dodge, etc.</i><br>
+  <i>Endurance: Run, Fly, Swim, Borrow, Climb, Brachiate, etc.</i><br>
+  <i>Reflex: Evade, Dodge, Contortionist, Escape Artist, etc.</i><br>
+  <i>Discretion: Stealth, Hide, Move Silently, Secret gesture, Tailing, Countermeasures, etc.</i><br>
 </details>
     
 <details>
   <summary><b>Social skills</b>: Interact with other sentient creatures to change their perception, opinions and attitudes</summary>
-  <i>Persuasion, Negotiation, Bribery, Intimidation, Rumour-Mongering, etc. </i><br>
+  <i> Convince: Persuasion, Bluffs, Trickery, Fast Talk, Seduction,  Command, Leadership, etc. </i><br>
+  <i> Threaten: Intimidation, Whisper, Rumour-Mongering, etc. </i><br>
+  <i> Negotiate: Bribery, Bargaining, Connections, etc. </i><br>
 </details>
   
 <details>
   <summary><b>Perception skills</b>: Use of senses, instinct and intuition to notice something </summary>
-  <i>Sight, Hearing, Search, Thermal Vision, Sense Motive, etc.</i><br>
+  <i>Passive senses: Seeing, Hearing, Touching, Tasting, Smelling, Low-ligh vision, Darkvision, etc.</i><br>
+  <i>Enhanced senses: Chemical detection, Sense vibrations, Sense magic, Sense life, Sense magnetic fields, etc.</i><br>
+  <i>Active search: Sense Motive, Patrol, Vigilant, Search, Reading Body, Lipreading, Investigation, etc.</i><br>
 </details>
 
 <details>
   <summary><b>Manipulation skills</b>: Interact with, manipulate and change objects </summary>
-  <i>(Use Tool, Repair, Disarm Trap, Forgery, Sabotage, etc.</i><br>
+  <i>Destroy: Force, Apply Strength, Disarm Trap, Sabotage, Lock pick etc.</i><br>
+  <i>Repair:  Use tolls</i><br>
+  
 </details>
 
 <details>
-  <summary><b>Education skills</b>: Knowing, remembering and understanding information previously studied</summary>
-  <i>Theology, Alchemy, Metallurgy, Survival, Languages, etc. </i><br
+  <summary><b>Knowledge skills</b>: Knowing, remembering and understanding information previously studied</summary>
+  <i>Wilderness: Herbalist, Animal Handling, Survival, Weatherlore, Hunting, Navigation, Camping, etc. </i><br>
+  <i>Academic: Arcane, Potions, Enchantments, Theology, History, etc. </i><br>
+  <i>Linguistics: Languages, Runes, Dechiper, etc. </i><br>
+  <i>Professional: Alchemy, Metallurgy, Clockwork, etc. </i><br>
 </details>
-  
+ 
+ 
+
 <details>
-  <summary><b>Professional skills</b>: Any type of skills related to a profession, background or speciality </summary>
-  <i>Impersonation, Gambling, Disguise, First Aid, Herbalism, etc.</i><br>
+  <summary><b>Technical skills</b>: Any type of skills related to a profession, background or speciality </summary>
+  <i>Thief: Impersonation, Gambling, Forgery, Disguise, Counterfeiting, etc.</i><br>
+  <i>Medic: First Aid, Medicine, Surgery etc.</i><br>
+  <i>Transports:Piloting, Sailing, Drive, Operate, Ride etc.</i><br>
+  <i>Producer: Cartography, Calligraphy, Gunnery, Blacksmithing, Brewing, Baking, etc.</i><br>
+  <i>Artist: Graphic Arts, Painting, Poetry, Sing, Dance, Acting, Improvisation, etc.</i><br>
 </details>
 </blockquote>
 
-https://ruscumag.wordpress.com/2009/09/16/rpg-design-skill-systems-ii-the-basic-skills/
-https://ruscumag.wordpress.com/2009/09/17/rpg-design-skill-systems-iii-the-optional-skills/
 
 <details>
   <summary><u><i>At Character Creation ...</i></u></summary>
