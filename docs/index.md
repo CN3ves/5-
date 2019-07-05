@@ -30,7 +30,7 @@ _____
   
   1. Define the character concept using a two or three word description. *For example, you can consider the common race/class/specialization as a starting point (Elven Wizard of Illusion) or add adjectives to your background (Educated and Charming Noble)*. 
   2. Choose the character's general [strength and weakness](#12-character-attributes), if any. *In what type of situations would the character feel more comfortable?*
-  3. Think how you wish to roleplay the character, and what [sort of actions](#13-character-skills) you'd want it to do. *Will the character walks in the shadows, spying on his enemies? Or will it solve most problems at sword's point?*
+  3. Think how you wish to role-play the character, and what [sort of actions](#13-character-skills) you'd want it to do. *Will the character walks in the shadows, spying on his enemies? Or will it solve most problems at sword's point?*
   4. Determine if there are any defining characteristics that distinguishes the character. *For example, are there any inheritable racial features, or particular cultural or professional skills that may be acquired? Perhaps some personal ability gained from past experiences?*
   5. Consider how your character will react to the ever increasing frustration and stress of adventuring. *How does the character behave under stress or when the frustration is too just too much to handle?*
 
@@ -41,12 +41,12 @@ Attributes reflect the general aptitudes the character have for [*specific situa
 
 > **Brawl**: Reflects an extensive battle and combat training, both psychical and mental. Influences the character's effectiveness when in violent confrontation with other creatures *(combat situations)*. 
   
-> **Mingle**: Reflects an extensive understanding of others' motives, desires and feelings. Influences the character's effectiveness when interating non-violently with sentient creatures *(social situations)*. 
+> **Mingle**: Reflects an extensive understanding of others' motives, desires and feelings. Influences the character's effectiveness when interacting non-violently with sentient creatures *(social situations)*. 
   
 > **Check**: Reflects a particular eye for details and understanding what they mean. Influences the character's effectiveness when dealing with objects and finding out-of-place details *(other situations)*.
 <details>
   <summary><u><i>At Character Creation...</i></u></summary>
-  All attributes are set to 0, reflecting an average effectiveness for each type situation. A player can choose one single attribute that his character excels at (+1), by sacrificing another attribute (-1), indicating that the character spent more time than usual doing one type of situation, and consequently less time than usual practicing the other.
+  All attributes are set to 0, reflecting an average effectiveness for each type situation. A player can choose one single attribute that his character excels at (+1), by sacrificing another attribute (-1), indicating that the character spent more time than usual doing one type of situation, and consequently less time than usual practising the other.
 </details>
 
 ### 1.3 Character skills
@@ -67,7 +67,7 @@ For example, skills could be broadly divided into the following categories:
 <details>
   <summary><b>Magic/Technological skills</b>: Understanding the complexities of using supernatural powers or advanced technology </summary>
   <i>Magic: Elemental magic, Power Gathering, Shield, Magic Resistance, Counter magic, Enchant, Enhance, Ritual casting, Mind control, Illusion magic, etc. </i><br>
-  <i>Technology: Laser weapons, Power armour, Spacecrafts, Alien technology, Plasma weapons, Holograms, etc. </i><br>
+  <i>Technology: Laser weapons, Power armour, Spacecraft, Alien technology, Plasma weapons, Holograms, etc. </i><br>
 </details>
 
 <details>
@@ -86,9 +86,9 @@ For example, skills could be broadly divided into the following categories:
   
 <details>
   <summary><b>Perception skills</b>: Use of senses, instinct and intuition to notice something </summary>
-  <i>Passive senses: Spto, Listening, Touching, Tasting, Smelling, Low-ligh vision, Darkvision, Concentration, etc.</i><br>
+  <i>Passive senses: Spto, Listening, Touching, Tasting, Smelling, Low-light vision, Darkvision, Concentration, etc.</i><br>
   <i>Enhanced senses: Chemical detection, Sense vibrations, Sense magic, Sense life, Sense magnetic fields, etc.</i><br>
-  <i>Active search: Sense Motive, Insight, Patrol, Vigilant, Search, Reading Body, Lipreading, Investigation, Eavesdropping, etc.</i><br>
+  <i>Active search: Sense Motive, Insight, Patrol, Vigilant, Search, Reading Body, Lip-reading, Investigation, Eavesdropping, etc.</i><br>
 </details>
 
 <details>
@@ -100,7 +100,7 @@ For example, skills could be broadly divided into the following categories:
 
 <details>
   <summary><b>Knowledge skills</b>: Knowing, remembering and understanding information previously studied</summary>
-  <i>Wilderness: Herbalist, Survival, Weatherlore, Hunting, Navigation, Camping, etc. </i><br>
+  <i>Wilderness: Herbalist, Survival, Weather-lore, Hunting, Navigation, Camping, etc. </i><br>
   <i>Academic: Arcane, Potions, Enchantments, Theology, History, etc. </i><br>
   <i>Linguistics: Languages, Runes, Decipher Script, etc. </i><br>
   <i>Professional: Alchemy, Metallurgy, Clockwork, etc. </i><br>
@@ -113,7 +113,7 @@ For example, skills could be broadly divided into the following categories:
   <i>Thief: Impersonation, Gambling, Forgery, Disguise, Counterfeiting, etc.</i><br>
   <i>Medic: First Aid, Medicine, Heal, Surgery etc.</i><br>
   <i>Transports:Piloting, Sailing, Drive, Operate, Ride, etc.</i><br>
-  <i>Professional: Cartography, Calligraphy, Craft, Gunnery, Blacksmithing, Brewing, Baking, Enchanting, Spellcraft, etc.</i><br>
+  <i>Crafts: Cartography, Calligraphy, Gunnery, Blacksmithing, Brewing, Baking, Enchanting, Spell-craft, etc.</i><br>
   <i>Artist: Graphic Arts, Painting, Poetry, Sing, Perform, Dance, Acting, Improvisation, etc.</i><br>
 </details>
 </blockquote>
@@ -142,14 +142,14 @@ A “learn by doing” levelling system is suitable for the intended skills’ f
   2. Training (+1 level) on another skill of the tier before upgrading.  
   3. A new ability at tier 0 and level 0 attached to your skill. These abilities should provide special effects on top of the base skill. 
 
-*For example*: A character with the Use Poisons skills at tier 0 and level 3 rolls double 4s. As such, the character upgrades the skill from Use Poisons(3) to Use Poisons(4:0). This notation shows the level of the skill for each tier unlocked, so if the player may use Use Poisons at tier 0 level 4 or at tier 1 level 0, depending on the situation, since these tiers reflect the use of more powerfull poisons and the different [safety methods associated with handling them](https://en.wikipedia.org/wiki/Biosafety_level). 
+*For example*: A character with the Use Poisons skills at tier 0 and level 3 rolls double 4s. As such, the character upgrades the skill from Use Poisons(3) to Use Poisons(4:0). This notation shows the level of the skill for each tier unlocked, so if the player may use Use Poisons at tier 0 level 4 or at tier 1 level 0, depending on the situation, since these tiers reflect the use of stronger poisons and the different [safety methods associated with handling them](https://en.wikipedia.org/wiki/Biosafety_level). 
   
 **Training**: Characters can only use skills that reflect their concept and background. *An uneducated tribal warrior may automatically fail magic/technological skills and some "civilised" knowledge (dynastic succession rules) and social skills (court etiquette) for example*. As such, all characters are considered untrained in these skills unless otherwised stated. All characters are allowed to train and study to unlock skills as fitting to the story and game setting. 
 
 ### 1.5 Character abilities  
 [top](#table-of-contents)  
 
-With skills being all the actions that a charatcer may do, abilities are the extra twist the charatcer adds to the skill. Abilites provide the opportunity to add special effects to a skill, reflecting the character improvement and mastery, his personal take on the way skills can be used. As such, abilities are *attached* to a given skill. Despide the similarities, abilities progression differes from skill progression as:  
+With skills being all the actions that a character may do, abilities are the extra twist the character adds to the skill. Abilities provide the opportunity to add special effects to a skill, reflecting the character improvement and mastery, his personal take on the way skills can be used. As such, abilities are *attached* to a given skill. Despite the similarities, abilities progression differs from skill progression as:  
   
   1. Abilities' level is capped to -1 the level of the skill it is attached. As such, that do not reach the maximum level (roll double 6 only to level up) and do not provide the maximum level +1 bonus.
   2. Upgrading an ability to the next tier does not provide training to a skill or a new ability, it simply unlocks a more higher tier version of the ability. 
@@ -158,7 +158,7 @@ With skills being all the actions that a charatcer may do, abilities are the ext
   
   * Upgrading Sword skill you may gain the Iaijutsu ability (counter attack on defence).
   * Upgrading Fire spell: you may gain the Burning Bolt ability (burn condition) or Fire Ball (+1 target). 
-  * Upgrading History knowledge:you may gain the more specialised  kowledge about Noble Families (ability).
+  * Upgrading History knowledge:you may gain the more specialised knowledge about Noble Families (ability).
 
 
 ## 2. Conflict
