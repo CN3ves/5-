@@ -188,7 +188,7 @@ As such, abilities are *attached* to a given skill. Despite the similarities, ab
 This system uses turns to structure the game, where **each turn is made by a single intervention from every player**, giving the opportunity for every player to take an action if he wishes to do so. Importantly, **all actions withing a turn occurs simiultaneously** so there is no clear initiative or turn order. At the begging of each turn, the previous actions are resolved, the consequences described and the new situation introduced. **Conflict arises any time the outcome of the players' actions is uncertain**. As such, each conflict should reflect a specific situations matching one of the [character's attributes](#12-character-attributes). 
 
 <details><summary>All conflicts are solved with a narrative, <a href="https://www.dndbeyond.com/posts/355-how-to-run-combat-in-the-theater-of-the-mind">theater of the mind</a> approach, where the results from the previous turn inform on the behavior of the NPCs on the next turn.</summary>
-  <i>This is to say that, for example, a dragon does not have to be bashed to a pulp of negative HP to be defeated, its actions are determined by the number of successes and failures the players accumulated during the conflict, where each success reflect a new action, approach or consideration noticeable by the players.<i></details>
+  <i>This is to say that, for example, a dragon does not have to be bashed to a pulp of negative HP to be defeated, its actions are determined by the number of successes and failures the players accumulated during the conflict, where each success reflect a new action, approach or consideration noticeable by the players.</i></details>
     
 
 ### 2.2 Conflict actions
