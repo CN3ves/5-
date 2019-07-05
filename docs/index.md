@@ -250,15 +250,11 @@ ___
 <details><summary>Situational: +1 bonuses and -1 penalties may be applied depending on conditions affecting the character or to particular action difficulties.</summary>
 <i>If the character gets into a tavern brawl with drunk clients, then maybe it is easier to dodge and a +1 bonus is applied. Likewise, dodging a goblin's sword is a normal effort, so no change is applied, but dodging a giant's sweeping club, is probably more difficult, providing a -1 penalty.</i></details>
 
-<details>Fatigue: each time a skill is used and fails, a cummulative -1 fatigue penalty is added to the skill<summary></summary>
-<i>If a character uses the same skill continuously</i></details>
+<details><summary>Fatigue: each time a skill is usedm if a 6 is rolled, a cummulative -1 fatigue penalty is added to the skill, preventing the character from constantly using the same skill.</summary>
+<i>If a character with the climb skill level 3 continuous to climb a mountain, he will risk becoming fatigated. For example, the player rolls a 6, getting a -1 penalty on the climbing skill. If the plawes was to roll another 6, the character would have accumulated a -2 fatigue penalty</i></details>
 
-
-
-**abilities**
-abilitiesa are attached to skills:
-if an ability fail, it defaults to the base skill for success, but with a drawback
-
+<details><summary><b>Abilities<b>: Abilities work a bit differently than skills because they represent a special use of a given skill. As such, if an ability succeds, the additional effect occurs, while if it fails, the roll defaults to the original skill with a drawback effect. </summary>
+<i>A charatcer attemps to use his Iaijutsu counter ability and fails. He will not be able to conter-attack his target, but his sword skills may still be successful as the ability check defaults to the attched skill. This means that the character may still do the regular skill effect. However, attempting to use the skill set the character off-balance and he will have a drawback of -1 defense penalty from failing it, regardelss of the result of the base skill (sword) </i></details>
 
 
 ### 2.4 Conflict effects
