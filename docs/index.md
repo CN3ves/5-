@@ -161,7 +161,8 @@ A “learn by doing” levelling system is suitable for the intended skills’ f
   <details>
   <summary>1. A higher tier version of the same skill at level 0 (but you maintain the previous skill!)</summary>
   <i>For example a character with the Use Poisons skills at tier 0 and level 3 rolls double 4s. As such, the character upgrades the skill from Use Poisons(3) to Use Poisons(4:0). This notation shows the level of the skill for each tier unlocked, so if the player may use Use Poisons at tier 0 level 4 or at tier 1 level 0, depending on the situation, since these tiers reflect the use of stronger poisons and the different safety methods associated with handling them.</i> 
-  </details>
+  </details>  
+  
   2. Training (+1 level) on another skill of the tier before upgrading.    
   3. A new [ability](#15-character-abilities) at tier 0 and level 0 attached to your skill. These abilities should provide special effects on top of the base skill.   
 
