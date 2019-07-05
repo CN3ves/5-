@@ -17,7 +17,7 @@ _____
 2. [Conflict](#2-conflict)  
   2.1 [Structure](#21-conflict-structure)  
   2.2 [Actions](#22-conflict-actions)  
-  2.3 [Resolution](23-conflict-resolution)
+  2.3 [Resolution](#23-conflict-resolution)  
   2.4 [Effects](#24-conflict-effects)
 3. [Other](#3-other)  
   3.1 [Equipment](#31-equipment)  
