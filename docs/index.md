@@ -26,7 +26,8 @@ _____
 _____
 
 ## 1. Characters  
-### 1.1 Character Creation  *([top](#table-of-contents))*
+### 1.1 Character Creation  
+[go to top](#table-of-contents)
 
 <details>
   <summary>1. Define the character concept using a two or three word description.</summary>
@@ -54,7 +55,7 @@ _____
 </details>
   
 ### 1.2 Character attributes
-[top](#table-of-contents)  
+[go to top](#table-of-contents)
 
 Attributes reflect the general aptitudes the character have for [*specific situations*](#21-conflict-structure). These mostly remain constant throughout the character's adventuring life:  
 
@@ -69,7 +70,7 @@ Attributes reflect the general aptitudes the character have for [*specific situa
 </details>
 
 ### 1.3 Character skills
-[top](#table-of-contents)  
+[go to top](#table-of-contents)
 
 If the attributes are what distinguishes the characters' broad strengths or weaknesses, skills are the fine differences that will make a character unique. Skills refer to anything a character may do *and so include every possible action* that can fail and be improved, from using weapons and armour to interacting with other creatures and objects. While the attributes are a small set of limited options, the idea is to have a free and fluid skill's list, allowing skills to be made up *on the fly* as required. Skills measure how good the character is at doing a given action and are defined by their level (mastery) and tier (power). 
 
@@ -147,7 +148,7 @@ For example, skills could be broadly divided into the following categories:
 </details>
 
 ### 1.4 Character progression  
-[top](#table-of-contents)  
+[go to top](#table-of-contents)
 
 A “learn by doing” levelling system is suitable for the intended skills’ fluid dynamics and flexibility:  
   
@@ -157,16 +158,18 @@ A “learn by doing” levelling system is suitable for the intended skills’ f
   
 **Upgrading**: While the skill level represents how successful the character is using the skill, the skill tier reflects the power, specificity, methodology and deeper understanding of the skill. Higher power and more advanced methods are more difficult to handle. When upgrading a skill tier, you gain:  
   
-  1. A higher tier version of the same skill at level 0 (but you maintain the previous skill!)
+  1. <details>
+  <summary>A higher tier version of the same skill at level 0 (but you maintain the previous skill!)</summar>
+  <i>For example a character with the Use Poisons skills at tier 0 and level 3 rolls double 4s. As such, the character upgrades the skill from Use Poisons(3) to Use Poisons(4:0). This notation shows the level of the skill for each tier unlocked, so if the player may use Use Poisons at tier 0 level 4 or at tier 1 level 0, depending on the situation, since these tiers reflect the use of stronger poisons and the different safety methods associated with handling them.</i> 
+  </details>
   2. Training (+1 level) on another skill of the tier before upgrading.  
   3. A new ability at tier 0 and level 0 attached to your skill. These abilities should provide special effects on top of the base skill. 
 
-*For example*: A character with the Use Poisons skills at tier 0 and level 3 rolls double 4s. As such, the character upgrades the skill from Use Poisons(3) to Use Poisons(4:0). This notation shows the level of the skill for each tier unlocked, so if the player may use Use Poisons at tier 0 level 4 or at tier 1 level 0, depending on the situation, since these tiers reflect the use of stronger poisons and the different [safety methods associated with handling them](https://en.wikipedia.org/wiki/Biosafety_level). 
-  
+
 **Training**: Characters can only use skills that reflect their concept and background. *An uneducated tribal warrior may automatically fail magic/technological skills and some "civilised" knowledge (dynastic succession rules) and social skills (court etiquette) for example*. As such, all characters are considered untrained in these skills unless otherwised stated. All characters are allowed to train and study to unlock skills as fitting to the story and game setting. 
 
 ### 1.5 Character abilities  
-[top](#table-of-contents)  
+[go to top](#table-of-contents)
 
 With skills being all the actions that a character may do, abilities are the extra twist the character adds to the skill. Abilities provide the opportunity to add special effects to a skill, reflecting the character improvement and mastery, his personal take on the way skills can be used. As such, abilities are *attached* to a given skill. Despite the similarities, abilities progression differs from skill progression as:  
   
@@ -182,12 +185,12 @@ With skills being all the actions that a character may do, abilities are the ext
 
 ## 2. Conflict
 ### 2.1 Conflict Structure
-[top](#table-of-contents)
+[go to top](#table-of-contents)
 
 This system uses turns to structure the game, where **each turn is made by a single intervention from every player**, giving the opportunity for every player to take an action if he wishes to do so. Importantly, **all actions withing a turn occurs simiultaneously** so there is no clear initiative or turn order. At the begging of each turn, the previous actions are resolved, the consequences described and the new situation introduced. **Conflict arises any time the outcome of the players' actions is uncertain**. As such, each conflict should reflect a specific situations matching one of the [character's attributes](#12-character-attributes). All conflicts are solved with a narrative approach, where the results from the previous turn inform on the behavior of the NPCs on the next turn. *This is to say that, for example, a dragon does not have to be bashed to a pulp of negative HP to be defeated, its actions are determined by the number of successes and failures the players accumulated during the conflict, where each success reflect a new action, approach or consideration noticeable by the players*. 
 
 ### 2.2 Conflict actions
-[top](#table-of-contents)  
+[go to top](#table-of-contents)
 
 During conflict, **each player is allowed to move and choose one other actions each turn** with a potential defense action being called if the character is attacked. Actions are free-form and if the player comes up with an idea, that should be implemented within reason. Basic actions include:
 
@@ -239,7 +242,7 @@ if an ability fail, it defaults to the base skill for success, but with a drawba
 
 
 ## 2.3 Conflict Resolution
-[top](#table-of-contents)  
+[go to top](#table-of-contents)
 
 > **Success range**: The original method to estimate the success range is to add 5 to the resulting modifier (bonus and penalties). When rolling 2d6, any resulting sum that falls between 5 and that number (inclusive) is a success.
 After some drinks in this tavern, I feel like exploring a bit more this new city and try to go to the next tavern. I have two levels of drunken walking so:
@@ -258,7 +261,7 @@ Two things of notice:
 5) The ever increased strain penalty
 
 ### 2.4 Conflict effects
-[top](#table-of-contents)  
+[go to top](#table-of-contents)
 
 
 > Besides deciding on what actions to do, players may also decide to call on an effect. Effects arise when handling failure or as a result of a condition acquired by the player. Calling on an effect generally allows players to make tradeoffs, temporally removing the default effect. For example, consider how you can:
@@ -294,7 +297,7 @@ So far, there are four types of damage characters are subjected to: temporary st
 
 ## 3. Other
 ### 3.1 Equipment
-[top](#table-of-contents)  
+[go to top](#table-of-contents)
 
 > In this system, characters do not level up or gain quanta of power at certain points in a deterministic way. They age and gain experience as one does! Characters can progress, or improve, in 3 different ways: gain experience with skills, acquire better equipment and learn new abilities.
 
@@ -312,7 +315,7 @@ Since the skill level is naturally capped at 5 by the way the system works, and 
 * Other: Any item can be relevant without changing the character stats or adding any magical descriptor. Walkie-talkies can have their mundane function and simply allow easier communication, where easier communication can then be used to set up ambushes.
 
 ### 3.2 Scenes
-[top](#table-of-contents)  
+[go to top](#table-of-contents)
 
 
 > **What do you see?**: After introducing any new scene, place or situation, the players should be asked what they see: Do you spot someone in the corner table? Is there something strange in the wall? Are all the books arranged strangely? Players should have the opportunity to contribute with interesting details in every scene, if nothing else just to add new descriptions to bring out different things about the places they visit.
