@@ -51,7 +51,7 @@ _____
   
 <details>
   <summary>5. Consider how your character will react to the ever increasing frustration and stress of adventuring.</summary>
-  <i>How does the character behave under stress or when the frustration is too just too much to handle?</i>
+  <i>How does the character behave under stress or when the frustration is too just too much to handle? Will it retreat from society or pray to the gods? Will the character become agressive and arrogant? Will it just break down and cry itself to sleep?</i>
 </details>
   
 ### 1.2 Character attributes
