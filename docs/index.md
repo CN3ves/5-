@@ -171,16 +171,18 @@ A “learn by doing” levelling system is suitable for the intended skills’ f
 ### 1.5 Character abilities  
 [go to top](#table-of-contents)
 
-With skills being all the actions that a character may do, abilities are the extra twist the character adds to the skill. Abilities provide the opportunity to add special effects to a skill, reflecting the character improvement and mastery, his personal take on the way skills can be used. As such, abilities are *attached* to a given skill. Despite the similarities, abilities progression differs from skill progression as:  
+<details><summary>With skills being all the actions that a character may do, abilities are the extra twist the character adds to the skill. Abilities provide the opportunity to add special effects to a skill, reflecting the character improvement and mastery, his personal take on the way skills can be used. </summary>
+  <i> For example:
+  * Upgrading Sword skill you may gain the Iaijutsu ability (counter attack on defence).
+  * Upgrading Fire spell: you may gain the Burning Bolt ability (burn condition) or Fire Ball (+1 target). 
+  * Upgrading History knowledge:you may gain the more specialised knowledge about Noble Families (ability).</i> 
+  </details>  
+As such, abilities are *attached* to a given skill. Despite the similarities, abilities progression differs from skill progression as:  
   
   1. Abilities' level is capped to -1 the level of the skill it is attached. As such, that do not reach the maximum level (roll double 6 only to level up) and do not provide the maximum level +1 bonus.
   2. Upgrading an ability to the next tier does not provide training to a skill or a new ability, it simply unlocks a more higher tier version of the ability. 
 
-*For example:*
-  
-  * Upgrading Sword skill you may gain the Iaijutsu ability (counter attack on defence).
-  * Upgrading Fire spell: you may gain the Burning Bolt ability (burn condition) or Fire Ball (+1 target). 
-  * Upgrading History knowledge:you may gain the more specialised knowledge about Noble Families (ability).
+
 
 
 ## 2. Conflict
