@@ -39,11 +39,11 @@ _____
 
 Attributes reflect the general aptitudes the character have for [*specific situations*](#21-conflict-structure). These mostly remain constant throughout the character's adventuring life:  
 
-> **Fight**: Reflects an extensive battle and combat training, both psychical and mental. Influences the character's effectiveness when in violent confrontation with other creatures *(combat situations)*. 
+> **Brawl**: Reflects an extensive battle and combat training, both psychical and mental. Influences the character's effectiveness when in violent confrontation with other creatures *(combat situations)*. 
   
 > **Mingle**: Reflects an extensive understanding of others' motives, desires and feelings. Influences the character's effectiveness when interating non-violently with sentient creatures *(social situations)*. 
   
-> **Explore**: Reflects a particular eye for details and understanding what they mean. Influences the character's effectiveness when dealing with objects and finding out-of-place details *(other situations)*.
+> **Check**: Reflects a particular eye for details and understanding what they mean. Influences the character's effectiveness when dealing with objects and finding out-of-place details *(other situations)*.
 <details>
   <summary><u><i>At Character Creation...</i></u></summary>
   All attributes are set to 0, reflecting an average effectiveness for each type situation. A player can choose one single attribute that his character excels at (+1), by sacrificing another attribute (-1), indicating that the character spent more time than usual doing one type of situation, and consequently less time than usual practicing the other.
@@ -54,8 +54,7 @@ Attributes reflect the general aptitudes the character have for [*specific situa
 
 If the attributes are what distinguishes the characters' broad strengths or weaknesses, skills are the fine differences that will make a character unique. Skills refer to anything a character may do *and so include every possible action* that can fail and be improved, from using weapons and armour to interacting with other creatures and objects. While the attributes are a small set of limited options, the idea is to have a free and fluid skill's list, allowing skills to be made up *on the fly* as required. Skills measure how good the character is at doing a given action and are defined by their level (mastery) and tier (power). 
 
-<details>
-  <summary>For example, skills could be broadly divided into the following categories: </summary>
+For example, skills could be broadly divided into the following categories:
 
 <blockquote>
 <details>
@@ -119,7 +118,6 @@ If the attributes are what distinguishes the characters' broad strengths or weak
 </details>
 </blockquote>
 
-</details>
 
 <details>
   <summary><u><i>At Character Creation ...</i></u></summary>
