@@ -26,7 +26,7 @@ _____
 _____
 
 ## 1. Characters  
-### 1.1 Character Creation  ([top](#table-of-contents))
+### 1.1 Character Creation  *([top](#table-of-contents))*
 
 <details>
   <summary>1. Define the character concept using a two or three word description.</summary>
