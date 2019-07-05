@@ -158,15 +158,15 @@ A “learn by doing” levelling system is suitable for the intended skills’ f
   
 **Upgrading**: While the skill level represents how successful the character is using the skill, the skill tier reflects the power, specificity, methodology and deeper understanding of the skill. Higher power and more advanced methods are more difficult to handle. When upgrading a skill tier, you gain:  
   
-  <details>
-  <summary>1. A higher tier version of the same skill at level 0 (but you maintain the previous skill!)</summary>
+  1. Training (+1 level) on another skill of the current tier.    
+  2. A new [ability](#15-character-abilities) at tier 0 and level 0 attached to your skill. These abilities should provide special effects on top of the base skill.   
+  <details><summary>3. A higher tier version of the same skill at level 0 (but you maintain the previous skill!)</summary>
   <i>For example a character with the Use Poisons skills at tier 0 and level 3 rolls double 4s. As such, the character upgrades the skill from Use Poisons(3) to Use Poisons(4:0). This notation shows the level of the skill for each tier unlocked, so if the player may use Use Poisons at tier 0 level 4 or at tier 1 level 0, depending on the situation, since these tiers reflect the use of stronger poisons and the different safety methods associated with handling them.</i> 
   </details>  
-  
-  2. Training (+1 level) on another skill of the tier before upgrading.    
-  3. A new [ability](#15-character-abilities) at tier 0 and level 0 attached to your skill. These abilities should provide special effects on top of the base skill.   
 
-**Training**: Characters can only use skills that reflect their concept and background. *An uneducated tribal warrior may automatically fail magic/technological skills and some "civilised" knowledge (dynastic succession rules) and social skills (court etiquette) for example*. As such, all characters are considered untrained in these skills unless otherwised stated. All characters are allowed to train and study to unlock skills as fitting to the story and game setting. 
+**Training**: <details><summary>Characters can only use skills that reflect their concept and background. As such, all characters are considered untrained in these skills unless otherwised stated. All characters are allowed to train and study to unlock skills as fitting to the story and game setting. </summary>
+  <i>An uneducated tribal warrior may automatically fail magic/technological skills and some "civilised" knowledge (dynastic succession rules) and social skills (court etiquette) for example</i> 
+  </details>  
 
 ### 1.5 Character abilities  
 [go to top](#table-of-contents)
