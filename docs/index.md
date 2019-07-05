@@ -17,7 +17,8 @@ _____
 2. [Conflict](#2-conflict)  
   2.1 [Structure](#21-conflict-structure)  
   2.2 [Actions](#22-conflict-actions)  
-  2.3 [Effects](#23-conflict-effects)
+  2.3 [Resolution](23-conflict-resolution)
+  2.4 [Effects](#24-conflict-effects)
 3. [Other](#3-other)  
   3.1 [Equipment](#31-equipment)  
   3.2 [Scenes](#32-scenes)
@@ -165,20 +166,25 @@ With skills being all the actions that a character may do, abilities are the ext
 ### 2.1 Conflict Structure
 [top](#table-of-contents)
 
-This system uses turns to structure the game, where **each turn is made by a single intervention from every player**, giving the opportunity for every player to take an action if he wishes to do so. Importantly, **all actuinf withing a turn occurs simiultaneously** so there is no clear initiative or turn order. At the begging of each turn, the previous actions are resolved, the consequences described and the new situation introduced. **Conflict arises any time the outcome of the players' actions is uncertain**. As such, each conflict should reflect a specific situations matching one of the character's attributes. All conflicts are solved with a narrative approache, where the results from the previous turn inform on the behavior of the NPCs on the next turn. *This is to day that, for example, a dragon does not have to be bashed to a pulp of negative HP to be defeated, its actions are determined by the number of successes and failures the players accumulated during the conflict*. 
+This system uses turns to structure the game, where **each turn is made by a single intervention from every player**, giving the opportunity for every player to take an action if he wishes to do so. Importantly, **all actions withing a turn occurs simiultaneously** so there is no clear initiative or turn order. At the begging of each turn, the previous actions are resolved, the consequences described and the new situation introduced. **Conflict arises any time the outcome of the players' actions is uncertain**. As such, each conflict should reflect a specific situations matching one of the [character's attributes](#12-character-attributes). All conflicts are solved with a narrative approach, where the results from the previous turn inform on the behavior of the NPCs on the next turn. *This is to say that, for example, a dragon does not have to be bashed to a pulp of negative HP to be defeated, its actions are determined by the number of successes and failures the players accumulated during the conflict, where each success reflect a new action, approach or consideration noticeable by the players*. 
 
 ### 2.2 Conflict actions
 [top](#table-of-contents)  
 
-During conflict, **each player is allows to choose two actions each turn** with a potential defense action being called if the character is attacked. Actions are free-form and if the player comes up with an idea, that should be implemented within reason. Basic actions include:
+During conflict, **each player is allowed to move and choose one other actions each turn** with a potential defense action being called if the character is attacked. Actions are free-form and if the player comes up with an idea, that should be implemented within reason. Basic actions include:
 
   > **Move action**: cover 1 "space" of movement.  
-  > **Attack action**: actively attempt to cause damage to a target (either with sword or word!).  
-  > **Defence action**: protect from and adversary's attack or insult.  
+  > **Attack action**: actively attempt to cause damage to a target (either with sword or word!)  
+  > **Defence action**: protect from and adversary's attack or insult (dodge, evade, shield, etc.)  
   > **Manoeuver action**: try to impose a disadvantage on a target (disarm, hide, gain terrain advantage, etc.)  
   > **Interact action**: interact with items, be it picking them from the floor or from a bag, reloading a weapon or drinking a potion, etc.  
   > **Recover action**:** recover from a previous attack or simply fall back to overview the battle field or catch some breath
-  .
+  
+**Stances**: However, given the limited scope of these basic actions, the players may attempt to take a spefific stances, adding more strategic options. Stances reflect how the character is currently approaching conflict. Based on the intended approach, the player can call a stance [effect](#24-conflict-effects) to: 
+  
+  * Gamble an action for additional bonus. *An agressive player may wish to gamble away the defence action to attempt a new attack, depending on the first attack being successful or a spellcaster may gamble away his success in order to attack an extra target*.
+  * Shifting bonus and penalties to improve a specific action. *A defensive character may wish to take a +1 defensive bonus in exchange for a -1 attack bonus or a manouvering charatcer may put his efforts on outsmarting the target for a +1 manoeuver bonus and the cost of a -1 defense penalty.*
+  
 **Movement**:In this system, there are no grids, maps or any other sort of objective locations and positions during conflicts. The general layout is described, highlighting particularities that could be used for or against the players and all characters involved will start in relative positions to each other. Each character can be close, nearby, in range or out of range to any other character:
 * Close enemies can be attacked normally with melee weapons, but with a -1 penalty for ranged weapons and magic. If hit once,
 ranged attackers will be forced into a defensive position and see their attack disrupted.
@@ -187,21 +193,6 @@ ranged attackers will be forced into a defensive position and see their attack d
 * Out of range enemies can be attacked only with higher level magic.
 Positions are not linear, but exponentially spread. The character occupies the close space and need to move 1 "spaces" to a nearby position, 2 "spaces" to get to an in range target or 4 "spaces" to reach an out of reach target. 
 
-> **Success range**: The original method to estimate the success range is to add 5 to the resulting modifier (bonus and penalties). When rolling 2d6, any resulting sum that falls between 5 and that number (inclusive) is a success.
-After some drinks in this tavern, I feel like exploring a bit more this new city and try to go to the next tavern. I have two levels of drunken walking so:
-1) Reference number and lower bound of the success range is 5
-2) My modifier is 2, so the upper bound of the success range is 7
-3) If I roll a sum in this range (5,6 or 7) I can make it to the next tavern, otherwise I'll need to handle the failure. The success range, even though simple, is a fairly strange concept for many players and may take a while to get used to. An alternative method can be derived by again thinking 5. Note that the success range is 5+ (from 5 to 5+modifier). So if you roll 2d6-5 instead, the success range is centred to 5-5 to 5+modifier-5, that is from 0 to the modifier. The result is converted to a roll less than the modifier type of system!
-
-> **Modifiers**: So, what is that modifier that is used to calculate the success range? That modifier is the sum of all bonuses and penalties that apply to the skill being checked. The basic modifier is the level of the skill being called by the player so being more skilled at something means that there are more values resulting in a successful action. In addition, each situation is associated with a main attribute, which value is also applied as either a (+1) bonus or a penalty (-1) depending on the value of the conflict attribute of a character. Note that this implies that the same skill can have very different success rates depending on the situation. For example, a character with a sword skill of 3 and Combat attribute of 1 and Social attribute of -1 will have a modifier of 4 when trying to cut down a goblin, but only a modifier of 2 if showing off his sword skills to someone. This can be interpreted as the character being awkward handling his sword, but it still cuts when it hits a goblin! Situational bonuses and penalties may additionally be applied referring either to conditions affecting the character (hidden, poisoned) or to particularly easy or difficult situations. The character dodge skill level is 4, with combat attribute 0. If the character gets into a tavern brawl with drunk clients, then maybe it is easier to dodge and a +1 bonus is applied for a resulting modifier of 5. Likewise, dodging a goblin's sword is ok, but dodging a giant's sweeping club, is probably more difficult, providing a -1 penalty for a modifier of 3. The last factor to take into account is the strain penalties. As a conflict progresses, it is likely that the characters will accumulate physical or mental strain from their efforts, reducing their conflict capacity until they are not able to continue. For each strain penalty taken, the character gets a cumulative -1 to the conflict attribute.
-Two things of notice:
-1) Any skill with a negative modifier automatically fails because 5 is removed from the success range (but can still wield experience). This means that rolling a sum value of 2,3 or 4 is an automatic fail.
-2) It is also worth mentioning that equipment can also have an indirect effect on the modifier as it can change both the skill and attribute valuesIn summary, the success range is defined by:
-1) The lower bound 5
-2) The constant conflict attribute value (affected by rare equipment)
-3) The chose skill level (affected by common equipment)
-4) Effect and situational modifiers (called effects)
-5) The ever increased strain penalty
 
 > **New skills**: So... there is no need for a defined, detailed and extensive list of all skills that may be used during the game from the start right? But what if you want to call on a skill that "doesn't exist"? Well, simply add it to the list at level 0. If it wasn't there to start with, then you have no experience with it anyway. When a new skill is called, players should:
 1) Is that action really not covered by any existing skill already? Note that how this question is approached will define how detailed a game's skill list is. Saying that the action jumping in distance is not covered by the skill jumping in altitude, means that the skill list is defined at a very fine level. This can work just as well as saying that jumping is jumping regardless of direction.
@@ -228,7 +219,26 @@ And so on, slowly working the barkeeper until he is irresistibly and unquestiona
 abilitiesa are attached to skills:
 if an ability fail, it defaults to the base skill for success, but with a drawback
 
-### 2.3 Conflict effects
+
+## 2.3 Conflict Resolution
+
+> **Success range**: The original method to estimate the success range is to add 5 to the resulting modifier (bonus and penalties). When rolling 2d6, any resulting sum that falls between 5 and that number (inclusive) is a success.
+After some drinks in this tavern, I feel like exploring a bit more this new city and try to go to the next tavern. I have two levels of drunken walking so:
+1) Reference number and lower bound of the success range is 5
+2) My modifier is 2, so the upper bound of the success range is 7
+3) If I roll a sum in this range (5,6 or 7) I can make it to the next tavern, otherwise I'll need to handle the failure. The success range, even though simple, is a fairly strange concept for many players and may take a while to get used to. An alternative method can be derived by again thinking 5. Note that the success range is 5+ (from 5 to 5+modifier). So if you roll 2d6-5 instead, the success range is centred to 5-5 to 5+modifier-5, that is from 0 to the modifier. The result is converted to a roll less than the modifier type of system!
+
+> **Modifiers**: So, what is that modifier that is used to calculate the success range? That modifier is the sum of all bonuses and penalties that apply to the skill being checked. The basic modifier is the level of the skill being called by the player so being more skilled at something means that there are more values resulting in a successful action. In addition, each situation is associated with a main attribute, which value is also applied as either a (+1) bonus or a penalty (-1) depending on the value of the conflict attribute of a character. Note that this implies that the same skill can have very different success rates depending on the situation. For example, a character with a sword skill of 3 and Combat attribute of 1 and Social attribute of -1 will have a modifier of 4 when trying to cut down a goblin, but only a modifier of 2 if showing off his sword skills to someone. This can be interpreted as the character being awkward handling his sword, but it still cuts when it hits a goblin! Situational bonuses and penalties may additionally be applied referring either to conditions affecting the character (hidden, poisoned) or to particularly easy or difficult situations. The character dodge skill level is 4, with combat attribute 0. If the character gets into a tavern brawl with drunk clients, then maybe it is easier to dodge and a +1 bonus is applied for a resulting modifier of 5. Likewise, dodging a goblin's sword is ok, but dodging a giant's sweeping club, is probably more difficult, providing a -1 penalty for a modifier of 3. The last factor to take into account is the strain penalties. As a conflict progresses, it is likely that the characters will accumulate physical or mental strain from their efforts, reducing their conflict capacity until they are not able to continue. For each strain penalty taken, the character gets a cumulative -1 to the conflict attribute.
+Two things of notice:
+1) Any skill with a negative modifier automatically fails because 5 is removed from the success range (but can still wield experience). This means that rolling a sum value of 2,3 or 4 is an automatic fail.
+2) It is also worth mentioning that equipment can also have an indirect effect on the modifier as it can change both the skill and attribute valuesIn summary, the success range is defined by:
+1) The lower bound 5
+2) The constant conflict attribute value (affected by rare equipment)
+3) The chose skill level (affected by common equipment)
+4) Effect and situational modifiers (called effects)
+5) The ever increased strain penalty
+
+### 2.4 Conflict effects
 [top](#table-of-contents)  
 
 
