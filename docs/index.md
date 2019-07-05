@@ -52,55 +52,58 @@ Attributes reflect the general aptitudes the character have for [*specific situa
 ### 1.3 Character skills
 [top](#table-of-contents)  
 
-If the attributes are what distinguishes the characters' broad strengths or weaknesses, skills are the fine differences that will make a character unique. Skills refer to anything a character may do *and so include every possible action*, from using weapons and armour to interacting with other creatures and objects. While the attributes are a small set of limited options, the idea is to have a free and fluid skill's list, allowing skills to be made up *on the fly* as required. Skills measure how good the character is at doing a given action and are defined by their level (mastery) and tier (power). Broadly, skills can be divided into the following categories:  
+If the attributes are what distinguishes the characters' broad strengths or weaknesses, skills are the fine differences that will make a character unique. Skills refer to anything a character may do *and so include every possible action* that can fail and be improved, from using weapons and armour to interacting with other creatures and objects. While the attributes are a small set of limited options, the idea is to have a free and fluid skill's list, allowing skills to be made up *on the fly* as required. Skills measure how good the character is at doing a given action and are defined by their level (mastery) and tier (power). 
+
+<details>
+  <summary>For example, skills could be broadly divided into the following categories: </summary>
 
 <blockquote>
 <details>
   <summary><b>Combat skills</b>: Use of weapons and armour as well as tactical evaluations</summary>
   <i>Weapons: Sword, Spear, Crossbow, Axe, Hammer, Bow, Halberd, Sword, Club, etc. </i><br>
-  <i>Armour:  Padded armour, Leather armour, Hide armour, Chain mail, Scale mail, Breastplate, Ring Mail, Full plate, etc. </i><br>
-  <i>Tactical: Feint, Disarm, Grapple, Knock, Push, Use terrain, Distract, Taunt etc.</i><br>
+  <i>Armour: Padded armour, Leather armour, Hide armour, Chain mail, Scale mail, Breastplate, Ring Mail, Full plate, etc. </i><br>
+  <i>Tactical: Feint, Disarm, Grapple, Knock, Push, Use terrain, Distract, Taunt, etc.</i><br>
 </details>
   
 <details>
   <summary><b>Magic/Technological skills</b>: Understanding the complexities of using supernatural powers or advanced technology </summary>
-  <i>Magic: Elemental magic, Power Gathering, Shield, Magic Resistance, Counter magic, Enchant, Enhance, Ritual casting, Mind control, etc. </i><br>
-  <i>Technology: Laser weapons, Power armour, Spacecrafts, Alien technology, Plasma weapons, etc. </i><br>
+  <i>Magic: Elemental magic, Power Gathering, Shield, Magic Resistance, Counter magic, Enchant, Enhance, Ritual casting, Mind control, Illusion magic, etc. </i><br>
+  <i>Technology: Laser weapons, Power armour, Spacecrafts, Alien technology, Plasma weapons, Holograms, etc. </i><br>
 </details>
 
 <details>
   <summary><b>Movement skills</b>: Use body movement, dexterity and strength in demanding or risky ways </summary>
-  <i>Endurance: Run, Fly, Swim, Borrow, Climb, Brachiate, etc.</i><br>
-  <i>Reflex: Evade, Dodge, Contortionist, Escape Artist, etc.</i><br>
-  <i>Discretion: Stealth, Hide, Move Silently, Secret gesture, Tailing, Countermeasures, etc.</i><br>
+  <i>Endurance: Run, Jump, Fly, Swim, Borrow, Climb, Brachiate, etc.</i><br>
+  <i>Reflex: Evade, Dodge, Tumble, Contortionist, Escape Artist, Balance, etc.</i><br>
+  <i>Discretion: Sleight Of Hand, Stealth, Hide, Move Silently, Secret gesture, Tailing, Countermeasures, etc.</i><br>
 </details>
     
 <details>
   <summary><b>Social skills</b>: Interact with other sentient creatures to change their perception, opinions and attitudes</summary>
-  <i> Convince: Persuasion, Bluffs, Trickery, Fast Talk, Seduction,  Command, Leadership, etc. </i><br>
+  <i> Convince: Diplomacy, Persuasion, Deception, Bluff, Trickery, Fast Talk, Seduction, Command, Leadership, Handle Animal, etc. </i><br>
   <i> Threaten: Intimidation, Whisper, Rumour-Mongering, etc. </i><br>
-  <i> Negotiate: Bribery, Bargaining, Connections, etc. </i><br>
+  <i> Negotiate: Gather Information, Bribery, Bargaining, Connections, etc. </i><br>
 </details>
   
 <details>
   <summary><b>Perception skills</b>: Use of senses, instinct and intuition to notice something </summary>
-  <i>Passive senses: Seeing, Hearing, Touching, Tasting, Smelling, Low-ligh vision, Darkvision, etc.</i><br>
+  <i>Passive senses: Spto, Listening, Touching, Tasting, Smelling, Low-ligh vision, Darkvision, Concentration, etc.</i><br>
   <i>Enhanced senses: Chemical detection, Sense vibrations, Sense magic, Sense life, Sense magnetic fields, etc.</i><br>
-  <i>Active search: Sense Motive, Patrol, Vigilant, Search, Reading Body, Lipreading, Investigation, etc.</i><br>
+  <i>Active search: Sense Motive, Insight, Patrol, Vigilant, Search, Reading Body, Lipreading, Investigation, Eavesdropping, etc.</i><br>
 </details>
 
 <details>
   <summary><b>Manipulation skills</b>: Interact with, manipulate and change objects </summary>
-  <i>Destroy: Force, Apply Strength, Disarm Trap, Sabotage, Lock pick etc.</i><br>
-  <i>Repair:  Use tolls</i><br>
+  <i>Change: Force, Apply Strength, Disable Device, Disarm Trap, Sabotage, Lock pick, etc.</i><br>
+  <i>Interact: Use tolls, Appraise, Use Magic Device , Use Rope </i><br>
   
 </details>
 
 <details>
   <summary><b>Knowledge skills</b>: Knowing, remembering and understanding information previously studied</summary>
-  <i>Wilderness: Herbalist, Animal Handling, Survival, Weatherlore, Hunting, Navigation, Camping, etc. </i><br>
+  <i>Wilderness: Herbalist, Survival, Weatherlore, Hunting, Navigation, Camping, etc. </i><br>
   <i>Academic: Arcane, Potions, Enchantments, Theology, History, etc. </i><br>
-  <i>Linguistics: Languages, Runes, Dechiper, etc. </i><br>
+  <i>Linguistics: Languages, Runes, Decipher Script, etc. </i><br>
   <i>Professional: Alchemy, Metallurgy, Clockwork, etc. </i><br>
 </details>
  
@@ -109,13 +112,14 @@ If the attributes are what distinguishes the characters' broad strengths or weak
 <details>
   <summary><b>Technical skills</b>: Any type of skills related to a profession, background or speciality </summary>
   <i>Thief: Impersonation, Gambling, Forgery, Disguise, Counterfeiting, etc.</i><br>
-  <i>Medic: First Aid, Medicine, Surgery etc.</i><br>
-  <i>Transports:Piloting, Sailing, Drive, Operate, Ride etc.</i><br>
-  <i>Producer: Cartography, Calligraphy, Gunnery, Blacksmithing, Brewing, Baking, etc.</i><br>
-  <i>Artist: Graphic Arts, Painting, Poetry, Sing, Dance, Acting, Improvisation, etc.</i><br>
+  <i>Medic: First Aid, Medicine, Heal, Surgery etc.</i><br>
+  <i>Transports:Piloting, Sailing, Drive, Operate, Ride, etc.</i><br>
+  <i>Professional: Cartography, Calligraphy, Craft, Gunnery, Blacksmithing, Brewing, Baking, Enchanting, Spellcraft, etc.</i><br>
+  <i>Artist: Graphic Arts, Painting, Poetry, Sing, Perform, Dance, Acting, Improvisation, etc.</i><br>
 </details>
 </blockquote>
 
+</details>
 
 <details>
   <summary><u><i>At Character Creation ...</i></u></summary>
