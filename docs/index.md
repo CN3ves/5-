@@ -227,11 +227,18 @@ ___
 ## 2.3 Conflict Resolution
 [go to top](#table-of-contents)
 
-> **Success range**: The original method to estimate the success range is to add 5 to the resulting modifier (bonus and penalties). When rolling 2d6, any resulting sum that falls between 5 and that number (inclusive) is a success.
-After some drinks in this tavern, I feel like exploring a bit more this new city and try to go to the next tavern. I have two levels of drunken walking so:
-1) Reference number and lower bound of the success range is 5
-2) My modifier is 2, so the upper bound of the success range is 7
-3) If I roll a sum in this range (5,6 or 7) I can make it to the next tavern, otherwise I'll need to handle the failure. The success range, even though simple, is a fairly strange concept for many players and may take a while to get used to. An alternative method can be derived by again thinking 5. Note that the success range is 5+ (from 5 to 5+modifier). So if you roll 2d6-5 instead, the success range is centred to 5-5 to 5+modifier-5, that is from 0 to the modifier. The result is converted to a roll less than the modifier type of system!
+<details><summary>When a player wants to do an action, the player calls on it and describes the intended effect. If the action's result is uncertain, then the character is in a conflict situation. To resolve the conflict, the character must name a relevant skill to check for the action's success.</summary>
+<i>A player wants to climb a steep wall to sneak into the Baron's private garden. Given the height of the wall, the result of this action is uncertain and a conflict is started. The player can then choose from any reasonable skills, such as climb or jump, and make a skill check to find out what happens</i></details>
+
+> **Success range**: To determine if an action is successful, roll a 2d6 and sum the result. If that result is contained by the success range, that is, it is one of the success numbers, then the action is successful. The success range root value is 5 and how far it extends, depends on the applicable modifiers:  
+  
+<details><summary>A positive modifier <b>adds numbers above 5</b> to the success range, one number per each +1 in the modifier. This means that the success range will be all numbers between 5 and 5 + modifier (including both).</summary>
+<i>If it is determine that the character has a modifier of +3 for the climb skill, then the success range will have the root 5 and 3 more values: 6,7 and 8. Success will occur if the rolled sum is one of those 4 values. Note that the success range is from 5 to 5+3.</i></details>
+<details><summary>A negative modifier <b>moves the root below 5</b>, one value for each -1 in the modifier.</summary>
+<i>Another character tries to follow and has the modifier of -2. This means that the success root will be moved down twice, that is from 5 to 3. Success in this case will only occurs if the rolled sum is 3.</i></details>  
+  
+  
+*The success range, even though simple, is a fairly strange concept for many players and may take a while to get used to.* An alternative method can be derived by subtractin 5 to the result. Given that the success range from 5 to 5+modifier, rolling 2d6-5 will mean that the success range is now from 5-5 to 5-5+modifier, that is from 0 to the modifier. The result is converted to a *roll less than the modifier* type of system for positive modifiers or *roll equal to modifier* for negative modifiers.
 
 > **Modifiers**: So, what is that modifier that is used to calculate the success range? That modifier is the sum of all bonuses and penalties that apply to the skill being checked. The basic modifier is the level of the skill being called by the player so being more skilled at something means that there are more values resulting in a successful action. In addition, each situation is associated with a main attribute, which value is also applied as either a (+1) bonus or a penalty (-1) depending on the value of the conflict attribute of a character. Note that this implies that the same skill can have very different success rates depending on the situation. For example, a character with a sword skill of 3 and Combat attribute of 1 and Social attribute of -1 will have a modifier of 4 when trying to cut down a goblin, but only a modifier of 2 if showing off his sword skills to someone. This can be interpreted as the character being awkward handling his sword, but it still cuts when it hits a goblin! Situational bonuses and penalties may additionally be applied referring either to conditions affecting the character (hidden, poisoned) or to particularly easy or difficult situations. The character dodge skill level is 4, with combat attribute 0. If the character gets into a tavern brawl with drunk clients, then maybe it is easier to dodge and a +1 bonus is applied for a resulting modifier of 5. Likewise, dodging a goblin's sword is ok, but dodging a giant's sweeping club, is probably more difficult, providing a -1 penalty for a modifier of 3. The last factor to take into account is the strain penalties. As a conflict progresses, it is likely that the characters will accumulate physical or mental strain from their efforts, reducing their conflict capacity until they are not able to continue. For each strain penalty taken, the character gets a cumulative -1 to the conflict attribute.
 Two things of notice:
@@ -242,6 +249,10 @@ Two things of notice:
 3) The chose skill level (affected by common equipment)
 4) Effect and situational modifiers (called effects)
 5) The ever increased strain penalty
+
+success of 5 and 6 were weak successes (1/2x) 
+success of 7-9 were regular successes (1x) 
+success of 10-12 were critical successes (2x)
 
 
 **skill fatigue**
