@@ -221,6 +221,7 @@ if an ability fail, it defaults to the base skill for success, but with a drawba
 
 
 ## 2.3 Conflict Resolution
+[top](#table-of-contents)  
 
 > **Success range**: The original method to estimate the success range is to add 5 to the resulting modifier (bonus and penalties). When rolling 2d6, any resulting sum that falls between 5 and that number (inclusive) is a success.
 After some drinks in this tavern, I feel like exploring a bit more this new city and try to go to the next tavern. I have two levels of drunken walking so:
