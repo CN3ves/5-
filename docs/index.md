@@ -126,8 +126,6 @@ For example, skills could be broadly divided into the following categories:
   <i>Professional: Alchemy, Metallurgy, Clockwork, etc. </i><br>
 </details>
  
- 
-
 <details>
   <summary><b>Technical skills</b>: Any type of skills related to a profession, background or speciality </summary>
   <i>Thief: Impersonation, Gambling, Forgery, Disguise, Counterfeiting, etc.</i><br>
@@ -172,29 +170,31 @@ A “learn by doing” levelling system is suitable for the intended skills’ f
 [go to top](#table-of-contents)
 
 <details><summary>With skills being all the actions that a character may do, abilities are the extra twist the character adds to the skill. Abilities provide the opportunity to add special effects to a skill, reflecting the character improvement and mastery, his personal take on the way skills can be used. </summary>
-  <i> For example:
-  * Upgrading Sword skill you may gain the Iaijutsu ability (counter attack on defence).
-  * Upgrading Fire spell: you may gain the Burning Bolt ability (burn condition) or Fire Ball (+1 target). 
-  * Upgrading History knowledge:you may gain the more specialised knowledge about Noble Families (ability).</i> 
+  <i> For example:<br>
+  * Upgrading Sword skill you may gain the Iaijutsu ability (counter attack on defence).<br>
+  * Upgrading Fire spell: you may gain the Burning Bolt ability (burn condition) or Fire Ball (+1 target). <br>
+  * Upgrading History knowledge:you may gain the more specialised knowledge about Noble Families (ability).</i> <br>
   </details>  
+  
 As such, abilities are *attached* to a given skill. Despite the similarities, abilities progression differs from skill progression as:  
   
   1. Abilities' level is capped to -1 the level of the skill it is attached. As such, that do not reach the maximum level (roll double 6 only to level up) and do not provide the maximum level +1 bonus.
   2. Upgrading an ability to the next tier does not provide training to a skill or a new ability, it simply unlocks a more higher tier version of the ability. 
 
-
-
-
 ## 2. Conflict
 ### 2.1 Conflict Structure
 [go to top](#table-of-contents)
 
-This system uses turns to structure the game, where **each turn is made by a single intervention from every player**, giving the opportunity for every player to take an action if he wishes to do so. Importantly, **all actions withing a turn occurs simiultaneously** so there is no clear initiative or turn order. At the begging of each turn, the previous actions are resolved, the consequences described and the new situation introduced. **Conflict arises any time the outcome of the players' actions is uncertain**. As such, each conflict should reflect a specific situations matching one of the [character's attributes](#12-character-attributes). All conflicts are solved with a narrative approach, where the results from the previous turn inform on the behavior of the NPCs on the next turn. *This is to say that, for example, a dragon does not have to be bashed to a pulp of negative HP to be defeated, its actions are determined by the number of successes and failures the players accumulated during the conflict, where each success reflect a new action, approach or consideration noticeable by the players*. 
+This system uses turns to structure the game, where **each turn is made by a single intervention from every player**, giving the opportunity for every player to take an action if he wishes to do so. Importantly, **all actions withing a turn occurs simiultaneously** so there is no clear initiative or turn order. At the begging of each turn, the previous actions are resolved, the consequences described and the new situation introduced. **Conflict arises any time the outcome of the players' actions is uncertain**. As such, each conflict should reflect a specific situations matching one of the [character's attributes](#12-character-attributes). 
+
+<details><summary>All conflicts are solved with a narrative, <a href="https://www.dndbeyond.com/posts/355-how-to-run-combat-in-the-theater-of-the-mind">theater of the mind</a> approach, where the results from the previous turn inform on the behavior of the NPCs on the next turn.</summary>
+  <i>This is to say that, for example, a dragon does not have to be bashed to a pulp of negative HP to be defeated, its actions are determined by the number of successes and failures the players accumulated during the conflict, where each success reflect a new action, approach or consideration noticeable by the players.<i></details>
+    
 
 ### 2.2 Conflict actions
 [go to top](#table-of-contents)
 
-During conflict, **each player is allowed to move and choose one other actions each turn** with a potential defense action being called if the character is attacked. Actions are free-form and if the player comes up with an idea, that should be implemented within reason. Basic actions include:
+During conflict, **each player is allowed to move and choose one other actions each turn** with a potential defense action being called if the character is attacked. Actions are free-form and if the player comes up with an idea, that should be implemented within reason. As such, **each player calls on an action by describe it and its intentions.** Basic actions include:
 
   > **Move action**: cover 1 "space" of movement.  
   > **Attack action**: actively attempt to cause damage to a target (either with sword or word!)  
@@ -202,46 +202,26 @@ During conflict, **each player is allowed to move and choose one other actions e
   > **Manoeuver action**: try to impose a disadvantage on a target (disarm, hide, gain terrain advantage, etc.)  
   > **Interact action**: interact with items, be it picking them from the floor or from a bag, reloading a weapon or drinking a potion, etc.  
   > **Recover action**:** recover from a previous attack or simply fall back to overview the battle field or catch some breath
+
+*Note that* each actions called should correspond to a skill (or ability). If an action requires a non-existent skill, simply add it to the list at level 0. If it wasn't there to start with, it is fair to assume the charatcers have no experience with it. However, concider the charatcer's background and, if it would be reasonable for the character to have some experience in the skill, allow it to start at level 2.
+
+___
+
+**Stances**: However, given the limited scope of these basic actions, the players may attempt to take a stance, adding more strategic options. Stances reflect how the character is currently approaching conflict. Based on the intended approach, the player can call a stance [effect](#24-conflict-effects) to: 
   
-**Stances**: However, given the limited scope of these basic actions, the players may attempt to take a spefific stances, adding more strategic options. Stances reflect how the character is currently approaching conflict. Based on the intended approach, the player can call a stance [effect](#24-conflict-effects) to: 
+<details><summary>Gamble an action for additional bonus.</summary>
+  <i>An agressive player may wish to gamble away the defence action to attempt a new attack, depending on the first attack being successful or a fighter may gamble away his success in order to attack an extra target.<i></details>
+<details><summary>Shifting bonus and penalties to improve a specific action. </summary>
+  <i>A defensive character may wish to take a +1 defensive bonus in exchange for a -1 attack bonus or a manouvering charatcer may put his efforts on outsmarting the target for a +1 manoeuver bonus and the cost of a -1 defense penalty.<i></details>
   
-  * Gamble an action for additional bonus. *An agressive player may wish to gamble away the defence action to attempt a new attack, depending on the first attack being successful or a spellcaster may gamble away his success in order to attack an extra target*.
-  * Shifting bonus and penalties to improve a specific action. *A defensive character may wish to take a +1 defensive bonus in exchange for a -1 attack bonus or a manouvering charatcer may put his efforts on outsmarting the target for a +1 manoeuver bonus and the cost of a -1 defense penalty.*
+**Movement**: In this system, there are no grids, maps or any other sort of objective locations and positions during conflicts. The general layout is described, highlighting particularities that could be used for or against the players and all characters involved will start in relative positions to each other. Each character can be:  
   
-**Movement**:In this system, there are no grids, maps or any other sort of objective locations and positions during conflicts. The general layout is described, highlighting particularities that could be used for or against the players and all characters involved will start in relative positions to each other. Each character can be close, nearby, in range or out of range to any other character:
-* Close enemies can be attacked normally with melee weapons, but with a -1 penalty for ranged weapons and magic. If hit once,
-ranged attackers will be forced into a defensive position and see their attack disrupted.
-* Nearby enemies can be attacked with melee weapons (after moving), long reach weapons, ranged weapons and magic.
-* In range enemies can be attacked with ranged weapons and magic.
-* Out of range enemies can be attacked only with higher level magic.
-Positions are not linear, but exponentially spread. The character occupies the close space and need to move 1 "spaces" to a nearby position, 2 "spaces" to get to an in range target or 4 "spaces" to reach an out of reach target. 
+  > **Close**: Can be attacked normally with melee weapons, but with a -1 penalty for ranged weapons and magic. If hit once, ranged attackers will be forced into a defensive position and see their attack disrupted.  
+  > **Nearby**: Enemies can be attacked with melee weapons (after moving), long reach weapons, ranged weapons and magic.  
+  > **In range**: Enemies can be attacked with ranged weapons and magic.  
+  > **Out of range**: Enemies can be attacked only with higher level magic.
 
-
-> **New skills**: So... there is no need for a defined, detailed and extensive list of all skills that may be used during the game from the start right? But what if you want to call on a skill that "doesn't exist"? Well, simply add it to the list at level 0. If it wasn't there to start with, then you have no experience with it anyway. When a new skill is called, players should:
-1) Is that action really not covered by any existing skill already? Note that how this question is approached will define how detailed a game's skill list is. Saying that the action jumping in distance is not covered by the skill jumping in altitude, means that the skill list is defined at a very fine level. This can work just as well as saying that jumping is jumping regardless of direction.
-2) Does the character have any skills that may be related to the new one? If so, the character may be allowed to start with at most half the existing skill experience. It is easy to think that if someone can swim in a pool, then swimming in the sea (which is more difficult) is not such a challenge compared to someone that does not know how to swim at all!
-3) Completely new skills are just that, new. No character has ever attempted it so they start at level 0. As the character rides his very medieval horse closer to the stunning and strange alien spaceship, the player just feels an intense need to flying it! The character has no alien-related skills, so the space-faring skill is added to the list at level 0
-
-
-
-> **Magic (area/shape skills)**: 
-In principle, magic is just a skill like any other skill, so you use it as you'd use your sword skill. One difference is that, a spell can be shaped and increase the area of effect, while that would be difficult to do that with a sword. As such, the skill level determines how many targets a spell can have, which will also define the possible shapes of a spell. Before casting a spell, you must decide on the power of the spell. The spell power is the number of targets the spell will have, with the possibility of repeating the same target. For each new target the spell skill level is reduced by 1, which means that more powerful spells are more difficult to cast. A player decides to cast a fire spell, which is a level 3 skill. The player decides to use the maximum spell power. Because the minimum level is 0, the fire skill can only be reduced 3 times, meaning that the maximum number of targets is 3. However, the player decides that the spell is focused around on particular enemy, which will be targeted twice (or once with higher power) and use the "leftover" target on another nearby enemy. The fire spell is then muli-casted 3 times at level 0. Once the spell power is chosen, the next choice is the shape of the spell, which it will determine the possible targets and how one can defend from it. A line spell can hit targets in "different zone" and will be dodgeable, while splash spell will hit all target in one or "two zones" and will only be blockable. Increasing the spell power, not only makes it more difficult to cast, it also puts extra strain on the caster. For each roll (target), if the lowest dice value is below the number of targets considered, add 1 casting strain. Casting strain applies only to the specific magic skill used and restores 1 per turn where the character does not cast a spell. If you multi-cast a fire spells with four targets, then for each of the 4 rolls, take the lowest value. The number of dice values below 4 is the casting-strain applied specifically to fire spells, all other spells being unaffected. Be careful as casting strain is a mental effort, so the strain left for each individual magic skill will be individually converted to frustration at the end of the conflict. Abusing magic powers is a quick way to insanity!
-Note that magic is the only way to target out-of-range, so this comes at a cost. Targeting someone that far away adds additional strain on the caster, so each out-of-range target counts as two targets (that is, requires one lower level roll).There are two particularities about spells: one is that, unlike weapons, it is something you may want to target yourself. The other is that not all spells are created equally. So in the first case, if you are targeting someone willing to take the spell effect, there is no way you can fail! This type of casting should be treated as a regular skill check and dealt with the same failure handling methods as other simple conflicts, with forcing the success at the cost of frustration being particularly a suitable solution. The second issue includes magical effects such as mind control, reflect magic, long lasting spells and other unbalanced spells. The complication about these spells is that they are, in fact, complex conflicts. Let's consider mind manipulation and say that a player wants to enslave the bartender, so he has free beer. Complete mind control is such a strong effect that no single casting can do it. It requires the building up of magical effects to reach such a powerful effect. For example:
-* The player can use his "mind magic" skill and the first success simply makes the barkeeper pay attention to the character.
-* The second check is a non-magical check for "personality skill" to pass the a first chit-chat encounter and become friendly with the bartender.
-* The third check could be another magic check to reinforce the friendship feelings towards the player.
-* The fourth check may require some sort of non-magical plea for the barkeeper's help, confirming that he would be on the characters' side.
-* Given his readiness to help, a fifth magical check can settle the bartender bias in favour of the player.
-And so on, slowly working the barkeeper until he is irresistibly and unquestionably following the player's orders. Note how the magical effects are mostly statementing and reinforcing the underlying feelings already present. This can be worked over days or months, going back and forwards as spells and social interactions skills will alternatively fail and succeed.
-
-
-
-**skill fatigue**
-
-**abilities**
-abilitiesa are attached to skills:
-if an ability fail, it defaults to the base skill for success, but with a drawback
-
+*Note that* these positions are not linearly spaced. Because all positions are relative to the players, all players occupies the close space at all times and needs to move 1 "space" to a nearby position, 2 "spaces" to get to an in range target or 4 "spaces" to reach an out of reach target. 
 
 ## 2.3 Conflict Resolution
 [go to top](#table-of-contents)
@@ -261,6 +241,15 @@ Two things of notice:
 3) The chose skill level (affected by common equipment)
 4) Effect and situational modifiers (called effects)
 5) The ever increased strain penalty
+
+
+**skill fatigue**
+
+**abilities**
+abilitiesa are attached to skills:
+if an ability fail, it defaults to the base skill for success, but with a drawback
+
+
 
 ### 2.4 Conflict effects
 [go to top](#table-of-contents)
