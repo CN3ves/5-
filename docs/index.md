@@ -35,7 +35,7 @@ _____
 </details>
 
 <details>
-  <summary>2. Choose the character's general [strength and weakness](#12-character-attributes), if any.</summary>
+  <summary>2. Choose the character's general <a href="#12-character-attributes">strength and weakness</a>, if any.</summary>
   <i>In what type of situations would the character feel more comfortable></i>
 </details>
 
