@@ -169,7 +169,7 @@ A “learn by doing” levelling system is suitable for the intended skills’ f
 ### 1.5 Character abilities  
 [go to top](#table-of-contents)
 
-<details><summary>With skills being all the actions that a character may do, abilities are the extra twist the character adds to the skill. Abilities provide the opportunity to add special effects to a skill, reflecting the character improvement and mastery, his personal take on the way skills can be used. </summary>
+<details><summary>With skills being all the actions that a character may do, abilities are the extra twist the character adds to the skill. Abilities provide the opportunity to add special effects to a skil, reflecting the character improvement and mastery, his personal take on the way skills can be used. </summary>
   <i> For example:<br>
   * Upgrading Sword skill you may gain the Iaijutsu ability (counter attack on defence).<br>
   * Upgrading Fire spell: you may gain the Burning Bolt ability (burn condition) or Fire Ball (+1 target). <br>
@@ -239,22 +239,21 @@ ___
   
 > *The success range, even though simple, is a fairly strange concept for many players and may take a while to get used to.* An alternative method can be derived by subtractin 5 to the result. Given that the success range from 5 to 5+modifier, rolling 2d6-5 will mean that the success range is now from 5-5 to 5-5+modifier, that is from 0 to the modifier. The result is converted to a *roll less than the modifier* type of system for positive modifiers or *roll equal to modifier* for negative modifiers.
 
-> **Modifiers**: So, what is that modifier that is used to calculate the success range? That modifier is the sum of all bonuses and penalties that apply to the skill being checked. The basic modifier is the level of the skill being called by the player so being more skilled at something means that there are more values resulting in a successful action. In addition, each situation is associated with a main attribute, which value is also applied as either a (+1) bonus or a penalty (-1) depending on the value of the conflict attribute of a character. Note that this implies that the same skill can have very different success rates depending on the situation. For example, a character with a sword skill of 3 and Combat attribute of 1 and Social attribute of -1 will have a modifier of 4 when trying to cut down a goblin, but only a modifier of 2 if showing off his sword skills to someone. This can be interpreted as the character being awkward handling his sword, but it still cuts when it hits a goblin! Situational bonuses and penalties may additionally be applied referring either to conditions affecting the character (hidden, poisoned) or to particularly easy or difficult situations. The character dodge skill level is 4, with combat attribute 0. If the character gets into a tavern brawl with drunk clients, then maybe it is easier to dodge and a +1 bonus is applied for a resulting modifier of 5. Likewise, dodging a goblin's sword is ok, but dodging a giant's sweeping club, is probably more difficult, providing a -1 penalty for a modifier of 3. The last factor to take into account is the strain penalties. As a conflict progresses, it is likely that the characters will accumulate physical or mental strain from their efforts, reducing their conflict capacity until they are not able to continue. For each strain penalty taken, the character gets a cumulative -1 to the conflict attribute.
-Two things of notice:
-1) Any skill with a negative modifier automatically fails because 5 is removed from the success range (but can still wield experience). This means that rolling a sum value of 2,3 or 4 is an automatic fail.
-2) It is also worth mentioning that equipment can also have an indirect effect on the modifier as it can change both the skill and attribute valuesIn summary, the success range is defined by:
-1) The lower bound 5
-2) The constant conflict attribute value (affected by rare equipment)
-3) The chose skill level (affected by common equipment)
-4) Effect and situational modifiers (called effects)
-5) The ever increased strain penalty
+**Modifiers**: The modifier that defines the success range is the sum of all bonuses and penalties that apply to the skill being checked, including:
 
-success of 5 and 6 were weak successes (1/2x) 
-success of 7-9 were regular successes (1x) 
-success of 10-12 were critical successes (2x)
+<details><summary>The Skill level: The skill level is added as a bonus for the action.</summary>
+<i>A charatcer with a skill level 4 add a bonus of +4 to the modifier</i></details>
+  
+<details><summary>The Attribute value: Each type of conflict reflects a situation that should be covered by one of the attributes.</summary>
+<i>Note that this implies that the same skill can have very different success rates depending on the situation. For example, a character with a sword skill of 3 and Combat attribute of 1 and Social attribute of -1 will have a modifier of 4 when trying to cut down a goblin, but only a modifier of 2 if showing off his sword skills to someone. This can be interpreted as the character being awkward handling his sword, but it still cuts when it hits a goblin!</i></details>
+
+<details><summary>Situational: +1 bonuses and -1 penalties may be applied depending on conditions affecting the character or to particular action difficulties.</summary>
+<i>If the character gets into a tavern brawl with drunk clients, then maybe it is easier to dodge and a +1 bonus is applied. Likewise, dodging a goblin's sword is a normal effort, so no change is applied, but dodging a giant's sweeping club, is probably more difficult, providing a -1 penalty.</i></details>
+
+<details>Fatigue: each time a skill is used and fails, a cummulative -1 fatigue penalty is added to the skill<summary></summary>
+<i>If a character uses the same skill continuously</i></details>
 
 
-**skill fatigue**
 
 **abilities**
 abilitiesa are attached to skills:
@@ -280,6 +279,13 @@ if an ability fail, it defaults to the base skill for success, but with a drawba
 
 > **Narration effects**: To keep thinks more interesting, when a 1 is rolled in any dice, the next player must call a narration but effect, that is, describe the action resolution as normally but add an extra sentence starting with but. This effect attenuates the results of the action, so for a failed roll, the player fails but there was something positive, while for a successful roll there was a consequence unaccounted. The player tries to hide before the guards come into the room. He fails to find a place to hide, but he notices an open window through which he can escape.
 The opposite situation would be a call to narration and effect. These are done when the player rolls a double, regardless of the dice values. Similarly, the effect is to provide unexpectedly enhance the action's result, so players' fail then something worse happens, or if the players' succeeds and something better occurs. The player successfully climbs over the wall (and) as he recovers from his back pain.
+
+success of 5 and 6 were weak successes (1/2x) 
+success of 7-9 were regular successes (1x) 
+success of 10-12 were critical successes (2x)
+fail above 3 of the highest success value, critical fail
+
+
 
 > **Descriptors**: During the adventure, characters will often experience unexpected conditions, situations and difficulties. Descriptors reflect any unusual effect the character is under, either mechanistically or dramatically, including situational bonuses, conditions penalties or any other effect than is not the default character state. A poisoned character may feel weaker, a paralysed character wouldn't be able to move, while a character with a broken arm may just be able to carry on almost unaffected. Generally, conditions provide a +1 bonus or -1 penalty when calling an action on which their effect can logically be associated. A character with a hidden descriptor will gain a +1 bonus when trying a surprise attack, whereas a weakened character will gain -1 penalty to moving furniture into the new apartment. However, specific descriptors may reflect stronger penalties, effectively preventing certain actions. Being asleep or petrified will prevent moving or taking actions, while a character that is muted or silenced will not be able to talk, and having a broken arm will prevent the character from using two handed weapons. The default effect of a descriptor is defined when the descriptor is acquired, being called by whoever induces it (generally by the GM).
 To avoid these default penalties, the player can call on the descriptor effect as well, paying a higher cost now for a chance of improving the effects. 1) A poisoned character receives a -1 penalty for any physical skills. However, the player may call on the poison effect, suggesting that the character suddenly feels a bit dizzy from the conflict effort and takes some time to recover. At the cost of skipping a turn, the poison's default modifier will be ignored the lowest value of a 2d6 roll, reflecting the characters recovered focus after taking some time to rest
