@@ -212,7 +212,7 @@ ___
 <details><summary>Gamble an action for additional bonus.</summary>
   <i>An agressive player may wish to gamble away the defence action to attempt a new attack, depending on the first attack being successful or a fighter may gamble away his success in order to attack an extra target.<i></details>
 <details><summary>Shifting bonus and penalties to improve a specific action. </summary>
-  <i>A defensive character may wish to take a +1 defensive bonus in exchange for a -1 attack bonus or a manouvering charatcer may put his efforts on outsmarting the target for a +1 manoeuver bonus and the cost of a -1 defense penalty.<i></details>
+  <i>A defensive character may wish to take a +1 defensive bonus in exchange for a -1 attack bonus or a manouvering charatcer may put his efforts on outsmarting the target for a +1 manoeuver bonus and the cost of a -1 defense penalty.</i></details>
   
 **Movement**: In this system, there are no grids, maps or any other sort of objective locations and positions during conflicts. The general layout is described, highlighting particularities that could be used for or against the players and all characters involved will start in relative positions to each other. Each character can be:  
   
