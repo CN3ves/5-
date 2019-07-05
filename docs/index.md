@@ -118,10 +118,9 @@ For example, skills could be broadly divided into the following categories:
 </details>
 </blockquote>
 
-
 <details>
   <summary><u><i>At Character Creation ...</i></u></summary>
-  All skills start at level 0. Select a total of 2 suitable skills from each of the following groups:<br>
+  All skills start at level 0 (tier 0). Select a total of 2 suitable skills from each of the following groups:<br>
   * Combat and Magic/Technological skills (+1 or -1 skill as per Combat attribute).<br>
   * Social and Perception skills (+1 or -1 skill as per Social attribute).<br>
   * Movement and manipulation skills (+1 or -1 skill as per Explore attribute).<br>
@@ -131,33 +130,36 @@ For example, skills could be broadly divided into the following categories:
 ### 1.4 Character progression  
 [top](#table-of-contents)  
 
-Because of the skills’ fluid dynamics and flexibility, a “learn by doing” levelling system is very suitable:  
+A “learn by doing” levelling system is suitable for the intended skills’ fluid dynamics and flexibility:  
   
-  1. Every time you roll a 2d6 for a skill, if the result is a double (same value on both dice) you level up that skill if the rolled value is above your *current skill level plus skill tier*. 
+  1. Every time you roll a 2d6 for a skill check, if the result is a double (same value on both dice) you level up that skill if the rolled value is above your *current skill level plus skill tier*. 
   2. *When you reach level 4 of a skill*, you upgrade your skill to a higher tier.
-  3. *Once you reach the maximum level of a skill* (level up with a double 6), add 1) a +1 bonus to the same skill at tboth its tier and the tier immediately above.
+  3. *Once you reach the maximum level of a skill* (level up with a double 6), add a permanent +1 bonus to the same skill on the next tier.
   
-**Upgrading**: While the skill level represents how successful the character is using the skill, the skill tier reflects the power, specificity or deeper understanding of the skill. Higher power skills are more difficult to handle, even if the character is experienced with its previous uses. When upgrading a skill tier, you gain:  
+**Upgrading**: While the skill level represents how successful the character is using the skill, the skill tier reflects the power, specificity, methodology and deeper understanding of the skill. Higher power and more advanced methods are more difficult to handle. When upgrading a skill tier, you gain:  
   
-  1. A higher tier version of the same skill at level 0,
-  2. Training (+1 level) on a similar or related skill of the tier before upgrading.  
-  3. A new ability at tier 1 and level 0 attached to your skill. These abilities should provide special effects on top of the base skill. 
+  1. A higher tier version of the same skill at level 0 (but you maintain the previous skill!)
+  2. Training (+1 level) on another skill of the tier before upgrading.  
+  3. A new ability at tier 0 and level 0 attached to your skill. These abilities should provide special effects on top of the base skill. 
+
+*For example*: A character with the Use Poisons skills at tier 0 and level 3 rolls double 4s. As such, the character upgrades the skill from Use Poisons(3) to Use Poisons(4:0). This notation shows the level of the skill for each tier unlocked, so if the player may use Use Poisons at tier 0 level 4 or at tier 1 level 0, depending on the situation, since these tiers reflect the use of more powerfull poisons and the different [safety methods associated with handling them](https://en.wikipedia.org/wiki/Biosafety_level). 
   
-**Training**: Characters can only use skills that reflect their concept and background. *An uneducated tribal warrior may automatically fail magic/technological skills and some "civilised" knowledge (dynastic succession rules) and social skills (court etiquette) for example*. However,  the character is allowed to train and study to unlock these skills as fitting the game setting. 
+**Training**: Characters can only use skills that reflect their concept and background. *An uneducated tribal warrior may automatically fail magic/technological skills and some "civilised" knowledge (dynastic succession rules) and social skills (court etiquette) for example*. As such, all characters are considered untrained in these skills unless otherwised stated. All characters are allowed to train and study to unlock skills as fitting to the story and game setting. 
 
 ### 1.5 Character abilities  
 [top](#table-of-contents)  
 
-abilitiesa are attached to skills:
-if an ability fail, it defaults to the base skill for success, but with a drawback
-abilities level is capped at base skill level -1
-abilites provide the opportunity to have additional effects when using the skill
+With skills being all the actions that a charatcer may do, abilities are the extra twist the charatcer adds to the skill. Abilites provide the opportunity to add special effects to a skill, reflecting the character improvement and mastery, his personal take on the way skills can be used. As such, abilities are *attached* to a given skill. Despide the similarities, abilities progression differes from skill progression as:  
+  
+  1. Abilities' level is capped to -1 the level of the skill it is attached. As such, that do not reach the maximum level (roll double 6 only to level up) and do not provide the maximum level +1 bonus.
+  2. Upgrading an ability to the next tier does not provide training to a skill or a new ability, it simply unlocks a more higher tier version of the ability. 
 
 *For example:*
   
-  * Upgrading Sword skill: 1) add sword to the next tier at level 0; 2) level up your axe skill, since both are melee weapons; and 3) gain the iaijutsu ability (counter attack on defence) at level 0 and tier 1.
-  * Upgrading Fire spell: 1) add fire spell to the next tier at level 0; 2) level up different magic skill (say water spell); and 3) gain the burning bolt ability (burn condition) at level 0 and tier 1.
-  * Upgrading History knowledge: 1) add history knowledge to the next tier at level 0; 2) level up to a different knowledge (say politics); and 3) add the more specialised noble lineages skill (ability) at level 0 and tier 1.
+  * Upgrading Sword skill you may gain the Iaijutsu ability (counter attack on defence).
+  * Upgrading Fire spell: you may gain the Burning Bolt ability (burn condition) or Fire Ball (+1 target). 
+  * Upgrading History knowledge:you may gain the more specialised  kowledge about Noble Families (ability).
+
 
 ## 2. Conflict
 ### 2.1 Conflict Structure
@@ -219,7 +221,12 @@ Note that magic is the only way to target out-of-range, so this comes at a cost.
 And so on, slowly working the barkeeper until he is irresistibly and unquestionably following the player's orders. Note how the magical effects are mostly statementing and reinforcing the underlying feelings already present. This can be worked over days or months, going back and forwards as spells and social interactions skills will alternatively fail and succeed.
 
 
+
 **skill fatigue**
+
+**abilities**
+abilitiesa are attached to skills:
+if an ability fail, it defaults to the base skill for success, but with a drawback
 
 ### 2.3 Conflict effects
 [top](#table-of-contents)  
