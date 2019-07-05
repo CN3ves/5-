@@ -33,9 +33,12 @@ _____
   <summary>1. Define the character concept using a two or three word description.</summary>
   <i>For example, you can consider the common race/class/specialization as a starting point (Elven Wizard of Illusion) or add adjectives to your background (Educated and Charming Noble)</i>. 
 </details>
+
+<details>
   <summary>2. Choose the character's general [strength and weakness](#12-character-attributes), if any.</summary>
   <i>In what type of situations would the character feel more comfortable></i>
 </details>
+
   3. Think how you wish to role-play the character, and what [sort of actions](#13-character-skills) you'd want it to do. *Will the character walks in the shadows, spying on his enemies? Or will it solve most problems at sword's point?*
   4. Determine if there are any defining characteristics that distinguishes the character. *For example, are there any inheritable racial features, or particular cultural or professional skills that may be acquired? Perhaps some personal ability gained from past experiences?*
   5. Consider how your character will react to the ever increasing frustration and stress of adventuring. *How does the character behave under stress or when the frustration is too just too much to handle?*
