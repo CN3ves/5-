@@ -210,7 +210,7 @@ ___
 **Stances**: However, given the limited scope of these basic actions, the players may attempt to take a stance, adding more strategic options. Stances reflect how the character is currently approaching conflict. Based on the intended approach, the player can call a stance [effect](#24-conflict-effects) to: 
   
 <details><summary>Gamble an action for additional bonus.</summary>
-  <i>An agressive player may wish to gamble away the defence action to attempt a new attack, depending on the first attack being successful or a fighter may gamble away his success in order to attack an extra target.<i></details>
+  <i>An agressive player may wish to gamble away the defence action to attempt a new attack, depending on the first attack being successful or a fighter may gamble away his success in order to attack an extra target.</i></details>
 <details><summary>Shifting bonus and penalties to improve a specific action. </summary>
   <i>A defensive character may wish to take a +1 defensive bonus in exchange for a -1 attack bonus or a manouvering charatcer may put his efforts on outsmarting the target for a +1 manoeuver bonus and the cost of a -1 defense penalty.</i></details>
   
