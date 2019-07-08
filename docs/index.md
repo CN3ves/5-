@@ -35,7 +35,7 @@ _____
 </details>
 
 <details>
-  <summary>2. Choose the character's general <a href="#12-character-attributes">strength and weakness</a>, if any.</summary>
+  <summary>2. Choose the character's general <a href="#12-character-specialities">strength and weakness</a>, if any.</summary>
   <i>In what type of situations would the character feel more comfortable? Did the character have extensive combat training? Maybe the character prefers to spend time with others? Or perhaps the character has spend most of his time dealing with intricate equipment?</i>
 </details>
 
