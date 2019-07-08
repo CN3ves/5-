@@ -281,28 +281,31 @@ Players should feel free to call on custom effect and add new and unique takes o
 <i>A tyrant lord is about to execute the hostages, one by one. As infiltrated agents, the players try to convince him that sparing the prisoners would be wiser, because the princess they want to rescue is the fourth hostage in the line of execution. Each failure will result in another slain hostage.</i></details>
 
 <details><summary><i>The action is interrupted</i>: Failing once prevents the action from being repeated because something else happened, not because the player isn't skilled enough to do it.  </summary>
-<i>The player tries to jump over a wagon to get a clean shot at the tyrant lord, however, the wagon's owner shows up and starts to comment the on-going public execution with the player.</i></details>  
+<i>The player tries to jump over a wagon to get a clear shot at the tyrant lord, however, the wagon's owner shows up and starts to chat about the on-going public execution with the player.</i></details>  
 
 <details><summary><i>The action succeeds anyway</i>: Fail forward is an interesting concept that allows the player to succeed even if they fail, but with an added twist or complication. It is similar to having the action interrupted, but it allows for the player to get what he wants.  </summary>
 <i>As the player is looking for the incriminating secret papers in the tyrant lord's office, even though the player manages to identify and take them, the paper weight that was on the table is dropped, making a very noticeable noise. </i></details>
 
-<details><summary><i>Forced success</i>: When a player fails an action, it can be converted to a success by pushing the character to its limits, for example by increasing a level of frustration or getting wounded.  </summary>
-<i>This is in fact the common way to solve failing defence actions in combat. When players are hit by a sword waving guard, instead of being wounded, the player automatically calls on a forced success effect and escapes untouched, at the cost of gaining physical strain (trading the permanent penalty for a temporary one!)</i></details>
+<details><summary><i>Forced success</i>: When a player fails an action, it can be converted to a success by pushing the character to its limits.  </summary>
+<i>1) In dire circunstances, the players may be allowed to succed, but rolling a 2d6 and taking the lowest value as wounds or frustration, whichever makes the most narrative sense. <br> 
+  2) On the other hand, some skills don't make sense failing, like buffing magic on a willing target. Failing, in such cases can be hanlded as forced success and reduced the effect frok the highest values rolled to the lowest.
+  3) Failing could also add descriptors and penalties to the character as required or simply inform the narrative.</i></details>
+<br>
 
-**Helping**: The success rates in this system a
+<details><summary><u>Narration effects</u>: To keep thinks more interesting, when a 1 is rolled in any dice, a narrative effect may be called. This effect is call to add a *but* to the action resolution, attenuating the results of the action. So for a failed roll, the player fails but there was something positive, while for a successful roll there was a consequence unaccounted. </summary>
+<i> 1) The player tries to hide before the guards come into the room. He fails to find a place to hide, but he notices an open window through which he can escape.<br>
+  2) The player successfully spots a secret passage on the wall, but the opening mechanism seems to be stuck.</i></details>
+<details><summary>Another narrative effect is related to the effectiveness of the skill. In this case, the value by which the player succedds or fails, will determine how good sthe success was. </summary>
+<i> * If the success was with a sum of 5, then it represent a weak success from an untrained character, counting as half a success.<br>
+   * If the success was with a sum of 6,7, 8 or 9, then it represent a regular success from a trained character, and counts as 1 success<br>
+   * If the success was with a sum equal to 10 or more, then it represent a great success from a master, as it counts as twice a success.<br>
+  * If a failure happens with a sum that is above the maximum success value by 3, then it represent a particularly bad failure and the character takes the lowest value as wounds or frustration.</i></details>
+<br>
+**Helping**: An help effect can be called whenever players can justify it. Help provides a +1 bonus to the action per helping source. Generally, successful actions from other players will be evocked to justify the help bonus, but other reason could be concidered, such as information from knowledge skills, narrative effects from rolling 1 or specific descriptiors that may apply. 
 
-> **Narration effects**: To keep thinks more interesting, when a 1 is rolled in any dice, the next player must call a narration but effect, that is, describe the action resolution as normally but add an extra sentence starting with but. This effect attenuates the results of the action, so for a failed roll, the player fails but there was something positive, while for a successful roll there was a consequence unaccounted. The player tries to hide before the guards come into the room. He fails to find a place to hide, but he notices an open window through which he can escape.
-The opposite situation would be a call to narration and effect. These are done when the player rolls a double, regardless of the dice values. Similarly, the effect is to provide unexpectedly enhance the action's result, so players' fail then something worse happens, or if the players' succeeds and something better occurs. The player successfully climbs over the wall (and) as he recovers from his back pain.
+**Wounds and Frustration**: Adventuring puts a lot of presurre both on the body and mind, resulting in wounds and furstration.
 
-success of 5 and 6 were weak successes (1/2x) 
-success of 7-9 were regular successes (1x) 
-success of 10-12 were critical successes (2x)
-fail above 3 of the highest success value, critical fail
-
-
-
-
-> **Wounds and Frustration**: Even though conflict is not deadly, wounds can occur. In addition, the constant struggle can put a lot of mental pressure on the characters. As mentioned before, strain is a "forced success" failure handling tradeoff, where permanent wounds are avoided by placing additional (temporary) strain on the characters. However, this tradeoff is not without its drawbacks (otherwise it would be just a trade with no "off"). Wounds and frustration still occur as a side-effects of accumulated strain so, at the end of each conflict as the characters rest and all their strain is removed, there is a chance that a character was wounded either directly by an enemy or indirectly by the strain placed on his body (muscle injury from a bad swing). To determine if a character received a physical or mental wound, roll 2d6 and, if the the lowest dice value is equal or less than the strain accumulated during that conflict, the character was wounded in combat or became stressed from a difficult social interaction by that amount. Notice that “Obverse-based conflicts” are often simple and can be handled with without incurring strain penalties. If that is not the case, these conflicts can work both ways, either the player gets frustrated because we can’t track the bandits or he trips and falls as he tries to follow their tracks.
+Wounds and frustration still occur as a side-effects of accumulated strain so, at the end of each conflict as the characters rest and all their strain is removed, there is a chance that a character was wounded either directly by an enemy or indirectly by the strain placed on his body (muscle injury from a bad swing). To determine if a character received a physical or mental wound, roll 2d6 and, if the the lowest dice value is equal or less than the strain accumulated during that conflict, the character was wounded in combat or became stressed from a difficult social interaction by that amount. Notice that “Obverse-based conflicts” are often simple and can be handled with without incurring strain penalties. If that is not the case, these conflicts can work both ways, either the player gets frustrated because we can’t track the bandits or he trips and falls as he tries to follow their tracks.
 Physical and mental (stress/frustration) wounds have a maximum of 10 levels, at which point the character is exhausted from accumulated wounds or loses his mind completely, becoming unplayable. By having more than 5 levels of wounds, the player risks permanent damage in the form of a new descriptor. If the sum of the wound roll is below the level of the wound, then a new wound description is gained for physical wounds or the frustration trait kicks in for the mental wounds. 
 
 So far, there are four types of damage characters are subjected to: temporary strain, permanent wounds, cumulative stress and descriptors.
