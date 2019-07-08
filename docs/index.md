@@ -10,7 +10,7 @@ _____
 ## Table of contents
 1. [Characters](#1-characters)    
   1.1 [Creation](#11-character-creation)  
-  1.2 [Attributes](#12-character-attributes)  
+  1.2 [Specialities](#12-character-specialities)  
   1.3 [Skills](#13-character-skills)  
   1.4 [Progression](#14-character-progression)  
   1.5 [Abilities](#15-character-abilities)
@@ -54,10 +54,10 @@ _____
   <i>How does the character behave under stress or when the frustration is too just too much to handle? Will it retreat from society or pray to the gods? Will the character become aggressive and arrogant? Will it just break down and cry itself to sleep?</i>
 </details>
   
-### 1.2 Character attributes
+### 1.2 Character specialities
 [go to top](#table-of-contents)
 
-Attributes reflect the general aptitudes the character have for [*specific situations*](#21-conflict-structure). These mostly remain constant throughout the character's adventuring life:  
+Specialities reflect the general aptitudes the character have for [*specific situations*](#21-conflict-structure). These mostly remain constant throughout the character's adventuring life:  
 
 > **Brawl**: Reflects an extensive battle and combat training, both psychical and mental. Influences the character's effectiveness when in violent confrontation with other creatures *(combat situations)*. 
   
@@ -72,7 +72,7 @@ Attributes reflect the general aptitudes the character have for [*specific situa
 ### 1.3 Character skills
 [go to top](#table-of-contents)
 
-If the attributes are what distinguishes the characters' broad strengths or weaknesses, skills are the fine differences that will make a character unique. Skills refer to anything a character may do *and so include every possible action* that can fail and be improved, from using weapons and armour to interacting with other creatures and objects. While the attributes are a small set of limited options, the idea is to have a free and fluid skill's list, allowing skills to be made up *on the fly* as required. Skills measure how good the character is at doing a given action and are defined by their level (mastery) and tier (power). 
+If the specialities are what distinguishes the characters' broad strengths or weaknesses, skills are the fine differences that will make a character unique. Skills refer to anything a character may do *and so include every possible action* that can fail and be improved, from using weapons and armour to interacting with other creatures and objects. While the attributes are a small set of limited options, the idea is to have a free and fluid skill's list, allowing skills to be made up *on the fly* as required. Skills measure how good the character is at doing a given action and are defined by their level (mastery) and tier (power). 
 
 For example, skills could be broadly divided into the following categories:
 
@@ -185,7 +185,7 @@ As such, abilities are *attached* to a given skill. Despite the similarities, ab
 ### 2.1 Conflict Structure
 [go to top](#table-of-contents)
 
-This system uses turns to structure the game, where **each turn is made by a single intervention from every player**, giving the opportunity for every player to take an action if he wishes to do so. Importantly, **all actions withing a turn occurs simiultaneously** so there is no clear initiative or turn order. At the begging of each turn, the previous actions are resolved, the consequences described and the new situation introduced. **Conflict arises any time the outcome of the players' actions is uncertain**. As such, each conflict should reflect a specific situations matching one of the [character's attributes](#12-character-attributes). 
+This system uses turns to structure the game, where **each turn is made by a single intervention from every player**, giving the opportunity for every player to take an action if he wishes to do so. Importantly, **all actions withing a turn occurs simiultaneously** so there is no clear initiative or turn order. At the begging of each turn, the previous actions are resolved, the consequences described and the new situation introduced. **Conflict arises any time the outcome of the players' actions is uncertain**. As such, each conflict should reflect a specific situations matching one of the [character's specialities](#12-character-specialities). 
 
 <details><summary>All conflicts are solved with a narrative, <a href="https://www.dndbeyond.com/posts/355-how-to-run-combat-in-the-theater-of-the-mind">theater of the mind</a> approach, where the results from the previous turn inform on the behavior of the NPCs on the next turn.</summary>
   <i>This is to say that, for example, a dragon does not have to be bashed to a pulp of negative HP to be defeated, its actions are determined by the number of successes and failures the players accumulated during the conflict, where each success reflect a new action, approach or consideration noticeable by the players.</i></details>
@@ -244,7 +244,7 @@ ___
 <details><summary>The Skill level: The skill level is added as a bonus for the action.</summary>
 <i>A charatcer with a skill level 4 add a bonus of +4 to the modifier</i></details>
   
-<details><summary>The Attribute value: Each type of conflict reflects a situation that should be covered by one of the attributes.</summary>
+<details><summary>The Speciality value: Each type of conflict reflects a situation that should be covered by one of the specialities.</summary>
 <i>Note that this implies that the same skill can have very different success rates depending on the situation. For example, a character with a sword skill of 3 and Combat attribute of 1 and Social attribute of -1 will have a modifier of 4 when trying to cut down a goblin, but only a modifier of 2 if showing off his sword skills to someone. This can be interpreted as the character being awkward handling his sword, but it still cuts when it hits a goblin!</i></details>
 
 <details><summary>Situational: +1 bonuses and -1 penalties may be applied depending on conditions affecting the character or to particular action difficulties.</summary>
