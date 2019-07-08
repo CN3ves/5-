@@ -19,8 +19,8 @@ _____
   2.2 [Actions](#22-conflict-actions)  
   2.3 [Resolution](#23-conflict-resolution)  
   2.4 [Effects](#24-conflict-effects)
-3. [Other](#3-other)
-  3.1 [Equipment](#31-npcs)  
+3. [Other](#3-other)  
+  3.1 [Equipment](#31-npcs)   
   3.2 [Equipment](#32-equipment)  
   3.3 [Scenes](#33-scenes)
 
@@ -326,7 +326,7 @@ Skill of tier equal to enemy tier -1: The skills are checked with a -1 tier pena
 Skill of tier equal to enemy tier: The NPC is affected normally<br>
 Skill of tier equal to enemy tier + 1: The skills are checked with a +1 tier bonus and increased efficiency<br>
 Skill of tier above enemy tier +1: The skill succeeds automatically<br>
-<br> Note that as higher tiered skills have lower maximum levels, even if the player's skills are of the same tier as the enemy, their changes of success are reduced for higher tier enemies</i></details>.
+<br> Note that as higher tiered skills have lower maximum levels, even if the player's skills are of the same tier as the enemy, their changes of success are reduced for higher tier enemies.</i></details>
 </blockquote>
 
 ### 3.2 Equipment
