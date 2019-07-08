@@ -19,9 +19,10 @@ _____
   2.2 [Actions](#22-conflict-actions)  
   2.3 [Resolution](#23-conflict-resolution)  
   2.4 [Effects](#24-conflict-effects)
-3. [Other](#3-other)  
-  3.1 [Equipment](#31-equipment)  
-  3.2 [Scenes](#32-scenes)
+3. [Other](#3-other)
+  3.1 [Equipment](#31-npcs)  
+  3.2 [Equipment](#32-equipment)  
+  3.3 [Scenes](#33-scenes)
 
 _____
 
@@ -243,21 +244,20 @@ ___
 **Modifiers**: The modifier that defines the success range is the sum of all bonuses and penalties that apply to the skill being checked, including:
 
 <details><summary><i>The Skill level</i>: The skill level is added as a bonus for the action.</summary>
-<i>A charatcer with a skill level 4 add a bonus of +4 to the modifier</i></details>
+<i>A character with a skill level 4 adds a bonus of +4 to the modifier</i></details>
   
 <details><summary><i>The Speciality value</i>: Each type of conflict reflects a situation that should be covered by one of the specialities.</summary>
 <i>Note that this implies that the same skill can have very different success rates depending on the situation. For example, a character with a sword skill of 3 and Combat attribute of 1 and Social attribute of -1 will have a modifier of 4 when trying to cut down a goblin, but only a modifier of 2 if showing off his sword skills to someone. This can be interpreted as the character being awkward handling his sword, but it still cuts when it hits a goblin!</i></details>
 
-<details><summary><i>Situational</i>: +1 bonuses and -1 penalties may be applied depending on conditions affecting the character or to particular action difficulties.</summary>
+<details><summary><i>Situational</i> +1 bonuses and -1 penalties may be applied depending on conditions affecting the character or to particular action difficulties.</summary>
 <i>If the character gets into a tavern brawl with drunk clients, then maybe it is easier to dodge and a +1 bonus is applied. Likewise, dodging a goblin's sword is a normal effort, so no change is applied, but dodging a giant's sweeping club, is probably more difficult, providing a -1 penalty.</i></details>
 
-<details><summary><i>Fatigue</i>: each time a skill is usedm if a 6 is rolled, a cummulative -1 fatigue penalty is added to the skill, preventing the character from constantly using the same skill.</summary>
-<i>If a character with the climb skill level 3 continuous to climb a mountain, he will risk becoming fatigated. For example, the player rolls a 6, getting a -1 penalty on the climbing skill. If the plawes was to roll another 6, the character would have accumulated a -2 fatigue penalty</i></details>
+<details><summary><i>Fatigue</i>: Each time a skill is used if a 6 is rolled, a cumulative -1 fatigue penalty is added to the skill, preventing the character from constantly using the same skill.</summary>
+<i>If a character with the climb skill level 3 continuous to climb a mountain, he will risk becoming fatigued. For example, the player rolls a 6, getting a -1 penalty on the climbing skill. If the player was to roll another 6, the character would have accumulated a -2 fatigue penalty</i></details>
 <br>
-<details><summary><b>Abilities</b>: Abilities work a bit differently than skills because they represent a special use of a given skill. As such, if an ability succeds, the additional effect occurs, while if it fails, the roll defaults to the original skill with a drawback effect. </summary>
-<i>A charatcer attemps to use his Iaijutsu counter ability and fails. He will not be able to conter-attack his target, but his sword skills may still be successful as the ability check defaults to the attched skill. This means that the character may still do the regular skill effect. However, attempting to use the skill set the character off-balance and he will have a drawback of -1 defense penalty from failing it, regardelss of the result of the base skill (sword) </i></details>
-
-**NPCs**:
+<details><summary><b>Abilities</b>: Abilities work a bit differently than skills because they represent a special use of a given skill. As such, if an ability succeeds, the additional effect occurs, while if it fails, the roll defaults to the original skill with a drawback effect. </summary>
+<i>A character attempts to use his Iaijutsu counter ability and fails. He will not be able to conter-attack his target, but his sword skills may still be successful as the ability check defaults to the attached skill. This means that the character may still do the regular skill effect. However, attempting to use the skill set the character off-balance and he will have a drawback of -1 defence penalty from failing it, regardless of the result of the base skill (sword) </i></details>
+<br>
 
 ### 2.4 Conflict effects
 [go to top](#table-of-contents)
@@ -302,7 +302,34 @@ So far, there are four types of damage characters are subjected to: temporary st
 * Descriptors do not heal by themselves and generally require a double roll (narration and effect) to be removed or adequate treatment to be obtained. Some physical wounds cannot be completely removed.
 
 ## 3. Other
-### 3.1 Equipment
+### 3.1 NPCs
+Players do all the rolling. NPCs do not roll. If a player hits the target, it's because the target didn't dodge. Likewise, if a player fails to dodge, it's because the enemy hit. Cause and consequence. The only things required to define an NPC character is:
+
+<blockquote>
+ <details><summary>Its goals</summary>
+<i> Why is the NPC opposing the players? Is it a giant hungry spider trying to eating the players, an demonic spirit hoping to corrupt them or simply a vengeful adventure trying to get payback</i></details>
+ 
+ <details><summary>Its actions and abilities</summary>
+<i> Can the NPC bite, smash or summon inter-dimensional demon of ultimate destruction? Maybe it will simply insult and provoke the players? </i></details>
+ 
+ <details><summary>Its combat behaviour (how it reacts to player's accumulating successes and failures?)</summary>
+<i> An NPC can act more fearful as the players accumulate successes or more boldly as the players fail to act. For example, it could be defined that an NPC changes action according to the following list:<br>
+Low threat NPC: change every 1 or 2 successes <br>
+Medium threat NPC: change every 3 or 5 successes <br>
+High threat NPC: change every 6-10 successes <br>
+Heroic threat NPC: change every 10 or more successes <br> </i></details>
+ 
+ <details><summary>Its difficulty (as defined by the enemy tier)</summary>
+<i>Higher tier enemies reflect stronger enemies and will determine which skills the NPC is affect by: <br>
+Skill of tier below enemy tier -1: The skill fails automatically<br>
+Skill of tier equal to enemy tier -1: The skills are checked with a -1 tier penalty and reduced efficiency<br>
+Skill of tier equal to enemy tier: The NPC is affected normally<br>
+Skill of tier equal to enemy tier + 1: The skills are checked with a +1 tier bonus and increased efficiency<br>
+Skill of tier above enemy tier +1: The skill succeeds automatically<br>
+<br> Note that as higher tiered skills have lower maximum levels, even if the player's skills are of the same tier as the enemy, their changes of success are reduced for higher tier enemies</i></details>.
+</blockquote>
+
+### 3.2 Equipment
 [go to top](#table-of-contents)
 
 > In this system, characters do not level up or gain quanta of power at certain points in a deterministic way. They age and gain experience as one does! Characters can progress, or improve, in 3 different ways: gain experience with skills, acquire better equipment and learn new abilities.
@@ -320,7 +347,7 @@ Since the skill level is naturally capped at 5 by the way the system works, and 
 * Consumables: Item such as potions and scrolls that are consumed upon use provide immediate rewards, such as healing wounds, removing strain, gaining bonuses or access to certain skills. Some items should be just what they say on the label (antidote, potion of strength, love potion, scroll of toad shape)
 * Other: Any item can be relevant without changing the character stats or adding any magical descriptor. Walkie-talkies can have their mundane function and simply allow easier communication, where easier communication can then be used to set up ambushes.
 
-### 3.2 Scenes
+### 3.3 Scenes
 [go to top](#table-of-contents)
 
 
