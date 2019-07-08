@@ -1,4 +1,4 @@
-This system aims to be a simple and general way to play any type of RPG, with a particular focus on play-by-post (PbP) gaming. As such, the idea is to provide simplified rules that allow to keep the game flowing at a good narrative pace. In addition, the system is free-form, so it allows anything to be used or done, as long as it is reasonable within the game's setting. The way it works is:  
+This system aims to be a simple and general way to play any type of RPG, with a particular focus on play-by-post (PbP) gaming. As such, the idea is to provide simplified rules that allow to keep the game flowing at a good narrative pace. This is a free-form, 2d6 skill-based system, so it allows anything to be used or done with the same dice roll, as long as it is reasonable within the game's setting. The way it works is:  
   
   1. The scene is introduced and the players describe *their intentions*.
   2. Each player *call for an action or an effect*.
@@ -31,27 +31,27 @@ _____
 
 <details>
   <summary>1. Define the character concept using a two or three word description.</summary>
-  <i>For example, you can consider the common race/class/specialization as a starting point (Elven Wizard of Illusion) or add adjectives to your background (Educated and Charming Noble)</i>. 
+  <i>For example, you can consider the common race/class/specialization as a starting point (Elven Wizard of Illusion) or add adjectives to your background (Educated and Charming Noble)</i><br>. 
 </details>
 
 <details>
   <summary>2. Choose the character's general <a href="#12-character-attributes">strength and weakness</a>, if any.</summary>
-  <i>In what type of situations would the character feel more comfortable? Did the character have extensive combat training? Maybe the charatcer prefers to spend time with others? Or perhaps the charatcer has spend most of his time dealing with intricate equipment?</i>
+  <i>In what type of situations would the character feel more comfortable? Did the character have extensive combat training? Maybe the charatcer prefers to spend time with others? Or perhaps the charatcer has spend most of his time dealing with intricate equipment?</i><br>
 </details>
 
 <details>
   <summary>3. Think how you wish to role-play the character, and what <a href="#13-character-skills">sort of actions</a> you'd want it to do. </summary>
-  <i>Will the character walks in the shadows, spying on his enemies? Or will it solve most problems at sword's point? Will the character control the elements or channel life into others?</i>
+  <i>Will the character walks in the shadows, spying on his enemies? Or will it solve most problems at sword's point? Will the character control the elements or channel life into others?</i><br>
 </details>
   
 <details>
   <summary>4. Determine if there are any defining characteristics that distinguishes the character.</summary>
-  <i>For example, are there any inheritable racial features, or particular cultural or professional skills that may be acquired? Perhaps some personal ability gained from past experiences?</i>
+  <i>For example, are there any inheritable racial features, or particular cultural or professional skills that may be acquired? Perhaps some personal ability gained from past experiences?</i><br>
 </details>
   
 <details>
   <summary>5. Consider how your character will react to the ever increasing frustration and stress of adventuring.</summary>
-  <i>How does the character behave under stress or when the frustration is too just too much to handle? Will it retreat from society or pray to the gods? Will the character become agressive and arrogant? Will it just break down and cry itself to sleep?</i>
+  <i>How does the character behave under stress or when the frustration is too just too much to handle? Will it retreat from society or pray to the gods? Will the character become agressive and arrogant? Will it just break down and cry itself to sleep?</i><br>
 </details>
   
 ### 1.2 Character attributes
