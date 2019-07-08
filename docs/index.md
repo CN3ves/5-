@@ -208,22 +208,22 @@ During conflict, **each player is allowed to move and choose one other actions e
 
 ___
 
-**Stances**: However, given the limited scope of these basic actions, the players may attempt to take a stance, adding more strategic options. Stances reflect how the character is currently approaching conflict. Based on the intended approach, the player can call a stance [effect](#24-conflict-effects) to: 
+**Stances**: However, given the limited scope of these basic actions, the players may attempt to take a stance, adding more strategic options to the conflice. Stances reflect how the character is currently approaching conflict. Based on the intended approach, the player can call a stance [effect](#24-conflict-effects) to: 
   
 <details><summary>Gamble an action for additional bonus.</summary>
-  <i>An agressive player may wish to gamble away the defence action to attempt a new attack, depending on the first attack being successful or a fighter may gamble away his success in order to attack an extra target.</i></details>
+  <i>An aggressive player may wish to gamble away the defence action to attempt a new attack, depending on the first attack being successful, or a fighter may gamble away his success changes in order to attack an extra target by attacking twice with a -1 level penalty.</i></details>
 <details><summary>Shifting bonus and penalties to improve a specific action. </summary>
-  <i>A defensive character may wish to take a +1 defensive bonus in exchange for a -1 attack bonus or a manouvering charatcer may put his efforts on outsmarting the target for a +1 manoeuver bonus and the cost of a -1 defense penalty.</i><br></details>
+  <i>A defensive character may wish to take a +1 defensive bonus in exchange for a -1 attack bonus or a manoeuvring character may put his efforts on outsmarting the target for a +1 manoeuvre bonus and the cost of a -1 defence penalty.</i><br></details>
 <br>
   
 **Movement**: In this system, there are no grids, maps or any other sort of objective locations and positions during conflicts. The general layout is described, highlighting particularities that could be used for or against the players and all characters involved will start in relative positions to each other. Each character can be:  
   
-  > **Close**: Can be attacked normally with melee weapons, but with a -1 penalty for ranged weapons and magic. If hit once, ranged attackers will be forced into a defensive position and see their attack disrupted.  
+  > **Close**: Can be attacked normally with melee weapons, but with a -1 stress penalty for ranged weapons and magic. If hit once, ranged attackers (including spell-casters) will be forced into a defensive position and see their attack disrupted.  
   > **Nearby**: Enemies can be attacked with melee weapons (after moving), long reach weapons, ranged weapons and magic.  
   > **In range**: Enemies can be attacked with ranged weapons and magic.  
-  > **Out of range**: Enemies can be attacked only with higher level magic.
+  > **Out of reach**: Enemies can be attacked only with higher powered magic (count as +1 tier enemy).
 
-*Note that* these positions are not linearly spaced. Because all positions are relative to the players, all players occupies the close space at all times and needs to move 1 "space" to a nearby position, 2 "spaces" to get to an in range target or 4 "spaces" to reach an out of reach target. 
+*Note that* these positions are not linearly spaced. Because all positions are relative to the players, all players occupy the close space at all times and need to move 1 "space" to a *nearby* position, 2 "spaces" to get to an *in range* target or 4 "spaces" to reach an *out of reach* target. 
 
 ## 2.3 Conflict Resolution
 [go to top](#table-of-contents)
@@ -233,30 +233,31 @@ ___
 
 **Success range**: To determine if an action is successful, roll a 2d6 and sum the result. If that result is contained by the success range, that is, it is one of the success numbers, then the action is successful. The success range root value is 5 and how far it extends, depends on the applicable modifiers:  
   
-<details><summary>A positive modifier <b>adds numbers above 5</b> to the success range, one number per each +1 in the modifier. This means that the success range will be all numbers between 5 and 5 + modifier (including both).</summary>
-<i>If it is determine that the character has a modifier of +3 for the climb skill, then the success range will have the root 5 and 3 more values: 6,7 and 8. Success will occur if the rolled sum is one of those 4 values. Note that the success range is from 5 to 5+3.</i></details>
+<details><summary>A positive modifier <b>adds numbers above 5</b> to the success range, one number per each +1 in the modifier. This means that the success range will be all numbers between 5 and 5 + modifier (both included).</summary>
+<i>If it is determined that the character has a modifier of +3 for the climb skill, then the success range will have the root 5 and 3 more values: 6,7 and 8. Success will occur if the rolled sum is one of those 4 values. Note that the success range is from 5 to 5+3.</i></details>
 <details><summary>A negative modifier <b>moves the root below 5</b>, one value for each -1 in the modifier.</summary>
 <i>Another character tries to follow and has the modifier of -2. This means that the success root will be moved down twice, that is from 5 to 3. Success in this case will only occurs if the rolled sum is 3.</i></details>  
   
-> *The success range, even though simple, is a fairly strange concept for many players and may take a while to get used to.* An alternative method can be derived by subtractin 5 to the result. Given that the success range from 5 to 5+modifier, rolling 2d6-5 will mean that the success range is now from 5-5 to 5-5+modifier, that is from 0 to the modifier. The result is converted to a *roll less than the modifier* type of system for positive modifiers or *roll equal to modifier* for negative modifiers.
+> *The success range, even though simple, is a fairly strange concept for many players and may take a while to get used to.* An alternative method can be derived by subtracting 5 to the result. Given that the success range from 5 to 5+modifier, rolling 2d6-5 will mean that the success range is now from 5-5 to 5-5+modifier, that is from 0 to the modifier. The result is converted to a *roll less than the modifier* type of system for positive modifiers or *roll equal to modifier* for negative modifiers.
 
 **Modifiers**: The modifier that defines the success range is the sum of all bonuses and penalties that apply to the skill being checked, including:
 
-<details><summary>The Skill level: The skill level is added as a bonus for the action.</summary>
+<details><summary><i>The Skill level</i>: The skill level is added as a bonus for the action.</summary>
 <i>A charatcer with a skill level 4 add a bonus of +4 to the modifier</i></details>
   
-<details><summary>The Speciality value: Each type of conflict reflects a situation that should be covered by one of the specialities.</summary>
+<details><summary><i>The Speciality value</i>: Each type of conflict reflects a situation that should be covered by one of the specialities.</summary>
 <i>Note that this implies that the same skill can have very different success rates depending on the situation. For example, a character with a sword skill of 3 and Combat attribute of 1 and Social attribute of -1 will have a modifier of 4 when trying to cut down a goblin, but only a modifier of 2 if showing off his sword skills to someone. This can be interpreted as the character being awkward handling his sword, but it still cuts when it hits a goblin!</i></details>
 
-<details><summary>Situational: +1 bonuses and -1 penalties may be applied depending on conditions affecting the character or to particular action difficulties.</summary>
+<details><summary><i>Situational</i>: +1 bonuses and -1 penalties may be applied depending on conditions affecting the character or to particular action difficulties.</summary>
 <i>If the character gets into a tavern brawl with drunk clients, then maybe it is easier to dodge and a +1 bonus is applied. Likewise, dodging a goblin's sword is a normal effort, so no change is applied, but dodging a giant's sweeping club, is probably more difficult, providing a -1 penalty.</i></details>
 
-<details><summary>Fatigue: each time a skill is usedm if a 6 is rolled, a cummulative -1 fatigue penalty is added to the skill, preventing the character from constantly using the same skill.</summary>
+<details><summary><i>Fatigue</i>: each time a skill is usedm if a 6 is rolled, a cummulative -1 fatigue penalty is added to the skill, preventing the character from constantly using the same skill.</summary>
 <i>If a character with the climb skill level 3 continuous to climb a mountain, he will risk becoming fatigated. For example, the player rolls a 6, getting a -1 penalty on the climbing skill. If the plawes was to roll another 6, the character would have accumulated a -2 fatigue penalty</i></details>
-
+<br>
 <details><summary><b>Abilities</b>: Abilities work a bit differently than skills because they represent a special use of a given skill. As such, if an ability succeds, the additional effect occurs, while if it fails, the roll defaults to the original skill with a drawback effect. </summary>
 <i>A charatcer attemps to use his Iaijutsu counter ability and fails. He will not be able to conter-attack his target, but his sword skills may still be successful as the ability check defaults to the attched skill. This means that the character may still do the regular skill effect. However, attempting to use the skill set the character off-balance and he will have a drawback of -1 defense penalty from failing it, regardelss of the result of the base skill (sword) </i></details>
 
+**NPCs**:
 
 ### 2.4 Conflict effects
 [go to top](#table-of-contents)
