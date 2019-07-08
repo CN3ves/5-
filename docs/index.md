@@ -163,32 +163,32 @@ A “learn by doing” levelling system is suitable for the intended skills’ f
   <details><summary>3. A higher tier version of the same skill at level 0 (but you maintain the previous skill!)</summary>
   <i>For example a character with the Use Poisons skills at tier 0 and level 3 rolls double 4s. As such, the character upgrades the skill from Use Poisons (3) to Use Poisons (4:0). This notation shows the level of the skill for each tiers unlocked. Since higher tiers reflect the use of stronger poisons and the different safety methods associated with handling them, the player may use the skill at tier 0 level 4 or at tier 1 level 0 depending on the situation.</i> 
   </details><br>
-<details><summary><b>Training</b>: Characters can only use skills that reflect their concept and background. As such, all characters are considered untrained in these skills unless otherwised stated. All characters are allowed to train and study to unlock skills as fitting to the story and game setting. </summary>
+<details><summary><b>Training</b>: Characters can only use skills that reflect their concept and background. As such, all characters are considered untrained in all unsuitable skills unless agreed otherwise. All characters are allowed to train and study to unlock skills as fitting to the story and game setting. </summary>
   <i>An uneducated tribal warrior may automatically fail magic/technological skills and some "civilised" knowledge (dynastic succession rules) and social skills (court etiquette) for example</i> 
   </details>  
 
 ### 1.5 Character abilities  
 [go to top](#table-of-contents)
 
-<details><summary>With skills being all the actions that a character may do, abilities are the extra twist the character adds to the skill. Abilities provide the opportunity to add special effects to a skil, reflecting the character improvement and mastery, his personal take on the way skills can be used. </summary>
+<details><summary>With skills being all the actions that a character may do, abilities are the extra twist the character adds to the skill. Abilities provide the opportunity to add special effects to a skill, reflecting the character improvement and mastery, and the personal take on the way skills can be used. </summary>
   <i> For example:<br>
   * Upgrading Sword skill you may gain the Iaijutsu ability (counter attack on defence).<br>
   * Upgrading Fire spell: you may gain the Burning Bolt ability (burn condition) or Fire Ball (+1 target). <br>
-  * Upgrading History knowledge:you may gain the more specialised knowledge about Noble Families (ability).</i> <br>
+  * Upgrading History knowledge: you may gain the more specialised knowledge about Noble Families (ability).</i> <br>
   </details>  
   
 As such, abilities are *attached* to a given skill. Despite the similarities, abilities progression differs from skill progression as:  
   
-  1. Abilities' level is capped to -1 the level of the skill it is attached. As such, that do not reach the maximum level (roll double 6 only to level up) and do not provide the maximum level +1 bonus.
+  1. Abilities' level is capped at a level below the skill they are attached to. As such, abilities do not reach the maximum level (roll double 6 only to level up) and do not provide the maximum level +1 bonus.
   2. Upgrading an ability to the next tier does not provide training to a skill or a new ability, it simply unlocks a more higher tier version of the ability. 
 
 ## 2. Conflict
 ### 2.1 Conflict Structure
 [go to top](#table-of-contents)
 
-This system uses turns to structure the game, where **each turn is made by a single intervention from every player**, giving the opportunity for every player to take an action if he wishes to do so. Importantly, **all actions withing a turn occurs simiultaneously** so there is no clear initiative or turn order. At the begging of each turn, the previous actions are resolved, the consequences described and the new situation introduced. **Conflict arises any time the outcome of the players' actions is uncertain**. As such, each conflict should reflect a specific situations matching one of the [character's specialities](#12-character-specialities). 
+This system uses turns to structure the game, where **each turn is made by a single intervention from every player**, giving the opportunity for every player to take an action if he wishes to do so. Importantly, **all actions within a turn occurs simultaneously** so there is no clear initiative or turn order. At the begging of each turn, the previous actions are resolved, the consequences described and the new situation introduced. **Conflict arises any time the outcome of a players' actions is uncertain**. As such, each conflict should reflect a specific situations matching one of the [character's specialities](#12-character-specialities). 
 
-<details><summary>All conflicts are solved with a narrative, <a href="https://www.dndbeyond.com/posts/355-how-to-run-combat-in-the-theater-of-the-mind">theater of the mind</a> approach, where the results from the previous turn inform on the behavior of the NPCs on the next turn.</summary>
+<details><summary>All conflicts are solved with a narrative, <a href="https://www.dndbeyond.com/posts/355-how-to-run-combat-in-the-theater-of-the-mind" target="_blank">theater of the mind</a> approach, where the results from the previous turn inform on the behavior of the NPCs on the next turn.</summary>
   <i>This is to say that, for example, a dragon does not have to be bashed to a pulp of negative HP to be defeated, its actions are determined by the number of successes and failures the players accumulated during the conflict, where each success reflect a new action, approach or consideration noticeable by the players.</i></details>
     
 
