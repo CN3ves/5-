@@ -19,6 +19,7 @@ _____
   2.2 [Actions](#22-conflict-actions)  
   2.3 [Resolution](#23-conflict-resolution)  
   2.4 [Effects](#24-conflict-effects)
+  2.5 [Wounds](#25-wounds-and-stress)
 3. [Other](#3-other)  
   3.1 [NPCs](#31-npcs)   
   3.2 [Equipment](#32-equipment)  
@@ -303,17 +304,14 @@ Players should feel free to call on custom effect and add new and unique takes o
 <br>
 **Helping**: An help effect can be called whenever players can justify it. Help provides a +1 bonus to the action per helping source. Generally, successful actions from other players will be evocked to justify the help bonus, but other reason could be concidered, such as information from knowledge skills, narrative effects from rolling 1 or specific descriptiors that may apply. 
 
-**Wounds and Frustration**: Adventuring puts a lot of presurre both on the body and mind, resulting in wounds and furstration.
+### 2.5 Wounds and Stress
+Adventuring puts a lot of pressure both on the body and mind, resulting in wounds, frustration and stress. Physical and mental (stress/frustration) wounds have a maximum of 10 levels, at which point the character is exhausted from accumulated wounds or loses his mind completely, becoming unplayable. By having more than 5 levels on one of these, the player risks permanent damage in the form of a new descriptor. When acquiring a wounds or stress ,
 
-Wounds and frustration still occur as a side-effects of accumulated strain so, at the end of each conflict as the characters rest and all their strain is removed, there is a chance that a character was wounded either directly by an enemy or indirectly by the strain placed on his body (muscle injury from a bad swing). To determine if a character received a physical or mental wound, roll 2d6 and, if the the lowest dice value is equal or less than the strain accumulated during that conflict, the character was wounded in combat or became stressed from a difficult social interaction by that amount. Notice that “Obverse-based conflicts” are often simple and can be handled with without incurring strain penalties. If that is not the case, these conflicts can work both ways, either the player gets frustrated because we can’t track the bandits or he trips and falls as he tries to follow their tracks.
-Physical and mental (stress/frustration) wounds have a maximum of 10 levels, at which point the character is exhausted from accumulated wounds or loses his mind completely, becoming unplayable. By having more than 5 levels of wounds, the player risks permanent damage in the form of a new descriptor. If the sum of the wound roll is below the level of the wound, then a new wound description is gained for physical wounds or the frustration trait kicks in for the mental wounds. 
 
-So far, there are four types of damage characters are subjected to: temporary strain, permanent wounds, cumulative stress and descriptors.
-* Strain is recovered completely as soon as the characters leave a conflict and assuming they can rest for a little while before moving into the next conflict.
-* Frustration heals when the players are back to safety and have time to get a proper meal, drink and rest. For each relaxing moment the character has, its frustration is decreased by the lowest value on a 2d6 roll.
-* Minor wounds (wound level up to 5) require simple treatment that can be provided by anyone, reducing the wound level by the difference between the lowest value on a 2d6 roll.
-* Major wounds (wound level above 5) require trained medical treatment and access to adequate medical supplies. Proper medical care will reduce wounds by the highest value on a 2d6 roll.
-* Descriptors do not heal by themselves and generally require a double roll (narration and effect) to be removed or adequate treatment to be obtained. Some physical wounds cannot be completely removed.
+**Physical wounds**: At any time a character fails a skill roll would result in damage, keep the lowest value die and add a "damage counter" to the character. If the number of counter is above the value of the kept die, the character receives that value as levels of wounds. The "damage counter" is restarted at the end of a conflict. Healing minor wounds *(wound level below 5)* requires simple treatment that can be provided by anyone, reducing the wound level by the lowest value on the 2d6 check. However, major wounds *(wound level above 4) require trained medical treatment and access to adequate equipment and supplies. A trained check reduces the level by the highest value on the 2d6 roll. If a character gets new wound levels when he already has received major wounds, it risks permanent damage in the form of a new descriptor. In addition to the regular wound check, if the sum of the failed skill roll is below the level of the wound or stress, then a new wound description is gained which may not be recoverable from. 
+
+**Mental stresss**: At any time a character fails an active action to attempt something, keep the lowest value die and add a "stress counter" to the character. If the number of counter is above the value of the kept die, the character receives that value as levels of stress. The "stress counter" is restarted at the end of a conflict. Healing frustration wounds *(wound level below 5)* requires simple treatment that can be provided by anyone, reducing the wound level by the lowest value on the 2d6 check. However, major wounds *(wound level above 4) require trained medical treatment and access to adequate equipment and supplies. A trained check reduces the level by the highest value on the 2d6 roll. If a character gets new wound levels when he already has received major wounds, it risks permanent damage in the form of a new descriptor. In addition to the regular wound check, if the sum of the failed skill roll is below the level of the wound or stress, then a new wound description is gained which may not be recoverable from. 
+
 
 ## 3. Other
 ### 3.1 NPCs
