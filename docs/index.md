@@ -303,6 +303,7 @@ So far, there are four types of damage characters are subjected to: temporary st
 
 ## 3. Other
 ### 3.1 NPCs
+[go to top](#table-of-contents)
 Players do all the rolling. NPCs do not roll. If a player hits the target, it's because the target didn't dodge. Likewise, if a player fails to dodge, it's because the enemy hit. Cause and consequence. The only things required to define an NPC character is:
 
 <blockquote>
