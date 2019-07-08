@@ -188,23 +188,23 @@ As such, abilities are *attached* to a given skill. Despite the similarities, ab
 
 This system uses turns to structure the game, where **each turn is made by a single intervention from every player**, giving the opportunity for every player to take an action if he wishes to do so. Importantly, **all actions within a turn occurs simultaneously** so there is no clear initiative or turn order. At the begging of each turn, the previous actions are resolved, the consequences described and the new situation introduced. **Conflict arises any time the outcome of a players' actions is uncertain**. As such, each conflict should reflect a specific situations matching one of the [character's specialities](#12-character-specialities). 
 
-<details><summary>All conflicts are solved with a narrative, <a href="https://www.dndbeyond.com/posts/355-how-to-run-combat-in-the-theater-of-the-mind" target="_blank">theater of the mind</a> approach, where the results from the previous turn inform on the behavior of the NPCs on the next turn.</summary>
-  <i>This is to say that, for example, a dragon does not have to be bashed to a pulp of negative HP to be defeated, its actions are determined by the number of successes and failures the players accumulated during the conflict, where each success reflect a new action, approach or consideration noticeable by the players.</i></details>
+<details><summary>All conflicts are solved with a narrative, <a href="https://www.dndbeyond.com/posts/355-how-to-run-combat-in-the-theater-of-the-mind" target="_blank">theatre of the mind</a> approach, where the results from the previous turn inform on the behaviour of the NPCs on the next turn.</summary>
+  <i>This is to say that, for example, a dragon does not have to be bashed to a pulp of negative HP to be defeated. Its actions are determined by the number of successes and failures the players accumulated during the conflict, where each success reflect a new action, approach or consideration noticeable by the players.</i></details>
     
 
 ### 2.2 Conflict actions
 [go to top](#table-of-contents)
 
-During conflict, **each player is allowed to move and choose one other actions each turn** with a potential defense action being called if the character is attacked. Actions are free-form and if the player comes up with an idea, that should be implemented within reason. As such, **each player calls on an action by describe it and its intentions.** Basic actions include:
+During conflict, **each player is allowed to move and choose one other actions each turn** with a potential defence action being called if the character is attacked. Actions are free-form and if the player comes up with an idea, that should be implemented within reason. As such, **each player calls for an action by describing it and its intentions.** Basic actions include:
 
   > **Move action**: cover 1 "space" of movement.  
-  > **Attack action**: actively attempt to cause damage to a target (either with sword or word!)  
-  > **Defence action**: protect from and adversary's attack or insult (dodge, evade, shield, etc.)  
-  > **Manoeuver action**: try to impose a disadvantage on a target (disarm, hide, gain terrain advantage, etc.)  
+  > **Attack action**: actively attempt to damage a target's position (either with sword or word!)  
+  > **Defence action**: protect from an adversary's attack or insult (dodge, shield, rebuke, etc.)  
+  > **Manoeuvre action**: try to impose a disadvantage on a target (disarm, hide, gain terrain advantage, etc.)  
   > **Interact action**: interact with items, be it picking them from the floor or from a bag, reloading a weapon or drinking a potion, etc.  
-  > **Recover action**:** recover from a previous attack or simply fall back to overview the battle field or catch some breath
+  > **Recover action**: recover from a previous attack or simply fall back to overview the battle field or catch some breath.
 
-*Note that* each actions called should correspond to a skill (or ability). If an action requires a non-existent skill, simply add it to the list at level 0. If it wasn't there to start with, it is fair to assume the charatcers have no experience with it. However, concider the charatcer's background and, if it would be reasonable for the character to have some experience in the skill, allow it to start at level 2.
+*Note that* each actions called should correspond to a skill (or ability). If an action requires a non-existent skill, simply add it to the list at level 0. If it wasn't there to start with, it is fair to assume the characters have no experience with it. However, consider the character's background and, if it would be reasonable for the character to have some experience in the skill, allow it to start at level 2.
 
 ___
 
@@ -214,7 +214,7 @@ ___
   <i>An agressive player may wish to gamble away the defence action to attempt a new attack, depending on the first attack being successful or a fighter may gamble away his success in order to attack an extra target.</i></details>
 <details><summary>Shifting bonus and penalties to improve a specific action. </summary>
   <i>A defensive character may wish to take a +1 defensive bonus in exchange for a -1 attack bonus or a manouvering charatcer may put his efforts on outsmarting the target for a +1 manoeuver bonus and the cost of a -1 defense penalty.</i><br></details>
-  
+<br>
   
 **Movement**: In this system, there are no grids, maps or any other sort of objective locations and positions during conflicts. The general layout is described, highlighting particularities that could be used for or against the players and all characters involved will start in relative positions to each other. Each character can be:  
   
