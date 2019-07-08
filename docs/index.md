@@ -20,7 +20,7 @@ _____
   2.3 [Resolution](#23-conflict-resolution)  
   2.4 [Effects](#24-conflict-effects)
 3. [Other](#3-other)  
-  3.1 [Equipment](#31-npcs)   
+  3.1 [NPCs](#31-npcs)   
   3.2 [Equipment](#32-equipment)  
   3.3 [Scenes](#33-scenes)
 
