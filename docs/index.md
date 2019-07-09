@@ -4,7 +4,7 @@ ____
 
 **Quick rules**:
 
-*Call action*:
+*Call action*:  
   1. Create a character concept you want to play with 2 or 3 abilities or traits.
   2. The turn is introduced by the scene owner.
   3. You can move, do something and defend yourself. 
@@ -16,13 +16,13 @@ ____
   7. If you modifier is negative and sum of your 2d6 roll is 5 - modifier, you succeed.
   8. If you rolled a 1 in any of the dice, use that to add a "but" twist to your result.
   
-*Failure* 
+*Failure*  
   9. If you fail, keep the lowest die.
   10. If you failed, try to handle it creatively. Failing does not have to mean failing!  
   11. If you failed and may take damage as consequence, add 1 wound counter. If the number of counters is above the value of the kept die, you gain one level of wounds. 
   12. If you failed an action you started, add 1 stress counter. If the number of counters is above the value of the kept die, you gain one level of stress. 
   
-*Level up*
+*Level up*  
   13. If you rolled a double and the value repeated value is above the level of the skill you're using, level up the skill.
   14. If your skill level is now 4, upgrade the skill to a new tier, gain one level on any other skill and learn an ability.
   15. If your skill levels up with a double 6 (maximum level), you gain a +1 bonus to the next tier of that skill.
