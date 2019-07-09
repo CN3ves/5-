@@ -50,9 +50,9 @@ _____
   <summary>4. Determine if there are any defining characteristics that distinguishes the character.</summary>
   <i>For example, are there any inheritable racial features, or particular cultural or professional skills that may be acquired? Perhaps some personal ability gained from past experiences? How would these traits work?</i>
 </details>
-  
+
 <details>
-  <summary>5. Consider how your character will react to the ever increasing frustration and stress of adventuring.</summary>
+  <summary>5. Consider how your character will react to the ever increasing <a href="#25-wounds-and-stress">frustration and stress</a> of adventuring.</summary>
   <i>How does the character behave under stress or when the frustration is too just too much to handle? Will it retreat from society or pray to the gods? Will the character become aggressive and arrogant? Will it just break down and cry itself to sleep?</i>
 </details>
   
@@ -305,12 +305,6 @@ Players should feel free to call on custom effect and add new and unique takes o
 **Helping**: An help effect can be called whenever players can justify it. Help provides a +1 bonus to the action per helping source. Generally, successful actions from other players will be evocked to justify the help bonus, but other reason could be concidered, such as information from knowledge skills, narrative effects from rolling 1 or specific descriptiors that may apply. 
 
 ### 2.5 Wounds and Stress
-Adventuring puts a lot of pressure both on the body and mind, resulting in wounds, frustration and stress. Physical and mental (stress/frustration) wounds have a maximum of 10 levels, at which point the character is exhausted from accumulated wounds or loses his mind completely, becoming unplayable. By having more than 5 levels on one of these, the player risks permanent damage in the form of a new descriptor. When acquiring a wounds or stress ,
-
-
-**Physical wounds**: At any time a character fails a skill roll would result in damage, keep the lowest value die and add a "damage counter" to the character. If the number of counter is above the value of the kept die, the character receives that value as levels of wounds. The "damage counter" is restarted at the end of a conflict. Healing minor wounds *(wound level below 5)* requires simple treatment that can be provided by anyone, reducing the wound level by the lowest value on the 2d6 check. However, major wounds *(wound level above 4) require trained medical treatment and access to adequate equipment and supplies. A trained check reduces the level by the highest value on the 2d6 roll. If a character gets new wound levels when he already has received major wounds, it risks permanent damage in the form of a new descriptor. In addition to the regular wound check, if the sum of the failed skill roll is below the level of the wound or stress, then a new wound description is gained which may not be recoverable from. 
-
-**Mental stresss**: At any time a character fails an active action to attempt something, keep the lowest value die and add a "stress counter" to the character. If the number of counter is above the value of the kept die, the character receives that value as levels of stress. The "stress counter" is restarted at the end of a conflict. Healing frustration wounds *(wound level below 5)* requires simple treatment that can be provided by anyone, reducing the wound level by the lowest value on the 2d6 check. However, major wounds *(wound level above 4) require trained medical treatment and access to adequate equipment and supplies. A trained check reduces the level by the highest value on the 2d6 roll. If a character gets new wound levels when he already has received major wounds, it risks permanent damage in the form of a new descriptor. In addition to the regular wound check, if the sum of the failed skill roll is below the level of the wound or stress, then a new wound description is gained which may not be recoverable from. 
 
 
 ## 3. Other
@@ -341,6 +335,21 @@ Skill of tier equal to enemy tier + 1: The skills are checked with a +1 tier bon
 Skill of tier above enemy tier +1: The skill succeeds automatically<br>
 <br> Note that as higher tiered skills have lower maximum levels, even if the player's skills are of the same tier as the enemy, their changes of success are reduced for higher tier enemies.</i></details>
 </blockquote>
+
+### 2.5 Wounds and stress
+Adventuring puts a lot of pressure both on the body and mind, resulting in wounds, frustration and stress. Physical and mental (stress/frustration) wounds have a maximum of 10 levels, at which point the character is exhausted from accumulated wounds or loses his mind completely, becoming unplayable. By having more than 5 levels on one of these, the player risks permanent damage in the form of a new descriptor. When acquiring a wounds or stress ,
+
+
+**Physical wounds**: At any time a character fails a skill roll would result in damage, keep the lowest value die and add a "damage counter" to the character. If the number of counter is above the value of the kept die, the character receives that value as levels of wounds. The "damage counter" is restarted at the end of a conflict. Healing minor wounds *(wound level below 5)* requires simple treatment that can be provided by anyone, reducing the wound level by the lowest value on the 2d6 check. However, major wounds *(wound level above 4) require trained medical treatment and access to adequate equipment and supplies. A trained check reduces the level by the highest value on the 2d6 roll. If a character gets new wound levels when he already has received major wounds, it risks permanent damage in the form of a new descriptor. In addition to the regular wound check, if the sum of the failed skill roll is below the wound level, then a new wound description is gained which may not be recoverable from. 
+
+**Mental stress**: At any time a character fails an active action to attempt something, keep the lowest value die and add a "stress counter" to the character. If the number of counter is above the value of the kept die, the character receives that value as levels of stress. The "stress counter" is restarted at the end of a conflict. Recovering from frustration *(stress level below 5)* requires a simple down-time rest, with 1 stress level recovered per each period of relaxation and enjoyment. However, burn-out *(stress level above 4) requires complete night rest and low danger down-time activities, reducing the stress level by the lowest value of a 2d6. If a character gets new stress level when he is already burned-out, it risks mental break down and permanent effect in the form of a new descriptor. In addition to the regular stress check, if the sum of the failed skill roll is below the stress level, then a new stress description is gained which may not be recoverable from. 
+
+**Frustration trait**: The frustration trait reflects the unrestrained inner self of the charterer and how it "explodes" when the stress of adventure is too much and it needs to vent out the accumulated frustration. Players may decide to have their characters became frustrated any time. A frustrated character gains the following benefits:  
+  
+  * It can remove all stress counters if the frustration trait is used
+  * It recovers frustration levels twice as fast for minor relaxing moments, including when burned-out
+  * It recovers the highest value for the long term stress reductions (sleep and down-time)
+
 
 ### 3.2 Equipment
 [go to top](#table-of-contents)
