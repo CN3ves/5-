@@ -55,5 +55,5 @@ ___
 
 This system is being tested using:  
   
-  1. [The Master's Vault](https://gamersplane.com/forums/thread/12141/?p=581888) D&D5e introductory adventure from roll20
-  2. [The Legacy of the Crystal Shard](https://gamersplane.com/forums/thread/12586/) from The Sundering Adventure Modules Series
+  1. [The Master's Vault](https://gamersplane.com/forums/thread/12141/?p=581888): D&D5e introductory adventure from roll20
+  2. [The Legacy of the Crystal Shard](https://gamersplane.com/forums/thread/12586/): from The Sundering Adventure Modules Series
