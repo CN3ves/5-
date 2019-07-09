@@ -12,7 +12,7 @@ ____
 
 
 ### 1.1 Character Creation  
-[go to top](#table-of-contents)
+[go to top](#1-characters)
 
 <details>
   <summary>1. Define the character concept using a two or three word description.</summary>
@@ -40,7 +40,7 @@ ____
 </details>
   
 ### 1.2 Character specialities
-[go to top](#table-of-contents)
+[go to top](#1-characters)
 
 Specialities reflect the general aptitudes the characters have for [*specific situations*](#21-conflict-structure). These mostly remain constant throughout the character's adventuring life:  
 
@@ -55,7 +55,7 @@ Specialities reflect the general aptitudes the characters have for [*specific si
 </details>
 
 ### 1.3 Character skills
-[go to top](#table-of-contents)
+[go to top](#1-characters)
 
 If the specialities are what distinguishes the characters' broad strengths or weaknesses, skills are the fine differences that will make a character unique. Skills refer to anything a character may do *and so include every possible action that can fail and be improved*, from using weapons and armour to interacting with other creatures and objects. While the specialities are a small set of limited options, the idea is to have a free and fluid skill's list, allowing skills to be made up *on the fly* as required. Skills measure how good the character is at doing a given action and are defined by their level (mastery) and tier (power). 
 
@@ -132,7 +132,7 @@ For example, skills could be broadly divided into the following categories:
 </details>
 
 ### 1.4 Character progression  
-[go to top](#table-of-contents)
+[go to top](#1-characters)  
 In this system, characters do not level up or gain quanta of power at certain points in a deterministic way. They age and gain experience as one does! Characters can progress, or improve, in 3 different ways: gain experience with skills, acquire better [equipment](#32-equipment) and learn new abilities. Skills (and abilities) level up using a “learn by doing” system, matching the intended skills’ fluid dynamics and flexibility:  
   
   1. Every time you roll a 2d6 for a skill check, if the result is a double (same value on both dice) you level up that skill if the value shown (twice) is above your *current skill level plus skill tier*. 
@@ -152,7 +152,7 @@ In this system, characters do not level up or gain quanta of power at certain po
   </details>  
 
 ### 1.5 Character abilities  
-[go to top](#table-of-contents)
+[go to top](#1-characters)  
 
 <details><summary>With skills being all the actions that a character may do, abilities are the extra twist the character adds to the skill. Abilities provide the opportunity to add special effects to a skill, reflecting the character improvement and mastery, and the personal take on the way skills can be used. </summary>
   <i> For example:<br>
