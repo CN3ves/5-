@@ -372,8 +372,8 @@ A mantle of rose scent may let you automatically convince blind creatures you're
 <i>A full plate armour may absorb the first 3 wound counters while fully repaired<br>
 A magical amulet may provide immunity to fire damage twice before re-charging<br>
 A magical helmet may whisper encouraging words, reducing the amount stress counters gained by 1</i></details>
-<details><summary><b>In some setting, items may be required in order to use certain skills, such as spell-casting </summary>
-<i> FThe most extreme example would be that of a level 3 water magic caster that is not be able to cast any water spells if her create water ring is not equipped. This would work as a specialization of the spell book concept, where each spell is associated with an item</i></details>
+<details><summary>In some settings, <b>items may be required in order to use certain skills</b>, such as spell-casting </summary>
+<i> Fhe most extreme example would be that of a level 3 water magic caster that is not be able to cast any water spells if her create water ring is not equipped. This would work as a specialization of the spell book concept, where each spell is associated with an item</i></details>
 </blockquote>
 
 ### 3.3 Scenes  
