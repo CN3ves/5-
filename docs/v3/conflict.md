@@ -1,7 +1,17 @@
-
 ## 2. Conflict
+[back to table of contents](contents.md)
+  
+2.1 [Structure](conflict.md#21-conflict-structure)  
+2.2 [Actions](conflict.md#22-conflict-actions)  
+2.3 [Resolution](conflict.md#23-conflict-resolution)  
+2.4 [Effects](conflict.md#24-conflict-effects)
+2.5 [Wounds](conflict.md#25-wounds-and-stress)
+  
+____
+
+
 ### 2.1 Conflict Structure
-[go to top](#table-of-contents)
+[go to top](#2-conflict)
 
 This system uses turns to structure the game, where **each turn is made by a single intervention from every player**, giving the opportunity for every player to take an action if he wishes to do so. Importantly, **all actions within a turn occurs simultaneously** so there is no clear initiative or turn order. At the begging of each turn, the previous actions are resolved, the consequences described and the new situation introduced. **Conflict arises any time the outcome of a players' actions is uncertain**. As such, each conflict should reflect a specific situations matching one of the [character's specialities](#12-character-specialities). 
 
@@ -10,7 +20,7 @@ This system uses turns to structure the game, where **each turn is made by a sin
     
 
 ### 2.2 Conflict actions
-[go to top](#table-of-contents)
+[go to top](#2-conflict)
 
 During conflict, **each player is allowed to move and choose one other actions each turn** with a potential defence action being called if the character is attacked. Actions are free-form and if the player comes up with an idea, that should be implemented within reason. As such, **each player calls for an action by describing it and its intentions.** Basic actions include:
 
@@ -43,7 +53,7 @@ ___
 *Note that* these positions are not linearly spaced. Because all positions are relative to the players, all players occupy the close space at all times and need to move 1 "space" to a *nearby* position, 2 "spaces" to get to an *in range* target or 4 "spaces" to reach an *out of reach* target. 
 
 ## 2.3 Conflict Resolution
-[go to top](#table-of-contents)
+[go to top](#2-conflict)
 
 <details><summary>When a player wants to do an action, the player calls on it and describes the intended effect. If the action's result is uncertain, then the character is in a conflict situation. To resolve the conflict, the character must name a relevant skill to check for the action's success.</summary>
 <i>A player wants to climb a steep wall to sneak into the Baron's private garden. Given the height of the wall, the result of this action is uncertain and a conflict is started. The player can then choose from any reasonable skills, such as climb or jump, and make a skill check to find out what happens</i></details>
@@ -76,7 +86,7 @@ ___
 <br>
 
 ### 2.4 Conflict effects
-[go to top](#table-of-contents)
+[go to top](#2-conflict)
 
 <details><summary><b>Descriptors</b>: During the adventure, characters will often experience unexpected conditions, situations and difficulties. Descriptors reflect any unusual effect the character is under, either mechanistically or dramatically, including situational bonuses, condition penalties or any other effect than is not the default character state: </summary>
 <i> A poisoned character may feel weaker, a paralysed character wouldn't be able to move, while a character with a broken arm may just be able to carry on almost unaffected, avoiding using its arm. </i></details>
@@ -119,7 +129,8 @@ Players should feel free to call on custom effect and add new and unique takes o
 <br>
 **Helping**: An help effect can be called whenever players can justify it. Help provides a +1 bonus to the action per helping source. Generally, successful actions from other players will be evocked to justify the help bonus, but other reason could be concidered, such as information from knowledge skills, narrative effects from rolling 1 or specific descriptiors that may apply. 
 
-### 2.5 Wounds and Stress
+### 2.5 Wounds and Stress  
+[go to top](#2-conflict)  
 Adventuring puts a lot of pressure both on the body and mind, resulting in wounds, frustration and stress. Physical and mental (stress/frustration) wounds have a maximum of 10 levels, at which point the character is exhausted from accumulated wounds or loses his mind completely, becoming unplayable. By having more than 5 levels on one of these, the player risks permanent damage in the form of a new descriptor. When acquiring a wounds or stress ,
 
 
