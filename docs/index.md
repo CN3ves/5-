@@ -10,4 +10,4 @@ System Rules:
   
   * [Version 1](v1.md)
   * [Version 2](v2.md)
-  * [Version 3](v3.md)
+  * [Version 3](v3/contents.md)
