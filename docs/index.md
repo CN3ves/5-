@@ -150,8 +150,7 @@ For example, skills could be broadly divided into the following categories:
 
 ### 1.4 Character progression  
 [go to top](#table-of-contents)
-
-A “learn by doing” levelling system is suitable for the intended skills’ fluid dynamics and flexibility:  
+In this system, characters do not level up or gain quanta of power at certain points in a deterministic way. They age and gain experience as one does! Characters can progress, or improve, in 3 different ways: gain experience with skills, acquire better [equipment](#32-equipment) and learn new abilities. Skills (and abilities) level up using a “learn by doing” system, matching the intended skills’ fluid dynamics and flexibility:  
   
   1. Every time you roll a 2d6 for a skill check, if the result is a double (same value on both dice) you level up that skill if the value shown (twice) is above your *current skill level plus skill tier*. 
   2. *When you reach level 4 of a skill*, you upgrade your skill to a higher tier.
@@ -305,6 +304,18 @@ Players should feel free to call on custom effect and add new and unique takes o
 **Helping**: An help effect can be called whenever players can justify it. Help provides a +1 bonus to the action per helping source. Generally, successful actions from other players will be evocked to justify the help bonus, but other reason could be concidered, such as information from knowledge skills, narrative effects from rolling 1 or specific descriptiors that may apply. 
 
 ### 2.5 Wounds and Stress
+Adventuring puts a lot of pressure both on the body and mind, resulting in wounds, frustration and stress. Physical and mental (stress/frustration) wounds have a maximum of 10 levels, at which point the character is exhausted from accumulated wounds or loses his mind completely, becoming unplayable. By having more than 5 levels on one of these, the player risks permanent damage in the form of a new descriptor. When acquiring a wounds or stress ,
+
+
+**Physical wounds**: At any time a character fails a skill roll would result in damage, keep the lowest value die and add a "damage counter" to the character. If the number of counter is above the value of the kept die, the character receives that value as levels of wounds. The "damage counter" is restarted at the end of a conflict. Healing minor wounds *(wound level below 5)* requires simple treatment that can be provided by anyone, reducing the wound level by the lowest value on the 2d6 check. However, major wounds *(wound level above 4) require trained medical treatment and access to adequate equipment and supplies. A trained check reduces the level by the highest value on the 2d6 roll. If a character gets new wound levels when he already has received major wounds, it risks permanent damage in the form of a new descriptor. In addition to the regular wound check, if the sum of the failed skill roll is below the wound level, then a new wound description is gained which may not be recoverable from. 
+
+**Mental stress**: At any time a character fails an active action to attempt something, keep the lowest value die and add a "stress counter" to the character. If the number of counter is above the value of the kept die, the character receives that value as levels of stress. The "stress counter" is restarted at the end of a conflict. Recovering from frustration *(stress level below 5)* requires a simple down-time rest, with 1 stress level recovered per each period of relaxation and enjoyment. However, burn-out *(stress level above 4) requires complete night rest and low danger down-time activities, reducing the stress level by the lowest value of a 2d6. If a character gets new stress level when he is already burned-out, it risks mental break down and permanent effect in the form of a new descriptor. In addition to the regular stress check, if the sum of the failed skill roll is below the stress level, then a new stress description is gained which may not be recoverable from. 
+
+**Frustration trait**: The frustration trait reflects the unrestrained inner self of the charterer and how it "explodes" when the stress of adventure is too much and it needs to vent out the accumulated frustration. Players may decide to have their characters became frustrated any time. A frustrated character gains the following benefits:  
+  
+  * It can remove all stress counters if the frustration trait is used
+  * It recovers frustration levels twice as fast for minor relaxing moments, including when burned-out
+  * It recovers the highest value for the long term stress reductions (sleep and down-time)
 
 
 ## 3. Other
@@ -336,45 +347,53 @@ Skill of tier above enemy tier +1: The skill succeeds automatically<br>
 <br> Note that as higher tiered skills have lower maximum levels, even if the player's skills are of the same tier as the enemy, their changes of success are reduced for higher tier enemies.</i></details>
 </blockquote>
 
-### 2.5 Wounds and stress
-Adventuring puts a lot of pressure both on the body and mind, resulting in wounds, frustration and stress. Physical and mental (stress/frustration) wounds have a maximum of 10 levels, at which point the character is exhausted from accumulated wounds or loses his mind completely, becoming unplayable. By having more than 5 levels on one of these, the player risks permanent damage in the form of a new descriptor. When acquiring a wounds or stress ,
-
-
-**Physical wounds**: At any time a character fails a skill roll would result in damage, keep the lowest value die and add a "damage counter" to the character. If the number of counter is above the value of the kept die, the character receives that value as levels of wounds. The "damage counter" is restarted at the end of a conflict. Healing minor wounds *(wound level below 5)* requires simple treatment that can be provided by anyone, reducing the wound level by the lowest value on the 2d6 check. However, major wounds *(wound level above 4) require trained medical treatment and access to adequate equipment and supplies. A trained check reduces the level by the highest value on the 2d6 roll. If a character gets new wound levels when he already has received major wounds, it risks permanent damage in the form of a new descriptor. In addition to the regular wound check, if the sum of the failed skill roll is below the wound level, then a new wound description is gained which may not be recoverable from. 
-
-**Mental stress**: At any time a character fails an active action to attempt something, keep the lowest value die and add a "stress counter" to the character. If the number of counter is above the value of the kept die, the character receives that value as levels of stress. The "stress counter" is restarted at the end of a conflict. Recovering from frustration *(stress level below 5)* requires a simple down-time rest, with 1 stress level recovered per each period of relaxation and enjoyment. However, burn-out *(stress level above 4) requires complete night rest and low danger down-time activities, reducing the stress level by the lowest value of a 2d6. If a character gets new stress level when he is already burned-out, it risks mental break down and permanent effect in the form of a new descriptor. In addition to the regular stress check, if the sum of the failed skill roll is below the stress level, then a new stress description is gained which may not be recoverable from. 
-
-**Frustration trait**: The frustration trait reflects the unrestrained inner self of the charterer and how it "explodes" when the stress of adventure is too much and it needs to vent out the accumulated frustration. Players may decide to have their characters became frustrated any time. A frustrated character gains the following benefits:  
-  
-  * It can remove all stress counters if the frustration trait is used
-  * It recovers frustration levels twice as fast for minor relaxing moments, including when burned-out
-  * It recovers the highest value for the long term stress reductions (sleep and down-time)
-
-
 ### 3.2 Equipment
 [go to top](#table-of-contents)
 
-> In this system, characters do not level up or gain quanta of power at certain points in a deterministic way. They age and gain experience as one does! Characters can progress, or improve, in 3 different ways: gain experience with skills, acquire better equipment and learn new abilities.
+<details><summary>As skills, equipment is free-form and can be defined *on the fly*. To create a new piece of equipment or item, simply name it by defining it and adding an adjective to the base name.</summary>
+<i>Rusting Sword, Long Rope, Fast Horse, Long-ranged Rifle, Heavy Armour, Amazing Laser Blaster. </i></details>
+<details><summary>To that, a small extra descriptor may be added if the equipment has any distinctive feature or power</summary>
+<i> Compare useless robes with useless robes of might.</i></details>
+Of course, super cool and legendary items can have names that are a reference to some historical or mythical place, event or person, and can be uses as opportunities for flashback chapters or as part of their character arcs.
 
 
-
-> **Equipment**: As skills, equipment is free-form and can be defined on the fly. To create a new piece of equipment or item, simply name it by defining it by adding an adjective to the base name: Rusting Sword, Long Rope, Fast Horse, Long-ranged Rifle, Heavy Armour, Amazing Laser Blaster. To that, a small extra descriptor may be added if the equipment has any distinctive feature or power (compare useless robes with useless robes of might). Of course, super cool and legendary items can have names that are a reference to some historical or mythical place, event or person, and players could use these as opportunities for flashback chapters or as part of their character arcs.
-Since the skill level is naturally capped at 5 by the way the system works, and that is still not a great success probability, equipment is a way to further improve the character. This can be done in 3 main ways:
-1) Apply a bonus to a skill or, more rarely, attribute: There aren't really much more stats that can be affected by equipment. Equipment that provides bonus will be noted as +1/X (the casual penalty as -1/X), where +1 is the provided bonus (-1 the penalty) and X the maximum level obtainable with equipment. A cheap stick is +1/1, meaning that players get a +1 bonus on their stick (spear maybe?) skill as long as this bonus does not result in a modifier greater than of 1, so the equipment has no effect for players with stick skill at level 1. Likewise, a Balanced sword could be +1/3, which provided a bonus for players below sword level 3. This means that you may be too skilful to actually gain any bonus from your equipment.
-2) The item has a descriptor which can be called: This allows for more general powers or effects to be imbued in the equipment. A poisoned dagger has poison descriptor, which can be called 3 times to induce poison on a target. A scroll of thunder has a thunder spell descriptor that can be called to use the thunder spell at the specified level. A helmet of speed has the fast descriptor, which is called to add another action to the player's turn. A hammer has the stun effect, which can be called to hit harder when out-manoeuvring an enemy Using descriptors allows for more flexibility in equipment creation.
-3) Really powerful items may allow automatic fails to succeed: Note that since success is defined by a 5+ range, then rolling 2,3 or 4 automatically fails. However, certain items may allow skills to succeed by using a 4+ range instead. Some examples of items the characters may encounter are:
-* Weapons: Weapons can increase the associated skill level with a +1 bonus, allow attacking up to a certain range, impose a disadvantages such as requiring re-loading or any other custom effect (stun, prone, immobilise).
-* Protective gear: Armour, shields and other equipment used for protection can be used to prevent damage. This can be by adding a +1 bonus to defensive skills (dodge, block, be brutally smashed), providing guaranteed success descriptors (once per turn your heavy armour can be use to block an attack), immunity or resistance to certain types of damage or even adding an extra strain buffer!.
-* Other gear: These are smaller items such as necklaces, rings and charms, which are unlikely to be related to any particular skill. These items may have setting specific functions, such as being required to cast spells: A level 3 water magic caster may not be able to cast any spells if her create water ring is not equipped (basically a generalization of the spell book concept). These items can provide other benefits such changing attribute values (ring of rudeness: -1 Social), modify specific skill bonus (sword rune: +1 sword skill), or any type of descriptor with effects such as automatic successes (mantle of rose scent: you automatically convince blind creatures you're a talking rose), magic immunity or any other effects.
-* Consumables: Item such as potions and scrolls that are consumed upon use provide immediate rewards, such as healing wounds, removing strain, gaining bonuses or access to certain skills. Some items should be just what they say on the label (antidote, potion of strength, love potion, scroll of toad shape)
-* Other: Any item can be relevant without changing the character stats or adding any magical descriptor. Walkie-talkies can have their mundane function and simply allow easier communication, where easier communication can then be used to set up ambushes.
+Like skills, equipment is a way to further improve the character. Take the the following 3 ways as an example:  
+<blockquote>
+<details><summary><b>Apply a bonus to a skill or, more rarely, speciality</b>: There aren't really many statistics that can be affected by equipment. Equipment that provides bonus will be noted as +1/L:T (the casual penalty as -1/L:T), where +1 is the provided bonus (-1 the penalty), L the maximum level obtainable with equipment.</summary>
+<i>A cheap stick is +1/1:0, meaning that players get a +1 bonus on their stick (spear/staff?) skill as long as this bonus does not result in a modifier greater than of 1 on a tier 0 skill, so the equipment has no effect for players with stick skill at level 1.<br> 
+Likewise, a Balanced sword could be +1/3:2, which provides a bonus for players below sword level 3 up to tier 2. This means that you may be too skilful to actually gain any bonus from your equipment.</i></details>
+<details><summary><b>The item has a descriptor which can be called:</b> This allows for more general powers or effects to be imbued in the equipment. Using descriptors allows for more flexibility in equipment creation. </summary>
+<i>A poisoned dagger has poison descriptor, which can be called 3 times to induce poison on a target. <br>
+A scroll of thunder has a thunder spell descriptor that can be called to use the thunder spell at the specified level. <br>
+A helmet of speed has the fast descriptor, which is called to add another action to the player's turn. <br>
+A hammer has the stun effect, which can be called to hit harder when out-manoeuvring an enemy.<br>
+A mantle of rose scent may let you automatically convince blind creatures you're a talking rose</i></details>
+<details><summary><b>Item may be used to protect the characters</b>: Particularly true for armour and magical items, these items can either reduce the wound/stress counters or prevent damage. </summary>
+<i>A full plate armour may absorb the first 3 wound counters while fully repaired<br>
+A magical amulet may provide immunity to fire damage twice before re-charging<br>
+A magical helmet may whisper encouraging words, reducing the amount stress counters gained by 1</i></details>
+<details><summary><b>In some setting, items may be required in order to use certain skills, such as spell-casting </summary>
+<i> FThe most extreme example would be that of a level 3 water magic caster that is not be able to cast any water spells if her create water ring is not equipped. This would work as a specialization of the spell book concept, where each spell is associated with an item</i></details>
+</blockquote>
 
 ### 3.3 Scenes
 [go to top](#table-of-contents)
+Scenes in this system are not defined by one player only. Even though one player take the role of game master (GM), all players should have the opportunity to take control and make their own scenes, and contributing the other player's scenes:  
+  
+  1) Since the skill check result is immediate, the player is allowed to interpret the result of his own action. The next player can then add any interesting details that may introduce his own actions. As such, to players are allowed to interpret any single skill check. Once all players acted, the scene owner then reinterprets the entire turn taking into account the players suggestions.
+
+  2) After introducing any new scene, place or situation, the players should add a detail to the scene. Players have the opportunity to contribute to the scene, from just adding new descriptive details to bring out different things about the places they visit, from adding a character or hinting on something that could be happening soon.
+
+  3) This small hints and details will contribute to the player's change to play a card and take over the game. At the beginning of the game, each player picks 3 cards. Each player will then be able to add rumours, hints and clues to the story, trying to drive players into their secret story arc. Once other players take the bait, the player can play one card and discard the other 2, starting a his own scene *(that is, that player becomes the GM)*. The player can then move the character secret story arc forward, that is, players will GM their own character's arc! Whenever a new player takes over, the previous scene owner picks 3 new cards.
+
+___
+**Card suits**: Each suit reflects a different type of quest or game-play:  
+  
+  * Hearts are for socializers, so these should include a relevant amount of interaction with NPCs (chatty enemies, distressed peasants, negotiating passage). 
+  * Diamonds are for achievers, so these include or point to some clear reward or something the players can achieve or collect (rare equipment sets, money, status). 
+  * Spades are for explorers, so these should introduce new lands, explain long lost secrets or clarify some historical event or any other discovery (background information, a rumours of distant lands, a secret revealed by an solving a puzzle). 
+  * Clubs are for killers, so these quests should should be filled with combat and fights (challenges of power, all out combat, arenas)
+
+**Card values**: The numeric values of the cards illustrate the challenge of the conflict, so cards with higher values will present more danger to the players (be it the number of enemies, successes required, total enemy tier, situational penalties, having the players surprised, etc.). Royals will represent important named enemies (possibly recurring enemies). A Joker is a quest that has a change to gain a bless or new ability or in some way provide a significant improvement *(being knighted by the king could be as important as a new ability!)* while Aces represent conflicts leading to new friendly or helpful connection.
 
 
-> **What do you see?**: After introducing any new scene, place or situation, the players should be asked what they see: Do you spot someone in the corner table? Is there something strange in the wall? Are all the books arranged strangely? Players should have the opportunity to contribute with interesting details in every scene, if nothing else just to add new descriptions to bring out different things about the places they visit.
-
-> **Play your cards!**: Literally, there will be cards! Each player picks 3 cards at the start of the game. Each player will then be able to add rumours, hints and clues to the story, trying to drive players into their secret story arc. Once players take the bait, they play one card and discard the other 2, starting a player owned scene (that is, that player becomes the GM). The player can then move the character secret story arc forward, that is, players will GM their own character's arc! Whenever a new player takes over, the previous scene owner picks 3 new cardsCard suits: Each suit reflects a different type of quest or game-play. Hearts are for socializers, so these should include a relevant amount of interaction with NPCs (chatty enemies, distressed peasants, negotiating passage). Diamonds are for achievers, so these include or point to some clear reward or something the players can achieve or collect (rare equipment sets, money, status). Spades are for explorers, so these should introduce new lands, explain long lost secrets or clarify some historical event or any other discovery (background information, a rumours of distant lands, a secret revealed by an solving a puzzle). Finally, clubs are for killers, so these quests should should be filled with combat and fights (challenges of power, all out combat, arenas)
-
-Card values: The numeric values of the cards illustrate the number of story conflicts the player can call on. These can be saved and accumulated, but are earned only when playing the card. So cards with higher values will allow for longer-lasting or more complex missions. Royals will represent important named enemies (possibly recurring). A Joker is a quest that has a change to gain a bless or new ability and in some way provide a significant improvement (being knighted by the king could be as important as a new ability!) while Aces represent conflicts leading to new friendly or helpful connection.
