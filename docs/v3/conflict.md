@@ -1,5 +1,5 @@
 ## 2. Conflict
-[back to table of contents](contents.md)
+[Back](contents.md)
   
 2.1 [Structure](conflict.md#21-conflict-structure)  
 2.2 [Actions](conflict.md#22-conflict-actions)  
