@@ -376,8 +376,8 @@ A magical helmet may whisper encouraging words, reducing the amount stress count
 <i> FThe most extreme example would be that of a level 3 water magic caster that is not be able to cast any water spells if her create water ring is not equipped. This would work as a specialization of the spell book concept, where each spell is associated with an item</i></details>
 </blockquote>
 
-### 3.3 Scenes
-[go to top](#table-of-contents)
+### 3.3 Scenes  
+[go to top](#table-of-contents)  
 Scenes in this system are not defined by one player only. Even though one player take the role of game master (GM), all players should have the opportunity to take control and make their own scenes, and contributing the other player's scenes:  
   
   1) Since the skill check result is immediate, the player is allowed to interpret the result of his own action. The next player can then add any interesting details that may introduce his own actions. As such, to players are allowed to interpret any single skill check. Once all players acted, the scene owner then reinterprets the entire turn taking into account the players suggestions.
