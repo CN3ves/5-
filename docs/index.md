@@ -32,7 +32,7 @@ ____
 
 ___
 
-## Table of contents
+**Table of contents**
 
 1. [Characters](characters.md)  
   1.1 [Creation](characters.md#11-character-creation)  
