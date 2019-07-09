@@ -1,7 +1,17 @@
 
-## 3. Other
+## 3. Other  
+[Back](contents.md)
+
+**Contents**  
+3.1 [NPCs](#31-npcs)   
+3.2 [Equipment](#32-equipment)  
+3.3 [Scenes](#33-scenes)
+
+____
+
+
 ### 3.1 NPCs
-[go to top](#table-of-contents)
+[go to top](#3-other)
 Players do all the rolling. NPCs do not roll. If a player hits the target, it's because the target didn't dodge. Likewise, if a player fails to dodge, it's because the enemy hit. Cause and consequence. The only things required to define an NPC character is:
 
 <blockquote>
@@ -29,7 +39,7 @@ Skill of tier above enemy tier +1: The skill succeeds automatically<br>
 </blockquote>
 
 ### 3.2 Equipment
-[go to top](#table-of-contents)
+[go to top](#3-other)
 
 <details><summary>As skills, equipment is free-form and can be defined *on the fly*. To create a new piece of equipment or item, simply name it by defining it and adding an adjective to the base name.</summary>
 <i>Rusting Sword, Long Rope, Fast Horse, Long-ranged Rifle, Heavy Armour, Amazing Laser Blaster. </i></details>
@@ -58,7 +68,7 @@ A magical helmet may whisper encouraging words, reducing the amount stress count
 </blockquote>
 
 ### 3.3 Scenes  
-[go to top](#table-of-contents)  
+[go to top](#3-other)
 Scenes in this system are not defined by one player only. Even though one player take the role of game master (GM), all players should have the opportunity to take control and make their own scenes, and contributing the other player's scenes:  
   
   1) Since the skill check result is immediate, the player is allowed to interpret the result of his own action. The next player can then add any interesting details that may introduce his own actions. As such, to players are allowed to interpret any single skill check. Once all players acted, the scene owner then reinterprets the entire turn taking into account the players suggestions.
