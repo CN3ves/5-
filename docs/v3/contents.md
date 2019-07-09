@@ -1,6 +1,6 @@
 ## Table of contents
 
-1. [Characters](characters.md)
+1. [Characters](characters.md)  
   1.1 [Creation](characters.md#11-character-creation)  
   1.2 [Specialities](characters.md#12-character-specialities)  
   1.3 [Skills](characters.md#13-character-skills)  
