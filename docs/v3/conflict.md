@@ -1,6 +1,7 @@
 ## 2. Conflict
 [Back](contents.md)
-  
+
+**Contents**
 2.1 [Structure](conflict.md#21-conflict-structure)  
 2.2 [Actions](conflict.md#22-conflict-actions)  
 2.3 [Resolution](conflict.md#23-conflict-resolution)  
