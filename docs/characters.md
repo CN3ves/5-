@@ -1,7 +1,4 @@
 ## 1. Characters  
-[Back](contents.md)
-
-**Contents**  
 1.1 [Creation](#11-character-creation)  
 1.2 [Specialities](#12-character-specialities)  
 1.3 [Skills](#13-character-skills)  
@@ -12,7 +9,7 @@ ____
 
 
 ### 1.1 Character Creation  
-[go to top](#1-characters)
+[*back to top*](#1-characters)
 
 <details>
   <summary>1. Define the character concept using a two or three word description.</summary>
@@ -35,14 +32,14 @@ ____
 </details>
 
 <details>
-  <summary>5. Consider how your character will react to the ever increasing <a href="#25-wounds-and-stress">frustration and stress</a> of adventuring.</summary>
+  <summary>5. Consider how your character will react to the ever increasing <a href="conflict.md#25-wounds-and-stress">frustration and stress</a> of adventuring.</summary>
   <i>How does the character behave under stress or when the frustration is too just too much to handle? Will it retreat from society or pray to the gods? Will the character become aggressive and arrogant? Will it just break down and cry itself to sleep?</i>
 </details>
   
 ### 1.2 Character specialities
-[go to top](#1-characters)
+[*back to top*](#1-characters)
 
-Specialities reflect the general aptitudes the characters have for [*specific situations*](#21-conflict-structure). These mostly remain constant throughout the character's adventuring life:  
+Specialities reflect the general aptitudes the characters have for [*specific situations*](conflict.md#21-conflict-structure). These mostly remain constant throughout the character's adventuring life:  
 
 > **Brawl**: Reflects an extensive battle and combat training, both psychical and mental. Influences the character's effectiveness when in violent confrontation with other creatures *(combat situations)*. 
   
@@ -55,7 +52,7 @@ Specialities reflect the general aptitudes the characters have for [*specific si
 </details>
 
 ### 1.3 Character skills
-[go to top](#1-characters)
+[*back to top*](#1-characters)
 
 If the specialities are what distinguishes the characters' broad strengths or weaknesses, skills are the fine differences that will make a character unique. Skills refer to anything a character may do *and so include every possible action that can fail and be improved*, from using weapons and armour to interacting with other creatures and objects. While the specialities are a small set of limited options, the idea is to have a free and fluid skill's list, allowing skills to be made up *on the fly* as required. Skills measure how good the character is at doing a given action and are defined by their level (mastery) and tier (power). 
 
@@ -132,8 +129,8 @@ For example, skills could be broadly divided into the following categories:
 </details>
 
 ### 1.4 Character progression  
-[go to top](#1-characters)  
-In this system, characters do not level up or gain quanta of power at certain points in a deterministic way. They age and gain experience as one does! Characters can progress, or improve, in 3 different ways: gain experience with skills, acquire better [equipment](#32-equipment) and learn new abilities. Skills (and abilities) level up using a “learn by doing” system, matching the intended skills’ fluid dynamics and flexibility:  
+[*back to top*](#1-characters)    
+In this system, characters do not level up or gain quanta of power at certain points in a deterministic way. They age and gain experience as one does! Characters can progress, or improve, in 3 different ways: gain experience with skills, acquire better [equipment](other.md#32-equipment) and learn new abilities. Skills (and abilities) level up using a “learn by doing” system, matching the intended skills’ fluid dynamics and flexibility:  
   
   1. Every time you roll a 2d6 for a skill check, if the result is a double (same value on both dice) you level up that skill if the value shown (twice) is above your *current skill level plus skill tier*. 
   2. *When you reach level 4 of a skill*, you upgrade your skill to a higher tier.
@@ -143,7 +140,7 @@ In this system, characters do not level up or gain quanta of power at certain po
   
   1. Training (+1 level) on another skill of the current tier.   
     
-  2. A new level 0 (tier 0) [ability](#15-character-abilities) attached to your skill. These abilities should provide special effects on top of the base skill.   
+  2. A new level 0 (tier 0) ability attached to your skill. These abilities should provide special effects on top of the base skill.   
   <details><summary>3. A higher tier version of the same skill at level 0 (but you maintain the previous skill!)</summary>
   <i>For example a character with the Use Poisons skills at tier 0 and level 3 rolls double 4s. As such, the character upgrades the skill from Use Poisons (3) to Use Poisons (4:0). This notation shows the level of the skill for each tiers unlocked. Since higher tiers reflect the use of stronger poisons and the different safety methods associated with handling them, the player may use the skill at tier 0 level 4 or at tier 1 level 0 depending on the situation.</i> 
   </details><br>
@@ -152,7 +149,7 @@ In this system, characters do not level up or gain quanta of power at certain po
   </details>  
 
 ### 1.5 Character abilities  
-[go to top](#1-characters)  
+[*back to top*](#1-characters)  
 
 <details><summary>With skills being all the actions that a character may do, abilities are the extra twist the character adds to the skill. Abilities provide the opportunity to add special effects to a skill, reflecting the character improvement and mastery, and the personal take on the way skills can be used. </summary>
   <i> For example:<br>
