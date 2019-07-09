@@ -19,7 +19,7 @@ _____
   2.1 [Structure](conflict.md#21-conflict-structure)  
   2.2 [Actions](conflict.md#22-conflict-actions)  
   2.3 [Resolution](conflict.md#23-conflict-resolution)  
-  2.4 [Effects](conflict.md#24-conflict-effects)
+  2.4 [Effects](conflict.md#24-conflict-effects)  
   2.5 [Wounds](conflict.md#25-wounds-and-stress)
 3. [Other](other.md)  
   3.1 [NPCs](other.md#31-npcs)   
