@@ -1,4 +1,16 @@
 ## 1. Characters  
+[Back](contents.md)
+
+**Contents**  
+1.1 [Creation](#11-character-creation)  
+1.2 [Specialities](#12-character-specialities)  
+1.3 [Skills]d#13-character-skills)  
+1.4 [Progression](#14-character-progression)  
+1.5 [Abilities](#15-character-abilities)
+  
+____
+
+
 ### 1.1 Character Creation  
 [go to top](#table-of-contents)
 
