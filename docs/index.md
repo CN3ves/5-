@@ -37,7 +37,6 @@ ___
   
   > **Skills** are the general adventuring actions a character may attempt to do. Skills include anything that is not a character specific action. As such, skills are every possible action that can fail and be improved, from using weapons and armour to interacting with other creatures and objects. To define the character skills, think what sort of actions the characters will be doing during the adventure. As for traits, skills can be created on the fly, but some more advanced or specialised skills may be forbidden for some characters, if previous training cannot be justified by the character's concept. *As an illusionist, relevant skills would be, invisibility, create sound, create image, distract and fast talk*. For a simpler character creation, refer to the skills examples below.
 <details><summary><i>Skills example for character creation</i></summary>
-  Select 2 skills from each of the following blocks. You are allows to switch from one block to another, to a maximum of 4 skills per block. Set all the chosen skills to level 1. <br> <br>
   <blockquote>
     <details>
       <summary><b>Combat skills</b>: Use of weapons and armour as well as tactical evaluations.</summary>
@@ -97,8 +96,8 @@ ___
       <i>Crafts: Cartography, Calligraphy, Gunnery, Blacksmithing, Brewing, Baking, Enchanting, Spell-craft, etc.</i><br>
       <i>Artist: Graphic Arts, Painting, Poetry, Sing, Perform, Dance, Acting, Improvisation, etc.</i><br>
     </details>
-  </blockquote>
-  
+  </blockquote><br>
+  Select 2 skills from each of the following blocks. You are allows to switch from one block to another, to a maximum of 4 skills per block. Set all the chosen skills to level 1.<br>  
 </details>  
   
   > **Abilities** represent any particular action that the character has mastered, a signature move or a personalised take on a regular skill. Abilities add an extra twist the character's skill and provide the opportunity to add special effects to an action. *Fast talking is important for an illusionist to keep the audience both engaged and distracted, it is a deception skill that can have the added effect of confusing the target. Thus the character has the ability Words of Confusion*. Characters may start with one ability.
