@@ -101,53 +101,28 @@ ___
   
 </details>  
   
-  
-  
-  
-  > **Abilities**: and traits are the extra twist the character adds to the skill. Abilities provide the opportunity to add special effects to a skill, reflecting the character improvement and mastery, and the personal take on the way skills can be used. </summary>
-  <i> For example:<br>
-  * Upgrading Sword skill you may gain the Iaijutsu ability (counter attack on defence).<br>
-  * Upgrading Fire spell: you may gain the Burning Bolt ability (burn condition) or Fire Ball (+1 target). <br>
-  * Upgrading History knowledge: you may gain the more specialised knowledge about Noble Families (ability).</i> <br>
+  > **Abilities** represent any particular action that the character has mastered, a signature move or a personalised take on a regular skill. Abilities add an extra twist the character's skill and provide the opportunity to add special effects to an action. *Fast talking is important for an illusionist to keep the audience both engaged and distracted, it is a deception skill that can have the added effect of confusing the target. Thus the character has the ability Words of Confusion*. Characters may start with one ability.
+<details><summary><i>Examples for abilities:</i></summary>
+  Counter attack: counter attack on successful defence. <br>
+  Freezing Bolt: add freezing effect to a ice spell. <br>
+  Fire Ball: add shape to a fire spell. <br>
+  Noble Families: add knowledge of Noble lineages. <br>
+  Magic Brawling: add magic effect to unarmed attacks <br>
+  Aim: Make ranged attacks more precise. <br>
+  Optimization: Calculate the optimal strategy to outmaneuver the enemy. 
   </details>  
   
-As such, abilities are *attached* to a given skill. Despite the similarities, abilities progression differs from skill progression as:  
+  > **Conditions** reflect unusual effects the character acquired during adventuring, a specific change to the character's state. Conditions may be temporary, curable or permanent depending on their severity and how they were acquired. *A character fails of a cliff and brakes is leg. It is decided that the broken leg condition can be healed, but the medical intervention. If the intervention is successful, the broken leg condition is now temporary, and requires only some time and rest to be removed. However, if the medical treatment is provided by someone unskilled, it may need to a permanent injury.*
+<details><summary><i>Examples for conditions:</i></summary>
+  Poisoned: The character is physically ill and weak. <br>
+  Paralysed: The character cannot move or act. <br>
+  Asleep: The character is unaware of his surroundings. <br>
+  Silenced: The character cannot produce meaningful words and sounds. <br>
+  Hidden: The character cannot be seen.<br>
+  Optimal position: The character as an advantage on the target due to his positioning.<br>
+  </details>  
   
-  1. Abilities' level is capped at a level below the skill they are attached to. As such, abilities do not reach the maximum level (roll double 6 only to level up) and do not provide the maximum level +1 bonus.
-  2. Upgrading an ability to the next tier does not provide training to a skill or a new ability, it simply unlocks a more higher tier version of the ability. 
-
-
-
-
-**Calling a descriptor**
-
-
-As such, 
-
-
-During the adventure, characters will often experience unexpected conditions, situations and difficulties. Descriptors reflect any unusual effect the character is under, either mechanistically or dramatically, including situational bonuses, condition penalties or any other effect than is not the default character state: 
-
-
-
-
-<details><summary><b>Descriptors</b>: During the adventure, characters will often experience unexpected conditions, situations and difficulties. Descriptors reflect any unusual effect the character is under, either mechanistically or dramatically, including situational bonuses, condition penalties or any other effect than is not the default character state: </summary>
-<i> A poisoned character may feel weaker, a paralysed character wouldn't be able to move, while a character with a broken arm may just be able to carry on almost unaffected, avoiding using its arm. </i></details>
-<details><summary>Generally, conditions provide a +1 bonus or -1 penalty when calling an action on which their effect can logically be associated.</summary>
-<i> A character with a hidden descriptor will gain a +1 bonus when trying a surprise attack, whereas a weakened character will gain -1 penalty to moving furniture into the new apartment. </i></details>
-<details><summary>However, specific descriptors may reflect stronger penalties, effectively preventing certain actions. </summary>
-<i> Being asleep or petrified will prevent moving or taking actions, while a character that is muted or silenced will not be able to talk, and having a broken arm will prevent the character from using two handed weapons. </i></details>
-<details><summary>The default effect of a descriptor is defined when the descriptor is acquired. To avoid these default penalties, the player can call on the descriptor effect as well, paying a higher cost now for a chance of improving the effects. </summary>
-<i> 1) A poisoned character receives a -1 penalty for any physical skills. However, the player may call on the poison effect, suggesting that the character suddenly feels a bit dizzy from the conflict effort and takes some time to recover. At the cost of skipping a turn, the poison's default modifier will be ignored for the number of turns equal to the lowest value of a 2d6 roll, reflecting the characters recovered focus after taking some time to rest. <br>
-2) On the other hand, a player may call on the sleeping effect to wake up a character immediately, but having a -1 sleepy or unprepared penalty for the number of turns equal to the highest value of a 2d6 roll. <br>
-3) Finally, a character with optimal positioning may give up his +1 bonus for an extra or stronger attack, inducing a descriptior on the enemy such as the disarmed or the panic condition.</i></details>
-Players should feel free to call on custom effect and add new and unique takes on the descriptors. In general, calling on an effect allows players to make a tradeoff.
-
-**Abilities** represent any particular action that the charterer is 
-
-
- and traits are the extra twist the character adds to the skill. Abilities provide the opportunity to add special effects to a skill, reflecting the character improvement and mastery, and the personal take on the way skills can be used.
- 
- 
+   
 
 #### 1.2 Progression
 
