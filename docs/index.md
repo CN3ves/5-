@@ -21,15 +21,15 @@ ___
 #### 1.1 Descriptors
 *[top]()*
 
-**Descriptors are small, clearly defined sentences that define the character**, how it differs from all other people in the world and what its current status are. As such, anything that can said about the character is a descriptor. Descriptors are free-form and limited only by the setting, the player's imagination and a hint of good sense. Descriptors can be understood more easily by dividing them into meaningful groups:  
+**Descriptors are small, clear sentences that define the character**, how it differs from all other people in the world and what its current status is. As such, anything that can said about the character is a descriptor. Descriptors are free-form and limited only by the setting, the player's imagination and a hint of good sense. Descriptors can be understood more easily by dividing them into meaningful groups:  
   
-  * **The only descriptor required at the start of the game is the concept**. The concept is a short two or three word description that summarises the character. The concept is the default descriptor that ties all other descriptors together, defining what is allowed of each character.  
-  > *For example, you can consider the common race/class/specialization as a starting point (Elf, Wizard, Illusion) and add adjectives to a background (Educated, Charming, Noble) to create the concept of Educated and Charming Elven Noble Illusionist*.
+  * **The only descriptor required at the start of the game is the concept**. The concept is a short description that summarises the character. The concept is the default descriptor that ties all other descriptors, defining what is allowed for each character.  
+  > *For example, you can consider the common race/class/specialization as a starting point (Elf, Wizard, Illusion) and add adjectives and a background (Educated, Charming, Noble) to create the concept of Educated and Charming Elven Noble Illusionist*.
   
-  * **Traits** reflect any permanent characteristic of the character. It includes both positive and negative inheritable racial features, particular cultural or professional skills and any noticeable physical or personality trait. The traits must be derived from the concept and can be created on the fly by calling on the concept: if it fits the concept, then it can be added to the character. 
+  * **Traits** reflect any permanent characteristic of the character and can be both positive and negative. Examples of traits would include inheritable racial features, particular cultural or professional skills and any noticeable physical or personality features. The traits must be derived from the concept and can be created on the fly by calling on the concept: if it fits the concept, then it can be added to the character. 
   > Continuing from the previous example, elven racial traits could be magical attunement and nimble, from a culture that promotes arts and craft, being a wizard it would have a professional trait of spell-casting, alchemy and arcane understanding, physically beautiful but with a burned scar covering most of his body from a alchemical accident and the character's personality would be well mannered and charming, but slightly arrogant and impatient.  
 <details><summary><i>More trait examples</i></summary>
-  <i>The following examples are simple descriptors. Players should try to elaborate further their own descriptors: <br>
+  <i>The following examples are simple trait descriptors. Players should try to elaborate further their own descriptors, particularly how and when they can be an advantage or a disadvantage. <br>
   &nbsp;&nbsp;<u>Racial:</u> Tough, Magic resistance, Flexible, Nimble, Fire Breath, Poison resistance, Shape-shifter, Clockwork, Mind-reader, etc. <br>
   &nbsp;&nbsp;<u>Cultural:</u> Stone cutting, Magic training, Warmongering, Loyalty, Merchant, Spacefarer, etc. <br>
   &nbsp;&nbsp;<u>Professional:</u> Druid, Thief, Spy, Medic, Hacker, Pilot, Necromancer, etc. <br>
@@ -38,8 +38,8 @@ ___
   <br>&nbsp;
 </details>  
   
-  * **Skills** are the general adventuring actions a character may attempt to do. Skills include anything that is not a character specific action. As such, skills are every possible action that can fail and be improved, from using weapons and armour to interacting with other creatures and objects. To define the character skills, think what sort of actions the characters will be doing during the adventure. As for traits, skills can be created on the fly, but some more advanced or specialised skills may be forbidden for some characters, if previous training cannot be justified by the character's concept. For a simple selection of skills at character creation, refer to the skills examples below.  
-  > *As an illusionist, relevant skills would be, invisibility, create sound, create image, distract and fast talk*. 
+  * **Skills** are the general adventuring actions a character may attempt to do. Skills include anything that is not a character specific action. As such, skills correspond every possible action that can fail and be improved, from using weapons and armour to interacting with other creatures and objects. To define the character skills, think what sort of actions the characters will be doing during the adventure. Similarly to traits, skills can be created on the fly, but some more advanced or specialised skills may be forbidden for some characters, if previous training cannot be justified by the character's concept. For a simple selection of skills at character creation, refer to the skills examples below.  
+  > *For an illusionist, relevant skills could be, invisibility, create sound, create image, distract and fast talk. However, the character has no formal combat training and cannot use weapons and armour effectively.*. 
 <details><summary><i>Example of skills example and character creation</i></summary>
   &nbsp;&nbsp;<i>Select 2 skills from each of the following blocks. You are allowed to switch from one block to another, to a maximum of 4 skills per block. Set all the chosen skills to level 1.</i>
   <blockquote>
@@ -104,8 +104,8 @@ ___
   </blockquote>
 </details>  
   
-  * **Abilities** represent any particular action that the character has mastered, a signature move or a personalised take on a regular skill. Abilities add an extra twist the character's skill and provide the opportunity to add special effects to an action.  
-  > *Fast talking is important for an illusionist to keep the audience both engaged and distracted, it is a deception skill that can have the added effect of confusing the target. Thus the character has the ability Words of Confusion*. Characters may start with one ability.
+  * **Abilities** represent any particular action that the character has mastered, a signature move or a personalised take on a regular skill. Abilities add an extra twist the character's skill and provide the opportunity to add special effects to an action. Characters may start with one ability.
+  > *Fast talking is important for an illusionist to keep the audience both engaged and distracted, it is a deception skill that can have the added effect of confusing the target. Thus the character has the ability Words of Confusion*. 
 <details><summary><i>Examples for abilities</i></summary>
   &nbsp;&nbsp;<i><u>Counter attack:</u> counter attack on successful defence. <br>
   &nbsp;&nbsp;<u>Freezing Bolt:</u> add freezing effect to a ice spell. <br>
@@ -118,7 +118,7 @@ ___
 </details>  
   
   * **Conditions** reflect unusual effects the character acquired during adventuring, a specific change to the character's state. Conditions may be temporary, curable or permanent depending on their severity and how they were acquired.  
-  > *A character fails of a cliff and brakes is leg. It is decided that the broken leg condition can be healed, but the medical intervention. If the intervention is successful, the broken leg condition is now temporary, and requires only some time and rest to be removed. However, if the medical treatment is provided by someone unskilled, it may need to a permanent injury.*
+  > *A character falls of a cliff and brakes is leg. It is decided that the broken leg condition can be healed with a the medical intervention. If the intervention is successful, the broken leg condition is now temporary, and requires only some time and rest to be removed. However, if the medical treatment is provided by someone unskilled, it may results in permanent injury.*
 <details><summary><i>Examples for conditions</i></summary>
   &nbsp;&nbsp;<i><u>Poisoned:</u> The character is physically ill and weak. <br>
   &nbsp;&nbsp;<u>Paralysed:</u> The character cannot move or act. <br>
