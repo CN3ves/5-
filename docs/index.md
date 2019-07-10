@@ -9,7 +9,7 @@ ___
   1.1 [Descriptors](#11-descriptors)  
   1.2 [Progression](#12-progression)  
   1.3 [Equipment](#13-equipment)  
-2. Conflict
+2. Conflict  
   2.1 [Structure](#21-structure)  
   2.2 [Actions](#22-actions)  
   2.3 [Resolution](#23-resolution)  
@@ -18,13 +18,15 @@ ___
 
 ### 1. Character
 
-#### 1.1 Descriptors  
-[back to contents](#table-of-contents)  
+#### 1.1 Descriptors
+*([back to contents](#table-of-contents))*
 
 **Descriptors are small sentences that define the character**, how it differs from all other people in the world and what its current status are. As such, anything that can said about the character is a descriptor. Descriptors are free-form and limited only by the setting, the player's imagination and a hint of good sense. Descriptors can be understood more easily by dividing them into meaningful groups:  
   
   > **The only descriptor required at the start of the game is the concept**. The concept is a short two or three word description that summarises the character. *For example, you can consider the common race/class/specialization as a starting point (Elf, Wizard, Illusion) and add adjectives to a background (Educated, Charming, Noble) to create the concept of Educated and Charming Elven Noble Illusionist*. The concept is the default descriptor that ties all other descriptors together, defining what is allowed of each character.  
+  
   > **Traits** reflect any permanent characteristic of the character. It includes both positive and negative inheritable racial features, particular cultural or professional skills and any noticeable physical or personality trait. The traits must be derived from the concept and can be created on the fly by calling on the concept: if it fits the concept, then it can be added to the charatcer. *Continuing from the previous example, elven racial traits could be magical attunement and nimble, from a culture that promotes arts and craft, being a wizard it would have a professional trait of spell-casting, alchemy and arcane understanding, physically beautiful but with a bruned scar covering most of his body from a alchemical accident and the character's personallity would be well mannered and charming, but slightly arrogant and impatient.  
+  
   > **Abilities**: and traits are the extra twist the character adds to the skill. Abilities provide the opportunity to add special effects to a skill, reflecting the character improvement and mastery, and the personal take on the way skills can be used. </summary>
   <i> For example:<br>
   * Upgrading Sword skill you may gain the Iaijutsu ability (counter attack on defence).<br>
