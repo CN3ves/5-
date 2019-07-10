@@ -30,18 +30,18 @@ ___
   > Continuing from the previous example, elven racial traits could be magical attunement and nimble, from a culture that promotes arts and craft, being a wizard it would have a professional trait of spell-casting, alchemy and arcane understanding, physically beautiful but with a burned scar covering most of his body from a alchemical accident and the character's personality would be well mannered and charming, but slightly arrogant and impatient.*  
 <details><summary><i>More trait examples</i></summary>
   <i>The following examples are simple descriptors. Players should try to elaborate further their own descriptors: <br><br>
-  &nbsp;<u>Racial:</u> Tough, Magic resistance, Flexible, Nimble, Fire Breath, Poison resistance, Shape-shifter, Clockwork, Mind-reader, etc. <br>
-  &nbsp;<u>Cultural:</u> Stone cutting, Magic training, Warmongering, Loyalty, Merchant, Spacefarer, etc. <br>
-  &nbsp;<u>Professional:</u> Druid, Thief, Spy, Medic, Hacker, Pilot, Necromancer, etc. <br>
-  &nbsp;<u>Physical:</u> Beautiful, Outlandish, Scared, Blind, Weak, Badly dressed, etc. <br>
-  &nbsp;<u>Personality:</u> Easy going, Aggressive, Well mannered, Vengeful, Stoic, Naysayer, Submissive, etc.</i>
+  &nbsp;&nbsp;<u>Racial:</u> Tough, Magic resistance, Flexible, Nimble, Fire Breath, Poison resistance, Shape-shifter, Clockwork, Mind-reader, etc. <br>
+  &nbsp;&nbsp;<u>Cultural:</u> Stone cutting, Magic training, Warmongering, Loyalty, Merchant, Spacefarer, etc. <br>
+  &nbsp;&nbsp;<u>Professional:</u> Druid, Thief, Spy, Medic, Hacker, Pilot, Necromancer, etc. <br>
+  &nbsp;&nbsp;<u>Physical:</u> Beautiful, Outlandish, Scared, Blind, Weak, Badly dressed, etc. <br>
+  &nbsp;&nbsp;<u>Personality:</u> Easy going, Aggressive, Well mannered, Vengeful, Stoic, Naysayer, Submissive, etc.</i>
   <br>&nbsp;
 </details>  
   
   * **Skills** are the general adventuring actions a character may attempt to do. Skills include anything that is not a character specific action. As such, skills are every possible action that can fail and be improved, from using weapons and armour to interacting with other creatures and objects. To define the character skills, think what sort of actions the characters will be doing during the adventure. As for traits, skills can be created on the fly, but some more advanced or specialised skills may be forbidden for some characters, if previous training cannot be justified by the character's concept. For a simple selection of skills at character creation, refer to the skills examples below.  
   > *As an illusionist, relevant skills would be, invisibility, create sound, create image, distract and fast talk*. 
 <details><summary><i>Example of skills example and character creation</i></summary>
-  &nbsp;<i>Select 2 skills from each of the following blocks. You are allows to switch from one block to another, to a maximum of 4 skills per block. Set all the chosen skills to level 1.</i>
+  &nbsp;&nbsp;<i>Select 2 skills from each of the following blocks. You are allows to switch from one block to another, to a maximum of 4 skills per block. Set all the chosen skills to level 1.</i>
   <blockquote>
     <details>
       <summary><b>Combat skills</b>: Use of weapons and armour as well as tactical evaluations.</summary>
@@ -107,25 +107,25 @@ ___
   * **Abilities** represent any particular action that the character has mastered, a signature move or a personalised take on a regular skill. Abilities add an extra twist the character's skill and provide the opportunity to add special effects to an action.  
   > *Fast talking is important for an illusionist to keep the audience both engaged and distracted, it is a deception skill that can have the added effect of confusing the target. Thus the character has the ability Words of Confusion*. Characters may start with one ability.
 <details><summary><i>Examples for abilities</i></summary>
-  &nbsp;<i><u>Counter attack:</u> counter attack on successful defence. <br>
-  &nbsp;<u>Freezing Bolt:</u> add freezing effect to a ice spell. <br>
-  &nbsp;<u>Fire Ball:</u> add shape to a fire spell. <br>
-  &nbsp;<u>Noble Families:</u> add knowledge of Noble lineages. <br>
-  &nbsp;<u>Magic Brawling:</u> add magic effect to unarmed attacks <br>
-  &nbsp;<u>Aim:</u> Make ranged attacks more precise. <br>
-  &nbsp;<u>Optimization:</u> Calculate the optimal strategy to outmanoeuvre the enemy.</i>
+  &nbsp;&nbsp;<i><u>Counter attack:</u> counter attack on successful defence. <br>
+  &nbsp;&nbsp;<u>Freezing Bolt:</u> add freezing effect to a ice spell. <br>
+  &nbsp;&nbsp;<u>Fire Ball:</u> add shape to a fire spell. <br>
+  &nbsp;&nbsp;<u>Noble Families:</u> add knowledge of Noble lineages. <br>
+  &nbsp;&nbsp;<u>Magic Brawling:</u> add magic effect to unarmed attacks <br>
+  &nbsp;&nbsp;<u>Aim:</u> Make ranged attacks more precise. <br>
+  &nbsp;&nbsp;<u>Optimization:</u> Calculate the optimal strategy to outmanoeuvre the enemy.</i>
   <br>&nbsp;
 </details>  
   
   * **Conditions** reflect unusual effects the character acquired during adventuring, a specific change to the character's state. Conditions may be temporary, curable or permanent depending on their severity and how they were acquired.  
   > *A character fails of a cliff and brakes is leg. It is decided that the broken leg condition can be healed, but the medical intervention. If the intervention is successful, the broken leg condition is now temporary, and requires only some time and rest to be removed. However, if the medical treatment is provided by someone unskilled, it may need to a permanent injury.*
 <details><summary><i>Examples for conditions</i></summary>
-  &nbsp;<i><u>Poisoned:</u> The character is physically ill and weak. <br>
-  &nbsp;<u>Paralysed:</u> The character cannot move or act. <br>
-  &nbsp;<u>Asleep:</u> The character is unaware of his surroundings. <br>
-  &nbsp;<u>Silenced:</u> The character cannot produce meaningful words and sounds. <br>
-  &nbsp;<u>Hidden: </u>The character cannot be seen.<br>
-  &nbsp;<u>Optimal position:</u> The character as an advantage on the target due to his positioning.</i>
+  &nbsp;&nbsp;<i><u>Poisoned:</u> The character is physically ill and weak. <br>
+  &nbsp;&nbsp;<u>Paralysed:</u> The character cannot move or act. <br>
+  &nbsp;&nbsp;<u>Asleep:</u> The character is unaware of his surroundings. <br>
+  &nbsp;&nbsp;<u>Silenced:</u> The character cannot produce meaningful words and sounds. <br>
+  &nbsp;&nbsp;<u>Hidden: </u>The character cannot be seen.<br>
+  &nbsp;&nbsp;<u>Optimal position:</u> The character as an advantage on the target due to his positioning.</i>
   <br>&nbsp;
   </details>  
 
