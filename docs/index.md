@@ -21,7 +21,7 @@ ___
 #### 1.1 Descriptors
 *[top]()*
 
-**Descriptors are small sentences that define the character**, how it differs from all other people in the world and what its current status are. As such, anything that can said about the character is a descriptor. Descriptors are free-form and limited only by the setting, the player's imagination and a hint of good sense. Descriptors can be understood more easily by dividing them into meaningful groups:  
+**Descriptors are small, clearly defined sentences that define the character**, how it differs from all other people in the world and what its current status are. As such, anything that can said about the character is a descriptor. Descriptors are free-form and limited only by the setting, the player's imagination and a hint of good sense. Descriptors can be understood more easily by dividing them into meaningful groups:  
   
   * **The only descriptor required at the start of the game is the concept**. The concept is a short two or three word description that summarises the character. The concept is the default descriptor that ties all other descriptors together, defining what is allowed of each character.  
   > *For example, you can consider the common race/class/specialization as a starting point (Elf, Wizard, Illusion) and add adjectives to a background (Educated, Charming, Noble) to create the concept of Educated and Charming Elven Noble Illusionist*.
