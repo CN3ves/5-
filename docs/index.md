@@ -124,6 +124,7 @@ ___
    
 
 #### 1.2 Progression
+*[top](#)*  
 
 In this system, characters do not level up or gain quanta of power at certain points in a deterministic way. They age and gain experience as one does! Characters can progress, or improve, in 3 different ways: gain experience with skills, acquire better [equipment](other.md#32-equipment) and learn new abilities. Skills (and abilities) level up using a “learn by doing” system, matching the intended skills’ fluid dynamics and flexibility:  
   
@@ -144,6 +145,7 @@ In this system, characters do not level up or gain quanta of power at certain po
   </details>  
 
 #### 1.3 Equipment
+*[top](#)*  
 
 <details><summary>As skills, equipment is free-form and can be defined *on the fly*. To create a new piece of equipment or item, simply name it by defining it and adding an adjective to the base name.</summary>
 <i>Rusting Sword, Long Rope, Fast Horse, Long-ranged Rifle, Heavy Armour, Amazing Laser Blaster. </i></details>
@@ -172,9 +174,10 @@ A magical helmet may whisper encouraging words, reducing the amount stress count
 </blockquote>
 
 
-### 2. Conflict
+## 2. Conflict
 
 #### 2.1 Structure
+*[top](#)*  
 
 This system uses turns to structure the game, where **each turn is made by a single intervention from every player**, giving the opportunity for every player to take an action if he wishes to do so. Importantly, **all actions within a turn occurs simultaneously** so there is no clear initiative or turn order. At the begging of each turn, the previous actions are resolved, the consequences described and the new situation introduced. **Conflict arises any time the outcome of a players' actions is uncertain**. As such, each conflict should reflect a specific situations matching one of the [character's specialities](characters.md#12-character-specialities). 
 
@@ -201,6 +204,7 @@ ___
     
 
 #### 2.2 Actions
+*[top](#)*  
 
 During conflict, **each player is allowed to move and choose one other actions each turn** with a potential defence action being called if the character is attacked. Actions are free-form and if the player comes up with an idea, that should be implemented within reason. As such, **each player calls for an action by describing it and its intentions.** Basic actions include:
 
@@ -233,8 +237,7 @@ ___
 *Note that* these positions are not linearly spaced. Because all positions are relative to the players, all players occupy the close space at all times and need to move 1 "space" to a *nearby* position, 2 "spaces" to get to an *in range* target or 4 "spaces" to reach an *out of reach* target. 
 
 #### 2.3 Resolution
-
-
+*[top](#)*  
 
 <details><summary>When a player wants to do an action, the player calls on it and describes the intended effect. If the action's result is uncertain, then the character is in a conflict situation. To resolve the conflict, the character must name a relevant skill to check for the action's success.</summary>
 <i>A player wants to climb a steep wall to sneak into the Baron's private garden. Given the height of the wall, the result of this action is uncertain and a conflict is started. The player can then choose from any reasonable skills, such as climb or jump, and make a skill check to find out what happens</i></details>
