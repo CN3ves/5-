@@ -85,6 +85,8 @@ ___
 #### 2.2 Actions
 *[top](#)*  
 
+call descriptor, define positive effect and negative effect.
+
 During conflict, **each player is allowed to move and choose one other actions each turn** with a potential defence action being called if the character is attacked. Actions are free-form and if the player comes up with an idea, that should be implemented within reason. As such, **each player calls for an action by describing it and its intentions.** Basic actions include:
 
   > **Move action**: cover 1 "space" of movement.  
