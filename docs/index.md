@@ -41,7 +41,7 @@ ___
   * **Skills** are the general adventuring actions a character may attempt to do. Skills include anything that is not a character specific action. As such, skills are every possible action that can fail and be improved, from using weapons and armour to interacting with other creatures and objects. To define the character skills, think what sort of actions the characters will be doing during the adventure. As for traits, skills can be created on the fly, but some more advanced or specialised skills may be forbidden for some characters, if previous training cannot be justified by the character's concept. For a simple selection of skills at character creation, refer to the skills examples below.  
   > *As an illusionist, relevant skills would be, invisibility, create sound, create image, distract and fast talk*. 
 <details><summary><i>Example of skills example and character creation</i></summary>
-  &nbsp;&nbsp;<i>Select 2 skills from each of the following blocks. You are allows to switch from one block to another, to a maximum of 4 skills per block. Set all the chosen skills to level 1.</i>
+  &nbsp;&nbsp;<i>Select 2 skills from each of the following blocks. You are allowed to switch from one block to another, to a maximum of 4 skills per block. Set all the chosen skills to level 1.</i>
   <blockquote>
     <details>
       <summary><b>Combat skills</b>: Use of weapons and armour as well as tactical evaluations.</summary>
