@@ -30,11 +30,11 @@ ___
   > Continuing from the previous example, elven racial traits could be magical attunement and nimble, from a culture that promotes arts and craft, being a wizard it would have a professional trait of spell-casting, alchemy and arcane understanding, physically beautiful but with a burned scar covering most of his body from a alchemical accident and the character's personality would be well mannered and charming, but slightly arrogant and impatient.*  
 <details><summary><i>More trait examples</i></summary>
   <i>The following examples are simple descriptors. Players should try to elaborate further their own descriptors: <br><br>
-  Racial: Tough, Magic resistance, Flexible, Nimble, Fire Breath, Poison resistance, Shape-shifter, Clockwork, Mind-reader, etc. <br>
-  Cultural: Stone cutting, Magic training, Warmongering, Loyalty, Merchant, Spacefarer, etc. <br>
-  Professional: Druid, Thief, Spy, Medic, Hacker, Pilot, Necromancer, etc. <br>
-  Physical: Beautiful, Outlandish, Scared, Blind, Weak, Badly dressed, etc. <br>
-  Personality: Easy going, Aggressive, Well mannered, Vengeful, Stoic, Naysayer, Submissive, etc. <br></i>
+    <u>Racial:</u> Tough, Magic resistance, Flexible, Nimble, Fire Breath, Poison resistance, Shape-shifter, Clockwork, Mind-reader, etc. <br>
+  <u>Cultural:</u> Stone cutting, Magic training, Warmongering, Loyalty, Merchant, Spacefarer, etc. <br>
+  <u>Professional:</u> Druid, Thief, Spy, Medic, Hacker, Pilot, Necromancer, etc. <br>
+  <u>Physical:</u> Beautiful, Outlandish, Scared, Blind, Weak, Badly dressed, etc. <br>
+  <u>Personality:</u> Easy going, Aggressive, Well mannered, Vengeful, Stoic, Naysayer, Submissive, etc. <br></i>
 </details>  
   
   * **Skills** are the general adventuring actions a character may attempt to do. Skills include anything that is not a character specific action. As such, skills are every possible action that can fail and be improved, from using weapons and armour to interacting with other creatures and objects. To define the character skills, think what sort of actions the characters will be doing during the adventure. As for traits, skills can be created on the fly, but some more advanced or specialised skills may be forbidden for some characters, if previous training cannot be justified by the character's concept. For a simple selection of skills at character creation, refer to the skills examples below.  
@@ -43,61 +43,61 @@ ___
   <blockquote>
     <details>
       <summary><b>Combat skills</b>: Use of weapons and armour as well as tactical evaluations.</summary>
-      <i>Weapons: Sword, Spear, Crossbow, Axe, Hammer, Bow, Halberd, Sword, Club, etc. <br>
-      Armour: Padded armour, Leather armour, Hide armour, Chain mail, Scale mail, Breastplate, Ring Mail, Full plate, etc. <br>
-      Tactical: Feint, Disarm, Grapple, Knock, Push, Use terrain, Distract, Taunt, etc.</i><br>
+      <i><u>Weapons:</u> Sword, Spear, Crossbow, Axe, Hammer, Bow, Halberd, Sword, Club, etc. <br>
+      <u>Armour:</u> Padded armour, Leather armour, Hide armour, Chain mail, Scale mail, Breastplate, Ring Mail, Full plate, etc. <br>
+      <u>Tactical:</u> Feint, Disarm, Grapple, Knock, Push, Use terrain, Distract, Taunt, etc.</i><br>
     </details>
     <details>
       <summary><b>Magic/Technological skills</b>: Understanding the complexities of using supernatural powers or advanced technology. </summary>
-      <i>Magic: Elemental magic, Power Gathering, Shield, Magic Resistance, Counter magic, Enchant, Enhance, Ritual casting, Mind control, Illusion magic, etc. </i><br>
-      <i>Technology: Laser weapons, Power armour, Spacecraft, Alien technology, Plasma weapons, Holograms, etc. </i><br>
+      <i><u>Magic:</u> Elemental magic, Power Gathering, Shield, Magic Resistance, Counter magic, Enchant, Enhance, Ritual casting, Mind control, Illusion magic, etc. </i><br>
+      <i><u>Technology:</u> Laser weapons, Power armour, Spacecraft, Alien technology, Plasma weapons, Holograms, etc. </i><br>
     </details>
   </blockquote><br>
   
   <blockquote>
     <details>
       <summary><b>Movement skills</b>: Use body movement, dexterity and strength in demanding or risky ways. </summary>
-      <i>Endurance: Run, Jump, Fly, Swim, Borrow, Climb, Brachiate, etc.<br>
-      Reflex: Evade, Dodge, Tumble, Contortionist, Escape Artist, Balance, etc.<br>
-      Discretion: Sleight Of Hand, Stealth, Hide, Move Silently, Secret gesture, Tailing, Countermeasures, etc.</i><br>
+      <i><u>Endurance:</u> Run, Jump, Fly, Swim, Borrow, Climb, Brachiate, etc.<br>
+      <u>Reflex:</u> Evade, Dodge, Tumble, Contortionist, Escape Artist, Balance, etc.<br>
+      <u>Discretion:</u> Sleight Of Hand, Stealth, Hide, Move Silently, Secret gesture, Tailing, Countermeasures, etc.</i><br>
     </details>
     <details>
       <summary><b>Manipulation skills</b>: Interact with, manipulate and change objects. </summary>
-      <i>Change: Force, Apply Strength, Disable Device, Disarm Trap, Sabotage, Lock pick, etc.</i><br>
-      <i>Interact: Use tolls, Appraise, Use Magic Device, Use Rope, etc. </i><br>
+      <i><u>Change:</u> Force, Apply Strength, Disable Device, Disarm Trap, Sabotage, Lock pick, etc.</i><br>
+      <i><u>Interact:</u> Use Tools, Appraise, Use Magic Device, Use Rope, etc. </i><br>
     </details>   
   </blockquote><br>
   
   <blockquote>
     <details>
       <summary><b>Social skills</b>: Interact with other sentient creatures to change their perception, opinions and attitudes.</summary>
-      <i> Perception: Deception, Bluff, Trickery, Fast Talk, Whisper, Rumour-Mongering, etc. <br>
-      Opinion: Diplomacy, Persuasion, Command, Leadership,Intimidation, Gather Information etc. <br>
-      Attitude: Seduction, Handle Animal, Bribery, Bargaining, etc. </i><br>
+      <i> <u>Perception:</u> Deception, Bluff, Trickery, Fast Talk, Whisper, Rumour-Mongering, etc. <br>
+      <u>Opinion:</u> Diplomacy, Persuasion, Command, Leadership,Intimidation, Gather Information etc. <br>
+      <u>Attitude:</u> Seduction, Handle Animal, Bribery, Bargaining, etc. </i><br>
     </details>
     <details>
       <summary><b>Perception skills</b>: Use of senses, instinct and intuition to notice something. </summary>
-      <i>Passive senses: Spot, Listening, Touching, Tasting, Smelling, Low-light vision, Darkvision, Concentration, etc.<br>
-     <Enhanced senses: Chemical detection, Sense vibrations, Sense magic, Sense life, Sense magnetic fields, etc.<br>
-      Active search: Sense Motive, Insight, Patrol, Vigilant, Search, Reading Body, Lip-reading, Investigation, Eavesdropping, etc.</i><br>
+      <i><u>Passive senses:</u> Spot, Listening, Touching, Tasting, Smelling, Low-light vision, Darkvision, Concentration, etc.<br>
+     <u>Enhanced senses:</u> Chemical detection, Sense vibrations, Sense magic, Sense life, Sense magnetic fields, etc.<br>
+      <u>Active search:</u> Sense Motive, Insight, Patrol, Vigilant, Search, Reading Body, Lip-reading, Investigation, Eavesdropping, etc.</i><br>
     </details>
   </blockquote><br>
   
   <blockquote>
     <details>
       <summary><b>Knowledge skills</b>: Knowing, remembering and understanding information previously studied.</summary>
-      <i>Wilderness: Herbalist, Survival, Weather-lore, Hunting, Navigation, Camping, etc. <br>
-      Academic: Arcane, Potions, Enchantments, Theology, History, etc. <br>
-      Linguistics: Languages, Runes, Decipher Script, etc. <br>
-      Professional: Alchemy, Metallurgy, Clockwork, etc. </i><br>
+      <i><u>Wilderness:</u> Herbalist, Survival, Weather-lore, Hunting, Navigation, Camping, etc. <br>
+      <u>Academic:</u> Arcane, Potions, Enchantments, Theology, History, etc. <br>
+      <u>Linguistics:</u> Languages, Runes, Decipher Script, etc. <br>
+      <u>Professional:</u> Alchemy, Metallurgy, Clockwork, etc. </i><br>
     </details>
     <details>
       <summary><b>Technical skills</b>: Any type of skills related to a profession, background or speciality. </summary>
-      <i>Thief: Impersonation, Gambling, Forgery, Disguise, Counterfeiting, etc.<br>
-      Medic: First Aid, Medicine, Heal, Surgery, etc.<br>
-      Vehicle: Piloting, Sailing, Drive, Operate, Ride, etc.<br>
-      Crafts: Cartography, Calligraphy, Gunnery, Blacksmithing, Brewing, Baking, Enchanting, Spell-craft, etc.<br>
-      Artist: Graphic Arts, Painting, Poetry, Sing, Perform, Dance, Acting, Improvisation, etc.</i><br>
+      <i><u>Thief:</u> Impersonation, Gambling, Forgery, Disguise, Counterfeiting, etc.<br>
+      <u>Medic:</u> First Aid, Medicine, Heal, Surgery, etc.<br>
+      <u>Vehicle:</u> Piloting, Sailing, Drive, Operate, Ride, etc.<br>
+      <u>Crafts:</u> Cartography, Calligraphy, Gunnery, Blacksmithing, Brewing, Baking, Enchanting, Spell-craft, etc.<br>
+      <u>Artist:</u> Graphic Arts, Painting, Poetry, Sing, Perform, Dance, Acting, Improvisation, etc.</i><br>
     </details>
   </blockquote>
   Select 2 skills from each of the following blocks. You are allows to switch from one block to another, to a maximum of 4 skills per block. Set all the chosen skills to level 1.<br>  
@@ -106,27 +106,25 @@ ___
   * **Abilities** represent any particular action that the character has mastered, a signature move or a personalised take on a regular skill. Abilities add an extra twist the character's skill and provide the opportunity to add special effects to an action.  
   > *Fast talking is important for an illusionist to keep the audience both engaged and distracted, it is a deception skill that can have the added effect of confusing the target. Thus the character has the ability Words of Confusion*. Characters may start with one ability.
 <details><summary><i>Examples for abilities</i></summary>
-  <i>Counter attack: counter attack on successful defence. <br>
-  Freezing Bolt: add freezing effect to a ice spell. <br>
-  Fire Ball: add shape to a fire spell. <br>
-  Noble Families: add knowledge of Noble lineages. <br>
-  Magic Brawling: add magic effect to unarmed attacks <br>
-  Aim: Make ranged attacks more precise. <br>
-  Optimization: Calculate the optimal strategy to outmanoeuvre the enemy.</i><br>
+  <i><u>Counter attack:</u> counter attack on successful defence. <br>
+  <u>Freezing Bolt:</u> add freezing effect to a ice spell. <br>
+  <u>Fire Ball:</u> add shape to a fire spell. <br>
+  <u>Noble Families:</u> add knowledge of Noble lineages. <br>
+  <u>Magic Brawling:</u> add magic effect to unarmed attacks <br>
+  <u>Aim:</u> Make ranged attacks more precise. <br>
+  <u>Optimization:</u> Calculate the optimal strategy to outmanoeuvre the enemy.</i><br>
 </details>  
   
   * **Conditions** reflect unusual effects the character acquired during adventuring, a specific change to the character's state. Conditions may be temporary, curable or permanent depending on their severity and how they were acquired.  
   > *A character fails of a cliff and brakes is leg. It is decided that the broken leg condition can be healed, but the medical intervention. If the intervention is successful, the broken leg condition is now temporary, and requires only some time and rest to be removed. However, if the medical treatment is provided by someone unskilled, it may need to a permanent injury.*
 <details><summary><i>Examples for conditions</i></summary>
-  <i>Poisoned: The character is physically ill and weak. <br>
-  Paralysed: The character cannot move or act. <br>
-  Asleep: The character is unaware of his surroundings. <br>
-  Silenced: The character cannot produce meaningful words and sounds. <br>
-  Hidden: The character cannot be seen.<br>
-  Optimal position: The character as an advantage on the target due to his positioning.</i><br>
+  <i><u>Poisoned:</u> The character is physically ill and weak. <br>
+  <u>Paralysed:</u> The character cannot move or act. <br>
+  <u>Asleep:</u> The character is unaware of his surroundings. <br>
+  <u>Silenced:</u> The character cannot produce meaningful words and sounds. <br>
+  <u>Hidden: </u>The character cannot be seen.<br>
+  <u>Optimal position:</u> The character as an advantage on the target due to his positioning.</i><br>
   </details>  
-  
-   
 
 #### 1.2 Progression
 *[top](#)*  
