@@ -21,20 +21,11 @@ ___
 #### 1.1 Descriptors  
 [back to contents](#table-of-contents)  
 
-Descriptors are small sentences that define the charcter, how it is different from all other people in the world and what its current status are. As such, anything that can said about the character is a descriptor.
-
-Descriptors can be understood more easily by subdivinding them into meaninfull groups:  
-<details>
-  <blockquote>
-    <summary>
-      <b>Traits</b>: Traits reflect any permanent charatcertistic of the character. It includes both positive and negative inheritable racial features, particular cultural or professional skills and any personality trait.
-    </summary>
-    examples
-  </blockquote>
-</details>
-
-
-> **Abilities**: and traits are the extra twist the character adds to the skill. Abilities provide the opportunity to add special effects to a skill, reflecting the character improvement and mastery, and the personal take on the way skills can be used. </summary>
+**Descriptors are small sentences that define the character**, how it differs from all other people in the world and what its current status are. As such, anything that can said about the character is a descriptor. Descriptors are free-form and limited only by the setting, the player's imagination and a hint of good sense. Descriptors can be understood more easily by dividing them into meaningful groups:  
+  
+  > **The only descriptor required at the start of the game is the concept**. The concept is a short two or three word description that summarises the character. *For example, you can consider the common race/class/specialization as a starting point (Elf, Wizard, Illusion) and add adjectives to a background (Educated, Charming, Noble) to create the concept of Educated and Charming Elven Noble Illusionist*. The concept is the default descriptor that ties all other descriptors together, defining what is allowed of each character.  
+  > **Traits** reflect any permanent characteristic of the character. It includes both positive and negative inheritable racial features, particular cultural or professional skills and any noticeable physical or personality trait. The traits must be derived from the concept and can be created on the fly by calling on the concept: if it fits the concept, then it can be added to the charatcer. *Continuing from the previous example, elven racial traits could be magical attunement and nimble, from a culture that promotes arts and craft, being a wizard it would have a professional trait of spell-casting, alchemy and arcane understanding, physically beautiful but with a bruned scar covering most of his body from a alchemical accident and the character's personallity would be well mannered and charming, but slightly arrogant and impatient.  
+  > **Abilities**: and traits are the extra twist the character adds to the skill. Abilities provide the opportunity to add special effects to a skill, reflecting the character improvement and mastery, and the personal take on the way skills can be used. </summary>
   <i> For example:<br>
   * Upgrading Sword skill you may gain the Iaijutsu ability (counter attack on defence).<br>
   * Upgrading Fire spell: you may gain the Burning Bolt ability (burn condition) or Fire Ball (+1 target). <br>
@@ -45,17 +36,6 @@ As such, abilities are *attached* to a given skill. Despite the similarities, ab
   
   1. Abilities' level is capped at a level below the skill they are attached to. As such, abilities do not reach the maximum level (roll double 6 only to level up) and do not provide the maximum level +1 bonus.
   2. Upgrading an ability to the next tier does not provide training to a skill or a new ability, it simply unlocks a more higher tier version of the ability. 
-
-<details>
-  <summary>1. Define the character concept using a two or three word description.</summary>
-  <i>For example, you can consider the common race/class/specialization as a starting point (Elven Wizard of Illusion) or add adjectives to your background (Educated and Charming Noble).</i>
-</details>
-
-
-<details>
-  <summary>4. Determine if there are any defining characteristics that distinguishes the character.</summary>
-  <i>For example, are there any inheritable racial features, or particular cultural or professional skills that may be acquired? Perhaps some personal ability gained from past experiences? How would these traits work?</i>
-</details>
 
 
 
@@ -83,88 +63,12 @@ During the adventure, characters will often experience unexpected conditions, si
 3) Finally, a character with optimal positioning may give up his +1 bonus for an extra or stronger attack, inducing a descriptior on the enemy such as the disarmed or the panic condition.</i></details>
 Players should feel free to call on custom effect and add new and unique takes on the descriptors. In general, calling on an effect allows players to make a tradeoff.
 
+**Abilities** represent any particular action that the charterer is 
 
 
-<details>
-  <summary>3. Think how you wish to role-play the character, and what <a href="#13-character-skills">sort of actions</a> you'd want it to do. </summary>
-  <i>Will the character walk in the shadows, spying on his enemies? Or will it solve most problems at sword's point? Will the character control the elements or channel life into others?</i>
-</details>
-  
-
-If the specialities are what distinguishes the characters' broad strengths or weaknesses, skills are the fine differences that will make a character unique. Skills refer to anything a character may do *and so include every possible action that can fail and be improved*, from using weapons and armour to interacting with other creatures and objects. While the specialities are a small set of limited options, the idea is to have a free and fluid skill's list, allowing skills to be made up *on the fly* as required. Skills measure how good the character is at doing a given action and are defined by their level (mastery) and tier (power). 
-
-For example, skills could be broadly divided into the following categories:
-
-<blockquote>
-<details>
-  <summary><b>Combat skills</b>: Use of weapons and armour as well as tactical evaluations.</summary>
-  <i>Weapons: Sword, Spear, Crossbow, Axe, Hammer, Bow, Halberd, Sword, Club, etc. </i><br>
-  <i>Armour: Padded armour, Leather armour, Hide armour, Chain mail, Scale mail, Breastplate, Ring Mail, Full plate, etc. </i><br>
-  <i>Tactical: Feint, Disarm, Grapple, Knock, Push, Use terrain, Distract, Taunt, etc.</i><br>
-</details>
-  
-<details>
-  <summary><b>Magic/Technological skills</b>: Understanding the complexities of using supernatural powers or advanced technology. </summary>
-  <i>Magic: Elemental magic, Power Gathering, Shield, Magic Resistance, Counter magic, Enchant, Enhance, Ritual casting, Mind control, Illusion magic, etc. </i><br>
-  <i>Technology: Laser weapons, Power armour, Spacecraft, Alien technology, Plasma weapons, Holograms, etc. </i><br>
-</details>
-
-<details>
-  <summary><b>Movement skills</b>: Use body movement, dexterity and strength in demanding or risky ways. </summary>
-  <i>Endurance: Run, Jump, Fly, Swim, Borrow, Climb, Brachiate, etc.</i><br>
-  <i>Reflex: Evade, Dodge, Tumble, Contortionist, Escape Artist, Balance, etc.</i><br>
-  <i>Discretion: Sleight Of Hand, Stealth, Hide, Move Silently, Secret gesture, Tailing, Countermeasures, etc.</i><br>
-</details>
-    
-<details>
-  <summary><b>Social skills</b>: Interact with other sentient creatures to change their perception, opinions and attitudes.</summary>
-  <i> Perception: Deception, Bluff, Trickery, Fast Talk, Whisper, Rumour-Mongering, etc. </i><br>
-  <i> Opinion: Diplomacy, Persuasion, Command, Leadership,Intimidation, Gather Information etc. </i><br>
-  <i> Attitude: Seduction, Handle Animal, Bribery, Bargaining, etc. </i><br>
-</details>
-  
-<details>
-  <summary><b>Perception skills</b>: Use of senses, instinct and intuition to notice something. </summary>
-  <i>Passive senses: Spot, Listening, Touching, Tasting, Smelling, Low-light vision, Darkvision, Concentration, etc.</i><br>
-  <i>Enhanced senses: Chemical detection, Sense vibrations, Sense magic, Sense life, Sense magnetic fields, etc.</i><br>
-  <i>Active search: Sense Motive, Insight, Patrol, Vigilant, Search, Reading Body, Lip-reading, Investigation, Eavesdropping, etc.</i><br>
-</details>
-
-<details>
-  <summary><b>Manipulation skills</b>: Interact with, manipulate and change objects. </summary>
-  <i>Change: Force, Apply Strength, Disable Device, Disarm Trap, Sabotage, Lock pick, etc.</i><br>
-  <i>Interact: Use tolls, Appraise, Use Magic Device, Use Rope, etc. </i><br>
-  
-</details>
-
-<details>
-  <summary><b>Knowledge skills</b>: Knowing, remembering and understanding information previously studied.</summary>
-  <i>Wilderness: Herbalist, Survival, Weather-lore, Hunting, Navigation, Camping, etc. </i><br>
-  <i>Academic: Arcane, Potions, Enchantments, Theology, History, etc. </i><br>
-  <i>Linguistics: Languages, Runes, Decipher Script, etc. </i><br>
-  <i>Professional: Alchemy, Metallurgy, Clockwork, etc. </i><br>
-</details>
+ and traits are the extra twist the character adds to the skill. Abilities provide the opportunity to add special effects to a skill, reflecting the character improvement and mastery, and the personal take on the way skills can be used.
  
-<details>
-  <summary><b>Technical skills</b>: Any type of skills related to a profession, background or speciality. </summary>
-  <i>Thief: Impersonation, Gambling, Forgery, Disguise, Counterfeiting, etc.</i><br>
-  <i>Medic: First Aid, Medicine, Heal, Surgery, etc.</i><br>
-  <i>Vehicle: Piloting, Sailing, Drive, Operate, Ride, etc.</i><br>
-  <i>Crafts: Cartography, Calligraphy, Gunnery, Blacksmithing, Brewing, Baking, Enchanting, Spell-craft, etc.</i><br>
-  <i>Artist: Graphic Arts, Painting, Poetry, Sing, Perform, Dance, Acting, Improvisation, etc.</i><br>
-</details>
-</blockquote>
-
-<details>
-  <summary><u><i>At Character Creation ...</i></u></summary>
-  All skills start at level 0 (tier 0). Select a total of 2 suitable skills from each of the following groups:<br>
-  * Combat and Magic/Technological skills (+1 or -1 skill as per Combat attribute).<br>
-  * Social and Perception skills (+1 or -1 skill as per Social attribute).<br>
-  * Movement and manipulation skills (+1 or -1 skill as per Explore attribute).<br>
-  * Choose 3 more skills from any list
-  Set the chosen skills to level 2, and level up 3 skills at will. 
-</details>
-
+ 
 
 #### 1.2 Progression
 
