@@ -1,39 +1,40 @@
-Welcome to my little page for developing and testing the 4+ system. This system aims to be a simple and general way to play any type of RPG, with a particular focus on play-by-post (PbP) gaming. The idea is to provide simplified and minimal rules that allow to keep the game flowing at a good narrative pace, while guaranteeing logical character development. This is a free-form, 2d6 skill-based system, and should be flexible and adaptable enough to allow any idea and material from any other source to be used.
-___
+Welcome to my little page for developing and testing the 4+ system. This system aims to be a simple and general way to play any type of RPG, with a particular focus on play-by-post (PbP) gaming. The idea is to provide simplified and minimal rules that allow to keep the game flowing at a good narrative pace, while guaranteeing logical character development. This is a free-form, 2d6 skill-based system, and should be flexible and adaptable enough to allow any idea and material from any other source to be used.  
 
+___  
+  
+  
 ### Table of contents
 
-1. [Characters](characters.md)  
-  1.1 [Abilities](characters.md#13-character-skills)  
-  1.2 [Progression](characters.md#14-character-progression)  
-  1.3 [Equipment](other.md#32-equipment)  
-2. [Conflict](conflict.md)  
-  2.1 [Structure](conflict.md#21-conflict-structure)  
-  2.2 [Actions](conflict.md#22-conflict-actions)  
-  2.3 [Resolution](conflict.md#23-conflict-resolution)  
+1. Character  
+  1.1 [Descriptors](#11-descriptors)  
+  1.2 [Progression](#12-progression)  
+  1.3 [Equipment](#13-equipment)  
+2. Conflict
+  2.1 [Structure](#21-structure)  
+  2.2 [Actions](#22-actions)  
+  2.3 [Resolution](#23-resolution)  
 
 ___
 
 ### 1. Character
 
-#### 1.1 Abilities
+#### 1.1 Descriptors  
+[back to contents](#table-of-contents)  
+
+Descriptors are small sentences that define the charcter, how it is different from all other people in the world and what its current status are. As such, anything that can said about the character is a descriptor.
+
+Descriptors can be understood more easily by subdivinding them into meaninfull groups:  
+<details>
+  <blockquote>
+    <summary>
+      <b>Traits</b>: Traits reflect any permanent charatcertistic of the character. It includes both positive and negative inheritable racial features, particular cultural or professional skills and any personality trait.
+    </summary>
+    examples
+  </blockquote>
+</details>
 
 
-
-<details><summary><b>Descriptors</b>: During the adventure, characters will often experience unexpected conditions, situations and difficulties. Descriptors reflect any unusual effect the character is under, either mechanistically or dramatically, including situational bonuses, condition penalties or any other effect than is not the default character state: </summary>
-<i> A poisoned character may feel weaker, a paralysed character wouldn't be able to move, while a character with a broken arm may just be able to carry on almost unaffected, avoiding using its arm. </i></details>
-<details><summary>Generally, conditions provide a +1 bonus or -1 penalty when calling an action on which their effect can logically be associated.</summary>
-<i> A character with a hidden descriptor will gain a +1 bonus when trying a surprise attack, whereas a weakened character will gain -1 penalty to moving furniture into the new apartment. </i></details>
-<details><summary>However, specific descriptors may reflect stronger penalties, effectively preventing certain actions. </summary>
-<i> Being asleep or petrified will prevent moving or taking actions, while a character that is muted or silenced will not be able to talk, and having a broken arm will prevent the character from using two handed weapons. </i></details>
-<details><summary>The default effect of a descriptor is defined when the descriptor is acquired. To avoid these default penalties, the player can call on the descriptor effect as well, paying a higher cost now for a chance of improving the effects. </summary>
-<i> 1) A poisoned character receives a -1 penalty for any physical skills. However, the player may call on the poison effect, suggesting that the character suddenly feels a bit dizzy from the conflict effort and takes some time to recover. At the cost of skipping a turn, the poison's default modifier will be ignored for the number of turns equal to the lowest value of a 2d6 roll, reflecting the characters recovered focus after taking some time to rest. <br>
-2) On the other hand, a player may call on the sleeping effect to wake up a character immediately, but having a -1 sleepy or unprepared penalty for the number of turns equal to the highest value of a 2d6 roll. <br>
-3) Finally, a character with optimal positioning may give up his +1 bonus for an extra or stronger attack, inducing a descriptior on the enemy such as the disarmed or the panic condition.</i></details>
-Players should feel free to call on custom effect and add new and unique takes on the descriptors. In general, calling on an effect allows players to make a tradeoff.
-
-
-<details><summary>With skills being all the actions that a character may do, abilities are the extra twist the character adds to the skill. Abilities provide the opportunity to add special effects to a skill, reflecting the character improvement and mastery, and the personal take on the way skills can be used. </summary>
+> **Abilities**: and traits are the extra twist the character adds to the skill. Abilities provide the opportunity to add special effects to a skill, reflecting the character improvement and mastery, and the personal take on the way skills can be used. </summary>
   <i> For example:<br>
   * Upgrading Sword skill you may gain the Iaijutsu ability (counter attack on defence).<br>
   * Upgrading Fire spell: you may gain the Burning Bolt ability (burn condition) or Fire Ball (+1 target). <br>
@@ -52,15 +53,43 @@ As such, abilities are *attached* to a given skill. Despite the similarities, ab
 
 
 <details>
-  <summary>3. Think how you wish to role-play the character, and what <a href="#13-character-skills">sort of actions</a> you'd want it to do. </summary>
-  <i>Will the character walk in the shadows, spying on his enemies? Or will it solve most problems at sword's point? Will the character control the elements or channel life into others?</i>
-</details>
-  
-<details>
   <summary>4. Determine if there are any defining characteristics that distinguishes the character.</summary>
   <i>For example, are there any inheritable racial features, or particular cultural or professional skills that may be acquired? Perhaps some personal ability gained from past experiences? How would these traits work?</i>
 </details>
 
+
+
+
+**Calling a descriptor**
+
+
+As such, 
+
+
+During the adventure, characters will often experience unexpected conditions, situations and difficulties. Descriptors reflect any unusual effect the character is under, either mechanistically or dramatically, including situational bonuses, condition penalties or any other effect than is not the default character state: 
+
+
+
+
+<details><summary><b>Descriptors</b>: During the adventure, characters will often experience unexpected conditions, situations and difficulties. Descriptors reflect any unusual effect the character is under, either mechanistically or dramatically, including situational bonuses, condition penalties or any other effect than is not the default character state: </summary>
+<i> A poisoned character may feel weaker, a paralysed character wouldn't be able to move, while a character with a broken arm may just be able to carry on almost unaffected, avoiding using its arm. </i></details>
+<details><summary>Generally, conditions provide a +1 bonus or -1 penalty when calling an action on which their effect can logically be associated.</summary>
+<i> A character with a hidden descriptor will gain a +1 bonus when trying a surprise attack, whereas a weakened character will gain -1 penalty to moving furniture into the new apartment. </i></details>
+<details><summary>However, specific descriptors may reflect stronger penalties, effectively preventing certain actions. </summary>
+<i> Being asleep or petrified will prevent moving or taking actions, while a character that is muted or silenced will not be able to talk, and having a broken arm will prevent the character from using two handed weapons. </i></details>
+<details><summary>The default effect of a descriptor is defined when the descriptor is acquired. To avoid these default penalties, the player can call on the descriptor effect as well, paying a higher cost now for a chance of improving the effects. </summary>
+<i> 1) A poisoned character receives a -1 penalty for any physical skills. However, the player may call on the poison effect, suggesting that the character suddenly feels a bit dizzy from the conflict effort and takes some time to recover. At the cost of skipping a turn, the poison's default modifier will be ignored for the number of turns equal to the lowest value of a 2d6 roll, reflecting the characters recovered focus after taking some time to rest. <br>
+2) On the other hand, a player may call on the sleeping effect to wake up a character immediately, but having a -1 sleepy or unprepared penalty for the number of turns equal to the highest value of a 2d6 roll. <br>
+3) Finally, a character with optimal positioning may give up his +1 bonus for an extra or stronger attack, inducing a descriptior on the enemy such as the disarmed or the panic condition.</i></details>
+Players should feel free to call on custom effect and add new and unique takes on the descriptors. In general, calling on an effect allows players to make a tradeoff.
+
+
+
+<details>
+  <summary>3. Think how you wish to role-play the character, and what <a href="#13-character-skills">sort of actions</a> you'd want it to do. </summary>
+  <i>Will the character walk in the shadows, spying on his enemies? Or will it solve most problems at sword's point? Will the character control the elements or channel life into others?</i>
+</details>
+  
 
 If the specialities are what distinguishes the characters' broad strengths or weaknesses, skills are the fine differences that will make a character unique. Skills refer to anything a character may do *and so include every possible action that can fail and be improved*, from using weapons and armour to interacting with other creatures and objects. While the specialities are a small set of limited options, the idea is to have a free and fluid skill's list, allowing skills to be made up *on the fly* as required. Skills measure how good the character is at doing a given action and are defined by their level (mastery) and tier (power). 
 
