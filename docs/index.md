@@ -108,8 +108,8 @@ ___
   Noble Families: add knowledge of Noble lineages. <br>
   Magic Brawling: add magic effect to unarmed attacks <br>
   Aim: Make ranged attacks more precise. <br>
-  Optimization: Calculate the optimal strategy to outmaneuver the enemy. 
-  </details>  
+  Optimization: Calculate the optimal strategy to outmaneuver the enemy.<br>
+</details>  
   
   > **Conditions** reflect unusual effects the character acquired during adventuring, a specific change to the character's state. Conditions may be temporary, curable or permanent depending on their severity and how they were acquired. *A character fails of a cliff and brakes is leg. It is decided that the broken leg condition can be healed, but the medical intervention. If the intervention is successful, the broken leg condition is now temporary, and requires only some time and rest to be removed. However, if the medical treatment is provided by someone unskilled, it may need to a permanent injury.*
 <details><summary><i>Examples for conditions:</i></summary>
