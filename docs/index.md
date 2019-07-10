@@ -30,11 +30,12 @@ ___
   > Continuing from the previous example, elven racial traits could be magical attunement and nimble, from a culture that promotes arts and craft, being a wizard it would have a professional trait of spell-casting, alchemy and arcane understanding, physically beautiful but with a burned scar covering most of his body from a alchemical accident and the character's personality would be well mannered and charming, but slightly arrogant and impatient.*  
 <details><summary><i>More trait examples</i></summary>
   <i>The following examples are simple descriptors. Players should try to elaborate further their own descriptors: <br><br>
-    <u>Racial:</u> Tough, Magic resistance, Flexible, Nimble, Fire Breath, Poison resistance, Shape-shifter, Clockwork, Mind-reader, etc. <br>
+  <u>Racial:</u> Tough, Magic resistance, Flexible, Nimble, Fire Breath, Poison resistance, Shape-shifter, Clockwork, Mind-reader, etc. <br>
   <u>Cultural:</u> Stone cutting, Magic training, Warmongering, Loyalty, Merchant, Spacefarer, etc. <br>
   <u>Professional:</u> Druid, Thief, Spy, Medic, Hacker, Pilot, Necromancer, etc. <br>
   <u>Physical:</u> Beautiful, Outlandish, Scared, Blind, Weak, Badly dressed, etc. <br>
-  <u>Personality:</u> Easy going, Aggressive, Well mannered, Vengeful, Stoic, Naysayer, Submissive, etc. <br></i>
+  <u>Personality:</u> Easy going, Aggressive, Well mannered, Vengeful, Stoic, Naysayer, Submissive, etc.</i>
+  <br>""
 </details>  
   
   * **Skills** are the general adventuring actions a character may attempt to do. Skills include anything that is not a character specific action. As such, skills are every possible action that can fail and be improved, from using weapons and armour to interacting with other creatures and objects. To define the character skills, think what sort of actions the characters will be doing during the adventure. As for traits, skills can be created on the fly, but some more advanced or specialised skills may be forbidden for some characters, if previous training cannot be justified by the character's concept. For a simple selection of skills at character creation, refer to the skills examples below.  
