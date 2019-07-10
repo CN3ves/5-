@@ -35,7 +35,7 @@ ___
   <u>Professional:</u> Druid, Thief, Spy, Medic, Hacker, Pilot, Necromancer, etc. <br>
   <u>Physical:</u> Beautiful, Outlandish, Scared, Blind, Weak, Badly dressed, etc. <br>
   <u>Personality:</u> Easy going, Aggressive, Well mannered, Vengeful, Stoic, Naysayer, Submissive, etc.</i>
-  <br>""
+  <br>&nbsp;
 </details>  
   
   * **Skills** are the general adventuring actions a character may attempt to do. Skills include anything that is not a character specific action. As such, skills are every possible action that can fail and be improved, from using weapons and armour to interacting with other creatures and objects. To define the character skills, think what sort of actions the characters will be doing during the adventure. As for traits, skills can be created on the fly, but some more advanced or specialised skills may be forbidden for some characters, if previous training cannot be justified by the character's concept. For a simple selection of skills at character creation, refer to the skills examples below.  
@@ -101,7 +101,8 @@ ___
       <u>Artist:</u> Graphic Arts, Painting, Poetry, Sing, Perform, Dance, Acting, Improvisation, etc.</i><br>
     </details>
   </blockquote>
-  Select 2 skills from each of the following blocks. You are allows to switch from one block to another, to a maximum of 4 skills per block. Set all the chosen skills to level 1.<br>  
+  Select 2 skills from each of the following blocks. You are allows to switch from one block to another, to a maximum of 4 skills per block. Set all the chosen skills to level 1.
+  <br>&nbsp;
 </details>  
   
   * **Abilities** represent any particular action that the character has mastered, a signature move or a personalised take on a regular skill. Abilities add an extra twist the character's skill and provide the opportunity to add special effects to an action.  
@@ -113,7 +114,8 @@ ___
   <u>Noble Families:</u> add knowledge of Noble lineages. <br>
   <u>Magic Brawling:</u> add magic effect to unarmed attacks <br>
   <u>Aim:</u> Make ranged attacks more precise. <br>
-  <u>Optimization:</u> Calculate the optimal strategy to outmanoeuvre the enemy.</i><br>
+  <u>Optimization:</u> Calculate the optimal strategy to outmanoeuvre the enemy.</i>
+  <br>&nbsp;
 </details>  
   
   * **Conditions** reflect unusual effects the character acquired during adventuring, a specific change to the character's state. Conditions may be temporary, curable or permanent depending on their severity and how they were acquired.  
@@ -124,7 +126,8 @@ ___
   <u>Asleep:</u> The character is unaware of his surroundings. <br>
   <u>Silenced:</u> The character cannot produce meaningful words and sounds. <br>
   <u>Hidden: </u>The character cannot be seen.<br>
-  <u>Optimal position:</u> The character as an advantage on the target due to his positioning.</i><br>
+  <u>Optimal position:</u> The character as an advantage on the target due to his positioning.</i>
+  <br>&nbsp;
   </details>  
 
 #### 1.2 Progression
@@ -146,6 +149,7 @@ In this system, characters do not level up or gain quanta of power at certain po
   </details><br>
 <details><summary><b>Training</b>: Characters can only use skills that reflect their concept and background. As such, all characters are considered untrained in all unsuitable skills unless agreed otherwise. All characters are allowed to train and study to unlock skills as fitting to the story and game setting. </summary>
   <i>An uneducated tribal warrior may automatically fail magic/technological skills and some "civilised" knowledge (dynastic succession rules) and social skills (court etiquette) for example</i> 
+  <br>&nbsp;
   </details>  
 
 #### 1.3 Equipment
