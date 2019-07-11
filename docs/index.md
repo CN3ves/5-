@@ -1,4 +1,4 @@
-Welcome to my little page for developing and testing the 4+ success range (4+R) system. This system aims to be a simple and general way to play any type of RPG, with a particular focus on play-by-post (PbP) gaming. The idea is to provide simplified and minimal rules that allow to keep the game flowing at a good narrative pace, while guaranteeing logical character development. This is a free-form, 2d6 skill-based system, and should be flexible and adaptable enough to allow any idea and material from any other source to be used.  
+Welcome to my little page for developing and testing the 5+ success range system. This system aims to be a simple and general way to play any type of RPG, with a particular focus on play-by-post (PbP) gaming. The idea is to provide simplified and minimal rules that allow to keep the game flowing at a good narrative pace, while guaranteeing logical character development. This is a free-form, 2d6 skill-based system, and should be flexible and adaptable enough to allow any idea and material from any other source to be used.  
 
 ___  
   
@@ -26,7 +26,7 @@ ___
   * **The only descriptor required at the start of the game is the concept**. The concept is a short description that summarises the character. The concept is the default descriptor that ties all other descriptors, defining what is allowed for each character.  
   > *For example, you can consider the common race/class/specialization as a starting point (Elf, Wizard, Illusion) and add adjectives and a background (Educated, Charming, Noble) to create the concept of Educated and Charming Elven Noble Illusionist*.
   
-  * **Traits** reflect any permanent characteristic of the character and can be both positive and negative. Examples of traits would include inheritable racial features, particular cultural or professional skills and any noticeable physical or personality features. The traits must be derived from the concept and can be created on the fly by calling on the concept: if it fits the concept, then it can be added to the character. 
+  * **Traits** reflect any permanent characteristic of the character and can be both positive and negative. Examples of traits would include inheritable racial features, particular cultural or professional skills and any noticeable physical or personality features. The traits must be derived from the concept and can be created on the fly by calling on the concept: if it fits the concept, then it can be added to the character. Based on their character concept, players should consider how they want to play their character and what traits it should have, ideally starting with at least two more positive traits and one more negative trait. 
   > Continuing from the previous example, elven racial traits could be magical attunement and nimble, from a culture that promotes arts and craft, being a wizard it would have a professional trait of spell-casting, alchemy and arcane understanding, physically beautiful but with a burned scar covering most of his body from a alchemical accident and the character's personality would be well mannered and charming, but slightly arrogant and impatient.  
 <details><summary><i>More trait examples</i></summary>
   <i>The following examples are simple trait descriptors. Players should try to elaborate further their own descriptors, particularly how and when they can be an advantage or a disadvantage. <br>
@@ -118,7 +118,7 @@ ___
 </details>  
   
   * **Conditions** reflect unusual effects the character acquired during adventuring, a specific change to the character's state. Conditions may be temporary, curable or permanent depending on their severity and how they were acquired.  
-  > *A character falls of a cliff and brakes is leg. It is decided that the broken leg condition can be healed with a the medical intervention. If the intervention is successful, the broken leg condition is now temporary, and requires only some time and rest to be removed. However, if the medical treatment is provided by someone unskilled, it may results in permanent injury.*
+  > *A character falls of a cliff and breaks his leg. It is decided that the broken leg condition can be healed with a the medical intervention. If the intervention is successful, the broken leg condition is now temporary, and requires only some time and rest to be removed. However, if the medical treatment is provided by someone unskilled, it may results in permanent injury.*
 <details><summary><i>Examples for conditions</i></summary>
   &nbsp;&nbsp;<i><u>Poisoned:</u> The character is physically ill and weak. <br>
   &nbsp;&nbsp;<u>Paralysed:</u> The character cannot move or act. <br>
