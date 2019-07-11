@@ -132,27 +132,25 @@ ___
 ### 1.2 Progression
 *[top](#)*  
 
-In this system, characters do not level up or gain quanta of power at certain points in a deterministic way. They age and gain experience as one does! Characters can progress, or improve, in 3 different ways: gain experience with skills, acquire better equipment and learn new abilities. 
+In this system, characters do not level up or gain quanta of power at certain points in a deterministic way. They age and gain experience! Characters can progress (or improve) in 3 different ways: gain experience with skills, acquire better equipment and learn new abilities. 
 
 **Skills** level up using a “learn by doing” system. Every time a skill descriptor is called and a double is rolled that is, both dice show the same value, if that value is above the skill level, it gains a new level. If the value is not above the skill level, 1 experience point (XP) is gained. 
   
-Accumulated **experience** can be used to further develop the character in more general way. XP represent the general adventure learning that the character thus and can be used to "buy" both skills and abilities:  
+Accumulated XP can be used to further develop the character in more general ways. XP represent the general learning accumulated during the adventure, thus it can be used to "buy" both skills and abilities:  
   
-  * The number of XP required to buy a new level equals the number of that level. 
->*Level 3 skill requires 4 XP to level up*
-  * The number of XP required to buy a new ability equals the number of abilities already known by the character. 
-> *A character with 4 abilities will buy a fifth with 4XP.*  
-  * Buying a skill that the character is untrained, that is, buying training, requires 5XP per training that the character already has in addition to the actual *in character* training expenses.
+  * The number of XP required to buy a new level equals twice the level being bough. 
+>*Level 3 skill requires 8 XP to level up*
+  * The number of XP required to buy a new ability equals thrice the number of abilities already known by the character. 
+> *A character with 4 abilities will buy a fifth with 12XP.*  
+  * Buying a skill that the character is untrained (that is, buying training), requires 5XP per training descriptor that the character already has in addition to the actual *in character* training expenses. Training allows the level 0 skill to be used.
 
-As skills, **equipment** is free-form and can be defined *on the fly*. To quickly create a new piece of equipment or an item, simply name it by defining it and adding an adjective to the base name.
-> *For example, Rusting Sword, Long Rope, Long-ranged Rifle*.  
+As skills, **equipment** is free-form and can be defined on the fly. To quickly create a new piece of equipment or an item, simply name it by defining it and adding an adjective to the base name.To that, a small extra descriptor may be added if the equipment has any distinctive feature or power. Of course, legendary items can have names that are a reference to some historical or mythical place, event or person, and can be uses as opportunities for flashback chapters or as part of character arcs.  
+> *For example, Rusting Sword, Long Rope, Long-ranged Rifle. 
+For a distinctive power, compare useless potion with useless potion of might.
+Instead of the general legendary holy sword of divine power, it may be better to call it *.  
 
-To that, a small extra descriptor may be added if the equipment has any distinctive feature or power 
-> *Compare useless potion with useless potion of might*.  
 
-Of course, legendary items can have names that are a reference to some historical or mythical place, event or person, and can be uses as opportunities for flashback chapters or as part of character arcs.  
-
-Because equipment is free-form, its uses are limited only by the players imagination, but the following 4 common way of using equipment:  
+Because equipment is free-form, its uses are limited only by the players imagination. Consider the following 4 common way of using equipment:  
   
   * The item applies a bonus to a skill: Equipment that provides bonus will be noted as +1/X (the casual penalty as -1/X), where +1 is the provided bonus (-1 the penalty) and X the maximum level obtainable with equipment.
 > A Cheap Stick is +1/1, meaning that players get a +1 bonus on their stick (spear/staff?) skill as long as this bonus does not result in a modifier greater than of 1, so the equipment has no effect for players with "stick" skill at level 1. Likewise, a Balanced Sword could be +1/3, which provides a bonus for players below sword level 3. This means that you may be too skilful to actually gain any bonus from your equipment.  
