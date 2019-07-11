@@ -130,7 +130,7 @@ ___
   
  
 ### 1.2 Progression
-*[top](#)*  
+*[top]()*  
 
 In this system, characters do not level up or gain quanta of power at certain points in a deterministic way. They age and gain experience! Characters can progress (or improve) in 3 different ways: gain experience with skills, acquire better equipment and learn new abilities. 
 
