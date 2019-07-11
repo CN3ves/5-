@@ -138,7 +138,7 @@ In this system, characters do not level up or gain quanta of power at certain po
   
 Accumulated XP can be used to further develop the character in more general ways. XP represent the general learning accumulated during the adventure, thus it can be used to "buy" both skills and abilities:  
   
-  * The number of XP required to buy a new level equals twice the level being bough. 
+  * The number of XP required to buy a new skill or ability level equals twice the level being bough. 
 >*Level 3 skill requires 8 XP to level up*
   * The number of XP required to buy a new ability equals thrice the number of abilities already known by the character. 
 > *A character with 4 abilities will buy a fifth with 12XP.*  
