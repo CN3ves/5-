@@ -15,9 +15,9 @@ ___
 
 ___
 
-### 1. Character
+## 1. Character
 
-#### 1.1 Descriptors
+### 1.1 Descriptors
 *[top]()*
 
 **Descriptors are small, clear sentences that define the character**, how it differs from all other people in the world and what its current status is. As such, anything that can said about the character is a descriptor. Descriptors are free-form and limited only by the setting, the player's imagination and a hint of good sense. Descriptors can be understood more easily by dividing them into meaningful groups:  
@@ -129,7 +129,7 @@ ___
   </details>  
   
  
-#### 1.2 Progression
+### 1.2 Progression
 *[top](#)*  
 
 In this system, characters do not level up or gain quanta of power at certain points in a deterministic way. They age and gain experience as one does! Characters can progress, or improve, in 3 different ways: gain experience with skills, acquire better equipment and learn new abilities. 
