@@ -8,7 +8,6 @@ ___
 1. Character  
   1.1 [Descriptors](#11-descriptors)  
   1.2 [Progression](#12-progression)  
-  1.3 [Equipment](#13-equipment)  
 2. Conflict  
   2.1 [Structure](#21-structure)  
   2.2 [Actions](#22-actions)  
