@@ -22,16 +22,13 @@ To **take over the scene** a player must first build up enough information for t
 ___
 
 
-This system uses turns to structure the game, where **each turn is made by a single intervention from every player**. The turn structure is always used, and is not just for combat situations. This should give the opportunity for every player to take an action if he wishes to do so. At the begging of each turn, the previous actions are resolved, the consequences described and the new situation introduced. Each players then explains how the chacter will respond to the new situation, whi a new turn starting once all character have an intended action. Importantly, **all actions within a turn occurs simultaneously** so there is no clear initiative or turn order. As such, all actions will be resolved in the order the scene owner find most appropriate. 
+Each scene are structured using turns, where **each turn is made by a single intervention from every player**. The turn structure is used in all situations, to give the opportunity for every player to take an action. At the begging of each turn, the previous actions are resolved, the consequences described and the new situation introduced. Each players then explains how the chacter will respond to the new situation, with a new turn starting once all character have an intended action. Importantly, **all actions within a turn occurs simultaneously** so there is no clear initiative or turn order. As such, all actions will be resolved in the order the scene owner finds most appropriate. 
 
-**Conflict arises any time the outcome of a players' actions is uncertain**.
-
-<details><summary>All conflicts are solved with a narrative, <a href="https://www.dndbeyond.com/posts/355-how-to-run-combat-in-the-theater-of-the-mind" target="_blank">theatre of the mind</a> approach, where the results from the previous turn inform on the behaviour of the NPCs on the next turn.</summary>
-  <i>This is to say that, for example, a dragon does not have to be bashed to a pulp of negative HP to be defeated. Its actions are determined by the number of successes and failures the players accumulated during the conflict, where each success reflect a new action, approach or consideration noticeable by the players.</i></details>
+**Conflict arises any time the outcome of a players' actions is uncertain** and the action must be solved before continuing. All conflicts are solved with a 2d6 roll which informs the narrative and the behaviour of the NPCs on the next turn. It is the balance between successful and failed actions that will determine how the overall conflict proceeds. *This is to say that, for example, a dragon does not have to be bashed to a pulp of negative HP to be defeated. Its actions are determined by the number of successes and failures the players accumulated during the conflict, where a certain number of successes reflect a new action, approach or consideration noticeable by the players.*
 
 
-#### 2.2 Actions
-*[top](#)*  
+### 2.2 Actions
+*[top]()*  
 
 call descriptor, define positive effect and negative effect.
 
