@@ -1,32 +1,3 @@
-## 2. Conflict
-
-### 2.1 Structure
-*[top]()*  
-
-The game is started by the Game Master (GM), which is the player that  defined the overall setting and game story. However, besides this main story, each charatcer has an individual motivation, a goal or a story to explore. To accumodate this, **the system is organized into scenes**, where each player may own (GM) any given scene. A scene is a self-contained part of a story, such as a mission or a dungeon, that the charatcers decided to pursue. So, even though only one player takes the role of GM at any time, the other players have the opportunity to contribute to it (besides their charatcer actions) and eventually take control and run their own scenes. Same way to do so are:
-  
-  > Since the skill check result is immediate, the player is allowed to interpret the result of his own action. The next player can then add any interesting details that may introduce his own actions. As such, to players are allowed to interpret any single skill check. Once all players acted, the scene owner then reinterprets the entire turn taking into account the players suggestions.
-  
-  > After a new scene, place or situation is introduced, the players should add a detail to the scene by suggesting some detail their character notices. This way, all players have the opportunity to contribute to the scene, from simply adding new descriptive details and bringing out different things about the places they visit, from adding a character or hinting on something that could be happening soon.
-  
-To **take over the scene** a player must first build up enough information for the other players to follow one of their quests. At the beginning of the game, each player picks 3 cards. Each player will then be able to add rumours, hints and clues to the story, passively gathered from reasonable "information" sources. These small pieces of information are used to drive players into their secret story arc. Once other players take the "bait" and decide to follow these tips, the player can play one card and discard the other 2, starting a his own scene. The player playing the card can then move the character secret story arc a bit forward! Whenever a new player takes over, the previous scene owner picks 3 new cards. 
-  
-  > **Card suits**: Each suit of the card played to take over the scene reflects the type of quest or game-play to use:  
-  *Hearts are for socializers*, so these should include a relevant amount of interaction with NPCs (chatty enemies, distressed peasants, negotiating passage).  
-  *Diamonds are for achievers*, so these include or point to some clear reward or something the players can achieve or collect (rare equipment sets, money, status).  
-  *Spades are for explorers*, so these should introduce new lands, explain long lost secrets or clarify some historical event or any other discovery (background information, a rumours of distant lands, a secret revealed by an solving a puzzle).  
-  *Clubs are for killers*, so these quests should should be filled with combat and fights (challenges of power, all out combat, arenas)  
-  
-  > **Card values**: Two of the cards in the player's hand can be discarded to provide the scene owner with rumours at any suitable time, up to the numeric value of the card. The scene owner is then responsible for making sure the rumors get to the charatcer's hears. Royals will represent important named enemies (possibly recurring enemies) will appear, instead of rumours, while Aces represent a new friendly or helpful connection. A Joker is an important event with far reaching implication that may change the current status-quo.
-
-___
-
-
-Each scene are structured using turns, where **each turn is made by a single intervention from every player**. The turn structure is used in all situations, to give the opportunity for every player to take an action. At the begging of each turn, the previous actions are resolved, the consequences described and the new situation introduced. Each players then explains how the chacter will respond to the new situation, with a new turn starting once all character have an intended action. Importantly, **all actions within a turn occurs simultaneously** so there is no clear initiative or turn order. As such, all actions will be resolved in the order the scene owner finds most appropriate. 
-
-**Conflict arises any time the outcome of a players' actions is uncertain** and the action must be solved before continuing. All conflicts are solved with a 2d6 roll which informs the narrative and the behaviour of the NPCs on the next turn. It is the balance between successful and failed actions that will determine how the overall conflict proceeds. *This is to say that, for example, a dragon does not have to be bashed to a pulp of negative HP to be defeated. Its actions are determined by the number of successes and failures the players accumulated during the conflict, where a certain number of successes reflect a new action, approach or consideration noticeable by the players.*
-
-
 ### 2.2 Actions
 *[top]()*  
 
@@ -125,3 +96,32 @@ ___
   * If a failure happens with a sum that is above the maximum success value by 3, then it represent a particularly bad failure and the character takes the lowest value as wounds or frustration.</i></details>
 <br>
 **Helping**: An help effect can be called whenever players can justify it. Help provides a +1 bonus to the action per helping source. Generally, successful actions from other players will be evocked to justify the help bonus, but other reason could be concidered, such as information from knowledge skills, narrative effects from rolling 1 or specific descriptiors that may apply. 
+
+
+**NPCs**
+
+Players do all the rolling. NPCs do not roll. If a player hits the target, it's because the target didn't dodge. Likewise, if a player fails to dodge, it's because the enemy hit. Cause and consequence. The only things required to define an NPC character is:
+
+<blockquote>
+ <details><summary>Its goals</summary>
+<i> Why is the NPC opposing the players? Is it a giant hungry spider trying to eating the players, an demonic spirit hoping to corrupt them or simply a vengeful adventure trying to get payback</i></details>
+ 
+ <details><summary>Its actions and abilities</summary>
+<i> Can the NPC bite, smash or summon inter-dimensional demon of ultimate destruction? Maybe it will simply insult and provoke the players? </i></details>
+ 
+ <details><summary>Its combat behaviour (how it reacts to player's accumulating successes and failures?)</summary>
+<i> An NPC can act more fearful as the players accumulate successes or more boldly as the players fail to act. For example, it could be defined that an NPC changes action according to the following list:<br>
+Low threat NPC: change every 1 or 2 successes <br>
+Medium threat NPC: change every 3 or 5 successes <br>
+High threat NPC: change every 6-10 successes <br>
+Heroic threat NPC: change every 10 or more successes <br> </i></details>
+ 
+ <details><summary>Its difficulty (as defined by the enemy tier)</summary>
+<i>Higher tier enemies reflect stronger enemies and will determine which skills the NPC is affect by: <br>
+Skill of tier below enemy tier -1: The skill fails automatically<br>
+Skill of tier equal to enemy tier -1: The skills are checked with a -1 tier penalty and reduced efficiency<br>
+Skill of tier equal to enemy tier: The NPC is affected normally<br>
+Skill of tier equal to enemy tier + 1: The skills are checked with a +1 tier bonus and increased efficiency<br>
+Skill of tier above enemy tier +1: The skill succeeds automatically<br>
+<br> Note that as higher tiered skills have lower maximum levels, even if the player's skills are of the same tier as the enemy, their changes of success are reduced for higher tier enemies.</i></details>
+</blockquote>
