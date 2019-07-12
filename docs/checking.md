@@ -1,33 +1,34 @@
-
-
 ## 2. Conflict
 
-#### 2.1 Structure
-*[top](#)*  
+### 2.1 Structure
+*[top]()*  
 
-This system uses turns to structure the game, where **each turn is made by a single intervention from every player**, giving the opportunity for every player to take an action if he wishes to do so. Importantly, **all actions within a turn occurs simultaneously** so there is no clear initiative or turn order. At the begging of each turn, the previous actions are resolved, the consequences described and the new situation introduced. **Conflict arises any time the outcome of a players' actions is uncertain**. As such, each conflict should reflect a specific situations matching one of the [character's specialities](characters.md#12-character-specialities). 
+The game is started by the Game Master (GM), which is the player that  defined the overall setting and game story. However, besides this main story, each charatcer has an individual motivation, a goal or a story to explore. To accumodate this, **the system is organized into scenes**, where each player may own (GM) any given scene. A scene is a self-contained part of a story, such as a mission or a dungeon, that the charatcers decided to pursue. So, even though only one player takes the role of GM at any time, the other players have the opportunity to contribute to it (besides their charatcer actions) and eventually take control and run their own scenes. Same way to do so are:
+  
+  > Since the skill check result is immediate, the player is allowed to interpret the result of his own action. The next player can then add any interesting details that may introduce his own actions. As such, to players are allowed to interpret any single skill check. Once all players acted, the scene owner then reinterprets the entire turn taking into account the players suggestions.
+  
+  > After a new scene, place or situation is introduced, the players should add a detail to the scene by suggesting some detail their character notices. This way, all players have the opportunity to contribute to the scene, from simply adding new descriptive details and bringing out different things about the places they visit, from adding a character or hinting on something that could be happening soon.
+  
+To **take over the scene** a player must first build up enough information for the other players to follow one of their quests. At the beginning of the game, each player picks 3 cards. Each player will then be able to add rumours, hints and clues to the story, passively gathered from reasonable "information" sources. These small pieces of information are used to drive players into their secret story arc. Once other players take the "bait" and decide to follow these tips, the player can play one card and discard the other 2, starting a his own scene. The player playing the card can then move the character secret story arc a bit forward! Whenever a new player takes over, the previous scene owner picks 3 new cards. 
+  
+  > **Card suits**: Each suit of the card played to take over the scene reflects the type of quest or game-play to use:  
+  *Hearts are for socializers*, so these should include a relevant amount of interaction with NPCs (chatty enemies, distressed peasants, negotiating passage).  
+  *Diamonds are for achievers*, so these include or point to some clear reward or something the players can achieve or collect (rare equipment sets, money, status).  
+  *Spades are for explorers*, so these should introduce new lands, explain long lost secrets or clarify some historical event or any other discovery (background information, a rumours of distant lands, a secret revealed by an solving a puzzle).  
+  *Clubs are for killers*, so these quests should should be filled with combat and fights (challenges of power, all out combat, arenas)  
+  
+  > **Card values**: Two of the cards in the player's hand can be discarded to provide the scene owner with rumours at any suitable time, up to the numeric value of the card. The scene owner is then responsible for making sure the rumors get to the charatcer's hears. Royals will represent important named enemies (possibly recurring enemies) will appear, instead of rumours, while Aces represent a new friendly or helpful connection. A Joker is an important event with far reaching implication that may change the current status-quo.
+
+___
+
+
+This system uses turns to structure the game, where **each turn is made by a single intervention from every player**. The turn structure is always used, and is not just for combat situations. This should give the opportunity for every player to take an action if he wishes to do so. At the begging of each turn, the previous actions are resolved, the consequences described and the new situation introduced. Each players then explains how the chacter will respond to the new situation, whi a new turn starting once all character have an intended action. Importantly, **all actions within a turn occurs simultaneously** so there is no clear initiative or turn order. As such, all actions will be resolved in the order the scene owner find most appropriate. 
+
+**Conflict arises any time the outcome of a players' actions is uncertain**.
 
 <details><summary>All conflicts are solved with a narrative, <a href="https://www.dndbeyond.com/posts/355-how-to-run-combat-in-the-theater-of-the-mind" target="_blank">theatre of the mind</a> approach, where the results from the previous turn inform on the behaviour of the NPCs on the next turn.</summary>
   <i>This is to say that, for example, a dragon does not have to be bashed to a pulp of negative HP to be defeated. Its actions are determined by the number of successes and failures the players accumulated during the conflict, where each success reflect a new action, approach or consideration noticeable by the players.</i></details>
 
-Scenes in this system are not defined by one player only. Even though one player take the role of game master (GM), all players should have the opportunity to take control and make their own scenes, and contributing the other player's scenes:  
-  
-  1) Since the skill check result is immediate, the player is allowed to interpret the result of his own action. The next player can then add any interesting details that may introduce his own actions. As such, to players are allowed to interpret any single skill check. Once all players acted, the scene owner then reinterprets the entire turn taking into account the players suggestions.
-
-  2) After introducing any new scene, place or situation, the players should add a detail to the scene. Players have the opportunity to contribute to the scene, from just adding new descriptive details to bring out different things about the places they visit, from adding a character or hinting on something that could be happening soon.
-
-  3) This small hints and details will contribute to the player's change to play a card and take over the game. At the beginning of the game, each player picks 3 cards. Each player will then be able to add rumours, hints and clues to the story, trying to drive players into their secret story arc. Once other players take the bait, the player can play one card and discard the other 2, starting a his own scene *(that is, that player becomes the GM)*. The player can then move the character secret story arc forward, that is, players will GM their own character's arc! Whenever a new player takes over, the previous scene owner picks 3 new cards.
-
-___
-**Card suits**: Each suit reflects a different type of quest or game-play:  
-  
-  * Hearts are for socializers, so these should include a relevant amount of interaction with NPCs (chatty enemies, distressed peasants, negotiating passage). 
-  * Diamonds are for achievers, so these include or point to some clear reward or something the players can achieve or collect (rare equipment sets, money, status). 
-  * Spades are for explorers, so these should introduce new lands, explain long lost secrets or clarify some historical event or any other discovery (background information, a rumours of distant lands, a secret revealed by an solving a puzzle). 
-  * Clubs are for killers, so these quests should should be filled with combat and fights (challenges of power, all out combat, arenas)
-
-**Card values**: The numeric values of the cards illustrate the challenge of the conflict, so cards with higher values will present more danger to the players (be it the number of enemies, successes required, total enemy tier, situational penalties, having the players surprised, etc.). Royals will represent important named enemies (possibly recurring enemies). A Joker is a quest that has a change to gain a bless or new ability or in some way provide a significant improvement *(being knighted by the king could be as important as a new ability!)* while Aces represent conflicts leading to new friendly or helpful connection.
-    
 
 #### 2.2 Actions
 *[top](#)*  
