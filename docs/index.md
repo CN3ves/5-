@@ -164,3 +164,32 @@ A mantle of rose scent may let you automatically convince blind creatures you're
 A magical amulet may provide immunity to fire damage twice before re-charging.  
   * The item may provide access to certain skills: This will be mostly true for weapons and armour skills, as a character won't be able to use a the axe skill without an axe, but it may also be relevant for spell-casting in some settings.  
 > The most extreme example would be that of a level 3 water magic caster that is not be able to cast any water spells if her create water ring is not equipped. This would work as a specialization of the spell book concept, where each spell is associated with an item and cannot be cast if the item is not active.
+
+## 2. Conflict
+
+### 2.1 Structure
+*[top]()*  
+
+The game is started by the Game Master (GM), which is the player that defines the overall setting and game story. However, besides this main story, each character has an individual motivation, a goal or a story to explore. To accommodate this, **the system is organized into scenes**, where each player may own any given scene. A scene is a self-contained part of a story, such as a mission or a dungeon, that the characters decided to pursue. So, even though only one player takes the role of GM at any time, the other players have the opportunity to contribute to the scene with more than their character actions, for example:
+  
+  > Since the skill check result can be immediately interpreted, the player performing the action is allowed to interpret the result of his own action. The next player can then add any interesting details that may introduce his own actions. As such, two players can interpret any single skill check, including adding any required details. Once all players have acted, the scene owner then reinterprets the entire turn taking into account the players suggestions.
+  
+  > After a new scene, place or situation is introduced, the players should add a detail to the scene by suggesting some detail their character notices. This way, all players have the opportunity to contribute to the scene, from simply adding new descriptive details and bringing out different things about the places they visit, from adding a character or hinting on something that could be happening soon.
+  
+To **take over the scene** a player must first build up enough information for the other players to follow one of their quests. At the beginning of the game, each player picks 3 cards. Each player will then be able to add rumours, hints and clues to the story, passively gathered from reasonable "information" sources. These small pieces of information are used to drive other players into their secret story arc. Once other players take the "bait" and decide to follow these tips, the player can play one card, starting a his own scene. Whenever a new player takes over, the previous scene owner picks 3 new cards. 
+  
+  > **Card suits**: The suit of the card played to take over the scene reflects the type of quest or game-play to use:  
+  *Hearts are for socializers*: Include a relevant amount of interaction with NPCs (chatty enemies, distressed peasants, negotiating passage).  
+  *Diamonds are for achievers*: Include or point to some clear reward or something the players can achieve or collect (rare equipment sets, money, status).  
+  *Spades are for explorers*, Introduce new lands, explain long lost secrets or clarify some historical event or any other discovery (background information, a rumours of distant lands, a secret revealed by an solving a puzzle).  
+  *Clubs are for killers*: Should be filled with combat and fights (challenges of power, all out combat, arenas)  
+  
+  > **Card values**: Two of the cards in the player's hand can be discarded to provide the scene owner with rumours at any suitable time, up to the numeric value of the card. The scene owner is then responsible for making sure the rumours get to the character's hears. Royals will represent important named enemies (possibly recurring enemies) will appear, instead of rumours, while Aces represent a new friendly or helpful connection. A Joker is an important event with far reaching implication that may change the current status quo.
+
+___
+
+
+Each scene is structured using turns, where **each turn is made by a single intervention from every player**. The turn structure is used in all situations, to give the opportunity for every player to take an action. At the beginning of each turn, the previous actions are resolved, the consequences described and the new situation introduced. Each players then explains how the character will respond to the new situation, with a new turn starting once all character have an intended action. Importantly, **all actions within a turn occurs simultaneously** so there is no clear initiative or turn order. As such, all actions will be resolved in the order the scene owner finds most appropriate. 
+
+**Conflict arises any time the outcome of a players' actions is uncertain** so the result of these actions must be determined before continuing. All conflicts are solved with a 2d6 roll which informs the narrative and the behaviour of the NPCs on the next turn. It is the balance between successful and failed actions that will determine how the overall encounter proceeds. *This is to say that, for example, a dragon does not have to be bashed to a pulp of negative HP to be defeated. Its actions are determined by the number of successes and failures the players accumulated during the conflict, where a certain number of successes (or failures) reflect a new action, approach or consideration by the dragon.*
+
