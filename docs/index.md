@@ -126,7 +126,6 @@ ___
 </details>  
 
  * **Resistances** are permanent ranked descriptors that provide ways of measuring how much a character can take. Resistances are defined by a resistance value and a break-point, that is, a value until which fatigue penalties are not applied and then a value at which the character is incapacitated. 
-  > General examples of resistances would be physical and mental resistances. 
 <details><summary><i>Examples for resistances</i></summary>
   &nbsp;&nbsp;<i><u>Physical resistance:</u> The amount of physical damage the character can handle. <br>
   &nbsp;&nbsp;<u>Mental resistance:</u> The amount of mental stress the character can handle. <br>
