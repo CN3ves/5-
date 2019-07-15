@@ -225,3 +225,72 @@ ___
 > A fighter may gamble away his success changes in order to attack an extra target by attacking twice with a -1 skill rank penalty, or a wizard may try to split his spell between 3 targets taking a -2 skill rank penalty.
    
 **Movement**: In this system, there are no grids, maps or any other sort of objective locations and positions during conflicts. The general layout is described, highlighting particularities that could be used for or against the players and all characters involved will start in relative positions to each other and they are either nearby and can be reached in melee combat or that are away and it will take two move actions to reach them. However, notice that is assumed that the characters are always moving, so each turn 1 move action is always used unless specified otherwise *(move as part of a manoeuvre or as a stance)*
+
+#### 2.3 Resolution
+*[top](#)*  
+
+When a player wants to do an action, the player calls on it and describes the intended effect. If the action's result is uncertain, then the character is in a conflict situation. To resolve the conflict, the character must name a relevant skill to check for the action's success.   
+> A player wants to climb a steep wall to sneak into the Baron's private garden. Given the height of the wall, the result of this action is uncertain and a conflict is started. The player can then choose from any reasonable skills, such as climb or jump, and make a skill check to find out what happens.
+
+**Success range**: To determine if an action is successful, roll a 2d6 and sum the result. If that result is contained by the success range, that is, it is one of the success numbers, then the action is successful. The success range root value is 5 and how far it extends, depends on the applicable modifiers:  
+  * A positive modifier adds one number (bove 5) per each +1 in the modifier. This means that the success range will be all numbers between 5 and 5 + modifier (both included).  
+  > If it is determined that the character has a modifier of +3 for the climb skill, then the success range will have the root 5 and 3 more values: 6,7 and 8. Success will occur if the rolled sum is one of those 4 values. Note that the success range is from 5 to 5+3.  
+  * A negative modifier moves the root below 5, one value for each -1 in the modifier.  
+> Another character tries to follow and has the modifier of -2. This means that the success root will be moved down twice, that is from 5 to 3. Success in this case will only occurs if the rolled sum is 3.
+  
+<details><summary><i>Note<i></summary>The success range, even though simple, is a fairly strange concept for many players and may take a while to get used to. An alternative method can be derived by subtracting 5 to the result. Given that the success range from 5 to 5+modifier, rolling 2d6-5 will mean that the success range is now from 5-5 to 5-5+modifier, that is from 0 to the modifier. The result is converted to a roll less than the modifier type of system for positive modifiers or roll equal to modifier for negative modifiers.<br>&nbsp;</details>
+
+**Modifiers**: The modifier that defines the success range is the sum of all bonuses and penalties that apply to the skill being checked. To find the applicable modifier, consider:  
+  
+  * A default +1 bonus
+  * The skill level is added as a bonus for the action.
+  * Situational +1 bonuses and -1 penalties may be applied depending on conditions affecting the character or to particular action difficulties. 
+> If the character gets into a tavern brawl with drunk clients, then maybe it is easier to dodge and a +1 bonus is applied. Dodging a goblin's sword is a normal effort, so no change is applied, but dodging a giant's sweeping club, is probably more difficult, providing a -1 penalty.
+  * Enemy tier: Add -1 penalty for each enemy difficulty tier.
+  * Fatigue penalty: For each value above the resistence value, the character takes a -1 penalty to all rolls.
+   
+**Raise the stakes**: In addition to simply rolling a 2d6, the player may chose to raise his stakes, that is, to re-roll one die of his choice. Raising the stakes allows the character to push himself further and change the outcome of his action at the cost of one of resistences *(by default, mental resistence)*. The stakes may be raised as many times as a player wants, and the result is the difference between successes and failures accumulated, where:  
+
+  * 0 reflects is a normal hit
+  * Positive values represent a critial hit and allow the use of one ability per extra success
+  * Negative values represent a critical failure and impose a negative condition (or extra damage) on the character per extra failure.  
+  
+> A charactcer that failed his initial roll, may pay the resistence cost to re-roll one die of the player's choice: if it succeds with the new result, the action no longer fails, however if it fails twice, it is now a critical fail and the charatcer will gain a negative contidion.  
+  
+> A charactcer that has successded, may pay the resistance cost to re-roll one die of the player's choice: If he succeds, he chooses a suitable ability as a critical hit to impose an extra effect on the target.  
+
+**Failure handling**:There are many ways of failing and the most important thing to keep in mind is that failure should keep the story flowing instead of bringing it to a halt. Failure handling should assume that given time and resources, the players will not fail unless something happens. From this follows that failure is an opportunity to add complications, twist and new developments to the story that the players need to consider. Consider the following failure effects:  
+
+  * The action is time-sensitive: Failing allows a limited number of repetitions, gradually increasing the tension with each failure.  
+> A tyrant lord is about to execute the hostages, one by one. As infiltrated agents, the players try to convince him that sparing the prisoners would be wiser, because the princess they want to rescue is the fourth hostage in the line of execution. Each failure will result in another slain hostage.  
+  * The action is interrupted: Failing once prevents the action from being repeated because something else happened, not because the player isn't skilled enough to do it.  
+> The player tries to jump over a wagon to get a clear shot at the tyrant lord, however, the wagon's owner shows up and starts to chat about the on-going public execution with the player.  
+  * The action succeeds anyway: Fail forward is an interesting concept that allows the player to succeed even if they fail, but with an added twist or complication. It is similar to having the action interrupted, but it allows for the player to get what he wants.  
+> As the player is looking for the incriminating secret papers in the tyrant lord's office, even though the player manages to identify and take them, the paper weight that was on the table is dropped, making a very noticeable noise.  
+In addition, some skills don't make sense failing, like buffing magic on a willing target. Failing, in such cases can be handled by inducind a reduced the effect (switch from the highest value rolled to the lowest).
+  * Help: Anytime the action of a player can logically influence the results of another player's action, a +1 help bonus may be used to tip the scales in favour of success instead of failure. 
+> Generally, successful actions from other players will be evocked to justify the help bonus, but other reason could be concidered, such as information from knowledge skills, narrative effects or specific descriptiors that may apply. 
+
+**Narration effects**: To keep thinks more interesting, when a 1 is rolled in any dice, a narrative effect may be used by adding a *but* to the action resolution, attenuating the results of the action. So for a failed roll, the player fails but there was something positive, while for a successful roll there was a consequence unaccounted.  
+> The player tries to hide before the guards come into the room. He fails to find a place to hide, but he notices an open window through which he can escape.
+The player successfully spots a secret passage on the wall, but the opening mechanism seems to be stuck.
+
+**Wounds**: Everytime a character fails a defence action, it takes 1 to the matching resistance *(physical combat to physical resistance)*. If this value is greater than the resistance point, the charatcer will gain a -1 fatigue penalty for each point above the resistance point. If the value is above the break-point, the charatcer is unable to continue. At the end of the conflict, a 2d6 must be rolled if the resistence point was broken *(same for level up resistances)*. If any die show a value below the resistence score below current fatigue penalty, the charatcer gains a wound descriptor.
+
+
+**NPCs**
+
+Players do all the rolling. NPCs do not roll. If a player hits the target, it's because the target didn't dodge. Likewise, if a player fails to dodge, it's because the enemy hit. The only things required to define an NPC character is:  
+  
+  * Its goals: *Why is the NPC opposing the players?*
+> Is it a giant hungry spider trying to eating the players, an demonic spirit hoping to corrupt them or simply a vengeful adventure trying to get payback
+  * Its actions and abilities 
+> Can the NPC bite, smash or summon inter-dimensional demon of ultimate destruction? Maybe it will simply insult and provoke the players?*  
+  *  Its combat behaviour: *How it reacts to player's accumulating successes and failures?*
+> An NPC can act more fearful as the players accumulate successes or more boldly as the players fail to act. 
+<details><summary>NPC behaviour table example:</summary>  
+<i><u>Low threat NPC</u>: Last for 1 or 2 successes.  
+<u>Medium threat NPC</u>: Last for 3 or 5 successes, change behaviour after 2 successes. 
+<u>High threat NPC</u>: Last for 6-10 successes, change every 3 success or failures.
+<u>Heroic threat NPC</u>: change every 10 or more successes, change behaviour after 3,5 and 7 successes</i></details>
+  * Its difficulty: *as defined by the enemy tier*
