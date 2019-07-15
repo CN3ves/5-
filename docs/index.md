@@ -238,7 +238,7 @@ When a player wants to do an action, the player calls on it and describes the in
   * A negative modifier moves the root below 5, one value for each -1 in the modifier.  
 > Another character tries to follow and has the modifier of -2. This means that the success root will be moved down twice, that is from 5 to 3. Success in this case will only occurs if the rolled sum is 3.
   
-<details><summary><i>Note<i></summary>The success range, even though simple, is a fairly strange concept for many players and may take a while to get used to. An alternative method can be derived by subtracting 5 to the result. Given that the success range from 5 to 5+modifier, rolling 2d6-5 will mean that the success range is now from 5-5 to 5-5+modifier, that is from 0 to the modifier. The result is converted to a roll less than the modifier type of system for positive modifiers or roll equal to modifier for negative modifiers.<br>&nbsp;</details>
+<details><summary><i>Note</i></summary>The success range, even though simple, is a fairly strange concept for many players and may take a while to get used to. An alternative method can be derived by subtracting 5 to the result. Given that the success range from 5 to 5+modifier, rolling 2d6-5 will mean that the success range is now from 5-5 to 5-5+modifier, that is from 0 to the modifier. The result is converted to a roll less than the modifier type of system for positive modifiers or roll equal to modifier for negative modifiers.<br>&nbsp;</details>
 
 **Modifiers**: The modifier that defines the success range is the sum of all bonuses and penalties that apply to the skill being checked. To find the applicable modifier, consider:  
   
