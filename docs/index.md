@@ -35,7 +35,7 @@ ___
   * **The only descriptor required at the start of the game is the concept**. The concept is a short description that summarises the character. It is a permanent static default descriptor that ties all other descriptors, defining what is allowed for each character.  
   > *For example, you can consider the common race/class/specialization as a starting point (Elf, Wizard, Illusion) and add adjectives and a background (Educated, Charming, Noble) to create the concept of Educated and Charming Elven Noble Illusionist*.
   
-  * **Traits** reflect any permanent and static physical or mental characteristic of the character and should be both positive and negative (that is, try to add a but to a positive trait whenever it makes sense). Examples of traits would include inheritable racial features, particular cultural or professional skills and any noticeable physical or personality features.  Trait may be gained or lost during an adventure, but may not be levelled up. Based on their character concept, players should consider how they want to play their character and what traits it should have. As such traits should be derived from the concept and can be created on the fly by calling on the concept: if it fits the concept, then it can be added to the character.
+  * **Traits** reflect any permanent and static physical or mental characteristic of the character and should be both positive and negative (that is, try to add a but to a positive trait whenever it makes sense). Examples of traits would include inheritable racial features, particular cultural or professional/training skills and any noticeable physical or personality features.  Trait may be gained or lost during an adventure, but may not be levelled up. Based on their character concept, players should consider how they want to play their character and what traits it should have. As such traits should be derived from the concept and can be created on the fly by calling on the concept: if it fits the concept, then it can be added to the character.
   > Continuing from the previous example, elven racial traits could be magical attunement but feeble, from a culture that promotes arts and craft, being a wizard it would have a professional trait of spell-casting, alchemy and arcane understanding, but no formal combat training, physically beautiful but with a burned scar covering most of his body from a alchemical accident and the character's personality would be well mannered and charming, but slightly arrogant and impatient.  
 <details><summary><i>More trait examples</i></summary>
   <i>The following examples are simple trait descriptors. Players should try to elaborate further their own descriptors, particularly how and when they can be an advantage or a disadvantage. Note that traits could work as a non-quantitative generalization of other systems "attributes". <br>
@@ -112,7 +112,7 @@ ___
   </blockquote>
 </details>  
   
-  * **Abilities** represent any particular action that the character has mastered, a signature move or a personalised take on a regular skill. Abilities add an extra twist the character's skill and provide the opportunity to add special effects to an action. As such, abilities work as special skill descriptors.
+  * **Abilities** represent any particular action that the character has mastered, a signature move or a personalised take on a regular skill. Abilities add an extra twist the character's skill and provide the opportunity to add special effects to an action, reflecting critical skill successes. 
   > *Fast talking is important for an illusionist to keep the audience both engaged and distracted, it is a deception skill that can have the added effect of confusing the target. Thus the character has the ability Words of Confusion*. 
 <details><summary><i>Examples for abilities</i></summary>
   &nbsp;&nbsp;<i><u>Counter attack:</u> counter attack on successful defence. <br>
@@ -153,21 +153,12 @@ ___
 
 In this system, characters do not level up or gain quanta of power at certain points in a deterministic way. They age and gain experience! Characters can progress (or improve) in 3 different ways: gain experience with skills, acquire better equipment and learn new abilities. 
 
-**Skills** level up using a “learn by doing” system. Every time a skill descriptor is called and a double is rolled that is, both dice show the same value, if that value is above the skill level, it gains a new level. If the value is not above the skill level, 1 experience point (XP) is gained. 
-  
-Accumulated XP can be used to further develop the character in more general ways. XP represent the general learning accumulated during the adventure, thus it can be used to "buy" both skills and abilities:  
-  
-  * The number of XP required to buy a new skill or ability level equals twice the level being bough. 
->*Level 3 skill requires 8 XP to level up*
-  * The number of XP required to buy a new ability equals thrice the number of abilities already known by the character. 
-> *A character with 4 abilities will buy a fifth with 12XP.*  
-  * Buying a skill that the character is untrained (that is, buying training), requires 5XP per training descriptor that the character already has in addition to the actual *in character* training expenses. Training allows the level 0 skill to be used.
+**Skills** level up using a “learn by doing” system. Every time a skill descriptor is called and a double is rolled that is, both dice show the same value, if that value is above the skill level, it gains a new level. Everytime a skill hits level 3 or more, a new **ability** related to that skill is gained. On the other hand, if a charatcer hits the resistance point, the player will roll 2d6 at the end of the conflict. If a double is rolled, **resistence** levels up.
 
-As skills, **equipment** is free-form and can be defined on the fly. To quickly create a new piece of equipment or an item, simply name it by defining it and adding an adjective to the base name.To that, a small extra descriptor may be added if the equipment has any distinctive feature or power. Of course, legendary items can have names that are a reference to some historical or mythical place, event or person, and can be uses as opportunities for flashback chapters or as part of character arcs.  
+As skills, **equipment** is free-form and can be defined on the fly. To quickly create a new piece of equipment or an item, simply name it by defining it and adding an adjective to the base name. To that, a small extra descriptor may be added if the equipment has any distinctive feature or power. Of course, legendary items can have names that are a reference to some historical or mythical place, event or person, and can be uses as opportunities for flashback chapters or as part of character arcs. Items will have their own resistence descriptor and will lose their bonus if past the resistance point and brake if past the break-point. 
 > *For example, Rusting Sword, Long Rope, Long-ranged Rifle. 
 For a distinctive power, compare useless potion with useless potion of might.
 Instead of the general legendary holy sword of divine power, it may be better to call it *.  
-
 
 Because equipment is free-form, its uses are limited only by the players imagination. Consider the following 4 common way of using equipment:  
   
@@ -178,7 +169,7 @@ Because equipment is free-form, its uses are limited only by the players imagina
 A scroll of thunder has a thunder spell descriptor that can be called to use the thunder spell at the specified level.  
 A warhammer has the stun effect, which can be called to hit harder when out-manoeuvring an enemy.  
 A mantle of rose scent may let you automatically convince blind creatures you're a talking rose  
-  * The item may be used to protect the characters: Particularly true for armour and magical items, these items can either reduce or prevent certain types of damage, physical or mental wounds  
+  * The item may be used to protect the characters: Particularly true for armour and magical items, these items can either reduce or prevent certain types of damage, physical or mental wounds. 
 > A leather plate armour may absorb the first 3 wounds while fully repaired, while a full plate armour may reduce damage from light weapons.  
 A magical amulet may provide immunity to fire damage twice before re-charging.  
   * The item may provide access to certain skills: This will be mostly true for weapons and armour skills, as a character won't be able to use a the axe skill without an axe, but it may also be relevant for spell-casting in some settings.  
