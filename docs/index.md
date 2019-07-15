@@ -147,6 +147,7 @@ ___
   </i>
   <br>&nbsp;
 </details>   
+  
 ### 1.2 Progression
 *[top]()*  
 
