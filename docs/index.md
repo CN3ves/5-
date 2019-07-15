@@ -20,15 +20,15 @@ ___
 ### 1.1 Descriptors
 *[top]()*
 
-**Descriptors are small, clear sentences that define the character**, how it differs from all other people in the world and what its current status is. As such, anything that can said about the character is a descriptor. Descriptors are free-form and limited only by the setting, the player's imagination and a hint of good sense. Descriptors can be understood more easily by dividing them into meaningful groups:  
+**Descriptors are small, clear sentences that define the character**, how it differs from all other people in the world and what its current status is. As such, anything that can said about the character is a descriptor. Descriptors are free-form and limited only by the setting, the player's imagination and a hint of good sense. Descriptors may be static or ranked (may be levelled up), temporary or permanent. For example, some meaningful descriptor groups would include:  
   
-  * **The only descriptor required at the start of the game is the concept**. The concept is a short description that summarises the character. The concept is the default descriptor that ties all other descriptors, defining what is allowed for each character.  
+  * **The only descriptor required at the start of the game is the concept**. The concept is a short description that summarises the character. It is a permanent static default descriptor that ties all other descriptors, defining what is allowed for each character.  
   > *For example, you can consider the common race/class/specialization as a starting point (Elf, Wizard, Illusion) and add adjectives and a background (Educated, Charming, Noble) to create the concept of Educated and Charming Elven Noble Illusionist*.
   
-  * **Traits** reflect any permanent characteristic of the character and can be both positive and negative. Examples of traits would include inheritable racial features, particular cultural or professional skills and any noticeable physical or personality features. The traits must be derived from the concept and can be created on the fly by calling on the concept: if it fits the concept, then it can be added to the character. Based on their character concept, players should consider how they want to play their character and what traits it should have, ideally starting with at least two more positive traits and one more negative trait. 
-  > Continuing from the previous example, elven racial traits could be magical attunement and nimble, from a culture that promotes arts and craft, being a wizard it would have a professional trait of spell-casting, alchemy and arcane understanding, physically beautiful but with a burned scar covering most of his body from a alchemical accident and the character's personality would be well mannered and charming, but slightly arrogant and impatient.  
+  * **Traits** reflect any permanent and static physcial or mental characteristic of the character and should be both positive and negative (that is, try to add a but to a positive trait whenever it makes sense). Examples of traits would include inheritable racial features, particular cultural or professional skills and any noticeable physical or personality features.  Trait may be gained or lost during an adventure, but may not be levelled up. Based on their character concept, players should consider how they want to play their character and what traits it should have. As such traits should be derived from the concept and can be created on the fly by calling on the concept: if it fits the concept, then it can be added to the character.
+  > Continuing from the previous example, elven racial traits could be magical attunement but feeble, from a culture that promotes arts and craft, being a wizard it would have a professional trait of spell-casting, alchemy and arcane understanding, but no formal combat training, physically beautiful but with a burned scar covering most of his body from a alchemical accident and the character's personality would be well mannered and charming, but slightly arrogant and impatient.  
 <details><summary><i>More trait examples</i></summary>
-  <i>The following examples are simple trait descriptors. Players should try to elaborate further their own descriptors, particularly how and when they can be an advantage or a disadvantage. <br>
+  <i>The following examples are simple trait descriptors. Players should try to elaborate further their own descriptors, particularly how and when they can be an advantage or a disadvantage. Note that traits could work as a non-quantitative generalization of other systems "attributes". <br>
   &nbsp;&nbsp;<u>Racial:</u> Tough, Magic resistance, Flexible, Nimble, Fire Breath, Poison resistance, Shape-shifter, Clockwork, Mind-reader, etc. <br>
   &nbsp;&nbsp;<u>Cultural:</u> Stone cutting, Magic training, Warmongering, Loyalty, Merchant, Spacefarer, etc. <br>
   &nbsp;&nbsp;<u>Professional:</u> Druid, Thief, Spy, Medic, Hacker, Pilot, Necromancer, etc. <br>
@@ -37,10 +37,9 @@ ___
   <br>&nbsp;
 </details>  
   
-  * **Skills** are the general adventuring actions a character may attempt to do. Skills include anything that is not a character specific action. As such, skills correspond every possible action that can fail and be improved, from using weapons and armour to interacting with other creatures and objects. To define the character skills, think what sort of actions the characters will be doing during the adventure. Similarly to traits, skills can be created on the fly, but some more advanced or specialised skills may be forbidden for some characters, if previous training cannot be justified by the character's concept. For a simple selection of skills at character creation, refer to the skills examples below.  
+  * **Skills** are the general adventuring actions a character may attempt to do. Skills include anything that is not a character specific action. As such, skills correspond every possible action that can fail and be improved, from using weapons and armour to interacting with other creatures and objects. As suck, skills are ranked descriptors. To define the character skills, think what sort of actions the characters will be doing during the adventure. Similarly to traits, skills can be created on the fly, but some more advanced or specialised skills may be forbidden for some characters, if previous training cannot be justified by the character's concept. 
   > *For an illusionist, relevant skills could be, invisibility, create sound, create image, distract and fast talk. However, the character has no formal combat training and cannot use weapons and armour effectively.*. 
 <details><summary><i>Example of skills example and character creation</i></summary>
-  &nbsp;&nbsp;<i>Select 2 skills from each of the following blocks. You are allowed to switch from one block to another, to a maximum of 4 skills per block. Set all the chosen skills to level 1.</i>
   <blockquote>
     <details>
       <summary><b>Combat skills</b>: Use of weapons and armour as well as tactical evaluations.</summary>
@@ -103,7 +102,7 @@ ___
   </blockquote>
 </details>  
   
-  * **Abilities** represent any particular action that the character has mastered, a signature move or a personalised take on a regular skill. Abilities add an extra twist the character's skill and provide the opportunity to add special effects to an action. Characters may start with one ability.
+  * **Abilities** represent any particular action that the character has mastered, a signature move or a personalised take on a regular skill. Abilities add an extra twist the character's skill and provide the opportunity to add special effects to an action. As such, abilities work as special skill descriptors.
   > *Fast talking is important for an illusionist to keep the audience both engaged and distracted, it is a deception skill that can have the added effect of confusing the target. Thus the character has the ability Words of Confusion*. 
 <details><summary><i>Examples for abilities</i></summary>
   &nbsp;&nbsp;<i><u>Counter attack:</u> counter attack on successful defence. <br>
@@ -113,6 +112,17 @@ ___
   &nbsp;&nbsp;<u>Magic Brawling:</u> add magic effect to unarmed attacks <br>
   &nbsp;&nbsp;<u>Aim:</u> Make ranged attacks more precise. <br>
   &nbsp;&nbsp;<u>Optimization:</u> Calculate the optimal strategy to outmanoeuvre the enemy.</i>
+  <br>&nbsp;
+</details>  
+
+ * **Resistances** are permanent ranked descriptors that provide ways of measuring how much a character can take. Resisances are defined by a resistence value and a break-point, that is, a value until which fatigue penalties are not applied and then a value at which the character is incapacitated. 
+  > General examples of resistances would be physical and mental resistances. 
+<details><summary><i>Examples for resistances</i></summary>
+  &nbsp;&nbsp;<i><u>Physical resitance:</u> The amount of physical damage the charatcer can handle. <br>
+  &nbsp;&nbsp;<u>Mental resistance:</u> The amkoun fof mental stress the character can handle. <br>
+  &nbsp;&nbsp;<u>Social resistance:</u> The amount of social pressure the character can handle. <br>
+  &nbsp;&nbsp;<u>Fire resistance:</u> The amount of fire damage and burns the character can handle. <br>
+  &nbsp;&nbsp;<u>Magic reisance:</u> the amount of magical effects the character can handle</i>
   <br>&nbsp;
 </details>  
   
@@ -128,7 +138,15 @@ ___
   <br>&nbsp;
   </details>  
   
- 
+<details><summary><i>Quick start charatcer/i></summary>
+  <i>1) Choose the charatcer concept<br>
+    2) Pick a racial, a profession, a physical and a mental trait<br>
+    3) Select 2 skills from each of blocks in the skill examples. You are allowed to switch from one block to another, to a maximum of 4 skills per block. Set all the chosen skills to level 1.<br>
+    4) Pick one starting ability.<br>
+    5) Roll 2d6 for physical, social and mental fatigue. Set the lowes number as the resistence value and the hights as the break-point<br>
+  </i>
+  <br>&nbsp;
+</details>   
 ### 1.2 Progression
 *[top]()*  
 
