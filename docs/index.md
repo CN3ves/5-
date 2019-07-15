@@ -16,6 +16,17 @@ ___
 ___
 
 ## 1. Character
+  
+  
+<details><summary><b>Quick start character</b></summary>
+  <i>1) Choose the character concept<br>
+    2) Pick a racial, a profession, a physical and a mental trait<br>
+    3) Select 2 skills from each of blocks in the skill examples. You are allowed to switch from one block to another, to a maximum of 4 skills per block. Set all the chosen skills to level 1.<br>
+    4) Pick one starting ability.<br>
+    5) Roll 2d6 for physical, social and mental fatigue. Set the lowest number as the resistance value and the highest as the break-point<br>
+  </i>
+  <br>&nbsp;
+</details>   
 
 ### 1.1 Descriptors
 *[top]()*
@@ -25,7 +36,7 @@ ___
   * **The only descriptor required at the start of the game is the concept**. The concept is a short description that summarises the character. It is a permanent static default descriptor that ties all other descriptors, defining what is allowed for each character.  
   > *For example, you can consider the common race/class/specialization as a starting point (Elf, Wizard, Illusion) and add adjectives and a background (Educated, Charming, Noble) to create the concept of Educated and Charming Elven Noble Illusionist*.
   
-  * **Traits** reflect any permanent and static physcial or mental characteristic of the character and should be both positive and negative (that is, try to add a but to a positive trait whenever it makes sense). Examples of traits would include inheritable racial features, particular cultural or professional skills and any noticeable physical or personality features.  Trait may be gained or lost during an adventure, but may not be levelled up. Based on their character concept, players should consider how they want to play their character and what traits it should have. As such traits should be derived from the concept and can be created on the fly by calling on the concept: if it fits the concept, then it can be added to the character.
+  * **Traits** reflect any permanent and static physical or mental characteristic of the character and should be both positive and negative (that is, try to add a but to a positive trait whenever it makes sense). Examples of traits would include inheritable racial features, particular cultural or professional skills and any noticeable physical or personality features.  Trait may be gained or lost during an adventure, but may not be levelled up. Based on their character concept, players should consider how they want to play their character and what traits it should have. As such traits should be derived from the concept and can be created on the fly by calling on the concept: if it fits the concept, then it can be added to the character.
   > Continuing from the previous example, elven racial traits could be magical attunement but feeble, from a culture that promotes arts and craft, being a wizard it would have a professional trait of spell-casting, alchemy and arcane understanding, but no formal combat training, physically beautiful but with a burned scar covering most of his body from a alchemical accident and the character's personality would be well mannered and charming, but slightly arrogant and impatient.  
 <details><summary><i>More trait examples</i></summary>
   <i>The following examples are simple trait descriptors. Players should try to elaborate further their own descriptors, particularly how and when they can be an advantage or a disadvantage. Note that traits could work as a non-quantitative generalization of other systems "attributes". <br>
@@ -115,14 +126,14 @@ ___
   <br>&nbsp;
 </details>  
 
- * **Resistances** are permanent ranked descriptors that provide ways of measuring how much a character can take. Resisances are defined by a resistence value and a break-point, that is, a value until which fatigue penalties are not applied and then a value at which the character is incapacitated. 
+ * **Resistances** are permanent ranked descriptors that provide ways of measuring how much a character can take. Resistances are defined by a resistance value and a break-point, that is, a value until which fatigue penalties are not applied and then a value at which the character is incapacitated. 
   > General examples of resistances would be physical and mental resistances. 
 <details><summary><i>Examples for resistances</i></summary>
-  &nbsp;&nbsp;<i><u>Physical resitance:</u> The amount of physical damage the charatcer can handle. <br>
-  &nbsp;&nbsp;<u>Mental resistance:</u> The amkoun fof mental stress the character can handle. <br>
+  &nbsp;&nbsp;<i><u>Physical resistance:</u> The amount of physical damage the character can handle. <br>
+  &nbsp;&nbsp;<u>Mental resistance:</u> The amount of mental stress the character can handle. <br>
   &nbsp;&nbsp;<u>Social resistance:</u> The amount of social pressure the character can handle. <br>
   &nbsp;&nbsp;<u>Fire resistance:</u> The amount of fire damage and burns the character can handle. <br>
-  &nbsp;&nbsp;<u>Magic reisance:</u> the amount of magical effects the character can handle</i>
+  &nbsp;&nbsp;<u>Magic renaissance:</u> the amount of magical effects the character can handle</i>
   <br>&nbsp;
 </details>  
   
@@ -138,15 +149,6 @@ ___
   <br>&nbsp;
   </details>  
   
-<details><summary><i>Quick start charatcer/i></summary>
-  <i>1) Choose the charatcer concept<br>
-    2) Pick a racial, a profession, a physical and a mental trait<br>
-    3) Select 2 skills from each of blocks in the skill examples. You are allowed to switch from one block to another, to a maximum of 4 skills per block. Set all the chosen skills to level 1.<br>
-    4) Pick one starting ability.<br>
-    5) Roll 2d6 for physical, social and mental fatigue. Set the lowes number as the resistence value and the hights as the break-point<br>
-  </i>
-  <br>&nbsp;
-</details>   
   
 ### 1.2 Progression
 *[top]()*  
