@@ -21,7 +21,7 @@ ___
 <details><summary><b>Quick start character</b></summary>
   <i>1) Choose the character concept<br>
     2) Pick a racial, a profession, a physical and a mental trait<br>
-    3) Select 2 skills from each of blocks in the skill examples. You are allowed to switch from one block to another, to a maximum of 4 skills per block. Set all the chosen skills to level 2.<br>
+    3) Select 2 skills from each of blocks in the skill examples. You are allowed to switch from one block to another, to a maximum of 4 skills per block. Set all the chosen skills to level 1.<br>
     4) Pick one personal starting ability.<br>
     5) Roll 2d6 for physical, social and mental fatigue. Set the lowest number as the resistance value and the highest as the break-point<br>
   </i>
