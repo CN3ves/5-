@@ -25,7 +25,6 @@ ___
     4) Pick one starting ability.<br>
     5) Roll 2d6 for physical, social and mental fatigue. Set the lowest number as the resistance value and the highest as the break-point<br>
   </i>
-  <br>&nbsp;
 </details>   
 
 ### 1.1 Descriptors
