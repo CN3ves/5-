@@ -209,3 +209,31 @@ Each scene is structured using turns, where **each turn is made by a single inte
 
 **Conflict arises any time the outcome of a players' actions is uncertain** so the result of these actions must be determined before continuing. All conflicts are solved with a 2d6 roll which informs the narrative and the behaviour of the NPCs on the next turn. It is the balance between successful and failed actions that will determine how the overall encounter proceeds. *This is to say that, for example, a dragon does not have to be bashed to a pulp of negative HP to be defeated. Its actions are determined by the number of successes and failures the players accumulated during the conflict, where a certain number of successes (or failures) reflect a new action, approach or consideration by the dragon.*
 
+### 2.2 Actions
+*[top]()*  
+
+During conflict, **each player is allowed to move and choose one other actions each turn** with a potential defence action being called if the character is attacked. Actions are free-form and if the player comes up with an idea, that should be implemented within reason. As such, **each player must describe their intended action each turn.** Basic actions include:
+
+  > **Move action**: cover 1 "space" of movement.  
+  > **Attack action**: actively attempt to damage a target's position *(either with sword or word!)*
+  > **Defence action**: protect from an adversary's attack or insult *(dodge, shield, rebuke, etc.)*  
+  > **Manoeuvre action**: try to impose a disadvantage on a target *(disarm, hide, gain terrain advantage, etc.)*  
+  > **Interact action**: interact with items, *be it picking them from the floor or from a bag, reloading a weapon or drinking a potion, etc.*  
+  > **Recover action**: recover from a previous attack or simply fall back to overview the battle field or catch some breath.
+
+*Note that* most actions called should correspond to a skill (or ability) descriptor. If an action requires a non-existent skill, simply add it to the list at level 0. If it wasn't there to start with, it is fair to assume the characters have no experience with it. However, consider the character's concept an traits and, if it would be reasonable for the character to have some experience in the skill, allow it to start at level 1.
+
+___
+
+**Stances**: Given the limited scope of these basic actions, the players may attempt to take a stance, adding more strategic options to the conflict. Stances reflect how the character is currently approaching conflict and result in some kind of trade-off, for example:
+  * Gaining a bonus at a skill by taking a penalty on another.
+  * Sacrificing an action for the chance of repeating another.
+  * Sacrifice the action success for an increases number of targets.
+  
+<details><summary>Stances examples.</summary>
+  <i>An aggressive player may wish to gamble away the defence action to attempt a new attack, depending on the first attack being successful, or a fighter may gamble away his success changes in order to attack an extra target by attacking twice with a -1 level penalty.</i></details>
+<details><summary>Shifting bonus and penalties to improve a specific action. </summary>
+  <i>A defensive character may wish to take a +1 defensive bonus in exchange for a -1 attack bonus or a manoeuvring character may put his efforts on outsmarting the target for a +1 manoeuvre bonus and the cost of a -1 defence penalty.</i><br></details>
+<br>
+  
+**Movement**: In this system, there are no grids, maps or any other sort of objective locations and positions during conflicts. The general layout is described, highlighting particularities that could be used for or against the players and all characters involved will start in relative positions to each other and they are either nearby and can be reached in melee combat or that are away and it will take two move actions to reach them. However, notice that is assumed that the characters are always moving, so each turn 1 move action is always used unless specified otherwise *(for example, move as part of a manoeuvre or as a stance)*
