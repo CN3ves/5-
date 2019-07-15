@@ -214,12 +214,11 @@ Each scene is structured using turns, where **each turn is made by a single inte
 
 During conflict, **each player is allowed to move and choose one other actions each turn** with a potential defence action being called if the character is attacked. Actions are free-form and if the player comes up with an idea, that should be implemented within reason. As such, **each player must describe their intended action each turn.** Basic actions include:
 
-  > **Move action**: cover 1 "space" of movement.  
+  > **Move action**: cover 1 "space" of movement, stand up, tumble or any other movement skill.
   > **Attack action**: actively attempt to damage a target's position *(either with sword or word!)*
   > **Defence action**: protect from an adversary's attack or insult *(dodge, shield, rebuke, etc.)*  
   > **Manoeuvre action**: try to impose a disadvantage on a target *(disarm, hide, gain terrain advantage, etc.)*  
   > **Interact action**: interact with items, *be it picking them from the floor or from a bag, reloading a weapon or drinking a potion, etc.*  
-  > **Recover action**: recover from a previous attack or simply fall back to overview the battle field or catch some breath.
 
 *Note that* most actions called should correspond to a skill (or ability) descriptor. If an action requires a non-existent skill, simply add it to the list at level 0. If it wasn't there to start with, it is fair to assume the characters have no experience with it. However, consider the character's concept an traits and, if it would be reasonable for the character to have some experience in the skill, allow it to start at level 1.
 
