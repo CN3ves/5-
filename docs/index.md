@@ -226,14 +226,11 @@ During conflict, **each player is allowed to move and choose one other actions e
 ___
 
 **Stances**: Given the limited scope of these basic actions, the players may attempt to take a stance, adding more strategic options to the conflict. Stances reflect how the character is currently approaching conflict and result in some kind of trade-off, for example:
-  * Gaining a bonus at a skill by taking a penalty on another.
-  * Sacrificing an action for the chance of repeating another.
-  * Sacrifice the action success for an increases number of targets.
-  
-<details><summary>Stances examples.</summary>
-  <i>An aggressive player may wish to gamble away the defence action to attempt a new attack, depending on the first attack being successful, or a fighter may gamble away his success changes in order to attack an extra target by attacking twice with a -1 level penalty.</i></details>
-<details><summary>Shifting bonus and penalties to improve a specific action. </summary>
-  <i>A defensive character may wish to take a +1 defensive bonus in exchange for a -1 attack bonus or a manoeuvring character may put his efforts on outsmarting the target for a +1 manoeuvre bonus and the cost of a -1 defence penalty.</i><br></details>
-<br>
-  
+  * Gaining a bonus at a skill by taking a penalty on another.  
+> A defensive character may wish to take a +1 defensive bonus in exchange for a -1 attack bonus or a manoeuvring character may put his efforts on outsmarting the target for a +1 manoeuvre bonus and the cost of a -1 defence penalty.
+  * Sacrificing an action for the chance of repeating another.  
+> An aggressive player may wish to gamble away the defence action to attempt a new attack, depending on the first attack being successful, or a hideen charatcer my gamble away his attack to move silently even further.
+  * Sacrifice the action success for an increases number of targets.  
+> A fighter may gamble away his success changes in order to attack an extra target by attacking twice with a -1 skill rank penalty, or a wizard may try to split his spell between 3 targets taking a -2 skill rank penalty.
+   
 **Movement**: In this system, there are no grids, maps or any other sort of objective locations and positions during conflicts. The general layout is described, highlighting particularities that could be used for or against the players and all characters involved will start in relative positions to each other and they are either nearby and can be reached in melee combat or that are away and it will take two move actions to reach them. However, notice that is assumed that the characters are always moving, so each turn 1 move action is always used unless specified otherwise *(for example, move as part of a manoeuvre or as a stance)*
