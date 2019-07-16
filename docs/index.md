@@ -203,7 +203,7 @@ Each scene is structured using turns, where **each turn is made by a single inte
 ### 2.2 Actions
 *[top]()*  
 
-During conflict, **each player is allowed to move and choose one other actions each turn** with a potential defence action being called if the character is attacked. Actions are free-form and if the player comes up with an idea, that should be implemented within reason. As such, **each player must describe their intended action each turn.** Basic actions include:
+During conflict, **each player is allowed one free move action and choose one other actions each turn** with a potential defence action being called if the character is attacked. Actions are free-form and if the player comes up with an idea, that should be implemented within reason. As such, **each player must describe their intended action each turn.** Basic actions include:
 
   > **Move action**: cover 1 "space" of movement, stand up, tumble or any other movement skill.  
   > **Attack action**: actively attempt to damage a target's position *(either with sword or word!)*  
@@ -215,14 +215,6 @@ During conflict, **each player is allowed to move and choose one other actions e
 *Note that* most actions called should correspond to a skill (or ability) descriptor. If an action requires a non-existent skill, simply add it to the list at level 0. If it wasn't there to start with, it is fair to assume the characters have no experience with it. However, consider the character's concept an traits and, if it would be reasonable for the character to have some experience in the skill, allow it to start at level 1.
 
 ___
-
-**Stances**: Given the limited scope of these basic actions, the players may attempt to take a stance, adding more strategic options to the conflict. Stances reflect how the character is currently approaching conflict and result in some kind of trade-off, for example:
-  * Gaining a bonus at a skill by taking a penalty on another.  
-> A defensive character may wish to take a +1 defensive bonus in exchange for a -1 attack bonus or a manoeuvring character may put his efforts on outsmarting the target for a +1 manoeuvre bonus and the cost of a -1 defence penalty.
-  * Sacrificing an action for the chance of repeating another.  
-> An aggressive player may wish to gamble away the defence action to attempt a new attack, depending on the first attack being successful, or a hidden character my gamble away his attack to move silently even further.
-  * Sacrifice the action success for an increases number of targets.  
-> A fighter may gamble away his success changes in order to attack an extra target by attacking twice with a -1 skill rank penalty, or a wizard may try to split his spell between 3 targets taking a -2 skill rank penalty.
    
 **Movement**: In this system, there are no grids, maps or any other sort of objective locations and positions during conflicts. The general layout is described, highlighting particularities that could be used for or against the players and all characters involved will start in relative positions to each other and they are either nearby and can be reached in melee combat or that are away and it will take two move actions to reach them. However, notice that is assumed that the characters are always moving, so each turn 1 move action is always used unless specified otherwise *(move as part of a manoeuvre or as a stance)*
 
@@ -258,6 +250,17 @@ When a player wants to do an action, the player calls on it and describes the in
 > A character that failed his initial roll, may pay the resistance cost to re-roll one die of the player's choice: if it success with the new result, the action no longer fails, however if it fails twice, it is now a critical fail and the character will gain a negative condition.  
   
 > A character that has succeeded, may pay the resistance cost to re-roll one die of the player's choice: If he success, he chooses a suitable ability as a critical hit to impose an extra effect on the target.  
+
+**Stances**: Given the limited scope of these basic actions, the players may attempt to take a stance, adding more strategic options to the conflict. Stances are a special way to *raise the stakes*, reflecting different ways the character may currently approaching conflict and result in some kind of trade-off. If the charatcer succeeds the action, it gains the bonus, otherwise it has to pay the stake resistance cost. For example:
+  * Gaining a bonus at a skill by taking a penalty on another.  
+> A defensive character may wish to take a +1 defensive bonus. To do that it "pays" a -1 penalty to the attack action. If the defense action fails, the attack penalty may be lifted by taking 1 to resistence.
+A manoeuvring character may put his efforts on outsmarting the target for a +1 manoeuvre bonus by advancing a -1 defence penalty. Again, if the manouvering fails, the defense penalty may be lifted by taking 1 to resistence.
+  * Sacrificing an action for the chance of repeating another.  
+> An aggressive player may wish to gamble away the defence action to attempt a new attack. If the first attack works, the defense action is lost and a new attack may be done. However, if the first attack fails, the defense action may be re-take at the cost of resistance.  
+A hidden character may gamble away his attack to move silently even further. If the first move works, the attack action is lost and a new silent move may be attempted. However, if the first move fails, the attack action may be re-take at the cost of resistance.  
+  * Sacrifice the action success for an increases number of targets.  
+> A fighter take a covering stance, trying to hit multiple targets by trading its accuracy so it may gamble away his success changes in order to attack an extra target by attacking twice by imposing a temporary -1 skill rank penalty.  
+A wizard may try to power up his and multicast it for 3 targets taking a temporary -2 skill rank penalty. 
 
 **Failure handling**:There are many ways of failing and the most important thing to keep in mind is that failure should keep the story flowing instead of bringing it to a halt. Failure handling should assume that given time and resources, the players will not fail unless something happens. From this follows that failure is an opportunity to add complications, twist and new developments to the story that the players need to consider. Consider the following failure effects:  
 
