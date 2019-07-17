@@ -45,7 +45,7 @@ Descriptors are small, clear sentences that define the character, how it differs
     * **Skills** are the general adventuring actions a character may attempt to do. Skills include every regular action that can fail and be improved, from using weapons and armour to interacting with other creatures and objects.  
     > *For an illusionist, relevant skills could be, invisibility, create sound, create image, distract and fast talk.*  
     
-    <details><summary><i>Example of skills example and character creation</i></summary>
+    <details><summary><i>Example of skills</i></summary>
       <blockquote> Block 1:<br>
         <details>
           <summary><b>Combat skills</b>: Use of weapons and armour as well as tactical evaluations.</summary>
@@ -111,7 +111,7 @@ Descriptors are small, clear sentences that define the character, how it differs
     * **Abilities** represent any particular action that the character has mastered, a signature move or an individual take on a regular skill. Abilities add an extra twist the character's skill and provide the opportunity to add special effects to an action, reflecting critical skill successes. Thus, abilities can be though of as advanced skills.
     > *Fast talking is important for an illusionist to keep the audience both engaged and distracted, it is a deception skill that can have the added effect of confusing the target*  
     
-    <details><summary><i>Examples for abilities</i></summary>
+    <details><summary><i>Examples of abilities</i></summary>
       &nbsp;&nbsp;<i><u>Counter attack:</u> counter attack on successful defence. <br>
       &nbsp;&nbsp;<u>Freezing Bolt:</u> add freezing effect to a ice spell. <br>
       &nbsp;&nbsp;<u>Fire Ball:</u> add shape to a fire spell. <br>
@@ -124,7 +124,7 @@ Descriptors are small, clear sentences that define the character, how it differs
     
     * **Resistances** are descriptors that provide ways of measuring how much a character can take. Resistances are defined by a resistance value (tier 1) and a break-point (tier 2), that is, a value until which fatigue penalties are not applied and a value at which the character is incapacitated.  
     
-    <details><summary><i>Examples for resistances</i></summary>
+    <details><summary><i>Examples of resistances</i></summary>
       &nbsp;&nbsp;<i><u>Physical resistance:</u> The amount of physical damage the character can handle. <br>
       &nbsp;&nbsp;<u>Mental resistance:</u> The amount of mental stress the character can handle. <br>
       &nbsp;&nbsp;<u>Social resistance:</u> The amount of social pressure the character can handle. <br>
