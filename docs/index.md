@@ -151,9 +151,12 @@ ___
 ### 1.2 Progression
 *[top]()*  
 
-In this system, characters do not level up or gain quanta of power at certain points in a deterministic way. They age and gain experience! Characters can progress (or improve) in 3 different ways: gain experience with skills, acquire better equipment and learn new abilities. 
+In this system, characters do not level up or gain quanta of power at certain points in a deterministic way. They age and gain experience! Characters can progress (or improve) in 4 different ways: gain experience with skills and learn new abilities, acquire better equipment and improve their natural resistances.
 
-**Skills** level up using a “learn by doing” system. Every time a skill descriptor is called and a double is rolled that is, both dice show the same value, if that value is above the skill level, it gains a new level. Every time a skill hits level 3 or more, a new **ability** related to that skill is gained. On the other hand, if a character hits the resistance point, the player will roll 2d6 at the end of the conflict. If a double is rolled, **resistance** levels up: if the value shown on the dice face is above the resistance point, increase resistance point by 1, otherwise increase the break-point by 1 if the sum of the die is greater than that of the resistance values.
+**Skills** level up using a “learn by doing” system. Every time a skill descriptor is called and a double is rolled that is, both dice show the same value, if that value is above the skill level, it gains a new level. Every time a skill hits level 3 or more, a new **ability** related to that skill is gained. However, at the maximun skill level, a new skill tier (higher power method) is unlocked, so skills can go on and on forever for longer campaigns. 
+
+
+On the other hand, if a character hits the resistance point, the player will roll 2d6 at the end of the conflict. If a double is rolled, **resistance** levels up: if the value shown on the dice face is above the resistance point, increase resistance point by 1, otherwise increase the break-point by 1 if the sum of the die is greater than that of the resistance values.
 
 As skills, **equipment** is free-form and can be defined on the fly. To quickly create a new piece of equipment or an item, simply name it by defining it and adding an adjective to the base name. To that, a small extra descriptor may be added if the equipment has any distinctive feature or power. Of course, legendary items can have names that are a reference to some historical or mythical place, event or person, and can be uses as opportunities for flashback chapters or as part of character arcs. Items will have their own resistance descriptor and will lose their bonus if past the resistance point and brake if past the break-point. 
 > *For example, Rusting Sword, Long Rope, Long-ranged Rifle. 
@@ -240,7 +243,9 @@ When a player wants to do an action, the player calls on it and describes the in
 > If the character gets into a tavern brawl with drunk clients, then maybe it is easier to dodge and a +1 bonus is applied. Dodging a goblin's sword is a normal effort, so no change is applied, but dodging a giant's sweeping club, is probably more difficult, providing a -1 penalty.
   * Enemy tier: Add -1 penalty for each enemy difficulty tier.
   * Fatigue penalty: For each value above the resistance value, the character takes a -1 penalty to all rolls.
-   
+
+**Effects**: There are 3 levels of effect: 1, lowest roll and higest roll. Each successfull skill takes the lowest roll as it's effect by default. 
+
 **Raise the stakes**: In addition to simply rolling a 2d6, the player may chose to raise his stakes, that is, to re-roll one die of his choice. Raising the stakes allows the character to push himself further and change the outcome of his action at the cost of one of resistances *(by default, mental resistance)*. The stakes may be raised as many times as a player wants, and the result is the difference between successes and failures accumulated, where:  
 
   * 0 reflects is a normal hit
@@ -251,7 +256,7 @@ When a player wants to do an action, the player calls on it and describes the in
   
 > A character that has succeeded, may pay the resistance cost to re-roll one die of the player's choice: If he success, he chooses a suitable ability as a critical hit to impose an extra effect on the target.  
 
-**Stances**: Given the limited scope of these basic actions, the players may attempt to take a stance, adding more strategic options to the conflict. Stances are a special way to *raise the stakes*, reflecting different ways the character may currently approaching conflict and result in some kind of trade-off. If the charatcer succeeds the action, it gains the bonus, otherwise it has to pay the stake resistance cost. For example:
+**Stances**: Given the limited scope of these basic actions, the players may attempt to take a stance, adding more strategic options to the conflict. Stances are a special way to *raise the stakes*, reflecting different ways the character may currently approaching conflict and result in some kind of trade-off. If the charatcer succeeds the action, it gains the bonus, otherwise it has to pay the a (mental) resistance cost. For example:
   * Gaining a bonus at a skill by taking a penalty on another.  
 > A defensive character may wish to take a +1 defensive bonus. To do that it "pays" a -1 penalty to the attack action. If the defense action fails, the attack penalty may be lifted by taking 1 to resistence.
 A manoeuvring character may put his efforts on outsmarting the target for a +1 manoeuvre bonus by advancing a -1 defence penalty. Again, if the manouvering fails, the defense penalty may be lifted by taking 1 to resistence.
@@ -268,11 +273,12 @@ A wizard may try to power up his and multicast it for 3 targets taking a tempora
 > A tyrant lord is about to execute the hostages, one by one. As infiltrated agents, the players try to convince him that sparing the prisoners would be wiser, because the princess they want to rescue is the fourth hostage in the line of execution. Each failure will result in another slain hostage.  
   * The action is interrupted: Failing once prevents the action from being repeated because something else happened, not because the player isn't skilled enough to do it.  
 > The player tries to jump over a wagon to get a clear shot at the tyrant lord, however, the wagon's owner shows up and starts to chat about the on-going public execution with the player.  
-  * The action succeeds anyway: Fail forward is an interesting concept that allows the player to succeed even if they fail, but with an added twist or complication. It is similar to having the action interrupted, but it allows for the player to get what he wants.  
+  * The action succeeds anyway: Fail forward is an interesting concept that allows the player to succeed even if they fail, but with an added twist or complication. It is similar to having the action interrupted, but it allows for the player to get what he wants. 
 > As the player is looking for the incriminating secret papers in the tyrant lord's office, even though the player manages to identify and take them, the paper weight that was on the table is dropped, making a very noticeable noise.  
 In addition, some skills don't make sense failing, like buffing magic on a willing target. Failing, in such cases can be handled by inducing a reduced the effect (switch from the highest value rolled to the lowest).
-  * Help: Any time the action of a player can logically influence the results of another player's action, a +1 help bonus may be used to tip the scales in favour of success instead of failure. 
+  * Synergy and help: Any time the action of a player can logically influence the results of another player's action, a +1 help bonus may be used to tip the scales in favour of success instead of failure. 
 > Generally, successful actions from other players will be evoked to justify the help bonus, but other reason could be considered, such as information from knowledge skills, narrative effects or specific descriptors that may apply. 
+  * Decresese the effect: some skills just don't makse sense failing so use the other die
 
 **Narration effects**: To keep thinks more interesting, when a 1 is rolled in any dice, a narrative effect may be used by adding a *but* to the action resolution, attenuating the results of the action. So for a failed roll, the player fails but there was something positive, while for a successful roll there was a consequence unaccounted.  
 > The player tries to hide before the guards come into the room. He fails to find a place to hide, but he notices an open window through which he can escape.
