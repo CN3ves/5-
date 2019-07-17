@@ -293,6 +293,7 @@ Players do all the rolling. NPCs do not roll. If a player hits the target, it's 
 <i><u>Low threat NPC</u>: Last for 1 or 2 successes.<br>
 <u>Medium threat NPC</u>: Last for 3 or 5 successes, change behaviour after 2 successes.<br>
 <u>High threat NPC</u>: Last for 6-10 successes, change every 3 success or failures.<br>
-<u>Heroic threat NPC</u>: change every 10 or more successes, change behaviour after 3,5 and 7 successes</i></details>
+<u>Heroic threat NPC</u>: change every 10 or more successes, change behaviour after 3,5 and 7 successes</i>
+<br>&nbsp;</details>
   
   * Its difficulty: *as defined by the enemy tier (and number of success to defeat)*
