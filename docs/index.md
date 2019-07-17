@@ -31,19 +31,19 @@ Descriptors are small, clear sentences that define the character, how it differs
   * **Permanent** descriptors are those that do not change. They may be gained or lost, depending on the characters' actions in the game, but these are long-term defining characteristics.  
 
     * **The concept** is the only descriptor required at the start of the game. The concept is a short description that summarises and defines what actions are allowed (or not) for the character. If there is a concept, there is a character!  
-  > *For example, you can consider the common race/class/specialization as a starting point (Elf, Wizard, Illusion) and add adjectives and a background (Educated, Charming, Noble) to create the concept of Educated and Charming Elven Noble Illusionist*.
+    > *For example, you can consider the common race/class/specialization as a starting point (Elf, Wizard, Illusion) and add adjectives and a background (Educated, Charming, Noble) to create the concept of Educated and Charming Elven Noble Illusionist*.  
   
     * **Traits** reflect any permanent and static physical or mental characteristics of the character and should be both positive and negative. As such, players should try to elaborate further their own trait descriptors, particularly by ensuring there is a downside to them. Examples of traits would include inheritable racial features, acquired cultural behaviours and any noticeable physical or personality features. Based on their character concept, players should consider how they want their character to be. If it fits the concept, then it can be added to the character.  
-  > An elven racial trait could be "Magical attunement but feeble", while they may be from a culture of art lovers that put "understand artistic value over material value". Elves are "physically beautiful" but this wizard as "a burned scar" covering most of his body from a alchemical accident. The wizard is also "well mannered and charming", but "slightly arrogant and impatient".  
-
+    > An elven racial trait could be "Magical attunement but feeble", while they may be from a culture of art lovers that put "understand artistic value over material value". Elves are "physically beautiful" but this wizard as "a burned scar" covering most of his body from a alchemical accident. The wizard is also "well mannered and charming", but "slightly arrogant and impatient".  
+    
     * **Training** correspond to the actual experience, studies and learning the character has acquired based on the concept. These descriptors are used to unlock sets of skills that the character has access to, so the players should consider the sort of actions their character will be doing.  
-  > A wizard would be trained in spell-casting, alchemy and have deep arcane understanding, but no formal combat training.  
+    > A wizard would be trained in spell-casting, alchemy and have deep arcane understanding, but no formal combat training.  
 
   * **Ranked** descriptors are those that can use used and improved, forming the core of the levelling system. Given the requirements, all ranked descriptors are assumed to be available to every character, even if they are not explicitly listed. As such, these descriptors can be made on the fly as required to describe the character's actions. Ranked skills have a (X:Y:Z) rank notation, were each value represent a level on different power tiers.  
-  > *For example, a descriptor (5:3:0) can be used at power 1 level 5, at power 2 level 3 or at power 3 level 0.*
-  
+    > *For example, a descriptor (5:3:0) can be used at power 1 level 5, at power 2 level 3 or at power 3 level 0.*
+   
     * **Skills** are the general adventuring actions a character may attempt to do. Skills include every regular action that can fail and be improved, from using weapons and armour to interacting with other creatures and objects.  
-  > *For an illusionist, relevant skills could be, invisibility, create sound, create image, distract and fast talk.*.
+    > *For an illusionist, relevant skills could be, invisibility, create sound, create image, distract and fast talk.*.
 <details><summary><i>Example of skills example and character creation</i></summary>
   <blockquote> Block 1:<br>
     <details>
@@ -106,9 +106,8 @@ Descriptors are small, clear sentences that define the character, how it differs
     </details>
   </blockquote>
 </details>  
-  
     * **Abilities** represent any particular action that the character has mastered, a signature move or an individual take on a regular skill. Abilities add an extra twist the character's skill and provide the opportunity to add special effects to an action, reflecting critical skill successes. Thus, abilities can be though of as advanced skills.
-  > *Fast talking is important for an illusionist to keep the audience both engaged and distracted, it is a deception skill that can have the added effect of confusing the target*   
+    > *Fast talking is important for an illusionist to keep the audience both engaged and distracted, it is a deception skill that can have the added effect of confusing the target*   
 <details><summary><i>Examples for abilities</i></summary>
   &nbsp;&nbsp;<i><u>Counter attack:</u> counter attack on successful defence. <br>
   &nbsp;&nbsp;<u>Freezing Bolt:</u> add freezing effect to a ice spell. <br>
@@ -119,8 +118,7 @@ Descriptors are small, clear sentences that define the character, how it differs
   &nbsp;&nbsp;<u>Optimization:</u> Calculate the optimal strategy to outmanoeuvre the enemy.</i>
   <br>&nbsp;
 </details>  
-
-   * **Resistances** are descriptors that provide ways of measuring how much a character can take. Resistances are defined by a resistance value (tier 1) and a break-point (tier 2), that is, a value until which fatigue penalties are not applied and a value at which the character is incapacitated. 
+    * **Resistances** are descriptors that provide ways of measuring how much a character can take. Resistances are defined by a resistance value (tier 1) and a break-point (tier 2), that is, a value until which fatigue penalties are not applied and a value at which the character is incapacitated. 
 <details><summary><i>Examples for resistances</i></summary>
   &nbsp;&nbsp;<i><u>Physical resistance:</u> The amount of physical damage the character can handle. <br>
   &nbsp;&nbsp;<u>Mental resistance:</u> The amount of mental stress the character can handle. <br>
