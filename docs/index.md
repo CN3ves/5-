@@ -138,8 +138,7 @@ Descriptors are small, clear sentences that define the character, how it differs
   
 
 ### 1.2 Progression
-*[top]()*  
-
+*([top]())* 
 In this system, characters do not level up or gain packs of power at certain points in a deterministic way. They age and gain experience as they go along! Characters can progress (or improve) in 4 different ways: gain experience with skills and learn new abilities, acquire better equipment and improve their natural resistances.
 
   1. **Skills** level up using a “learn by doing” system. Every time a skill descriptor is called and a double above the skill level is rolled, that skill gains a new level. At the maximum skill level (roll double 6), a new skill tier *(higher power)* is unlocked, so skills can go on forever to suit longer campaigns.  
@@ -172,8 +171,7 @@ A magical amulet may provide immunity to fire damage twice before re-charging. <
 ## 2. Conflict
 
 ### 2.1 Structure
-*[top]()*  
-
+*([top]())* 
 The game is started by the Game Master (GM), which is the player that defines the overall setting and game story. However, besides this main story, each character has an individual motivation, a goal or a story to explore. To accommodate this, **the system is organized into scenes**, where each player may own any given scene. A scene is a self-contained part of a story, such as a mission or a dungeon, that the characters decided to pursue. However, even though only one player takes the role of GM at any time, the other players have the opportunity to contribute to the scene with more than their character actions, for example:
   
   > Since the skill check result can be immediately interpreted, the player performing the action is allowed to interpret the result of his own action. The next player can then add any interesting details that may introduce his own actions. As such, two players can interpret any single skill check, including adding any required details. Once all players have acted, the scene owner then reinterprets the entire turn taking into account the players suggestions.
@@ -196,8 +194,7 @@ Each scene is structured using turns, where **each turn is made by a single inte
 
 
 ### 2.2 Actions
-*[top]()*  
-
+*([top]())* 
 During conflict, **each player choose one other actions each turn**. On top of these action, the character is allowed one free move action and one defence action (if the character is attacked). *As such, all players will be mostly roll 2d6 twice each conflict turn.* Actions are free-form and if the player comes up with an idea, that should be implemented within reason, even if it reacquires creating a new skill. Because of that, **each player must describe their intended action each turn.** Basic actions include:
 
   > **Attack action**: actively attempt to damage a target *(either with sword or word!)*  
@@ -220,8 +217,7 @@ ___
 *Note that* it is assumed that the characters are always moving, so each turn 1 move action is always used unless specified otherwise *(move as part of another action)*
 
 #### 2.3 Resolution
-*[top](#)*  
-
+*([top]())* 
 When a player wants to do an action, the player calls on it and describes the intended effect. If the action's result is uncertain, then the character is in a conflict situation. To resolve the conflict, the character must name a relevant skill to check for the action's success.   
 > A player wants to climb a steep wall to sneak into the Baron's private garden. Given the height of the wall, the result of this action is uncertain and a conflict is started. The player can then choose from any reasonable skills, such as climb or jump, and make a skill check to find out what happens.
 
@@ -298,4 +294,5 @@ Players do all the rolling. NPCs do not roll. If a player hits the target, it's 
 <u>Medium threat NPC</u>: Last for 3 or 5 successes, change behaviour after 2 successes.<br>
 <u>High threat NPC</u>: Last for 6-10 successes, change every 3 success or failures.<br>
 <u>Heroic threat NPC</u>: change every 10 or more successes, change behaviour after 3,5 and 7 successes</i></details>
+  
   * Its difficulty: *as defined by the enemy tier (and number of success to defeat)*
