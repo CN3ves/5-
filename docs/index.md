@@ -43,90 +43,95 @@ Descriptors are small, clear sentences that define the character, how it differs
     > *For example, a descriptor (5:3:0) can be used at power 1 level 5, at power 2 level 3 or at power 3 level 0.*
    
     * **Skills** are the general adventuring actions a character may attempt to do. Skills include every regular action that can fail and be improved, from using weapons and armour to interacting with other creatures and objects.  
-    > *For an illusionist, relevant skills could be, invisibility, create sound, create image, distract and fast talk.*.
-<details><summary><i>Example of skills example and character creation</i></summary>
-  <blockquote> Block 1:<br>
-    <details>
-      <summary><b>Combat skills</b>: Use of weapons and armour as well as tactical evaluations.</summary>
-      <i><u>Weapons:</u> Sword, Spear, Crossbow, Axe, Hammer, Bow, Halberd, Sword, Club, etc. <br>
-      <u>Armour:</u> Padded armour, Leather armour, Hide armour, Chain mail, Scale mail, Breastplate, Ring Mail, Full plate, etc. <br>
-      <u>Tactical:</u> Feint, Disarm, Grapple, Knock, Push, Use terrain, Distract, Taunt, etc.</i><br>
-    </details>
-    <details>
-      <summary><b>Magic/Technological skills</b>: Understanding the complexities of using supernatural powers or advanced technology. </summary>
-      <i><u>Magic:</u> Elemental magic, Power Gathering, Shield, Magic Resistance, Counter magic, Enchant, Enhance, Ritual casting, Mind control, Illusion magic, etc. </i><br>
-      <i><u>Technology:</u> Laser weapons, Power armour, Spacecraft, Alien technology, Plasma weapons, Holograms, etc. </i><br>
-    </details>
-  </blockquote><br>
-  Block 2:<br>
-  <blockquote>
-    <details>
-      <summary><b>Movement skills</b>: Use body movement, dexterity and strength in demanding or risky ways. </summary>
-      <i><u>Endurance:</u> Run, Jump, Fly, Swim, Borrow, Climb, Brachiate, etc.<br>
-      <u>Reflex:</u> Evade, Dodge, Tumble, Contortionist, Escape Artist, Balance, etc.<br>
-      <u>Discretion:</u> Sleight Of Hand, Stealth, Hide, Move Silently, Secret gesture, Tailing, Countermeasures, etc.</i><br>
-    </details>
-    <details>
-      <summary><b>Manipulation skills</b>: Interact with, manipulate and change objects. </summary>
-      <i><u>Change:</u> Force, Apply Strength, Disable Device, Disarm Trap, Sabotage, Lock pick, etc.</i><br>
-      <i><u>Interact:</u> Use Tools, Appraise, Use Magic Device, Use Rope, etc. </i><br>
-    </details>   
-  </blockquote><br>
-  Block 3:<br>
-  <blockquote>
-    <details>
-      <summary><b>Social skills</b>: Interact with other sentient creatures to change their perception, opinions and attitudes.</summary>
-      <i> <u>Perception:</u> Deception, Bluff, Trickery, Fast Talk, Whisper, Rumour-Mongering, etc. <br>
-      <u>Opinion:</u> Diplomacy, Persuasion, Command, Leadership,Intimidation, Gather Information etc. <br>
-      <u>Attitude:</u> Seduction, Handle Animal, Bribery, Bargaining, etc. </i><br>
-    </details>
-    <details>
-      <summary><b>Perception skills</b>: Use of senses, instinct and intuition to notice something. </summary>
-      <i><u>Passive senses:</u> Spot, Listening, Touching, Tasting, Smelling, Low-light vision, Darkvision, Concentration, etc.<br>
-     <u>Enhanced senses:</u> Chemical detection, Sense vibrations, Sense magic, Sense life, Sense magnetic fields, etc.<br>
-      <u>Active search:</u> Sense Motive, Insight, Patrol, Vigilant, Search, Reading Body, Lip-reading, Investigation, Eavesdropping, etc.</i><br>
-    </details>
-  </blockquote><br>
-  Block 4:<br>
-  <blockquote>
-    <details>
-      <summary><b>Knowledge skills</b>: Knowing, remembering and understanding information previously studied.</summary>
-      <i><u>Wilderness:</u> Herbalist, Survival, Weather-lore, Hunting, Navigation, Camping, etc. <br>
-      <u>Academic:</u> Arcane, Potions, Enchantments, Theology, History, etc. <br>
-      <u>Linguistics:</u> Languages, Runes, Decipher Script, etc. <br>
-      <u>Professional:</u> Alchemy, Metallurgy, Clockwork, etc. </i><br>
-    </details>
-    <details>
-      <summary><b>Technical skills</b>: Any type of skills related to a profession, background or speciality. </summary>
-      <i><u>Thief:</u> Impersonation, Gambling, Forgery, Disguise, Counterfeiting, etc.<br>
-      <u>Medic:</u> First Aid, Medicine, Heal, Surgery, etc.<br>
-      <u>Vehicle:</u> Piloting, Sailing, Drive, Operate, Ride, etc.<br>
-      <u>Crafts:</u> Cartography, Calligraphy, Gunnery, Blacksmithing, Brewing, Baking, Enchanting, Spell-craft, etc.<br>
-      <u>Artist:</u> Graphic Arts, Painting, Poetry, Sing, Perform, Dance, Acting, Improvisation, etc.</i><br>
-    </details>
-  </blockquote>
-</details>  
+    > *For an illusionist, relevant skills could be, invisibility, create sound, create image, distract and fast talk.*  
+    
+    <details><summary><i>Example of skills example and character creation</i></summary>
+      <blockquote> Block 1:<br>
+        <details>
+          <summary><b>Combat skills</b>: Use of weapons and armour as well as tactical evaluations.</summary>
+          <i><u>Weapons:</u> Sword, Spear, Crossbow, Axe, Hammer, Bow, Halberd, Sword, Club, etc. <br>
+          <u>Armour:</u> Padded armour, Leather armour, Hide armour, Chain mail, Scale mail, Breastplate, Ring Mail, Full plate, etc. <br>
+          <u>Tactical:</u> Feint, Disarm, Grapple, Knock, Push, Use terrain, Distract, Taunt, etc.</i><br>
+        </details>
+        <details>
+          <summary><b>Magic/Technological skills</b>: Understanding the complexities of using supernatural powers or advanced technology. </summary>
+          <i><u>Magic:</u> Elemental magic, Power Gathering, Shield, Magic Resistance, Counter magic, Enchant, Enhance, Ritual casting, Mind control, Illusion magic, etc. </i><br>
+          <i><u>Technology:</u> Laser weapons, Power armour, Spacecraft, Alien technology, Plasma weapons, Holograms, etc. </i><br>
+        </details>
+      </blockquote><br>
+
+      <blockquote>Block 2:<br>
+        <details>
+          <summary><b>Movement skills</b>: Use body movement, dexterity and strength in demanding or risky ways. </summary>
+          <i><u>Endurance:</u> Run, Jump, Fly, Swim, Borrow, Climb, Brachiate, etc.<br>
+          <u>Reflex:</u> Evade, Dodge, Tumble, Contortionist, Escape Artist, Balance, etc.<br>
+          <u>Discretion:</u> Sleight Of Hand, Stealth, Hide, Move Silently, Secret gesture, Tailing, Countermeasures, etc.</i><br>
+        </details>
+        <details>
+          <summary><b>Manipulation skills</b>: Interact with, manipulate and change objects. </summary>
+          <i><u>Change:</u> Force, Apply Strength, Disable Device, Disarm Trap, Sabotage, Lock pick, etc.</i><br>
+          <i><u>Interact:</u> Use Tools, Appraise, Use Magic Device, Use Rope, etc. </i><br>
+        </details>   
+      </blockquote><br>
+
+      <blockquote> Block 3:<br>
+        <details>
+          <summary><b>Social skills</b>: Interact with other sentient creatures to change their perception, opinions and attitudes.</summary>
+          <i> <u>Perception:</u> Deception, Bluff, Trickery, Fast Talk, Whisper, Rumour-Mongering, etc. <br>
+          <u>Opinion:</u> Diplomacy, Persuasion, Command, Leadership,Intimidation, Gather Information etc. <br>
+          <u>Attitude:</u> Seduction, Handle Animal, Bribery, Bargaining, etc. </i><br>
+        </details>
+        <details>
+          <summary><b>Perception skills</b>: Use of senses, instinct and intuition to notice something. </summary>
+          <i><u>Passive senses:</u> Spot, Listening, Touching, Tasting, Smelling, Low-light vision, Darkvision, Concentration, etc.<br>
+         <u>Enhanced senses:</u> Chemical detection, Sense vibrations, Sense magic, Sense life, Sense magnetic fields, etc.<br>
+          <u>Active search:</u> Sense Motive, Insight, Patrol, Vigilant, Search, Reading Body, Lip-reading, Investigation, Eavesdropping, etc.</i><br>
+        </details>
+      </blockquote><br>
+
+      <blockquote>Block 4:<br>
+        <details>
+          <summary><b>Knowledge skills</b>: Knowing, remembering and understanding information previously studied.</summary>
+          <i><u>Wilderness:</u> Herbalist, Survival, Weather-lore, Hunting, Navigation, Camping, etc. <br>
+          <u>Academic:</u> Arcane, Potions, Enchantments, Theology, History, etc. <br>
+          <u>Linguistics:</u> Languages, Runes, Decipher Script, etc. <br>
+          <u>Professional:</u> Alchemy, Metallurgy, Clockwork, etc. </i><br>
+        </details>
+        <details>
+          <summary><b>Technical skills</b>: Any type of skills related to a profession, background or speciality. </summary>
+          <i><u>Thief:</u> Impersonation, Gambling, Forgery, Disguise, Counterfeiting, etc.<br>
+          <u>Medic:</u> First Aid, Medicine, Heal, Surgery, etc.<br>
+          <u>Vehicle:</u> Piloting, Sailing, Drive, Operate, Ride, etc.<br>
+          <u>Crafts:</u> Cartography, Calligraphy, Gunnery, Blacksmithing, Brewing, Baking, Enchanting, Spell-craft, etc.<br>
+          <u>Artist:</u> Graphic Arts, Painting, Poetry, Sing, Perform, Dance, Acting, Improvisation, etc.</i><br>
+        </details>
+      </blockquote>
+    </details>  
+
     * **Abilities** represent any particular action that the character has mastered, a signature move or an individual take on a regular skill. Abilities add an extra twist the character's skill and provide the opportunity to add special effects to an action, reflecting critical skill successes. Thus, abilities can be though of as advanced skills.
-    > *Fast talking is important for an illusionist to keep the audience both engaged and distracted, it is a deception skill that can have the added effect of confusing the target*   
-<details><summary><i>Examples for abilities</i></summary>
-  &nbsp;&nbsp;<i><u>Counter attack:</u> counter attack on successful defence. <br>
-  &nbsp;&nbsp;<u>Freezing Bolt:</u> add freezing effect to a ice spell. <br>
-  &nbsp;&nbsp;<u>Fire Ball:</u> add shape to a fire spell. <br>
-  &nbsp;&nbsp;<u>Noble Families:</u> add knowledge of Noble lineages. <br>
-  &nbsp;&nbsp;<u>Magic Brawling:</u> add magic effect to unarmed attacks <br>
-  &nbsp;&nbsp;<u>Aim:</u> Make ranged attacks more precise. <br>
-  &nbsp;&nbsp;<u>Optimization:</u> Calculate the optimal strategy to outmanoeuvre the enemy.</i>
-  <br>&nbsp;
-</details>  
-    * **Resistances** are descriptors that provide ways of measuring how much a character can take. Resistances are defined by a resistance value (tier 1) and a break-point (tier 2), that is, a value until which fatigue penalties are not applied and a value at which the character is incapacitated. 
-<details><summary><i>Examples for resistances</i></summary>
-  &nbsp;&nbsp;<i><u>Physical resistance:</u> The amount of physical damage the character can handle. <br>
-  &nbsp;&nbsp;<u>Mental resistance:</u> The amount of mental stress the character can handle. <br>
-  &nbsp;&nbsp;<u>Social resistance:</u> The amount of social pressure the character can handle. <br>
-  &nbsp;&nbsp;<u>Fire resistance:</u> The amount of fire damage and burns the character can handle. <br>
-  &nbsp;&nbsp;<u>Magic resistance:</u> the amount of magical effects the character can handle</i>
-  <br>&nbsp;
-</details>  
+    > *Fast talking is important for an illusionist to keep the audience both engaged and distracted, it is a deception skill that can have the added effect of confusing the target*  
+    
+    <details><summary><i>Examples for abilities</i></summary>
+      &nbsp;&nbsp;<i><u>Counter attack:</u> counter attack on successful defence. <br>
+      &nbsp;&nbsp;<u>Freezing Bolt:</u> add freezing effect to a ice spell. <br>
+      &nbsp;&nbsp;<u>Fire Ball:</u> add shape to a fire spell. <br>
+      &nbsp;&nbsp;<u>Noble Families:</u> add knowledge of Noble lineages. <br>
+      &nbsp;&nbsp;<u>Magic Brawling:</u> add magic effect to unarmed attacks <br>
+      &nbsp;&nbsp;<u>Aim:</u> Make ranged attacks more precise. <br>
+      &nbsp;&nbsp;<u>Optimization:</u> Calculate the optimal strategy to outmanoeuvre the enemy.</i>
+      <br>&nbsp;
+    </details>  
+    
+    * **Resistances** are descriptors that provide ways of measuring how much a character can take. Resistances are defined by a resistance value (tier 1) and a break-point (tier 2), that is, a value until which fatigue penalties are not applied and a value at which the character is incapacitated.  
+    
+    <details><summary><i>Examples for resistances</i></summary>
+      &nbsp;&nbsp;<i><u>Physical resistance:</u> The amount of physical damage the character can handle. <br>
+      &nbsp;&nbsp;<u>Mental resistance:</u> The amount of mental stress the character can handle. <br>
+      &nbsp;&nbsp;<u>Social resistance:</u> The amount of social pressure the character can handle. <br>
+      &nbsp;&nbsp;<u>Fire resistance:</u> The amount of fire damage and burns the character can handle. <br>
+      &nbsp;&nbsp;<u>Magic resistance:</u> the amount of magical effects the character can handle</i>
+      <br>&nbsp;
+    </details>  
   
   * **Temporary** descriptors are those are frequently gained and lost. These mostly correspond to *conditions* reflecting unusual character's state. Conditions may be removed after some time or they may be curable. However, some of these descriptor may be converted into permanent descriptors (*traits*) is ignored for too long.  
   > *A character falls of a cliff and breaks his leg. It is decided that the broken leg condition can be healed with a the medical intervention. If the intervention is successful, the broken leg condition requires only some time and rest to be removed. However, if the medical treatment is provided by someone unskilled, it may results in permanent injury.*
