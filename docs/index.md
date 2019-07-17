@@ -136,3 +136,34 @@ Descriptors are small, clear sentences that define the character, how it differs
   * **Temporary descriptors** are those are frequently gained and lost. These mostly correspond to *conditions* reflecting unusual character's state. Conditions may be removed after some time or they may be curable. However, some of these descriptor may be converted into permanent descriptors (*traits*) is ignored for too long.  
   > *A character falls of a cliff and breaks his leg. It is decided that the broken leg condition can be healed with a the medical intervention. If the intervention is successful, the broken leg condition requires only some time and rest to be removed. However, if the medical treatment is provided by someone unskilled, it may results in permanent injury.*
   
+
+### 1.2 Progression
+*[top]()*  
+
+In this system, characters do not level up or gain packs of power at certain points in a deterministic way. They age and gain experience as they go along! Characters can progress (or improve) in 4 different ways: gain experience with skills and learn new abilities, acquire better equipment and improve their natural resistances.
+
+  1. **Skills** level up using a “learn by doing” system. Every time a skill descriptor is called and a double above the skill level is rolled, that skill gains a new level. At the maximum skill level (roll double 6), a new skill tier *(higher power)* is unlocked, so skills can go on forever to suit longer campaigns.  
+
+  2. Every time a skill hits level 3 or more, a new **ability** related to that skill is gained. However, higher tiered skills will increase the tier of the existing ability, instead of providing a new ability.  
+
+  3. If a character hits the resistance point during the adventure (gets fatigued), the player must roll for wounds. If a double is rolled, **resistance** may levels up. If the value is above the resistance point, it increase by 1. Otherwise, if the sum of the die is greater than that of the resistance values, the break-point increases by 1.  
+
+As skills, **equipment** is free-form and can be defined on the fly. To quickly create a new piece of equipment or an item, simply name it and add an adjective to the base name. A small extra descriptor may be added if the equipment has any distinctive feature or power. Of course, legendary items can have names that are a reference to some historical or mythical place, event or person, and can be uses as opportunities for flashback chapters or as part of character arcs. Items will have their own resistance descriptor *(item state)* and will lose their bonus if past the resistance point and brake if past the break-point.  
+> *For example, Rusting Sword, Long Rope, Long-ranged Rifle. 
+For a distinctive power, compare useless potion with useless potion of might.
+Instead of the general legendary holy sword of divine power, it may be better to call it *.  
+
+<detail><summary>Because equipment is free-form, its uses are limited only by the players imagination. Consider the following 4 common way of using equipment:</summary>
+  
+  1. The item applies a bonus to a skill: Equipment that provides bonus will be noted as +1/X or -1/X:T, where +1 is the provided bonus (-1 the penalty) and X the maximum modifier obtainable with the item and T the item's effective tier <i>(for longer campaigns)</i>. <br>
+  <blockquote>A Cheap Stick is +1/1:1, meaning that players get a +1 bonus on their stick (spear/staff?) skill as long as this bonus does not result in a modifier greater than of 1, so the equipment has no effect for players with "stick" skill at level 1. Likewise, a Balanced Sword could be +1/3:2, which provides a bonus for players below sword level 3 (tier 2). This means that your technique may be too good to actually gain any bonus from your equipment. </blockquote><br>
+  2. The item has a descriptor which can be called: This allows for more general powers or effects to be imbued in the equipment and allows for more flexibility in equipment creation. <br>
+  <blockquote>A poisoned dagger has poison descriptor, which can be called 3 times to induce poison on a target. <br>
+A scroll of thunder has a thunder spell descriptor that can be called to use the thunder spell at the specified level. <br>
+A warhammer has the stun effect, which can be called to hit harder when out-manoeuvring an enemy. <br>
+A mantle of rose scent may let you automatically convince blind creatures you're a talking rose </blockquote><br> 
+  3. The item may be used to protect the characters: Particularly true for armour and magical items, these items can either reduce or prevent certain types of damage, physical or mental wounds.<br>
+  <blockquote>A leather plate armour may provide a +3 the resistance trait (both values) while fully repaired, while a full plate armour may prevent damage from light weapons. <br> 
+A magical amulet may provide immunity to fire damage twice before re-charging. </blockquote><br>
+  4. The item may provide access to certain skills: This will be mostly true for weapons and armour skills, as a character won't be able to use a the axe skill without an axe, but it may also be relevant for spell-casting in some settings.<br>
+  <blockquote>The most extreme example would be that of a level 3 water magic caster that is not be able to cast any water spells if her create water ring is not equipped. This would work as a specialization of the spell book concept, where each spell is associated with an item and cannot be cast if the item is not active.</blockquote></detail> 
