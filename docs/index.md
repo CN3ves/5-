@@ -167,3 +167,135 @@ A mantle of rose scent may let you automatically convince blind creatures you're
 A magical amulet may provide immunity to fire damage twice before re-charging. </blockquote>
   4. The item may provide access to certain skills: This will be mostly true for weapons and armour skills, as a character won't be able to use a the axe skill without an axe, but it may also be relevant for spell-casting in some settings.
   <blockquote>The most extreme example would be that of a level 3 water magic caster that is not be able to cast any water spells if her create water ring is not equipped. This would work as a specialization of the spell book concept, where each spell is associated with an item and cannot be cast if the item is not active.</blockquote></details> 
+
+
+## 2. Conflict
+
+### 2.1 Structure
+*[top]()*  
+
+The game is started by the Game Master (GM), which is the player that defines the overall setting and game story. However, besides this main story, each character has an individual motivation, a goal or a story to explore. To accommodate this, **the system is organized into scenes**, where each player may own any given scene. A scene is a self-contained part of a story, such as a mission or a dungeon, that the characters decided to pursue. However, even though only one player takes the role of GM at any time, the other players have the opportunity to contribute to the scene with more than their character actions, for example:
+  
+  > Since the skill check result can be immediately interpreted, the player performing the action is allowed to interpret the result of his own action. The next player can then add any interesting details that may introduce his own actions. As such, two players can interpret any single skill check, including adding any required details. Once all players have acted, the scene owner then reinterprets the entire turn taking into account the players suggestions.
+  
+  > After a new scene, place or situation is introduced, the players should add a detail to the scene by suggesting some detail their character notices. This way, all players have the opportunity to contribute to the scene, from simply adding new descriptive details and bringing out different things about the places they visit, from adding a character or hinting on something that could be happening soon.
+  
+To **take over the scene** a player must first build up enough information for the other players to follow one of their quests. At the beginning of the game, each player picks 3 cards. Each player will then be able to add rumours, hints and clues to the story, passively gathered from reasonable "information" sources as suitable (according to the GM). These small pieces of information are used to drive other players into their secret story arc. Once other players take the "bait" and decide to follow these tips, the player can play one card, starting a his own scene. *Importantly, the next scene owner is allowed to add lore, locations and characters to the game, or even use previously mentioned characters or location and and integrate then into their own scenes.* Whenever a new player takes over, the previous scene owner picks 3 new cards. If at the end of a player's scene (quest) the characters do not follow any other rumours, the GM takes back the game and continues the main story line.
+  
+  > **Card suits**: The suit of the card played to take over the scene reflects the type of quest or game-play to use:  
+  *Hearts are for socializers*: Include a relevant amount of interaction with NPCs (chatty enemies, distressed peasants, negotiating passage).  
+  *Diamonds are for achievers*: Include or point to some clear reward or something the players can achieve or collect (rare equipment sets, money, status).  
+  *Spades are for explorers*, Introduce new lands, explain long lost secrets or clarify some historical event or any other discovery (background information, a rumours of distant lands, a secret revealed by an solving a puzzle).  
+  *Clubs are for killers*: Should be filled with combat and fights (challenges of power, all out combat, arenas)  
+  
+  > **Card values**: The card numerical value defines the scene priority, so if there is a tie, the player with the highest card goes first. However, Royals represent an encounter with an important enemies *(possibly recurring enemies)*, while Aces represent a new friendly or helpful connection. A Joker is an important event with far reaching implication that may change the current status quo.
+
+Each scene is structured using turns, where **each turn is made by a single intervention from every player**. The turn structure is used in all situations, to give the opportunity for every player to take an action. At the beginning of each turn, the previous actions are resolved, the consequences described and the new situation introduced. Each players then explains how the character will respond to the new situation, with a new turn starting once all character have an intended action. Importantly, **all actions within a turn occurs simultaneously** so there is no clear initiative or turn order. As such, all actions will be resolved in the order the scene owner finds most appropriate. 
+
+**Conflict arises any time the outcome of a players' actions is uncertain** so the result of these actions must be determined before continuing. All conflicts are solved with a 2d6 roll which informs the narrative and the behaviour of the NPCs for the next turn. It is the balance between successful and failed actions that will determine how the overall encounter proceeds. *This is to say that, for example, a dragon does not have to be bashed to a pulp of negative HP to be defeated. Its actions are determined by the number of successes and failures the players accumulated during the conflict, where a certain number of successes (or failures) reflect a new action, approach or consideration by the dragon.*
+
+
+### 2.2 Actions
+*[top]()*  
+
+During conflict, **each player choose one other actions each turn**. On top of these action, the character is allowed one free move action and one defence action (if the character is attacked). *As such, all players will be mostly roll 2d6 twice each conflict turn.* Actions are free-form and if the player comes up with an idea, that should be implemented within reason, even if it reacquires creating a new skill. Because of that, **each player must describe their intended action each turn.** Basic actions include:
+
+  > **Attack action**: actively attempt to damage a target *(either with sword or word!)*  
+  > **Manoeuvre action**: try to impose a disadvantage on a target *(disarm, hide, gain terrain advantage, etc.)*  
+  > **Interact action**: interact with items, *be it picking them from the floor or from a bag, reloading a weapon or drinking a potion, etc.*  
+  > **Fall back**: temporary removes the player from the conflict.  
+  > **Move action** (1 free): cover 1 "space" of movement, stand up, tumble or any other movement skill. 
+  > **Defence action** (1 free): protect from an adversary's attack or insult *(dodge, shield, rebuke, etc.)*
+
+*Note that* most actions called should correspond to a skill (or ability) descriptor. If an action requires a non-existent skill, simply add it to the list at level 0. If it wasn't there to start with, it is fair to assume the characters have no experience with it. However, consider the character's concept an traits and, if it would be reasonable for the character to have some experience in the skill, allow it to start at level 1 or 2.
+  
+___
+   
+**Movement**: In this system, there are no grids, maps or any other sort of objective locations and positions during conflicts. The general layout is described, highlighting particularities that could be used for or against the players. All characters involved in the conflict will start in relative positions to each other, where a full *(unblocked)* movement turn is required to move from one to the other:  
+  
+  1. Nearby and can be reached in melee combat.
+  2. In range and can be targeted by ranged attacks.
+  3. Too far and cannot be targeted. 
+
+*Note that* it is assumed that the characters are always moving, so each turn 1 move action is always used unless specified otherwise *(move as part of another action)*
+
+#### 2.3 Resolution
+*[top](#)*  
+
+When a player wants to do an action, the player calls on it and describes the intended effect. If the action's result is uncertain, then the character is in a conflict situation. To resolve the conflict, the character must name a relevant skill to check for the action's success.   
+> A player wants to climb a steep wall to sneak into the Baron's private garden. Given the height of the wall, the result of this action is uncertain and a conflict is started. The player can then choose from any reasonable skills, such as climb or jump, and make a skill check to find out what happens.
+
+**Success range**: To determine if an action is successful, roll a 2d6 and sum the result. If that result is contained by the success range, that is, it is one of the success numbers, then the action is successful. The success range root value is 5 and how far it extends, depends on the applicable modifiers:  
+  * A positive modifier adds one number (above 5) per each +1 in the modifier. This means that the success range will be all numbers between 5 and 5 + modifier (both included).  
+  > If it is determined that the character has a modifier of +3 for the climb skill, then the success range will have the root 5 and 3 more values: 6,7 and 8 (success range is from 5 to 5+3). Success will occur if the rolled sum is one of those 4 values.  
+  * A negative modifier moves the root below 5, one value for each -1 in the modifier.  
+> Another character tries to follow and has the modifier of -2. This means that the success root will be moved down twice, that is from 5 to 3. Success in this case will only occurs if the rolled sum is 3.
+  
+**Modifiers**: The modifier that defines the success range is the sum of all bonuses and penalties that apply to the skill being checked. To find the applicable modifier, consider:  
+  
+  * The skill level is added as a bonus for the action.
+  * Situational +1 bonuses and -1 penalties may be applied depending on conditions affecting the character or particular action difficulties. 
+> If the character gets into a tavern brawl with drunk clients, then maybe it is easier to dodge and a +1 bonus is applied. Dodging a goblin's sword is a normal effort, so no change is applied, but dodging a giant's sweeping club, is probably more difficult, providing a -1 penalty.
+  * Enemy tier: Add -1 penalty for each enemy tier above the skill being used *(tier immunity may be granted for skills 2 tiers below the enemy)*.
+  * Fatigue penalty: For each damage value above the resistance point, the character takes a -1 fatigue penalty to all rolls.
+
+**Success effect**: If the character is successful, there are 3 possible levels of effect (damage): The minimum of 1, the lowest die or the highest roll. Most basic actions will have the lowest dice as it's effect by default. Any applicable resistance will reduce the effect to the minimum value of 1 (immunities to 0) while particularly strong results or efficient skills will upgrade the result to the highest value. 
+
+__
+
+**Raise the stakes**: In addition to simply rolling a 2d6, the player may chose to raise his stakes, that is, to re-roll one die of his choice. Raising the stakes allows the character to push himself further and change the outcome of his action at the cost of gaining 1 damage to one suitable resistances *(by default, mental resistance)*. The stakes may be raised as many times as a player wants, and the result is the difference between successes and failures accumulated, where:  
+
+  * 0 reflects is a normal hit
+  * Positive values represent a critical hit, upgrading the effect to the highest value and allowing the use of one ability, impose a condition or gain a +1 bonus against the target (per extra success).
+  * Negative values represent a critical failure upgrade the effect to the highest value and impose a negative condition or a -1 penalty on the character per extra failure.  
+  
+> A character that failed his initial roll, may pay take resistance damage to re-roll one die: if the roll now succeeds, the action no longer fails however, if it fails twice, it is now a critical fail.   
+A character that has succeeded, may take damage to its resistance to re-roll one die of the player's choice: of he success on the second roll, he chooses a suitable ability as a critical hit to impose an extra effect on the target.  
+
+**Stances**: Given the limited scope of these basic actions, the players may attempt to take a stance, adding more strategic options to the conflict. Stances are a special way to *raise the stakes*, reflecting different approaches to conflict. Every time a character takes a stance, the player must define a trade-off and gain one skill-specific fatigue penalty. If the character succeeds the action, it gains the bonus, otherwise it takes damage to its (mental) resistance. For example:  
+
+  * Gaining a bonus at a skill by taking a penalty on another.  
+> A manoeuvring character may put his efforts on outsmarting the target for a +1 manoeuvre bonus by gambling a -1 defence penalty. The player pays a -1 skill fatigue penalty and, if the manoeuvring fails, the defence penalty is lifted by taking 1 to resistance.
+  * Sacrificing an action for the chance of repeating another.  
+> A hidden character may gamble away his attack to move silently even further. The player pays a -1 skill fatigue penalty and, if the first move works, the attack action is lost and a new silent move may be attempted. However, if the first move fails, the attack action is re-taken by taking 1 damage to mental resistance.  
+  * Sacrifice the action success for an increases number of targets.  
+> A fighter takes a supportive stance to cover the allies' retreat and tries to hit multiple targets by trading its accuracy. The player may gamble away the attack success changes in order to attack an extra target by taking a skill fatigue penalty equal to the number of attacks.  
+
+___
+
+**Failure handling**: There are many ways of failing and the most important thing to keep in mind is that failure should keep the story flowing instead of bringing it to a halt. Failure handling should assume that given time and resources, the players will not fail unless something happens. From this follows that failure is an opportunity to add complications, twist and new developments to the story that the players need to consider. Consider the following failure effects:  
+
+  * The action is time-sensitive: Failing allows a limited number of repetitions, gradually increasing the tension with each failure.  
+> A tyrant lord is about to execute the hostages, one by one. As infiltrated agents, the players try to convince him that sparing the prisoners would be wiser, because the princess they want to rescue is the fourth hostage in the line of execution. Each failure will result in another slain hostage.  
+  * The action is interrupted: Failing once prevents the action from being repeated because something else happened, not because the player isn't skilled enough to do it.  
+> The player tries to jump over a wagon to get a clear shot at the tyrant lord, however, the wagon's owner shows up and starts to chat about the on-going public execution with the player.  
+  * The action succeeds anyway: Fail forward is an interesting concept that allows the player to succeed even if they fail, but with an added twist or complication. It is similar to having the action interrupted, but it allows for the player to get what he wants. 
+> As the player is looking for the incriminating secret papers in the tyrant lord's office, even though the player manages to identify and take them, the paper weight that was on the table is dropped, making a very noticeable noise.  
+  * Synergy and help: Any time the action of another character or a different skill can logically influence the results of a character's action, a +1 help bonus may be used to tip the scales in favour of success instead of failure. 
+> Generally, successful actions from other players will be evoked to justify the help bonus, but other reason could be considered, such as information from knowledge skills, narrative effects or specific descriptors that may apply. 
+  * Decrease the action effect: For some skills particularly those with a willing target, it just doesn't makes sense failing. In this cases, the skill effect may be reduced one step (generally from lowest die to 1).
+
+**Narration effects**: To keep thinks interesting and provide continuous opportunities for small twists and turns, when a 1 is rolled in any dice, a narrative effect may be used by adding a *but* to the action resolution, attenuating the results of the action. So for a failed roll, the player fails *but* there was something positive, while for a successful roll there was a consequence unaccounted.  
+> The player tries to hide before the guards come into the room. He fails to find a place to hide, but he notices an open window through which he can escape.
+The player successfully spots a secret passage on the wall, but the opening mechanism seems to be stuck.
+
+**Wounds**: Every time a character fails a defence action, it takes 1 to the matching resistance *(physical combat to physical resistance or social for social conflict)*. If this value is greater than the resistance point, the character will gain a -1 fatigue penalty for each point above the resistance point. If the value is above the break-point, the character is unable to continue. At the end of the conflict, a 2d6 must be rolled if the resistance point was broken *(same roll for level up resistances)*. If any die shows a value the below current fatigue penalty, the character gains a wound (physical, mental, social) condition. The damage accumulated to the resistances (or skill fatigue) is restored as 1 per restful time (think about 1h of chilling out). This effect is upgraded for each "4 hours" of continuous rest.
+
+___
+
+**NPCs**
+
+Players do all the rolling. NPCs do not roll. If a player hits the target, it's because the target didn't dodge. Likewise, if a player fails to dodge, it's because the enemy hit. The only things required to define an NPC character is:  
+  
+  * Its goals: *Why is the NPC opposing the players?*
+> Is it a giant hungry spider trying to eating the players, an demonic spirit hoping to corrupt them or simply a vengeful adventure trying to get payback
+  * Its actions and abilities 
+> Can the NPC bite, smash or summon inter-dimensional demon of ultimate destruction? Maybe it will simply insult and provoke the players?*  
+  * Its combat behaviour: *How it reacts to player's accumulating successes and failures?*
+> An NPC can act more fearful as the players accumulate successes or more boldly as the players fail to act. 
+<details><summary>NPC behaviour table example:</summary>  
+<i><u>Low threat NPC</u>: Last for 1 or 2 successes.<br>
+<u>Medium threat NPC</u>: Last for 3 or 5 successes, change behaviour after 2 successes.<br>
+<u>High threat NPC</u>: Last for 6-10 successes, change every 3 success or failures.<br>
+<u>Heroic threat NPC</u>: change every 10 or more successes, change behaviour after 3,5 and 7 successes</i></details>
+  * Its difficulty: *as defined by the enemy tier (and number of success to defeat)*
