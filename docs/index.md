@@ -275,7 +275,7 @@ A character that has succeeded, may take damage to its resistance to re-roll one
   * Gaining a bonus at a skill by taking a penalty on another.  
 > A manoeuvring character may put his efforts on outsmarting the target to make it trip. To gain a +1 manoeuvre bonus the player bets a -1 defence penalty. The player pays a -1 "trip" skill fatigue penalty and, if the manoeuvring fails, the defence penalty is lifted by taking 1 to resistance.
   * Sacrificing an action for the chance of repeating another.  
-> A hidden character may gamble away his attack action to gain a new move action, so he can silently sneak past a guard. The player pays a -1 "move silently" skill fatigue penalty and, if the first move works, the attack action is lost and a new silent move may be attempted. However, if the first move fails, the attack action is re-taken by taking 1 damage to mental resistance.  
+> A hidden character may gamble away his attack action to gain a new move action, so he can silently sneak past a guard. The player pays a -1 "move silently" skill fatigue penalty and, if the first move works, the attack action is lost and a new silent move may be attempted. However, if the first move fails, the player may still use the attack action taking 1 damage to mental resistance.  
   * Sacrifice the action success for an increases number of targets.  
 > A fighter takes a supportive stance to cover the allies' retreat and chaotically swings his sword, trying to hit multiple targets by trading its accuracy. The player may gamble away the attack success chances in order to attack an extra target by taking a "sword" skill fatigue penalty equal to the number of attacks.  
 
