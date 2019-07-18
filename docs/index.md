@@ -199,22 +199,23 @@ During conflict, **each player choose one other actions each turn**. On top of t
 
   > **Attack action**: actively attempt to damage a target *(either with sword or word!)*  
   > **Manoeuvre action**: try to impose a disadvantage on a target *(disarm, hide, gain terrain advantage, etc.)*  
-  > **Interact action**: interact with items, *be it picking them from the floor or from a bag, reloading a weapon or drinking a potion, etc.*  
-  > **Fall back**: temporary removes the player from the conflict.  
-  > **Move action** (1 free): cover 1 "space" of movement, stand up, tumble or any other movement skill. 
-  > **Defence action** (1 free): protect from an adversary's attack or insult *(dodge, shield, rebuke, etc.)*
+  > **Interact action**: movement actions to interact with items, *be it picking them from the floor or from a bag, reloading a weapon or drinking a potion, etc.*  
+  > **Fall back**: the character attempts to temporary move away from the conflict.  
+  > **Move action** (1 free): cover 1 "space" of movement, stand up, tumble or any other movement skill.  
+  > **Defence action** (1 free): protect from an adversary's attack or insult *(dodge, shield, rebuke, etc.)*  
 
 *Note that* most actions called should correspond to a skill (or ability) descriptor. If an action requires a non-existent skill, simply add it to the list at level 0. If it wasn't there to start with, it is fair to assume the characters have no experience with it. However, consider the character's concept an traits and, if it would be reasonable for the character to have some experience in the skill, allow it to start at level 1 or 2.
   
 ___
    
-**Movement**: In this system, there are no grids, maps or any other sort of objective locations and positions during conflicts. The general layout is described, highlighting particularities that could be used for or against the players. All characters involved in the conflict will start in relative positions to each other, where a full *(unblocked)* movement turn is required to move from one to the other:  
+**Movement**: In this system, there are no grids, maps or any other sort of objective locations and positions during conflicts. The general layout is described, highlighting particularities that could be used for or against the players. All characters will start in relative positions to the players. To move from one zone to another, an unblocked path (may require a roll) and full turn of movement is required:  
   
   1. Nearby and can be reached in melee combat.
   2. In range and can be targeted by ranged attacks.
   3. Too far and cannot be targeted. 
 
-*Note that* it is assumed that the characters are always moving, so each turn 1 move action is always used unless specified otherwise *(move as part of another action)*
+*Note that* it is assumed that the characters are always moving during combat, keeping active and ready, shifting positions and generally staying on their toes. As such, 1 move action is always used each turn, unless specified otherwise.  
+> *For example, an interaction action can be part of the move action. A character may wish to stop the default combat moving to focus on reloading his weapon for example. Note that skipping the default move action means the character is not as ready for quick action as the others and may gain a -1 penalty to some skills*
 
 #### 2.3 Resolution
 *([top]())* 
@@ -235,7 +236,26 @@ When a player wants to do an action, the player calls on it and describes the in
   * Enemy tier: Add -1 penalty for each enemy tier above the skill being used *(tier immunity may be granted for skills 2 tiers below the enemy)*.
   * Fatigue penalty: For each damage value above the resistance point, the character takes a -1 fatigue penalty to all rolls.
 
-**Success effect**: If the character is successful, there are 3 possible levels of effect (damage): The minimum of 1, the lowest die or the highest roll. Most basic actions will have the lowest dice as it's effect by default. Any applicable resistance will reduce the effect to the minimum value of 1 (immunities to 0) while particularly strong results or efficient skills will upgrade the result to the highest value. 
+**Success effect**: If the character is successful, there are 3 possible way to define how successful the action was (measure the damage):  
+  
+  * A minimum of 1 damage
+  * The value of the lowest die of damage
+  * The value of the highest die of damage.  
+
+Most basic actions will cause the lowest die as damage by default. Any applicable resistance will reduce the effect one step (by default to 1 damage) but immunities by reduce it to 0. Particularly strong results or efficient skills will upgrade the result one step (by default to the highest die).  
+> A player rolls 2 and 4 for a medical skill. By default, the success effect will be the lowest value, that is, he would heal 2 damage from the target's resistance descriptor. However, he is using an advanced medical procedure in an optimal setting (clean and quiet room, all equipment and well supplied) so the effect of success will the upgraded one step to the highest value, healing 4 damage instead.
+
+**Failure handling**: There are many ways of failing and the most important thing to keep in mind is that failure should keep the story flowing instead of bringing it to a halt. Failure handling should assume that given time and resources, the players will not fail unless something happens. From this follows that failure is an opportunity to add complications, twist and new developments to the story that the players need to consider. Consider the following failure effects:  
+
+  * The action is time-sensitive: Failing allows a limited number of repetitions, gradually increasing the tension with each failure.  
+> A tyrant lord is about to execute the hostages, one by one. As infiltrated agents, the players try to convince him that sparing the prisoners would be wiser, because the princess they want to rescue is the fourth hostage in the line of execution. Each failure will result in another slain hostage.  
+  * The action is interrupted: Failing once prevents the action from being repeated because something else happened, not because the player isn't skilled enough to do it.  
+> The player tries to jump over a wagon to get a clear shot at the tyrant lord, however, the wagon's owner shows up and starts to chat about the on-going public execution with the player.  
+  * The action succeeds anyway: Fail forward is an interesting concept that allows the player to succeed even if they fail, but with an added twist or complication. It is similar to having the action interrupted, but it allows for the player to get what he wants. 
+> As the player is looking for the incriminating secret papers in the tyrant lord's office, even though the player manages to identify and take them, the paper weight that was on the table is dropped, making a very noticeable noise.  
+  * Synergy and help: Any time the action of another character or a different skill can logically influence the results of a character's action, a +1 help bonus may be used to tip the scales in favour of success instead of failure. 
+> Generally, successful actions from other players will be evoked to justify the help bonus, but other reason could be considered, such as information from knowledge skills, narrative effects or specific descriptors that may apply. 
+  * Decrease the action effect: For some skills particularly those with a willing target, it just doesn't makes sense failing. In this cases, the skill effect may be reduced one step (generally from lowest die to 1).
 
 __
 
@@ -251,31 +271,21 @@ A character that has succeeded, may take damage to its resistance to re-roll one
 **Stances**: Given the limited scope of these basic actions, the players may attempt to take a stance, adding more strategic options to the conflict. Stances are a special way to *raise the stakes*, reflecting different approaches to conflict. Every time a character takes a stance, the player must define a trade-off and gain one skill-specific fatigue penalty. If the character succeeds the action, it gains the bonus, otherwise it takes damage to its (mental) resistance. For example:  
 
   * Gaining a bonus at a skill by taking a penalty on another.  
-> A manoeuvring character may put his efforts on outsmarting the target for a +1 manoeuvre bonus by gambling a -1 defence penalty. The player pays a -1 skill fatigue penalty and, if the manoeuvring fails, the defence penalty is lifted by taking 1 to resistance.
+> A manoeuvring character may put his efforts on outsmarting the target to make it trip. To gain a +1 manoeuvre bonus the player bets a -1 defence penalty. The player pays a -1 "trip" skill fatigue penalty and, if the manoeuvring fails, the defence penalty is lifted by taking 1 to resistance.
   * Sacrificing an action for the chance of repeating another.  
-> A hidden character may gamble away his attack to move silently even further. The player pays a -1 skill fatigue penalty and, if the first move works, the attack action is lost and a new silent move may be attempted. However, if the first move fails, the attack action is re-taken by taking 1 damage to mental resistance.  
+> A hidden character may gamble away his attack action to gain a new move action, so he can silently sneak past a guard. The player pays a -1 "move silently" skill fatigue penalty and, if the first move works, the attack action is lost and a new silent move may be attempted. However, if the first move fails, the attack action is re-taken by taking 1 damage to mental resistance.  
   * Sacrifice the action success for an increases number of targets.  
-> A fighter takes a supportive stance to cover the allies' retreat and tries to hit multiple targets by trading its accuracy. The player may gamble away the attack success changes in order to attack an extra target by taking a skill fatigue penalty equal to the number of attacks.  
+> A fighter takes a supportive stance to cover the allies' retreat and chaotically swings his sword, trying to hit multiple targets by trading its accuracy. The player may gamble away the attack success chances in order to attack an extra target by taking a "sword" skill fatigue penalty equal to the number of attacks.  
 
 ___
-
-**Failure handling**: There are many ways of failing and the most important thing to keep in mind is that failure should keep the story flowing instead of bringing it to a halt. Failure handling should assume that given time and resources, the players will not fail unless something happens. From this follows that failure is an opportunity to add complications, twist and new developments to the story that the players need to consider. Consider the following failure effects:  
-
-  * The action is time-sensitive: Failing allows a limited number of repetitions, gradually increasing the tension with each failure.  
-> A tyrant lord is about to execute the hostages, one by one. As infiltrated agents, the players try to convince him that sparing the prisoners would be wiser, because the princess they want to rescue is the fourth hostage in the line of execution. Each failure will result in another slain hostage.  
-  * The action is interrupted: Failing once prevents the action from being repeated because something else happened, not because the player isn't skilled enough to do it.  
-> The player tries to jump over a wagon to get a clear shot at the tyrant lord, however, the wagon's owner shows up and starts to chat about the on-going public execution with the player.  
-  * The action succeeds anyway: Fail forward is an interesting concept that allows the player to succeed even if they fail, but with an added twist or complication. It is similar to having the action interrupted, but it allows for the player to get what he wants. 
-> As the player is looking for the incriminating secret papers in the tyrant lord's office, even though the player manages to identify and take them, the paper weight that was on the table is dropped, making a very noticeable noise.  
-  * Synergy and help: Any time the action of another character or a different skill can logically influence the results of a character's action, a +1 help bonus may be used to tip the scales in favour of success instead of failure. 
-> Generally, successful actions from other players will be evoked to justify the help bonus, but other reason could be considered, such as information from knowledge skills, narrative effects or specific descriptors that may apply. 
-  * Decrease the action effect: For some skills particularly those with a willing target, it just doesn't makes sense failing. In this cases, the skill effect may be reduced one step (generally from lowest die to 1).
 
 **Narration effects**: To keep thinks interesting and provide continuous opportunities for small twists and turns, when a 1 is rolled in any dice, a narrative effect may be used by adding a *but* to the action resolution, attenuating the results of the action. So for a failed roll, the player fails *but* there was something positive, while for a successful roll there was a consequence unaccounted.  
 > The player tries to hide before the guards come into the room. He fails to find a place to hide, but he notices an open window through which he can escape.
 The player successfully spots a secret passage on the wall, but the opening mechanism seems to be stuck.
 
-**Wounds**: Every time a character fails a defence action, it takes 1 to the matching resistance *(physical combat to physical resistance or social for social conflict)*. If this value is greater than the resistance point, the character will gain a -1 fatigue penalty for each point above the resistance point. If the value is above the break-point, the character is unable to continue. At the end of the conflict, a 2d6 must be rolled if the resistance point was broken *(same roll for level up resistances)*. If any die shows a value the below current fatigue penalty, the character gains a wound (physical, mental, social) condition. The damage accumulated to the resistances (or skill fatigue) is restored as 1 per restful time (think about 1h of chilling out). This effect is upgraded for each "4 hours" of continuous rest.
+**Wounds**: Every time a character fails a defence action, it takes 1 to the matching resistance *(physical combat to physical resistance or social for social conflict)*. If this value is greater than the resistance point, the character will gain a -1 fatigue penalty for each point above the resistance point. If the value is above the break-point, the character is unable to continue. At the end of the conflict, a 2d6 must be rolled if the resistance point was broken *(same roll for level up resistances)*. If any die shows a value the below current fatigue penalty, the character gains a wound (physical, mental, social) condition. 
+
+The damage accumulated to the resistances (or skill fatigue) counts as a automatically succeeding action if a suitable rest if taken, restoring 1 damage per restful time *(think about 1h of chilling out)*. A proper relaxation, such as a good meal, bath or long term rest. upgrade the effect one step, requiring a 2d6 roll and restoring damage by the lowest value. A full comfortable night of sleep will upgrade the effect one step further, also requiring a 2d6 roll but restoring the highest value. 
 
 ___
 
@@ -291,9 +301,9 @@ Players do all the rolling. NPCs do not roll. If a player hits the target, it's 
 > An NPC can act more fearful as the players accumulate successes or more boldly as the players fail to act. 
 <details><summary>NPC behaviour table example:</summary>  
 <i><u>Low threat NPC</u>: Last for 1 or 2 successes.<br>
-<u>Medium threat NPC</u>: Last for 3 or 5 successes, change behaviour after 2 successes.<br>
+<u>Medium threat NPC</u>: Last for 3 or 5 successes, change behaviour every 2 successes or failures.<br>
 <u>High threat NPC</u>: Last for 6-10 successes, change every 3 success or failures.<br>
-<u>Heroic threat NPC</u>: change every 10 or more successes, change behaviour after 3,5 and 7 successes</i>
+<u>Heroic threat NPC</u>: Last for at least 10, change behaviour every 4 successes or failures</i>
 <br>&nbsp;</details>
   
   * Its difficulty: *as defined by the enemy tier (and number of success to defeat)*
