@@ -264,11 +264,14 @@ __
 **Raise the stakes**: In addition to simply rolling a 2d6, the player may chose to raise his stakes, that is, to re-roll one die of his choice. Raising the stakes allows the character to push himself further and change the outcome of his action at the cost of gaining 1 damage to one suitable resistances *(by default, mental resistance)*. The stakes may be raised as many times as a player wants, and the result is the difference between successes and failures accumulated, where:  
 
   * 0 reflects is a normal hit
-  * Positive values represent a critical hit, upgrading the effect to the highest value and allowing the use of one ability, impose a condition or gain a +1 bonus against the target (per extra success).
-  * Negative values represent a critical failure upgrade the effect to the highest value and impose a negative condition or a -1 penalty on the character per extra failure.  
+  * Positive values represent a critical hit, upgrading the effect one step, impose a condition on the target or gain a +1 bonus against the target (for each extra success).
+  * Negative values represent a critical failure, downgrading the effect one step, impose a negative condition io the charatcer or a -1 penalty on the character (for each extra failure).
   
 > A character that failed his initial roll, may pay take resistance damage to re-roll one die: if the roll now succeeds, the action no longer fails however, if it fails twice, it is now a critical fail.   
 A character that has succeeded, may take damage to its resistance to re-roll one die of the player's choice: of he success on the second roll, he chooses a suitable ability as a critical hit to impose an extra effect on the target.  
+
+**Abilities**: Abilities are free "raises". A player may use one ability to raise his action without taking (mental) damage or needing to re-roll one die. However the effect is predefined by the descriptor and cannot be changed as a regular critical hit. Also, the ability is fatigued by the highest die and can only be reuse when the fatigue is fully restored.  
+> A warrior is defending and success. The player decides to raise the stakes using the character's Counter Attack ability. The defence is a critical success now and the enemy is successfully countered. Normally, the player would have to re-roll one die and damage one resistance to attempt a counter attack.
 
 **Stances**: Given the limited scope of these basic actions, the players may attempt to take a stance, adding more strategic options to the conflict. Stances are a special way to *raise the stakes*, reflecting different approaches to conflict. Every time a character takes a stance, the player must define a trade-off and gain one skill-specific fatigue penalty. If the character succeeds the action, it gains the bonus, otherwise it takes damage to its (mental) resistance. For example:  
 
