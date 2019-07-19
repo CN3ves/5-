@@ -287,7 +287,10 @@ ___
 **Narration effects**: To keep thinks interesting and provide continuous opportunities for small twists and turns, when a 1 is rolled in any dice, a narrative effect may be used by adding a *but* to the action resolution, attenuating the results of the action. So for a failed roll, the player fails *but* there was something happened as a consequence, while for a successful roll there was a consequence unaccounted. 
 > The player tries to hide before the guards come into the room. He fails to find a place to hide, but he notices an open window through which he can escape.
 The player successfully spots a secret passage on the wall, but the opening mechanism seems to be stuck.  
-Similarly, when a 6 is rolled, an *and* effect may be considering, adding an extra side effect to the action. In this case, regardless of the character success, something else happens.
+
+Similarly, when a 6 is rolled, an *and* effect may be considering, adding an extra side effect to the action. In this case, regardless of the character success, something else happens.  
+> The player tries to hide before the guards come into the room. He fails to find a place to hide and makes loud noises, warning the guards for his presence.
+The player successfully spots a secret passage on the wall and the trap on it.  
 
 **Wounds**: Every time a character fails a defence action, it takes 1 to the matching resistance *(physical combat to physical resistance or social for social conflict)*. If this value is greater than the resistance point, the character will gain a -1 fatigue penalty for each point above the resistance point. If the value is above the break-point, the character is unable to continue. At the end of the conflict, a 2d6 must be rolled if the resistance point was broken *(same roll for level up resistances)*. If any die shows a value the below current fatigue penalty, the character gains a wound (physical, mental, social) condition. 
 
