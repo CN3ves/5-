@@ -110,12 +110,12 @@ Descriptors are small, clear sentences that define the character, how it differs
     </details>  
     
     <details><summary><i>Skills groups example</i></summary>
-      In addition to the skill blocks in the previous example, skills could be also divided into job or class groups, to automatically provide charatcers with some training <br>
+      <i>In addition to the skill blocks in the previous example, skills could be also divided into job or class groups, to automatically provide charatcers with some training </i><br><br>
       1. Interpersonal skills include the social skills to interact with other creatures, such as negotiating deals and treaties, buying and selling goods, political debates, election campaigns, and infiltrating restricted areas or organizations <i>(Bluff, Diplomacy, Gather Information, Intimidate, Perform, and Sense Motive)</i>.<br>
       2. Combat skills include any violent actions, such as dungeon crawls, tournaments, assassination attempts, wars, and duels.<br>
       3. Sneaking skills include any way to gain knowledge of the other side’s plans can be useful for all sorts of things <i>(Disable Device, Disguise, Escape Artist,Hide, and Move Silently)</i><br>
       4. Thinking skills include all skilsl that help solving a problem by aquire knowledge, such as investigations, tracking and recalling information <i>(Appraise, Gather Information, Knowledge, Spot, and Search </i><br>
-      5. Magic skills.
+      5. Magic skills.<br>
     </details>
 
     * *Abilities* represent any particular action that the character has mastered, a signature move or an individual take on a regular skill. Abilities add an extra twist the character's skill and provide the opportunity to add special effects to an action, reflecting critical skill successes. Thus, abilities can be though of as advanced skills.
