@@ -20,7 +20,8 @@ ___
 > Quick start character guidelines:  
 >  1) Choose the character concept.<br>
 >  2) Pick a racial, a profession, a physical and a mental trait.
->  3) Select 2 skills from each of blocks in the skill examples. You are allowed to switch from one block to another, to a maximum of 4 skills per block. Set all the chosen skills to level 2.<br>
+>  3) Select 2 skills from each of blocks in the skill examples and set all the chosen skills to level 2.<br>
+>  4) Select a skill group and add +1 level to those all skills sensibily unders those groups.<br>
 >  4) Pick one personal starting ability (a signature move for example).
 >  5) Roll 2d6 for physical, social and mental fatigue. Set the lowest number as the resistance value and the highest as the break-point.
 
@@ -46,7 +47,7 @@ Descriptors are small, clear sentences that define the character, how it differs
     > *For an illusionist, relevant skills could be, invisibility, create sound, create image, distract and fast talk.*  
     
     <details><summary><i>Example of skills</i></summary>
-      <blockquote> Block 1:<br>
+      <blockquote> Block 1: Combat, Magic and advanced technology <br>
         <details>
           <summary><b>Combat skills</b>: Use of weapons and armour as well as tactical evaluations.</summary>
           <i><u>Weapons:</u> Sword, Spear, Crossbow, Axe, Hammer, Bow, Halberd, Sword, Club, etc. <br>
@@ -55,12 +56,12 @@ Descriptors are small, clear sentences that define the character, how it differs
         </details>
         <details>
           <summary><b>Magic/Technological skills</b>: Understanding the complexities of using supernatural powers or advanced technology. </summary>
-          <i><u>Magic:</u> Elemental magic, Power Gathering, Shield, Magic Resistance, Counter magic, Enchant, Enhance, Ritual casting, Mind control, Illusion magic, etc. </i><br>
+          <i><u>Magic:</u> Elemental magic, Power Gathering, Shield, Magic Resistance, Counter magic, Enchant, Enhance, Ritual casting, Mind control, Illusion magic, Scry, etc. </i><br>
           <i><u>Technology:</u> Laser weapons, Power armour, Spacecraft, Alien technology, Plasma weapons, Holograms, etc. </i><br>
         </details>
       </blockquote><br>
 
-      <blockquote>Block 2:<br>
+      <blockquote>Block 2: Body and item<br>
         <details>
           <summary><b>Movement skills</b>: Use body movement, dexterity and strength in demanding or risky ways. </summary>
           <i><u>Endurance:</u> Run, Jump, Fly, Swim, Borrow, Climb, Brachiate, etc.<br>
@@ -74,7 +75,7 @@ Descriptors are small, clear sentences that define the character, how it differs
         </details>   
       </blockquote><br>
 
-      <blockquote> Block 3:<br>
+      <blockquote> Block 3: Social and perception<br>
         <details>
           <summary><b>Social skills</b>: Interact with other sentient creatures to change their perception, opinions and attitudes.</summary>
           <i> <u>Perception:</u> Deception, Bluff, Trickery, Fast Talk, Whisper, Rumour-Mongering, etc. <br>
@@ -89,7 +90,7 @@ Descriptors are small, clear sentences that define the character, how it differs
         </details>
       </blockquote><br>
 
-      <blockquote>Block 4:<br>
+      <blockquote>Block 4: Jobs and knowledge<br>
         <details>
           <summary><b>Knowledge skills</b>: Knowing, remembering and understanding information previously studied.</summary>
           <i><u>Wilderness:</u> Herbalist, Survival, Weather-lore, Hunting, Navigation, Camping, etc. <br>
@@ -107,6 +108,15 @@ Descriptors are small, clear sentences that define the character, how it differs
         </details>
       </blockquote>
     </details>  
+    
+<details><summary><i>Skills groups</i></summary>
+  In addition to the skill blocks in the previous example, skills could be also divided into job or class groups, to automatically provide charatcers with some training <br>
+  1. Interpersonal skills include the social skills to interact with other creatures, such as negotiating deals and treaties, buying and selling goods, political debates, election campaigns, and infiltrating restricted areas or organizations <i>(Bluff, Diplomacy, Gather Information, Intimidate, Perform, and Sense Motive)</i>.<br>
+  2. Combat skills include any violent actions, such as dungeon crawls, tournaments, assassination attempts, wars, and duels.<br>
+  3. Sneaking skills include any way to gain knowledge of the other side’s plans can be useful for all sorts of things <i>(Disable Device, Disguise, Escape Artist,Hide, and Move Silently)</i><br>
+  4. Thinking skills include all skilsl that help solving a problem by aquire knowledge, such as investigations, tracking and recalling information <i>(Appraise, Gather Information, Knowledge, Spot, and Search </i><br>
+  5. Magic skills.
+  </details>
 
     * *Abilities* represent any particular action that the character has mastered, a signature move or an individual take on a regular skill. Abilities add an extra twist the character's skill and provide the opportunity to add special effects to an action, reflecting critical skill successes. Thus, abilities can be though of as advanced skills.
     > *Fast talking is important for an illusionist to keep the audience both engaged and distracted, it is a deception skill that can have the added effect of confusing the target*  
