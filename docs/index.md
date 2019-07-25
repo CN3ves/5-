@@ -20,7 +20,7 @@ ___
 > Quick start character guidelines:  
 >  1) Choose the character concept.<br>
 >  2) Pick a racial, a profession, a physical and a mental trait.
->  3) Select 2 skills from each of blocks in the skill examples and set all the chosen skills to level 2.<br>
+>  3) Select 2 skills from each of blocks in the skill examples and set all the chosen skills to level 1.<br>
 >  4) Select a skill group and add +1 level to those skills considered under this group.<br>
 >  5) Pick one personal starting ability (a signature move for example).
 >  6) Roll 2d6 for physical, social and mental fatigue. Set the lowest number as the resistance value and the highest as the break-point.
@@ -109,14 +109,14 @@ Descriptors are small, clear sentences that define the character, how it differs
       </blockquote>
     </details>  
     
-<details><summary><i>Skills groups</i></summary>
-  In addition to the skill blocks in the previous example, skills could be also divided into job or class groups, to automatically provide charatcers with some training <br>
-  1. Interpersonal skills include the social skills to interact with other creatures, such as negotiating deals and treaties, buying and selling goods, political debates, election campaigns, and infiltrating restricted areas or organizations <i>(Bluff, Diplomacy, Gather Information, Intimidate, Perform, and Sense Motive)</i>.<br>
-  2. Combat skills include any violent actions, such as dungeon crawls, tournaments, assassination attempts, wars, and duels.<br>
-  3. Sneaking skills include any way to gain knowledge of the other side’s plans can be useful for all sorts of things <i>(Disable Device, Disguise, Escape Artist,Hide, and Move Silently)</i><br>
-  4. Thinking skills include all skilsl that help solving a problem by aquire knowledge, such as investigations, tracking and recalling information <i>(Appraise, Gather Information, Knowledge, Spot, and Search </i><br>
-  5. Magic skills.
-  </details>
+    <details><summary><i>Skills groups example</i></summary>
+      In addition to the skill blocks in the previous example, skills could be also divided into job or class groups, to automatically provide charatcers with some training <br>
+      1. Interpersonal skills include the social skills to interact with other creatures, such as negotiating deals and treaties, buying and selling goods, political debates, election campaigns, and infiltrating restricted areas or organizations <i>(Bluff, Diplomacy, Gather Information, Intimidate, Perform, and Sense Motive)</i>.<br>
+      2. Combat skills include any violent actions, such as dungeon crawls, tournaments, assassination attempts, wars, and duels.<br>
+      3. Sneaking skills include any way to gain knowledge of the other side’s plans can be useful for all sorts of things <i>(Disable Device, Disguise, Escape Artist,Hide, and Move Silently)</i><br>
+      4. Thinking skills include all skilsl that help solving a problem by aquire knowledge, such as investigations, tracking and recalling information <i>(Appraise, Gather Information, Knowledge, Spot, and Search </i><br>
+      5. Magic skills.
+    </details>
 
     * *Abilities* represent any particular action that the character has mastered, a signature move or an individual take on a regular skill. Abilities add an extra twist the character's skill and provide the opportunity to add special effects to an action, reflecting critical skill successes. Thus, abilities can be though of as advanced skills.
     > *Fast talking is important for an illusionist to keep the audience both engaged and distracted, it is a deception skill that can have the added effect of confusing the target*  
