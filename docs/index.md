@@ -21,9 +21,9 @@ ___
 >  1) Choose the character concept.<br>
 >  2) Pick a racial, a profession, a physical and a mental trait.
 >  3) Select 2 skills from each of blocks in the skill examples and set all the chosen skills to level 2.<br>
->  4) Select a skill group and add +1 level to those all skills sensibily unders those groups.<br>
->  4) Pick one personal starting ability (a signature move for example).
->  5) Roll 2d6 for physical, social and mental fatigue. Set the lowest number as the resistance value and the highest as the break-point.
+>  4) Select a skill group and add +1 level to those skills considered under this group.<br>
+>  5) Pick one personal starting ability (a signature move for example).
+>  6) Roll 2d6 for physical, social and mental fatigue. Set the lowest number as the resistance value and the highest as the break-point.
 
 ### 1.1 Descriptors
 *([top]())*
