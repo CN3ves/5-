@@ -9,7 +9,7 @@ ___
   1.1 [Descriptors](#11-descriptors)  
   1.2 [Progression](#12-progression)  
 2. Conflict  
-  2.1 [Structure](#21-structure)  
+  2.1 [Scenes](#21-scenes)  
   2.2 [Actions](#22-actions)  
   2.3 [Resolution](#23-resolution)  
 
@@ -180,17 +180,10 @@ A magical amulet may provide immunity to fire damage twice before re-charging. <
 
 ## 2. Conflict
 
-### 2.1 Structure
+### 2.1 Scenes
 *([top]())* 
-The game is started by the Game Master (GM), which is the player that defines the overall setting and game story. However, besides this main story, each character has an individual motivation, a goal or a story to explore. To accommodate this, **the system is organized into scenes**, where each player may became the scene owner (SO) at any time. A scene is a self-contained part of a story, such as a mission, a dungeon or simply an encounter, that the characters are confronted with. However, even though only one player takes the role of SO at any time, the other players have the opportunity to contribute to the scene with more than their character actions, for example:
-  
-  > Since the skill check result can be immediately interpreted, the player performing the action is allowed to interpret the result of his own action. The next player can then add any interesting details that may introduce his own actions. As such, two players can interpret any single skill check, including adding any required details. Once all players have acted, the scene owner then reinterprets the entire turn taking into account the players suggestions.
-  
-  > After a new scene, place or situation is introduced, the players should add a detail to the scene by suggesting some detail their character notices. This way, all players have the opportunity to contribute to the scene, from simply adding new descriptive details and bringing out different things about the places they visit, from adding a character or hinting on something that could be happening soon.  
-  
-  >  When gathering information in towns, taverns or any other suitable place, the player may be allowed to add rumours, hints and clues to the story.  
-  
-At the beginning of the game, each player picks 3 cards. To **take over the scene** a player must play one card, discarding the others. As a scene owner, the player is allowed to add lore, locations and characters to the game, or even use previously mentioned characters or location and and integrate then into their own scenes *(The GM may rule against the SO decision to solve clear inconsistencies)*. Whenever a new player takes over, the previous scene owner picks 3 new cards. If at the end of a player's scene (quest) no card has been played (there is no SO), the GM takes back the game and continues the main story line.
+
+The game is started by the Game Master (GM), which is the player that defines the overall setting and game story. However, each player may became the scene owner (SO) at any time by playing a card. A scene is a self-contained part of a story, such as a mission, a dungeon or simply an encounter, that the characters are confronted with. At the beginning of the game, each player picks 3 cards. To **take over the scene** a player must play one card, discarding the others. As a scene owner, the player is allowed to add lore, locations and characters to the game, or even use previously mentioned characters or location and and integrate then into their own scenes *(The GM may rule against the SO decision to solve clear inconsistencies)*. Whenever a new player takes over, the previous scene owner picks 3 new cards. If at the end of a player's scene (quest) no card has been played (there is no SO), the GM takes back the game and continues the main story line.
   
   > **Card suits**: The suit of the card played to take over the scene reflects the type of quest or game-play to use:  
   *Hearts are for socializers*: Include a relevant amount of interaction with NPCs (chatty enemies, distressed peasants, negotiating passage).  
@@ -200,34 +193,56 @@ At the beginning of the game, each player picks 3 cards. To **take over the scen
   
   > **Card values**: The card numerical value defines the scene priority, so if there is a tie, the player with the highest card goes first. Non-numeric cards are lower priority. However, Royals represent an encounter with an important enemies *(possibly recurring enemies)*, while Aces represent a new friendly or helpful connection. A Joker is an important event with far reaching implication that may change the current status quo.
 
-Each scene is structured using turns, where **each turn is made by a single intervention from every player**. The turn structure is used in all situations, to give the opportunity for every player to take an action. At the beginning of each turn, the previous actions are resolved, the consequences described and the new situation introduced. Each players then explains how the character will respond to the new situation, with a new turn starting once all character have an intended action. Importantly, **all actions within a turn occurs simultaneously** so there is no clear initiative or turn order. As such, all actions will be resolved in the order the scene owner finds most appropriate. 
-
-**Conflict arises any time the outcome of a players' actions is uncertain** so the result of these actions must be determined before continuing. All conflicts are solved with a 2d6 roll which informs the narrative and the behaviour of the NPCs for the next turn. It is the balance between successful and failed actions that will determine how the overall encounter proceeds. *This is to say that, for example, a dragon does not have to be bashed to a pulp of negative HP to be defeated. Its actions are determined by the number of successes and failures the players accumulated during the conflict, where a certain number of successes (or failures) reflect a new action, approach or consideration by the dragon.*
-
+In addition to running their own game scenes, players will influence the game by:
+  
+  > Interpreting the results of his their own actions from the previous turn (once all players have acted).  
+  
+  > Add a detail to the cene, place or situation by suggesting some detail their character notices. This way, all players have the opportunity to contribute to the scene, from simply adding new descriptive details and bringing out different things about the places they visit, from adding a character or hinting on something that could be happening soon.  
+  
+  >  When gathering information in towns, taverns or any other suitable place, the player may be allowed to add rumours, hints and clues to the story.  
+  
 
 ### 2.2 Actions
 *([top]())* 
-During conflict, **each player choose one other actions each turn**. On top of these action, the character is allowed one free move action and one defence action (if the character is attacked). *As such, all players will be mostly roll 2d6 twice each conflict turn.* Actions are free-form and if the player comes up with an idea, that should be implemented within reason, even if it reacquires creating a new skill. Because of that, **each player must describe their intended action each turn.** Basic actions include:
 
-  > **Attack action**: actively attempt to damage a target *(either with sword or word!)*  
-  > **Manoeuvre action**: try to impose a disadvantage on a target *(disarm, hide, gain terrain advantage, etc.)*  
-  > **Interact action**: movement actions to interact with items, *be it picking them from the floor or from a bag, reloading a weapon or drinking a potion, etc.*  
-  > **Fall back**: the character attempts to temporary move away from the conflict.  
-  > **Move action** (1 free): cover 1 "space" of movement, stand up, tumble or any other movement skill.  
-  > **Defence action** (1 free): protect from an adversary's attack or insult *(dodge, shield, rebuke, etc.)*  
+During conflict, **each player describes any number of the actions the character will do**. Actions are free-form and if the player comes up with an idea, that should be implemented within reason, even if it reacquires creating a new skill. All actions
+should correspond to a skill (or ability) descriptor. If an action requires a non-existent skill, simply add it to the list at level 0. If it wasn't there to start with, it is fair to assume the characters have no experience with it. However, consider the character's concept an traits and, if it would be reasonable for the character to have some experience in the skill, allow it to start at level 1. Basic actions include:
 
-*Note that* most actions called should correspond to a skill (or ability) descriptor. If an action requires a non-existent skill, simply add it to the list at level 0. If it wasn't there to start with, it is fair to assume the characters have no experience with it. However, consider the character's concept an traits and, if it would be reasonable for the character to have some experience in the skill, allow it to start at level 1 or 2.
-  
-___
-   
-**Movement**: In this system, there are no grids, maps or any other sort of objective locations and positions during conflicts. The general layout is described, highlighting particularities that could be used for or against the players. All characters will start in relative positions to the players. To move from one zone to another, an unblocked path (may require a roll) and full turn of movement is required:  
+  > **Attack action**: use a skill to actively attempt to damage a target *(physically, mentally, socially, etc.)*  
+  > **Move action**: use a skill to movement, stand up, tumble, reload a weapon, interact with items, or any other movement skill. 
+  > **Defence action**: use a skill to protect from an adversary's attack or insult *(dodge, shield, rebuke, etc.)*  
+  > **Survey actions**: the character attempts to temporary move away from the conflict and use skills to survey the field or consider the situation.
+
+**Movement**: In this system, there are no grids, maps or any other sort of objective locations and positions during conflicts. The general layout is described, highlighting particularities that could be used for or against the players. All characters will start in relative positions to the players. To move from one zone to another, an unblocked path (may require a roll) and full movement (take a defense action only) is required:  
   
   1. Nearby and can be reached in melee combat.
   2. In range and can be targeted by ranged attacks.
   3. Too far and cannot be targeted. 
 
-*Note that* it is assumed that the characters are always moving during combat, keeping active and ready, shifting positions and generally staying on their toes. As such, 1 move action is always used each turn, unless specified otherwise.  
-> *For example, an interaction action can be part of the move action. A character may wish to stop the default combat moving to focus on reloading his weapon for example. Note that skipping the default move action means the character is not as ready for quick action as the others and may gain a -1 penalty to some skills*
+___
+
+**Raise the stakes**: In addition to simply rolling a 2d6, the player may chose to raise his stakes, that is, to re-roll one die of his choice. Raising the stakes allows the character to push himself further and change the outcome of his action at the cost of gaining 1 damage to one suitable resistances *(by default, mental resistance)*:
+
+  * One success and one failure results in a normal hit
+  * Two successes represent a critical hit, upgrading the effect one step.
+  * Two failures represent a critical failure, downgrading the effect one step, but possibly speeding up the action.
+  
+> A character that failed his initial roll, may pay take resistance damage to re-roll one die: if the roll now succeeds, the action no longer fails however, if it fails twice, it is now a critical failure.   
+> A character that has succeeded, may take damage to its resistance to re-roll one die of the player's choice: a success on the second roll results on a critical hit.  
+
+**Abilities**: Abilities are special "raises". A player may use one ability to automatically succeed raising the steaks of his action. However the effect is to impose a predefined condition (or effect) and will not lead to an upgraded effect (critical hit).
+> A warrior is defending and success. The player decides to raise the stakes using the character's Counter Attack ability. The defence is a critical success now and the enemy is successfully countered (additional effect). 
+
+  > **Manoeuvre action**: use a skill to move or try to impose a disadvantage on a target *(disarm, hide, gain terrain advantage, etc.)*  
+  
+**Manoeuvres**: Given the limited scope of these basic actions, the players may attempt to outmanouvre the target, adding more strategic options to the conflict. Manoeuvres are a special way to *raise the stakes*, reflecting different approaches to conflict. They define a specific trade-off that the chaartcer is betting on. If the character succeeds the action, it gains the bonus, otherwise it gains the penalty. For example:  
+
+  * Gaining a bonus at a skill by taking a penalty on another.  
+> A manoeuvring character may put his efforts on his attack. To gain a +1 attack bonus the player bets a -1 defence penalty. If the attack fails with the +1 bonus, the attack is solved without bonus, but any defense action has a -1 penalty.
+  * Attempt complex actions
+> A manoeuvring character is trying to impose a major disadvantage (like disarming the target). This would require the success of two suitable skills (evade and grab for example). If the character succeeds at both skills, the disadvantage is imposed while if he succeeds at only one, he gains a +1 bonus for next try. Failing both has no effect.  
+  * Sacrifice the action success for an increases number of targets.  
+> A fighter takes a supportive stance to cover the allies' retreat and chaotically swings his sword, trying to hit multiple targets by trading its accuracy. For each extra target, a -1 penalty is imposed on each skill check.   
 
 #### 2.3 Resolution
 *([top]())* 
@@ -237,8 +252,7 @@ When a player wants to do an action, the player calls on it and describes the in
 **Success range**: To determine if an action is successful, roll a 2d6 and sum the result. If that result is contained by the success range, that is, it is one of the success numbers, then the action is successful. The success range root value is 5 and how far it extends, depends on the applicable modifiers:  
   * A positive modifier adds one number (above 5) per each +1 in the modifier. This means that the success range will be all numbers between 5 and 5 + modifier (both included).  
   > If it is determined that the character has a modifier of +3 for the climb skill, then the success range will have the root 5 and 3 more values: 6,7 and 8 (success range is from 5 to 5+3). Success will occur if the rolled sum is one of those 4 values.  
-  * A negative modifier moves the root below 5, one value for each -1 in the modifier.  
-> Another character tries to follow and has the modifier of -2. This means that the success root will be moved down twice, that is from 5 to 3. Success in this case will only occurs if the rolled sum is 3.
+  * A negative modifier moves the root below 5, one value for each -1 in the modifier, However, notice that rolling under 5  (sums of 2,3 or 4) is always a failure. 
   
 **Modifiers**: The modifier that defines the success range is the sum of all bonuses and penalties that apply to the skill being checked. To find the applicable modifier, consider:  
   
@@ -268,39 +282,19 @@ Most basic actions will cause the lowest die as damage by default. Any applicabl
   * Synergy and help: Any time the action of another character or a different skill can logically influence the results of a character's action, a +1 help bonus may be used to tip the scales in favour of success instead of failure. 
 > Generally, successful actions from other players will be evoked to justify the help bonus, but other reason could be considered, such as information from knowledge skills, narrative effects or specific descriptors that may apply. 
   * Decrease the action effect: For some skills particularly those with a willing target, it just doesn't makes sense failing. In this cases, the skill effect may be reduced one step (generally from lowest die to 1).
+> Failing to heal friendly character does not mean that the treatment was in vain, but that its effect was downgraded one step (from highest value to lowest value, for example).
+  * Time to success: How far the failure sum is from the maximun value of the sucess range (5 + modifier) can be though of how long the action takes to succeed, particularly in situations like combat where all charatcer are acting simulataneously.
+> A character fails his defense with a sum of 9, with a modifier of 3. The distance to the success is 9-(5+3), that is, 1. This means that the character will take "one turn" to succeed his defence action, effectively being hit once.
 
-__
+**Narration effects:** To keep thinks interesting and provide continuous opportunities for small twists and turns, when a 1 is rolled in any dice, a narrative effect may be used by adding a but to the action resolution, attenuating the results of the action. So for a failed roll, the player fails but there was something happened as a consequence, while for a successful roll there was a consequence unaccounted.
 
-**Raise the stakes**: In addition to simply rolling a 2d6, the player may chose to raise his stakes, that is, to re-roll one die of his choice. Raising the stakes allows the character to push himself further and change the outcome of his action at the cost of gaining 1 damage to one suitable resistances *(by default, mental resistance)*. The stakes may be raised as many times as a player wants, and the result is the difference between successes and failures accumulated, where:  
+> The player tries to hide before the guards come into the room. He fails to find a place to hide, but he notices an open window through which he can escape.
+> The player successfully spots a secret passage on the wall, but the opening mechanism seems to be stuck.
 
-  * 0 reflects is a normal hit
-  * Positive values represent a critical hit, upgrading the effect one step, impose a condition on the target or gain a +1 bonus against the target (for each extra success).
-  * Negative values represent a critical failure, downgrading the effect one step, impose a negative condition io the charatcer or a -1 penalty on the character (for each extra failure).
-  
-> A character that failed his initial roll, may pay take resistance damage to re-roll one die: if the roll now succeeds, the action no longer fails however, if it fails twice, it is now a critical fail.   
-A character that has succeeded, may take damage to its resistance to re-roll one die of the player's choice: of he success on the second roll, he chooses a suitable ability as a critical hit to impose an extra effect on the target.  
+Similarly, when a 6 is rolled, an and effect may be considering, adding an extra side effect to the action. In this case, regardless of the character success, something else happens.
 
-**Abilities**: Abilities are free "raises". A player may use one ability to raise his action without taking (mental) damage or needing to re-roll one die. However the effect is predefined by the descriptor and cannot be changed as a regular critical hit. Also, the ability is fatigued by the highest die and can only be reused when the fatigue is fully restored.  
-> A warrior is defending and success. The player decides to raise the stakes using the character's Counter Attack ability. The defence is a critical success now and the enemy is successfully countered. Normally, the player would have to re-roll one die and damage one resistance to attempt a counter attack.
-
-**Stances**: Given the limited scope of these basic actions, the players may attempt to take a stance, adding more strategic options to the conflict. Stances are a special way to *raise the stakes*, reflecting different approaches to conflict. Every time a character takes a stance, the player must define a trade-off and gain one skill-specific fatigue penalty. If the character succeeds the action, it gains the bonus, otherwise it takes damage to its (mental) resistance. For example:  
-
-  * Gaining a bonus at a skill by taking a penalty on another.  
-> A manoeuvring character may put his efforts on outsmarting the target to make it trip. To gain a +1 manoeuvre bonus the player bets a -1 defence penalty. The player pays a -1 "trip" skill fatigue penalty and, if the manoeuvring fails, the defence penalty is lifted by taking 1 to resistance.
-  * Sacrificing an action for the chance of repeating another.  
-> A hidden character may gamble away his attack action to gain a new move action, so he can silently sneak past a guard. The player pays a -1 "move silently" skill fatigue penalty and, if the first move works, the attack action is lost and a new silent move may be attempted. However, if the first move fails, the player may still use the attack action taking 1 damage to mental resistance.  
-  * Sacrifice the action success for an increases number of targets.  
-> A fighter takes a supportive stance to cover the allies' retreat and chaotically swings his sword, trying to hit multiple targets by trading its accuracy. The player may gamble away the attack success chances in order to attack an extra target by taking a "sword" skill fatigue penalty equal to the number of attacks.  
-
-___
-
-**Narration effects**: To keep thinks interesting and provide continuous opportunities for small twists and turns, when a 1 is rolled in any dice, a narrative effect may be used by adding a *but* to the action resolution, attenuating the results of the action. So for a failed roll, the player fails *but* there was something happened as a consequence, while for a successful roll there was a consequence unaccounted. 
-> The player tries to hide before the guards come into the room. He fails to find a place to hide, but he notices an open window through which he can escape.  
-The player successfully spots a secret passage on the wall, but the opening mechanism seems to be stuck.  
-
-Similarly, when a 6 is rolled, an *and* effect may be considering, adding an extra side effect to the action. In this case, regardless of the character success, something else happens.  
-> The player tries to hide before the guards come into the room. He fails to find a place to hide and makes loud noises, warning the guards for his presence.  
-The player successfully spots a secret passage on the wall and the trap on it.  
+> The player tries to hide before the guards come into the room. He fails to find a place to hide and makes loud noises, warning the guards for his presence.
+> The player successfully spots a secret passage on the wall and the trap on it.
 
 **Wounds**: Every time a character fails a defence action, it takes 1 to the matching resistance *(physical combat to physical resistance or social for social conflict)*. If this value is greater than the resistance point, the character will gain a -1 fatigue penalty for each point above the resistance point. If the value is above the break-point, the character is unable to continue. At the end of the conflict, a 2d6 must be rolled if the resistance point was broken *(same roll for level up resistances)*. If any die shows a value the below current fatigue penalty, the character gains a wound (physical, mental, social) condition. 
 
