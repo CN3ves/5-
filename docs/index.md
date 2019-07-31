@@ -18,12 +18,12 @@ ___
 ## 1. Character
   
 > Quick start character guidelines:  
->  1) Choose the character concept.<br>
->  2) Pick a racial, a profession, a physical and a mental trait.
->  3) Select 2 skills from each of blocks in the skill examples and set all the chosen skills to level 1.<br>
->  4) Select a skill group and add +1 level to those skills considered under this group.<br>
->  5) Pick one personal starting ability (a signature move for example).
->  6) Roll 2d6 for physical, social and mental fatigue. Set the lowest number as the resistance value and the highest as the break-point.
+>  1) Choose the character concept.  
+>  2) Pick a racial, a profession, a physical and a mental trait.  
+>  3) Select 2 skills from each of blocks in the skill examples and set all the chosen skills to level 1.  
+>  4) Select a skill group and add +1 level to those skills considered under this group.  
+>  5) Pick one personal starting ability (a signature move for example).  
+>  6) Roll 2d6 for physical, social and mental fatigue. Set the lowest number as the resistance value and the highest as the break-point.  
 
 ### 1.1 Descriptors
 *([top]())*
