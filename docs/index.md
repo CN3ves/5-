@@ -1,12 +1,8 @@
-Welcome to my little page for developing and testing the 5+ success range system. This system aims to be a simple and general way to play any type of RPG, with a particular focus on play-by-post (PbP) gaming. The idea is to provide simplified and minimal rules that allow to keep the game flowing at a good narrative pace, while guaranteeing logical and flexible character development. This is a free-form, 2d6 skill-based system, and should be flexible and adaptable enough to reproduce any idea or material from any other source.  
-
-___  
-  
-  
 ### Table of contents
 
 1. Character  
-  1.1 [Descriptors](#11-descriptors)  
+  1.1 [Creation](#1-character)  
+  1.2 [Descriptors](#11-descriptors)  
   1.2 [Progression](#12-progression)  
 2. Conflict  
   2.1 [Scenes](#21-scenes)  
@@ -21,9 +17,8 @@ ___
 >  1) Choose the character concept.  
 >  2) Pick a racial, a profession, a physical and a mental trait.  
 >  3) Select 2 skills from each of blocks in the skill examples and set all the chosen skills to level 1.  
->  4) Select a skill group and add +1 level to those skills considered under this group.  
->  5) Pick one personal starting ability (a signature move for example).  
->  6) Roll 2d6 for physical, social and mental fatigue. Set the lowest number as the resistance value and the highest as the break-point.  
+>  4) Pick one personal starting ability (a signature move for example).  
+>  5) Roll 2d6 for body, mind and fatigue. Set highest value as as the break-point.  
 
 ### 1.1 Descriptors
 *([top]())*
