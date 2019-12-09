@@ -2,8 +2,6 @@
 
 # title
 
-<audio preload="auto" autoplay="autoplay">
-  <source src="https://raw.githubusercontent.com/jerryhoglen/halloween_site/master/halloween_theme.mp3" type="audio/mp3" />
-</audio>
+<audio ref='themeSong' src="https://raw.githubusercontent.com/CN3ves/System/master/docs/Billie-Eilish-bury-a-friend.mp3" autoPlay loop></audio>
 
 ohkj
