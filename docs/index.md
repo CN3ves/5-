@@ -12,8 +12,9 @@
 3. [Further options](#3-further-options)  
 4. [Character progression](#4-character-progression)  
 5. [Character story arc](#5-character-story-arc)  
+___  
 
-1) Introduction
+# 1) Introduction
 ---------------------
 [back to beginning](#table-of-contents)  
 The 5+ system is a light, simple and flexible dice gaming system that can be used in various gaming contexts. 
@@ -31,7 +32,7 @@ many types of character concepts, game styles and genres. Using this framework, 
 the game and setting that best suits them. Understanding descriptors, how to use them and how they 
 interact is the essence of this gaming system.  
 
-2) Descriptors
+# 2) Descriptors
 ---------------------
 [back to beginning](#table-of-contents)  
 Descriptors are small, clear sentences that define someone or something. 
