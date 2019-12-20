@@ -9,9 +9,9 @@
 >  2.4. [Conditions](#24-conditions)
 >3. [Resolutions](#3-characteristics-resolution-methods)  
 >  3.1. [Success Range](#31-success-range)  
->  &nbsp [*Failure handling*](#failure-handling)  
+>    [*Failure handling*](#failure-handling)  
 >  3.2. [Improvement](#32-improvement)  
->  &nbsp &nbsp [*Items*](#items)  
+>    [*Items*](#items)  
 >  3.3. [Recovery](#33-recovery)  
 >4. Challenges  
 >  4.1 Structure  
