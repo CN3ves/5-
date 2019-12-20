@@ -1,7 +1,7 @@
 ## Table of contents
 
 1. [Introduction](#1-introduction)  
-  1.1 [Descriptors](#2-descriptors)  
+  - [Descriptors](#descriptors)  
 2. [Characteristics](#2-descriptor-characteristics)  
   2.1. [Effect](#21-descriptor-effects)  
   2.2. [Counter](#22-descriptor-counter)  
@@ -9,9 +9,9 @@
   2.4. [Conditions](#24-conditions)
 3. [Resolutions](#3-characteristics-resolution-methods)  
   3.1. [Success Range](#31-success-range)  
-      3.1.1 [Failure handling](#311-failure-handling)  
+      - [Failure handling](#failure-handling)  
   3.2. [Improvement](#32-improvement)  
-      3.2.1 [Items](#321-items)  
+      - [Items](#items)  
   3.3. [Recovery](#33-recovery)  
 4. Challenges  
   4.1 Structure  
@@ -38,7 +38,7 @@ the game and setting that best suits them. Understanding descriptors, how to use
 interact is the essence of this gaming system.  
 <sub><sup>[(Table of contents)](#table-of-contents)</sup></sub> 
 
-### 1.1) Descriptors  
+### Descriptors  
 Descriptors are small, clear sentences that define someone or something. 
 Unsurprisingly, adding descriptor together is what allows you to describe anything in your game, 
 including how characters relate to other characters and how it differs from each other. 
