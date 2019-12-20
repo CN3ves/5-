@@ -1,10 +1,10 @@
 ## Table of contents
 
-1. [Intruduction](#1-intro)  
-2. [Descriptors](#2-desc)  
-  2.1. [Effect](#21-effect)  
-  2.2. [Counter](#22-counter)  
-  2.3. [Level](#23-level)  
+1. [Introduction](#1-introduction)  
+2. [Descriptors](#2-descriptors)  
+  2.1. [Effect](#21-descriptor-effects)  
+  2.2. [Counter](#22-descriptor-counter)  
+  2.3. [Level](#23-descriptor-level)  
 
 ---------------------  
 
@@ -65,3 +65,5 @@ Effects describe interactions between descriptors, allow or prevent certain acti
 Counter are used to measure or count, keeping track of relevant numbers associated with the descriptors. The simplest example of such descriptors would be the subgroup <span style="color:green">resistances</span>. In the case of these descriptions, the counter can be interpreted as accumulated damage. Many facets of the character’s resistances can be captured the creation of appropriate resistances. *<span style=“color:grey”>The most obvious resistances is the physical resistance, which would be measure how much physical damage a character has taken, for example, during a combat. However, a spellcaster may strain his mind and accumulate mental damage while characters that push their limits may accumulate fatigue. Other examples would be fear and sanity, or even magic resistance!</span>* However, damage is not the only thing that can be counted. Amongst others, <span style="color:green">attitudes</span> or <span style="color:green">reputations</span> are other examples of measurable descriptors that can be relevant to use. In these cases, the counter may be thought beyond the damage concept, instead reflecting as accumulated social standing or reputation. *<span style=“color:grey”>A character may gain reputation in a new region by helping villagers fight raiders, who will spread the word of his deeds, or may reduce its reputation by suspect of stealing a sacred artifact. Interestingly, one action may reduce one reputation descriptor but decrease another.</span>*  
   
 ### 2.2) Descriptor Level  <sub><sup>[(Contents)](#table-of-contents)</sub></sup>  
+Levels describe the proficiency of the character for a given action. This means that it determines the success chances of a character successfully doing something. If there is a change of success, then it means descriptors with levels are those which effects are uncertain and may fail. *<span style=“color:grey”>A clan's warrior may be trying to pacify a nervous horse to build up his reputation with the clan nobles. Even though the warrior is highly trained handling horses, he may still not succeed in this particular case. The result of this action will depend on the past experiences of the warrior.</span>* Given that a descriptor level correlates with a character’s experience, it may be important that these descriptors can be improved. Descriptors with levels that can also be improved can defined the subgroup of <span style="color:green">skills</span>. As such, skills represent the general adventuring actions a character may attempt to do, that is, every regular action that can fail and be improved, including attack, defense and magic actions! *<span style=“color:grey”>For example, a warrior may have the skill descriptor Sword, which simple allows him to handle a sword and defined how skillful the character is doing so.</span>*  
+ 
