@@ -1,7 +1,7 @@
 ## Table of contents
 
 1. [Introduction](#1-introduction)  
-  [Descriptors](#descriptors)  
+  [*Descriptors*](#descriptors)  
 2. [Characteristics](#2-descriptor-characteristics)  
   2.1. [Effect](#21-descriptor-effects)  
   2.2. [Counter](#22-descriptor-counter)  
@@ -9,9 +9,9 @@
   2.4. [Conditions](#24-conditions)
 3. [Resolutions](#3-characteristics-resolution-methods)  
   3.1. [Success Range](#31-success-range)  
-      [Failure handling](#failure-handling)  
+    [*Failure handling*](#failure-handling)  
   3.2. [Improvement](#32-improvement)  
-      [Items](#items)  
+    [*Items*](#items)  
   3.3. [Recovery](#33-recovery)  
 4. Challenges  
   4.1 Structure  
