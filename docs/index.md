@@ -1,7 +1,7 @@
 ## Table of contents
 
 1. [Introduction](#1-introduction)  
-  &nbsp [*Descriptors*](#descriptors)  
+  <pre> [*Descriptors*](#descriptors)  
 2. [Characteristics](#2-descriptor-characteristics)  
   2.1. [Effect](#21-descriptor-effects)  
   2.2. [Counter](#22-descriptor-counter)  
