@@ -11,13 +11,13 @@
   3.1. [Success Range](#31-success-range)  
     3.1.1 [Failure handling](#311-failure-handling)  
   3.2. [Improvement](#32-improvement)  
-    3.2.1 [Items](#321-items)
+    3.2.1 [Items](#321-items)  
   3.3. [Recovery](#33-recovery)  
-4. Challenges
-  4.1 Structure
-  4.2 Objective  
-  4.3 Actions
-  4.4 Movement
+4. Challenges  
+  4.1 Structure  
+  4.2 Objective   
+  4.3 Actions  
+  4.4 Movement  
   
 ---------------------  
 
