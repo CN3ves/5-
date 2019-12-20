@@ -18,7 +18,7 @@
 >  4.2 Objective   
 >  4.3 Actions  
 >  4.4 Movement  
-x
+
 ## 1) Introduction  
 The 5+ system is a light, simple and flexible dice gaming system that can be used in various gaming contexts. 
 It focuses on free-form narrative and player freedom, instead diving deep into the mechanistic details, keeping 
