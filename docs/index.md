@@ -1,7 +1,8 @@
 ## Table of contents
 
 1. [Introduction](#1-introduction)  
-2. [Descriptors](#2-descriptors)  
+  1.1 [Descriptors](#2-descriptors)  
+2. [Characteristics](#2-descriptor-characteristics)  
   2.1. [Effect](#21-descriptor-effects)  
   2.2. [Counter](#22-descriptor-counter)  
   2.3. [Level](#23-descriptor-level)  
@@ -25,7 +26,7 @@ the game and setting that best suits them. Understanding descriptors, how to use
 interact is the essence of this gaming system.  
 <sub><sup>[(Table of contents)](#table-of-contents)</sup></sub> 
 
-## 2) Descriptors  
+### 1.1) Descriptors  
 Descriptors are small, clear sentences that define someone or something. 
 Unsurprisingly, adding descriptor together is what allows you to describe anything in your game, 
 including how characters relate to other characters and how it differs from each other. 
@@ -59,6 +60,7 @@ accumulated to Health is above its level, the character gains a wound descriptor
 to 0 if the wound level below Health’s tier, otherwise, the character is incapacitated.</span>*  
 <sub><sup>[(Table of contents)](#table-of-contents)</sup></sub> 
 
+## Descriptor Characteristics  
 ### 2.1) Descriptor Effects   
 Effects describe interactions between descriptors, allow or prevent certain actions or even define particular roleplaying guidelines. *<span style="color:grey">These include gaining a +1 bonus to a skill of group of skills, forbid the use of magic by non-casters, simply stating that the character has thermal vision or other non default characteristic for the setting. For example, if the players are playing as underwater creatures, it is expected that that can breathe underwater, but maybe breathing air is not a given, so amphibious effect would need to be described.</span>* Descriptors with effects that not expected to change and are always successfully effective describe stable, long-term characteristics of a character or object. As such, we can define these as a subgroup: <span style="color:green">traits</span>. This way, traits may include what is commonly thought of as ability scores, race, class, job or training. It additionally includes any physical and mental characteristics, personality, flaws, strengths, fears, background and even culture. Generally, they should describe defining features that distinguish the character or object. *<span style=“color:grey”> For example, a strong character may have a trait descriptor Strong - you possess strength above the average person: you gain +1 bonus to non-combat actions involving strength. Even though being strong may not be a rare trait, it distinguishes the character of the average person. Another example would be the trait Moldable – the shape of this object can be changed easily, which distinguish it from most other object which have defined, unchangeable shapes (unless they break!)</span>*   
 <sub><sup>[(Table of contents)](#table-of-contents)</sup></sub>  
