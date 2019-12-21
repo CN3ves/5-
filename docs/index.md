@@ -8,7 +8,7 @@
 >  2.3. [Level](#23-descriptor-level)  
 >    &nbsp;&nbsp;&nbsp; [*Tiers*](#tiers)  
 >  2.4. [Characters](#24-characters)
->3. [Resolutions](#3-characteristic-resolution-methods)  
+>3. [Resolutions](#3-resolution-methods)  
 >  3.1. [Success Range](#31-success-range)  
 >    &nbsp;&nbsp; [*Failure handling*](#failure-handling)  
 >  3.2. [Improvement](#32-improvement)  
@@ -114,7 +114,7 @@ The starting level selection should be done in a way that fits the players and s
   * *<span style="color:grey">Randomised Creation: roll 2d6 for each descriptor and keep the worse value</span>*  
   * *<span style="color:grey">Buy Points: Assign a number of points to spend on each character, with the progression cost being the same as the cummulative levels being bought.</span>*
 
-## 3) Characteristic Resolution Methods  
+## 3) Resolution Methods  
 ### 3.1) Success Range  
 <sub><sup>[(Table of contents)](#table-of-contents)</sup></sub>   
 
