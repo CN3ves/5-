@@ -8,7 +8,7 @@
 >  2.3. [Level](#23-descriptor-level)  
 >    &nbsp;&nbsp;&nbsp; [*Tiers*](#tiers)  
 >  2.4. [Characters](#24-characters)
->3. [Resolutions](#3-characteristics-resolution-methods)  
+>3. [Resolutions](#3-characteristic-resolution-methods)  
 >  3.1. [Success Range](#31-success-range)  
 >    &nbsp;&nbsp; [*Failure handling*](#failure-handling)  
 >  3.2. [Improvement](#32-improvement)  
