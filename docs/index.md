@@ -96,7 +96,7 @@ Each player would have at least one character within the game. Characters are de
 > Skills: Improvise(2:0) – you can do any action as improvisation  
 > Resistances: Physical(0/3:0) – your resistance to physical damage. When the damage is higher than the level, you obtain a physical wound.  
 
-This scaffold can be modified to include traits, training, a starting skill list and abilities as appropriate for the setting and starting character experience. Since levels define the chances of success, selecting starting descriptor levels defines the game difficulty, so you should refer to the table below:  
+This scaffold can be modified to include traits, training, a starting skill list and abilities as appropriate for the setting and starting character experience.  *<span style="color:grey">For example, skills can be futher groups into basic skill groups to ensure balanced chaartcers, such as physical, combat, social, magic, profession, knowledge, etc.</span>* Since levels define the chances of success, selecting starting descriptor levels defines the game difficulty, so you should refer to the table below:  
   
 |Level|Descriptions|Chances|
 |-----|------------|-------|
@@ -113,9 +113,6 @@ The starting level selection should be done in a way that fits the players and s
   * *<span style="color:grey">Fixed or negotiated: Simply assign a suitable level to descriptors</span>*  
   * *<span style="color:grey">Randomised Creation: roll 2d6 for each descriptor and keep the worse value</span>*  
   * *<span style="color:grey">Buy Points: Assign a number of points to spend on each character, with the progression cost being the same as the cummulative levels being bought.</span>*
-
-These look good. I recently saw the Role for Shoes system mention and was going to suggest a basic character that had the "do anything" skill and have it evolve from there. Maybe we can have the base Physical skill, Mind skill and Social skill and so one, to group actions and then level up from there for a truly "level 0" peasant PC. Those skills could hint these groups :)
-  
 
 ## 3) Characteristic Resolution Methods  
 ### 3.1) Success Range  
