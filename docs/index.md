@@ -90,8 +90,32 @@ Levels describe the proficiency of the character for a given action. This means 
 <sub><sup>[(Table of contents)](#table-of-contents)</sup></sub>  
 Levels only descript the chances of using a descriptors successfully. However, the same skill can be used differently by different characters. This means that, even though two charatcer may be using the same skill with the same chances of success, one may still be trying to use a more powerful technique or method than the other. To distinguish distinctingly different methods and approaches, <span style="color:green">stiers</span> of descriptor powers can be associated to their levels, where each tier represent a noticeable increase in descriptor power. *<span style="color:grey">We can think about the difference between to spellcasters, one apprentice and one archmage. If both are trying to cast a fire spell, it is clear that the archmage will succeed casting the same spell more often than the apprentice. However, if the archmage tries to cast a more powerfull spell, his changes of summoning these mmore devastating energies may be the same as those of the aprentice casting the simplest of spells. The difference is on the power and complexity of the spell. Even though magic is a easy example to understand, this concept can be extended to everyother skill: the sword technique may be deadlier, the smithing method may be more efficient, the diplomatic approach may be more convincing, etc.
 
-### 2.4) Characters
-<sub><sup>[(Table of contents)](#table-of-contents)</sup></sub> 
+### 2.4) Characters 
+<sub><sup>[(Table of contents)](#table-of-contents)</sup></sub>  
+Each player would have at least one character within the game. Characters are defined by their descriptors, but the character creation process depends on the theme and aim of the game and should be agreed upon at the set up. A character can be as simple as:
+> Skills: Improvise(2:0) – you can do any action as improvisation
+> Resistances: Physical(0/3:0) – your resistance to physical damage. When the damage is higher than the level, you obtain a physical wound.
+This scaffold can be modified to include traits, training, a starting skill list and abilities as appropriate for the setting and starting character experience. Since levels define the chances of success, selecting starting descriptor levels defines the game difficulty, so you should refer to the table below:  
+  
+|Level|Descriptions|Chances|
+|-----|------------|-------|
+|  0  | Incompetent|  ~10% |
+|  1  | Novice     |  ~25% |
+|  2  | Trained    |  ~40% |
+|  3  | Competent  |  ~50% | 
+|  4  | Proficient |  ~70% |
+|  5  | Specialist |  ~75% |
+|  6  | Expert     |  ~80% |
+
+The level selection can be done using any method, for example:
+Fixed or negotiated: Simply assign a suitable level to descriptors
+ Randomised Creation: roll 2d6 for each descriptor and keep the worse value
+ Buy Points: Assign a number of points to spend on each character, with the progression cost being the same as the level being bought.
+
+These look good. I recently saw the Role for Shoes system mention and was going to suggest a basic character that had the "do anything" skill and have it evolve from there. Maybe we can have the base Physical skill, Mind skill and Social skill and so one, to group actions and then level up from there for a truly "level 0" peasant PC. Those skills could hint these groups :)
+
+In comparison, if traits describe what the characters are, skills describe what the characters do and resistances  how much they can take 
+  
 
 ## 3) Characteristic Resolution Methods  
 ### 3.1) Success Range  
