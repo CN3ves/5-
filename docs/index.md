@@ -108,11 +108,11 @@ This scaffold can be modified to include traits, training, a starting skill list
 |  5  | Specialist |  ~75% |
 |  6  | Expert     |  ~80% |
 
-The starting level selection should be done in a way that fits the players and setting best and should refelct the character's overall concept, *<span style="color:grey">for example:  
+The starting level selection should be done in a way that fits the players and setting best and should refelct the character's overall concept, *<span style="color:grey">for example:</span>*  
   
-  * Fixed or negotiated: Simply assign a suitable level to descriptors  
-  * Randomised Creation: roll 2d6 for each descriptor and keep the worse value  
-  * Buy Points: Assign a number of points to spend on each character, with the progression cost being the same as the cummulative levels being bought.</span>
+  * *<span style="color:grey">Fixed or negotiated: Simply assign a suitable level to descriptors</span>*  
+  * *<span style="color:grey">Randomised Creation: roll 2d6 for each descriptor and keep the worse value</span>*  
+  * *<span style="color:grey">Buy Points: Assign a number of points to spend on each character, with the progression cost being the same as the cummulative levels being bought.</span>*
 
 These look good. I recently saw the Role for Shoes system mention and was going to suggest a basic character that had the "do anything" skill and have it evolve from there. Maybe we can have the base Physical skill, Mind skill and Social skill and so one, to group actions and then level up from there for a truly "level 0" peasant PC. Those skills could hint these groups :)
   
