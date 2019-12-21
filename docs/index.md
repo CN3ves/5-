@@ -96,17 +96,17 @@ Levels describe the proficiency of the character for a given action. This means 
 ### 3.1) Success Range  
 <sub><sup>[(Table of contents)](#table-of-contents)</sup></sub>   
 
-### 3.2) Failure handling  
+#### Failure handling  
 <sub><sup>[(Table of contents)](#table-of-contents)</sup></sub>  
 
-### 3.3) Improvement  
+### 3.2) Improvement  
 <sub><sup>[(Table of contents)](#table-of-contents)</sup></sub>  
 #### Abilities  
 <sub><sup>[(Table of contents)](#table-of-contents)</sup></sub> 
 #### Items  
 <sub><sup>[(Table of contents)](#table-of-contents)</sup></sub> 
 
-### 3.4) Recovery  
+### 3.3) Recovery  
 <sub><sup>[(Table of contents)](#table-of-contents)</sup></sub>  
 #### Conditions  
 <sub><sup>[(Table of contents)](#table-of-contents)</sup></sub> 
