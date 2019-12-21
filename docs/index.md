@@ -93,8 +93,8 @@ Levels only descript the chances of using a descriptors successfully. However, t
 ### 2.4) Characters 
 <sub><sup>[(Table of contents)](#table-of-contents)</sup></sub>  
 Each player would have at least one character within the game. Characters are defined by their descriptors, but the character creation process depends on the theme and aim of the game and should be agreed upon at the set up. A character can be as simple as:
-> Skills: Improvise(2:0) – you can do any action as improvisation  
-> Resistances: Physical(0/3:0) – your resistance to physical damage. When the damage is higher than the level, you obtain a physical wound.  
+> **Skills**: Improvise(2:0) – you can do any action as improvisation  
+> **Resistances**: Physical(0/3:0) – your resistance to physical damage. When the damage is higher than the level, you obtain a physical wound.  
 
 This scaffold can be modified to include traits, training, a starting skill list and abilities as appropriate for the setting and starting character experience.  *<span style="color:grey">For example, skills can be futher groups into basic skill groups to ensure balanced chaartcers, such as physical, combat, social, magic, profession, knowledge, etc.</span>* Since levels define the chances of success, selecting starting descriptor levels defines the game difficulty, so you should refer to the table below:  
   
