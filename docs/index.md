@@ -87,7 +87,8 @@ Levels describe the proficiency of the character for a given action. This means 
 <sub><sup>[(Table of contents)](#table-of-contents)</sup></sub> 
 
 #### Tiers  
-<sub><sup>[(Table of contents)](#table-of-contents)</sup></sub> 
+<sub><sup>[(Table of contents)](#table-of-contents)</sup></sub>  
+Levels only descript the chances of using a descriptors successfully. However, the same skill can be used differently by different characters. This means that, even though two charatcer may be using the same skill with the same chances of success, one may still be trying to use a more powerful technique or method than the other. To distinguish distinctingly different methods and approaches, <span style="color:green">stiers</span> of descriptor powers can be associated to their levels, where each tier represent a noticeable increase in descriptor power. *<span style="color:grey">We can think about the difference between to spellcasters, one apprentice and one archmage. If both are trying to cast a fire spell, it is clear that the archmage will succeed casting the same spell more often than the apprentice. However, if the archmage tries to cast a more powerfull spell, his changes of summoning these mmore devastating energies may be the same as those of the aprentice casting the simplest of spells. The difference is on the power and complexity of the spell. Even though magic is a easy example to understand, this concept can be extended to everyother skill: the sword technique may be deadlier, the smithing method may be more efficient, the diplomatic approach may be more convincing, etc.
 
 ### 2.4) Characters
 <sub><sup>[(Table of contents)](#table-of-contents)</sup></sub> 
