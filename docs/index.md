@@ -117,12 +117,8 @@ The starting level selection should be done in a way that fits the players and s
 ## 3) Resolution Methods  
 ### 3.1) Success Range  
 <sub><sup>[(Table of contents)](#table-of-contents)</sup></sub>   
-
-
-Success Range
-
 The system resolutions methods depend on characteristics available for a given descriptor, so that these methods may not be callable by all descriptors. <span style="color:green">Success range</span> is the method used when an action’s result is of uncertain. As such, success ranges are called to resolve situation where descriptors with level characteristic are used. This method takes into account both the character descriptors and the challenge itself, integrating all the values that modify the chances of a given action’s success, that is all <span style="color:green">modifiers</span>, into a range of values to which the sum of a 2d6 is compared to. If this sum is within the success range, then the action succeeds as intended. However, if the sum falls outside  the action fails or is somehow incomplete.  
-*<span style="color:grey"If a player rolls 3 and 4 on their 2d6 check to ride a horse fast enough, then their final result is 7. This action will success as intended if 7 is included in the success range. For example, it would success were the success range 5-7, but not 5-6.</span>*  
+*<span style="color:grey">If a player rolls 3 and 4 on their 2d6 check to ride a horse fast enough, then their final result is 7. This action will success as intended if 7 is included in the success range. For example, it would success were the success range 5-7, but not 5-6.</span>*  
 
 To estimate the success range, thus the probability an action will succeed, it is important to consider the base value of 5, which is the default value at which an untrained character succeeds an action.  Lets say then, there the base success range is 5-5 *(including the extremes)*. The upper value of this range can be extended *(hence the name 5+)* by the character’s <span style="color:green">proficiency</span>. The character proficiency is the sum of all bonuses and penalties the character’s descriptors provide. In general, these are the skill or resistance level modified by the trait or condition effects:   
   
