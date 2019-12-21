@@ -118,6 +118,24 @@ The starting level selection should be done in a way that fits the players and s
 ### 3.1) Success Range  
 <sub><sup>[(Table of contents)](#table-of-contents)</sup></sub>   
 
+
+Success Range
+
+The system resolutions methods depend on characteristics available for a given descriptor, so that these methods may not be callable by all descriptors. <span style="color:green">Success range</span> is the method used when an action’s result is of uncertain. As such, success ranges are called to resolve situation where descriptors with level characteristic are used. This method takes into account both the character descriptors and the challenge itself, integrating all the values that modify the chances of a given action’s success, that is all <span style="color:green">modifiers</span>, into a range of values to which the sum of a 2d6 is compared to. If this sum is within the success range, then the action succeeds as intended. However, if the sum falls outside  the action fails or is somehow incomplete.  
+*<span style="color:grey">modifiers</span>* If a player rolls 3 and 4 on their 2d6 check to ride a horse fast enough, then their final result is 7. This action will success as intended if 7 is included in the success range. For example, it would success were the success range 5-7, but not 5-6.</span>  
+
+To estimate the success range, thus the probability an action will succeed, it is important to consider the base value of 5, which is the default value at which an untrained character succeeds an action.  Lets say then, there the base success range is 5-5 *(including the extremes)*. The upper value of this range can be extended *(hence the name 5+)* by the character’s <span style="color:green">proficiency</span>. The character proficiency is the sum of all bonuses and penalties the character’s descriptors provide. In general, these are the skill or resistance level modified by the trait or condition effects:   
+  
+1.	Choose any appropriate descriptor, such as a skill for an active action or a resistance for a passive, instinctive action. Subtract the damage (if available) from the level. 
+2.	To that value, add all trait and condition bonuses and penalties to determine the final proficiency.
+3.	In addition, <span style="color:green">challenge difficulty</span> may provide quick +1 bonus or -1 penalty adjustments to proficiency.
+4.	Add the proficiency to 5 to determine the upper bound of the success range.
+
+For longer running games, the lower value of the range may also be modified. Each challenge will have a <span style="color:green">rank</span>, reflecting the relative difference between the character skill technique and power *(tier)* and that required to overcome the challenge. These modifiers are also added to 5 to determine the success range lower bound. Unless there is a significant difference in difficulty, most challenges’ rank will be 0, meaning that the lower bound of the success range will be 5 except in rare situations.  
+*<span style="color:grey"> A character trying to sneak past the castle guard is facing a challenge that requires a superior level of skill as the action occurs in plain daylight, so the challenge rank is defined as 2 (two tiers above the character). The character has two relevant descriptors: the sneak(4:1) skill and the ninja training trait (+1 bonus). The guards are on alert, since they intercepted a message and are expecting trouble (-1 situational penalty). The resulting upper bound is 5 + 4 (skill level) + 1 (training bonus) -1 (situation) = 9. The lower bound is 5 + 2 (rank) = 7. As such, the range of possible successful values is 7-9, meaning that if the sum of the 2d6 is 7,8 or 9, the character’s action succeeds.</span>
+
+*Note* that, if the upper bound is below the lower bound, the range is invalid, and the character is not capable of succeeding no matter what. This means that, due to incompetence, natural toughness or magical means, the target of the action being effectively immune to the approach taken.
+
 #### Failure handling  
 <sub><sup>[(Table of contents)](#table-of-contents)</sup></sub>  
 
