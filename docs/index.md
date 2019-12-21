@@ -5,14 +5,17 @@
 >2. [Characteristics](#2-descriptor-characteristics)  
 >  2.1. [Effect](#21-descriptor-effects)  
 >  2.2. [Counter](#22-descriptor-counter)  
->  2.3. [Level](#23-descriptor-level)  
->  2.4. [Conditions](#24-conditions)
+>  2.3. [Level](#23-descriptor-level) 
+>    &nbsp;&nbsp; [*Tiers*](#tiers)
+>  2.4. [Characters](#24-charatcters)
 >3. [Resolutions](#3-characteristics-resolution-methods)  
 >  3.1. [Success Range](#31-success-range)  
 >    &nbsp;&nbsp; [*Failure handling*](#failure-handling)  
 >  3.2. [Improvement](#32-improvement)  
+>    &nbsp;&nbsp; [*Abilities*](#abilities)
 >    &nbsp;&nbsp; [*Items*](#items)  
 >  3.3. [Recovery](#33-recovery)  
+>    &nbsp;&nbsp; [*Conditions*](#conditions)
 >4. Challenges  
 >  4.1 Structure  
 >  4.2 Objective   
@@ -36,7 +39,7 @@ the game and setting that best suits them. Understanding descriptors, how to use
 interact is the essence of this gaming system.  
 <sub><sup>[(Table of contents)](#table-of-contents)</sup></sub> 
 
-### Descriptors  
+#### Descriptors  
 Descriptors are small, clear sentences that define someone or something. 
 Unsurprisingly, adding descriptor together is what allows you to describe anything in your game, 
 including how characters relate to other characters and how it differs from each other. 
@@ -83,7 +86,10 @@ Counter are used to measure or count, keeping track of relevant numbers associat
 Levels describe the proficiency of the character for a given action. This means that it determines the success chances of a character successfully doing something. If there is a change of success, then it means descriptors with levels are those which effects are uncertain and may fail. *<span style="color:grey">A clan's warrior may be trying to pacify a nervous horse to build up his reputation with the clan nobles. Even though the warrior is highly trained handling horses, he may still not succeed in this particular case. The result of this action will depend on the past experiences of the warrior.</span>* Given that a descriptor level correlates with a character’s experience, it may be important that these descriptors can be improved. Descriptors with levels that can also be improved can defined the subgroup of <span style="color:green">skills</span>. As such, skills represent the general adventuring actions a character may attempt to do, that is, every regular action that can fail and be improved, including attack, defense and magic actions! *<span style="color:grey">For example, a warrior may have the skill descriptor Sword, which simple allows him to handle a sword and defined how skillful the character is doing so.</span>*  
 <sub><sup>[(Table of contents)](#table-of-contents)</sup></sub> 
 
-### 2.4) Conditions
+#### Tiers  
+<sub><sup>[(Table of contents)](#table-of-contents)</sup></sub> 
+
+### 2.4) Characters
 <sub><sup>[(Table of contents)](#table-of-contents)</sup></sub> 
 
 ## 3) Characteristic Resolution Methods  
@@ -95,6 +101,12 @@ Levels describe the proficiency of the character for a given action. This means 
 
 ### 3.3) Improvement  
 <sub><sup>[(Table of contents)](#table-of-contents)</sup></sub>  
+#### Abilities  
+<sub><sup>[(Table of contents)](#table-of-contents)</sup></sub> 
+#### Items  
+<sub><sup>[(Table of contents)](#table-of-contents)</sup></sub> 
 
 ### 3.4) Recovery  
 <sub><sup>[(Table of contents)](#table-of-contents)</sup></sub>  
+#### Conditions  
+<sub><sup>[(Table of contents)](#table-of-contents)</sup></sub> 
