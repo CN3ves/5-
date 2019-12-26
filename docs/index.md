@@ -11,6 +11,7 @@
 >3. [Resolutions](#3-resolution-methods)  
 >  3.1. [Success Range](#31-success-range)  
 >    &nbsp;&nbsp; [*Failure handling*](#failure-handling)  
+>    &nbsp;&nbsp; [*Helping*](#helping)
 >  3.2. [Improvement](#32-improvement)  
 >    &nbsp;&nbsp;&nbsp; [*Abilities*](#abilities)  
 >    &nbsp;&nbsp;&nbsp; [*Items*](#items)  
@@ -133,6 +134,43 @@ For longer running games, the lower value of the range may also be modified. Eac
 *Note* that, if the upper bound is below the lower bound, the range is invalid, and the character is not capable of succeeding no matter what. This means that, due to incompetence, natural toughness or magical means, the target of the action being effectively immune to the approach taken.
 
 #### Failure handling  
+If the resulting sum of the 2d6 is within the success, 
+then the action’s result is as intended. But if the result 
+is outside this range, the action doesn’t have to simply fail. 
+The most important thing to keep in mind is that failure should 
+keep the story flowing instead of bringing it to a halt. 
+As such, failure handling should assume that, unless something happens, 
+given time and resources, characters would eventually complete the tasks 
+they are familiar with. From this it follows that, regardless of the original 
+result, players should not repeat the same the exact action for the same exact 
+purpose, unless there was a relevant change in the conditions.
+*<span style="color:grey"> If you are trying to jump a wall and you fail, you cannot 
+repeat the jump in the same conditions, because the first check already determines that 
+you are not skilled enough to do so under those circumstances. You may, 
+however, try jumping again if you were to find a better place or use some supporting equipment, 
+such as a wooden stool. </span>*. If and action could be 
+repeated until a success occurs, then such an action should be 
+considered an auto-success as it will have no impact in the narrative 
+(the player would jump the wall eventually!). 
+
+The lack of repetition forces the players to explain why the action 
+is not possible as well as promoting thinking of other ways of overcoming 
+the same obstacle. So failure is an opportunity to add complications, twists and 
+new developments to the story that the players need to consider.
+
+*<span style="color:grey">  
+
+* For simple challenges, the action may interrupted instead of failing, preventing the action from being repeated (a guard shows up, the lock breaks, etc.) The action fails not because the character isn’t skilled enough to do it, but because something happened while he was attempting it. 
+* if the challenge involves information, failure can result in partial recalling, confusing news, gathering rumours or even misleading or misinformation.
+* For more complex challenges, failure may instead result in a reduced effect instead of a full effect, for example, each value away from the success range, damage is reduced by 1. Likewise, less information can be discovered, deciphered or recovered from documents or investigations.
+* On the other hand if the resulting effect is negative, the action could fails with a negative effect such as accumulation of frustration resistance counter.
+</span>  
+
+#### Helping  
+
+if multiple players try the same action simultaneously, one may receive help from the others  when the situation logically allows it. In such cases, any actions from another character that can logically influence the outcome of a character’s action, may allow a +1 help bonus to be used to tip the scales in favour of success, effectively extending both character’s success range. GREY If the players are trying to pick a lock of a small and delicate box, it is possible for two characters to attempt the action, where one character tries to pick the lock while the other guides or supports the first character to complete its task by providing a +1 help. </span>
+
+Besides helping in a single action, it is possible for characters to help each other using different actions. On such cases, the help action needs to succeed to provide the help bonus. GREY One character tries to jump a wall and the other will provide a push with his hands </span>. Within this case, it may also be possible for a character to help all others characters in their various actions simultaneously, instead of focusing on the action from a  single character. In such case, all other characters will gain the help bonus from one single action, however, the action will suffer from a -1 difficulty penalty. GREY A character can try to distract or outmanoeuvre an adversary during combat, forcing it into a disadvantageous position and providing a +1 bonus to all actions from any other character against that adversary. </span>
 <sub><sup>[(Table of contents)](#table-of-contents)</sup></sub>  
 
 ### 3.2) Improvement  
