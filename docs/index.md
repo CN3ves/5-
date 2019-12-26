@@ -11,7 +11,7 @@
 >3. [Resolutions](#3-resolution-methods)  
 >  3.1. [Success Range](#31-success-range)  
 >    &nbsp;&nbsp; [*Failure handling*](#failure-handling)  
->    &nbsp;&nbsp; [*Helping*](#helping)
+>    &nbsp;&nbsp; [*Helping*](#helping)  
 >  3.2. [Improvement](#32-improvement)  
 >    &nbsp;&nbsp;&nbsp; [*Abilities*](#abilities)  
 >    &nbsp;&nbsp;&nbsp; [*Items*](#items)  
@@ -168,9 +168,29 @@ new developments to the story that the players need to consider.
 
 #### Helping  
 
-if multiple players try the same action simultaneously, one may receive help from the others  when the situation logically allows it. In such cases, any actions from another character that can logically influence the outcome of a character’s action, may allow a +1 help bonus to be used to tip the scales in favour of success, effectively extending both character’s success range. GREY If the players are trying to pick a lock of a small and delicate box, it is possible for two characters to attempt the action, where one character tries to pick the lock while the other guides or supports the first character to complete its task by providing a +1 help. </span>
+if multiple players try the same action simultaneously, 
+one may receive help from the others when the situation 
+logically allows it. In such cases, any actions from another 
+character that can logically influence the outcome of a character’s action, 
+may allow a +1 help bonus to be used to tip the scales in favour of success, 
+effectively extending both character’s success range. 
+*<span style="color:grey"> If the players are trying to pick a lock of a small 
+and delicate box, it is possible for two characters to attempt the action, 
+where one character tries to pick the lock while the other guides or supports 
+the first character to complete its task by providing a +1 help. </span>*
 
-Besides helping in a single action, it is possible for characters to help each other using different actions. On such cases, the help action needs to succeed to provide the help bonus. GREY One character tries to jump a wall and the other will provide a push with his hands </span>. Within this case, it may also be possible for a character to help all others characters in their various actions simultaneously, instead of focusing on the action from a  single character. In such case, all other characters will gain the help bonus from one single action, however, the action will suffer from a -1 difficulty penalty. GREY A character can try to distract or outmanoeuvre an adversary during combat, forcing it into a disadvantageous position and providing a +1 bonus to all actions from any other character against that adversary. </span>
+Besides helping in a single action, it is possible for characters to help each other 
+using different actions. On such cases, the help action needs to succeed to provide 
+the help bonus.
+*<span style="color:grey">One character tries to jump a wall and the other will 
+provide a push with his hands </span>*. Within this case, it may also be possible 
+for a character to help all others characters in their various actions simultaneously, 
+instead of focusing on the action from a  single character. In such case, all other characters 
+will gain the help bonus from one single action, however, the action will suffer from a 
+-1 difficulty penalty. 
+*<span style="color:grey">A character can try to distract or outmanoeuvre an adversary during combat, 
+forcing it into a disadvantageous position and providing a +1 bonus to all actions from any other 
+character against that adversary. </span>*
 <sub><sup>[(Table of contents)](#table-of-contents)</sup></sub>  
 
 ### 3.2) Improvement  
