@@ -12,11 +12,11 @@
 >  3.1. [Success Range](#31-success-range)  
 >    &nbsp;&nbsp; [*Failure handling*](#failure-handling)  
 >    &nbsp;&nbsp; [*Helping*](#helping)  
+>  3.3. [Recovery](#33-recovery)  
+>    &nbsp;&nbsp; [*Conditions*](#conditions)  
 >  3.2. [Improvement](#32-improvement)  
 >    &nbsp;&nbsp;&nbsp; [*Abilities*](#abilities)  
 >    &nbsp;&nbsp;&nbsp; [*Items*](#items)  
->  3.3. [Recovery](#33-recovery)  
->    &nbsp;&nbsp; [*Conditions*](#conditions)
 >4. Challenges  
 >  4.1 Structure  
 >  4.2 Objective   
@@ -193,7 +193,14 @@ forcing it into a disadvantageous position and providing a +1 bonus to all actio
 character against that adversary. </span>*
 <sub><sup>[(Table of contents)](#table-of-contents)</sup></sub>  
 
-### 3.2) Improvement  
+
+### 3.2) Recovery  
+<sub><sup>[(Table of contents)](#table-of-contents)</sup></sub>  
+#### Conditions  
+<sub><sup>[(Table of contents)](#table-of-contents)</sup></sub> 
+
+
+### 3.3) Improvement  
 In addition to representing actions that can fail, descriptors having a level characteristic also represent action that can be improved. This means that, besides having an associated success range and action resolution mechanism, they must also have a levelling mechanism. 
 
 In the 5+ system, characters do not level up or gain power at certain points in a deterministic way. They age and gain experience, meaning that they must use descriptors (such as skills) to improve through trial and error. As such, each time a descriptor is used, there is a small change that the character notices or learns something useful, improving his chances from then on. 
@@ -209,9 +216,13 @@ Consistent with the increase of power, mastery of a new technique or even just t
 One default ability to consider is raising the action stakes. This ability allows the characters to push their limits and attempt to improve the result of their action. For the cost of 1 fatigue damage, the dice can be re-rolled to either revert a failure or strengthen a success, allowing for both critical hits and critical fumbles to occur at key moments of the adventure.
 <sub><sup>[(Table of contents)](#table-of-contents)</sup></sub> 
 #### Items  
-<sub><sup>[(Table of contents)](#table-of-contents)</sup></sub> 
+Besides improving the character's own proficiency and power by increasing descriptors’, characters may also have improve by acquiring more powerful <span style="color:green">equipment </span>. Equipment can be considered as a sub-group of descriptors, describing those effect associated with a particular item. As such, equipment is free-form and can be defined on the fly. In this way, equipment is a very flexible way to promote character progression as it can be used to influence any of the character’s own descriptors.  *<span style="color:grey">Depending on the game, these descriptors may have all characteristics, where the level reflects the item’s durability, the damage the damage accumulated during usage, the tier the minimum proficiency required to use the item effectively </spam>*. Because equipment is free-form, the number of possible effects combinations makes its used almost unlimited. However, there are a number of basic options that can be considered:
 
-### 3.3) Recovery  
-<sub><sup>[(Table of contents)](#table-of-contents)</sup></sub>  
-#### Conditions  
+* Items can restrict access to certain descriptors (skills or abilities): *<span style="color:grey">A common case would be that of weapons, where a character isn’t be able to use a the axe descriptor without a having an axe equipped. A more extreme example could be to limit spell-casting to the consumption of casting ingredients or possession of focus items, where a caster may simply not be able to cast a spell without "water item" equipped (or a spell book). </span>*
+
+* Items of higher or lower quality (or items that are blessed or cursed), may provide bonus or penalties to a descriptor or action: *<span style="color:grey"> A well crafted wooden spear may still be too weak to cause meaningful damage a thick scaled dragon the same way that a potion of strength will add a bonus to all streght related tasks </span>*
+
+* Items may be used to protect the characters: *<span style="color:grey"> Particularly true for armour and magical items, these items can either reduce or prevent certain types of damage (physical, mental, magical, etc.) A leather plate armour may provide a simple damage reduction by 1 for a succcessful physical resistance check, while a full plate armour may increase physical resistance by 2, add a -1 weight penalty to action requiring dexterity, reduce damage by 3 on successful resistance and body movement and prevent damage from light weapons completely. On the other hand, a magical amulet may provide immunity to fire damage twice before re-charging or a wind armour reduce ranged damage taken by 1. </span>*
+
+* Magical or other specific items allow for more general powers or effects to be imbued in the equipment: *<span style="color:grey"> Something as mundane as a poisoned dagger can unlock a poison ability, which can be called 3 times to induce poison on a target or a warhammer having the stun effect when a 6 is rolled. More exotic effect can be considered such as a scroll of thunder having a thunder spell descriptor that can be called to use the thunder spell at the specified level or a mantle of rose scent allowing automatic success convincing blind creatures the character is a talking rose. </span>*
 <sub><sup>[(Table of contents)](#table-of-contents)</sup></sub> 
