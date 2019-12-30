@@ -12,9 +12,9 @@
 >  3.1. [Success Range](#31-success-range)  
 >    &nbsp;&nbsp; [*Failure handling*](#failure-handling)  
 >    &nbsp;&nbsp; [*Helping*](#helping)  
->  3.2. [Recovery](#33-recovery)  
+>  3.2. [Recovery](#32-recovery)  
 >    &nbsp;&nbsp; [*Conditions*](#conditions)  
->  3.3. [Improvement](#32-improvement)  
+>  3.3. [Improvement](#33-improvement)  
 >    &nbsp;&nbsp;&nbsp; [*Abilities*](#abilities)  
 >    &nbsp;&nbsp;&nbsp; [*Items*](#items)  
 >4. Challenges  
