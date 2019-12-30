@@ -7,7 +7,7 @@
 >  2.2. [Counter](#22-descriptor-counter)  
 >  2.3. [Level](#23-descriptor-level)  
 >    &nbsp;&nbsp;&nbsp; [*Tiers*](#tiers)  
->  2.4. [Characters](#24-characters)
+>  &nbsp;&nbsp; [Characters](#characters)
 >3. [Resolutions](#3-resolution-methods)  
 >  3.1. [Success Range](#31-success-range)  
 >    &nbsp;&nbsp; [*Failure handling*](#failure-handling)  
@@ -88,11 +88,10 @@ Levels describe the proficiency of the character for a given action. This means 
 <sub><sup>[(Table of contents)](#table-of-contents)</sup></sub> 
 
 #### Tiers  
+Levels only descript the chances of using a descriptors successfully. However, the same skill can be used differently by different characters. This means that, even though two charatcer may be using the same skill with the same chances of success, one may still be trying to use a more powerful technique or method than the other. To distinguish distinctingly different methods and approaches, <span style="color:green">stiers</span> of descriptor powers can be associated to their levels, where each tier represent a noticeable increase in descriptor power. *<span style="color:grey">We can think about the difference between to spellcasters, one apprentice and one archmage. If both are trying to cast a fire spell, it is clear that the archmage will succeed casting the same spell more often than the apprentice. However, if the archmage tries to cast a more powerfull spell, his changes of summoning these mmore devastating energies may be the same as those of the aprentice casting the simplest of spells. The difference is on the power and complexity of the spell. Even though magic is a easy example to understand, this concept can be extended to everyother skill: the sword technique may be deadlier, the smithing method may be more efficient, the diplomatic approach may be more convincing, etc.</span> 
 <sub><sup>[(Table of contents)](#table-of-contents)</sup></sub>  
-Levels only descript the chances of using a descriptors successfully. However, the same skill can be used differently by different characters. This means that, even though two charatcer may be using the same skill with the same chances of success, one may still be trying to use a more powerful technique or method than the other. To distinguish distinctingly different methods and approaches, <span style="color:green">stiers</span> of descriptor powers can be associated to their levels, where each tier represent a noticeable increase in descriptor power. *<span style="color:grey">We can think about the difference between to spellcasters, one apprentice and one archmage. If both are trying to cast a fire spell, it is clear that the archmage will succeed casting the same spell more often than the apprentice. However, if the archmage tries to cast a more powerfull spell, his changes of summoning these mmore devastating energies may be the same as those of the aprentice casting the simplest of spells. The difference is on the power and complexity of the spell. Even though magic is a easy example to understand, this concept can be extended to everyother skill: the sword technique may be deadlier, the smithing method may be more efficient, the diplomatic approach may be more convincing, etc.</span>
 
-### 2.4) Characters 
-<sub><sup>[(Table of contents)](#table-of-contents)</sup></sub>  
+#### Characters 
 Each player would have at least one character within the game. Characters are defined by their descriptors, but the character creation process depends on the theme and aim of the game and should be agreed upon at the set up. A character can be as simple as:
 > **Skills**: Improvise(2:0) – you can do any action as improvisation  
 > **Resistances**: Physical(0/3:0) – your resistance to physical damage. When the damage is higher than the level, you obtain a physical wound.  
@@ -113,7 +112,8 @@ The starting level selection should be done in a way that fits the players and s
   
   * *<span style="color:grey">Fixed or negotiated: Simply assign a suitable level to descriptors</span>*  
   * *<span style="color:grey">Randomised Creation: roll 2d6 for each descriptor and keep the worse value</span>*  
-  * *<span style="color:grey">Buy Points: Assign a number of points to spend on each character, with the progression cost being the same as the cummulative levels being bought.</span>*
+  * *<span style="color:grey">Buy Points: Assign a number of points to spend on each character, with the progression cost being the same as the cummulative levels being bought.</span>* 
+<sub><sup>[(Table of contents)](#table-of-contents)</sup></sub>  
 
 ## 3) Resolution Methods  
 ### 3.1) Success Range  
