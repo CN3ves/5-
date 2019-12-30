@@ -13,6 +13,7 @@
 >    &nbsp;&nbsp; [*Failure handling*](#failure-handling)  
 >    &nbsp;&nbsp; [*Helping*](#helping)  
 >  3.2. [Recovery](#32-recovery)  
+>    &nbsp;&nbsp; [*Wounds*](#wounds)   
 >    &nbsp;&nbsp; [*Conditions*](#conditions)  
 >  3.3. [Improvement](#33-improvement)  
 >    &nbsp;&nbsp;&nbsp; [*Abilities*](#abilities)  
@@ -195,9 +196,20 @@ character against that adversary. </span>*
 
 
 ### 3.2) Recovery  
+Any descriptors having a counter can accumulate damage and so, may be allowed to recover. However, note that not all of these descriptors by recover naturally. *<span style="color:grey"> While minor scratches will heal with time, a damaged reputation may only the healable with actions. </span>*. As such, the way these descriptors recover damage will vary with the nature of the descriptor, as recovering from mental stress is different than recovering from battle wounds. Most often than not, recovery is associated with either rest, healing in a safe and quiet place for some time, or a specific task, such as finding proof of a set up to recover one’s reputation.
+
+One important consideration in relation to rest is that it must be a limited resource at player’s disposal. So, during each rest (or day), the players may be allowed to take only so many recovery actions. These actions may include:  
+* Healing may be automatic. *<span style="color:grey"> Simply resting and enjoying a peaceful time for a while may allow the recovery of resistance such as stress, frustration or even dissipate magical energies. </span>*
+* Healing may require the consumption of items. *<span style="color:grey"> One could recover fatigue resistance just by taking a break, but it could also be considered that food must be consumed to restore the body’s energy or potions may be used to recover physical wounds. </span>*
+* Healing may require an action and thus a check by one character. In these cases, using skills with appropriate items and in the appropriate conditions upgrades the effect. *<span style="color:grey"> For example, battle damaged accumulated to the physical resistance may require a medicine-type skill check to heal. Doing so with disinfectant liquids and bandages will obtain better results than with improvised matherials </span>* 
 <sub><sup>[(Table of contents)](#table-of-contents)</sup></sub>  
+
+#### Wounds   
+The limitation of rest actions is important because, if accumulated damage is not properly healed, it may become greater than the resistance level. If that happens, the character gains a related (minor) <span style="color:green"> wound</span> that provides constant penalty equal to its level. If the wound level is greater than the resistance tier, then the character is incapacitated and gains a (major) wound trait. However, gaining a wound immediately restore all accumulated damage and the resistance level becomes that of the tier equal to the current wound level. *<span style="color:grey"> For example, a dragon burns away the character’s tier 1 resistance with 7 damage. The character’s will gain a minor burned wound, imposing a constant -1 penalty to all actions 1 damage to the tier 2 resistance. </span>*Minor wounds require simple treatment that can be provided by anyone, but major wounds require trained medical treatment, access to adequate medical supplies and long resting as these are considerable handicaps, such as broken limbs, major confusion or memory loss. 
+<sub><sup>[(Table of contents)](#table-of-contents)</sup></sub>  
+
 #### Conditions  
-<sub><sup>[(Table of contents)](#table-of-contents)</sup></sub> 
+Associated with damage and wounds, some special items, abilities or critical hits may cause specific effects. These temporary effects can be considered the <span style="color:green"> conditions </span>subgroup of descriptors (in which wounds may be included!). These descriptors are a varied group that diseases, magic effects, character conscious states, moving restriction or any other conditions that can be gained and lost easily. Because these descriptors are temporary, it is important to consider how they may be removed (naturally, with a action, consuming an appropriate item, through magic, etc.) On the other side, some of these descriptors may lead to long lasting or permanent effect if untreated for too long, to a worsening condition may be important. *<span style="color:green"> A character is bitten by a snake, gaining the descriptor Poisoned(3:2) - you are under the effect of hallucinogenic poison and gain penalty to perception equal to the descriptor tier. A successful medical check decreases the level of the descriptor. If the level is reduced to 0, the tier is decrease by 1 and the level restarted at 3 until reduced to tier 0. Physical resistance checks are required every time a 1 is rolled and, if failed, the poison corrodes deeper gaining a level. If the descriptor reaches tier 4, the character is permanently affected, gaining the paranoids trait. </span>*<sub><sup>[(Table of contents)](#table-of-contents)</sup></sub> 
 
 
 ### 3.3) Improvement  
