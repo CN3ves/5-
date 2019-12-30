@@ -1,23 +1,24 @@
 ## Table of contents
 
 >1. [Introduction](#1-introduction)  
->  &nbsp;&nbsp; [*Descriptors*](#descriptors)  
+>  &nbsp;&nbsp; - [*Descriptors*](#descriptors)  
 >2. [Characteristics](#2-descriptor-characteristics)  
 >  2.1. [Effect](#21-descriptor-effects)  
 >  2.2. [Counter](#22-descriptor-counter)  
 >  2.3. [Level](#23-descriptor-level)  
->    &nbsp;&nbsp;&nbsp; [*Tiers*](#tiers)  
->  &nbsp;&nbsp;[*Characters*](#characters)
+>    &nbsp;&nbsp;&nbsp; - [*Tiers*](#tiers)  
+>  &nbsp;&nbsp; - [*Characters*](#characters)
 >3. [Resolutions](#3-resolution-methods)  
 >  3.1. [Success Range](#31-success-range)  
->    &nbsp;&nbsp; [*Failure handling*](#failure-handling)  
->    &nbsp;&nbsp; [*Helping*](#helping)  
+>    &nbsp;&nbsp; - [*Failure handling*](#failure-handling)  
+>    &nbsp;&nbsp; - [*Helping*](#helping)  
+>    &nbsp;&nbsp; - [*Special values*](#special-values)   
 >  3.2. [Recovery](#32-recovery)  
->    &nbsp;&nbsp; [*Wounds*](#wounds)   
->    &nbsp;&nbsp; [*Conditions*](#conditions)  
+>    &nbsp;&nbsp; - [*Wounds*](#wounds)   
+>    &nbsp;&nbsp; - [*Conditions*](#conditions)  
 >  3.3. [Improvement](#33-improvement)  
->    &nbsp;&nbsp;&nbsp; [*Abilities*](#abilities)  
->    &nbsp;&nbsp;&nbsp; [*Items*](#items)  
+>    &nbsp;&nbsp;&nbsp; - [*Abilities*](#abilities)  
+>    &nbsp;&nbsp;&nbsp; - [*Items*](#items)  
 >4. Challenges  
 >  4.1 Structure  
 >  4.2 Objective   
@@ -194,6 +195,8 @@ forcing it into a disadvantageous position and providing a +1 bonus to all actio
 character against that adversary. </span>*
 <sub><sup>[(Table of contents)](#table-of-contents)</sup></sub>  
 
+#### Special Values  
+Special values like 1 or 6 may be considered when defining the effects of some descriptors such as conditions and abilities (see below). In such cases, rolling a 1 can be seen as a bad outcome and rolling a 6 a good outcome. *<span style="color:grey"> For example an ability effect dependent of rolling a 6, or additional fatigue damage taken when rolling a one, which allows for a more flexible and unpredictable ability generation. Likewise, a condition may worsen when a 1 is rolled or only be fully healed when a 6 is rolled.</span>*  <sub><sup>[(Table of contents)](#table-of-contents)</sup></sub>  
 
 ### 3.2) Recovery  
 Any descriptors having a counter can accumulate damage and so, may be allowed to recover. However, note that not all of these descriptors by recover naturally. *<span style="color:grey"> While minor scratches will heal with time, a damaged reputation may only the healable with actions. </span>*. As such, the way these descriptors recover damage will vary with the nature of the descriptor, as recovering from mental stress is different than recovering from battle wounds. Most often than not, recovery is associated with either rest, healing in a safe and quiet place for some time, or a specific task, such as finding proof of a set up to recover one’s reputation.
@@ -225,9 +228,9 @@ During each resting time, the player may choose to take time to practice some de
 #### Abilities  
 As the characters improve their descriptors and become more proficient at certain actions, they may also learn new ways of doing these actions, being that new methods, more powerful techniques and simply learning how to use more advanced tools. These technical improvements are reflected by the descriptor tier value, which groups levels of proficiency and is mostly important to accommodate for long running games. If a character levels up a descriptor with a double 6, it also unlocks a new tier. *<span style="color:grey">This means that you can have a descriptor Fire magic (5:1+2) – you can cast fire spells, representing that you’re current skill is at level 5 of tier 1, but you have started experimenting with more complex magic and may use the skill at level 2 of the tier above, that is, tier 2. </span>* However, characters can only can only have one base tier not fully leveled up, so if a second double 6 is rolled, will level up the tier above again. Only once the base tier is fully levelled up, will the base tier change. *<span style="color:grey">If the descriptor Fire magic (5:1+2) was used and a double 6 is rolled, then the descriptor will progress to Fire magic (3:2) instead of  Fire magic (6:1+1). This is because rolling a double value of at least 6+1 is not possible, to the descriptor is at maximum level and the base tier improves. </span>*
 
-Consistent with the increase of power, mastery of a new technique or even just the development of a new approach, unlocking higher tiers of a skill may optionally unlock abilities. Abilities are special actions that the character can use by pushing itself a bit further to impose additional effects on their target.  *<span style="color:grey">For example, if the sword skill (3:1) levels up with a double 6, it will unlock the next tier, sword (4:1+1), and the character may also learnt he tier 2 sword-related technique such as Quick-Draw (2): you may use your sword while still sheathed gaining a surprise attack with bonus. Abilities are general effects and can be used for any descriptor that has a level characteristic, such as adding a fear condition with a successful intimidation attempt, being able to find extra clues in an investigation or easily noticing ambushes </span>*. Because abilities represent an additional effort than the underlying regular action, theses descriptors have a cost such as fatigue resistance damage, limiting the amount of times these actions can be used. *<span style="color:grey">Note that special values like 1 or 6 may be considered when defining abilities, such as having abilities effect dependent of rolling a 6, or additional fatigue damage taken when rolling a one, which allows for a more flexible and unpredictable abiltity generation. </span>*   
-One default ability to consider is raising the action stakes. This ability allows the characters to push their limits and attempt to improve the result of their action. For the cost of 1 fatigue damage, the dice can be re-rolled to either revert a failure or strengthen a success, allowing for both critical hits and critical fumbles to occur at key moments of the adventure.
+Consistent with the increase of power, mastery of a new technique or even just the development of a new approach, unlocking higher tiers of a skill may optionally unlock abilities. Abilities are special actions that the character can use by pushing itself a bit further to impose additional effects on their target.  *<span style="color:grey">For example, if the sword skill (3:1) levels up with a double 6, it will unlock the next tier, sword (4:1+1), and the character may also learnt he tier 2 sword-related technique such as Quick-Draw (2): you may use your sword while still sheathed gaining a surprise attack with bonus. Abilities are general effects and can be used for any descriptor that has a level characteristic, such as adding a fear condition with a successful intimidation attempt, being able to find extra clues in an investigation or easily noticing ambushes </span>*. Because abilities represent an additional effort than the underlying regular action, theses descriptors have a cost such as fatigue resistance damage, limiting the amount of times these actions can be used. *<span style="color:grey">One default ability to consider is raising the action stakes. This ability allows the characters to push their limits and attempt to improve the result of their action. For the cost of 1 fatigue damage, the dice can be re-rolled to either revert a failure or strengthen a success, allowing for both critical hits and critical fumbles to occur at key moments of the adventure.</span>*
 <sub><sup>[(Table of contents)](#table-of-contents)</sup></sub> 
+
 #### Items  
 Besides improving the character's own proficiency and power by increasing descriptors’, characters may also have improve by acquiring more powerful <span style="color:green">equipment </span>. Equipment can be considered as a sub-group of descriptors, describing those effect associated with a particular item. As such, equipment is free-form and can be defined on the fly. In this way, equipment is a very flexible way to promote character progression as it can be used to influence any of the character’s own descriptors.  *<span style="color:grey">Depending on the game, these descriptors may have all characteristics, where the level reflects the item’s durability, the damage the damage accumulated during usage, the tier the minimum proficiency required to use the item effectively </spam>*. Because equipment is free-form, the number of possible effects combinations makes its used almost unlimited. However, there are a number of basic options that can be considered:
 
