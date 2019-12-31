@@ -41,17 +41,18 @@ many types of character concepts, game styles and genres. Using this framework, 
 the game and setting that best suits them. Understanding descriptors, how to use them and how they 
 interact is the essence of this gaming system. Generally, each descriptor is created by defining at least one charatceristic, which in turns determines how the descriptor is resolved. 
   
-| Descriptor | Characteristic | Resolution |
-|-----|------------|-------|
-|  [Trait](#21-descriptor-effects)   |     Effect     | Permanent  |
-|  [Resistance](#22-descriptor-counter)  | Counter    |  [Recovery](#32-recovery) |
-|    | Level    |  [Success Range](#31-success-range) |
-|   |      |  [#33-improvement](#31-success-range) |
-|  [Skill](#23-descriptor-level)  | Level     |  [Success Range](#31-success-range) |
-|   |      |  [#33-improvement](#31-success-range) |
-|  [Condition](#conditions)  | Proficient |  ~70% |
-|  [Abilitiers](#abilities)  | Competent  |  ~50% | 
-|  [Equipment](#items)  | Competent  |  ~50% | 
+| Descriptor                          | Characteristic | Resolution                         |
+|-------------------------------------|----------------|------------------------------------|
+| [Trait](#21-descriptor-effects)     | Effect         | Permanent                          |
+| [Resistance](#22-descriptor-counter)| Counter        | [Recovery](#32-recovery)           |
+|                                     | Level          | [Success Range](#31-success-range) |
+|                                     |                | [Improvement](#31-success-range)   |
+| [Skill](#23-descriptor-level)       | Level          | [Success Range](#31-success-range) |
+|                                     |                | [Improvement](#31-success-range)   |
+| [Condition](#conditions)            | Effect         | Temporary                          |
+| [Abilitiers](#abilities)            | Effect         | Damage                             | 
+| [Equipment](#items)                 | Effect         | Equiped                            | 
+
 <sub><sup>[(Table of contents)](#table-of-contents)</sup></sub> 
 
 #### Descriptors  
