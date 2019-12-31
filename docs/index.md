@@ -44,21 +44,14 @@ interact is the essence of this gaming system. Generally, each descriptor is cre
 | Descriptor                          | Characteristic | Resolution                         |
 |-------------------------------------|----------------|------------------------------------|
 | [Trait](#21-descriptor-effects)     | Effect         | Permanent                          |
-|-------------------------------------|----------------|------------------------------------|
 | [Resistance](#22-descriptor-counter)| Counter        | [Recovery](#32-recovery)           |
-|                                     |----------------|------------------------------------|
-|                                     | Level          | [Success Range](#31-success-range) |
-|                                     |                | [Improvement](#31-success-range)   |
-|-------------------------------------|----------------|------------------------------------|
+|  Resistance                         | Level          | [Success Range](#31-success-range) |
+|  Resistance                         | Level          | [Improvement](#31-success-range)   |
 | [Skill](#23-descriptor-level)       | Level          | [Success Range](#31-success-range) |
-|                                     |                | [Improvement](#31-success-range)   |
-|-------------------------------------|----------------|------------------------------------|
+|    Skill                            | Level          | [Improvement](#31-success-range)   |
 | [Condition](#conditions)            | Effect         | Temporary                          |
-|-------------------------------------|----------------|------------------------------------|
 | [Abilitiers](#abilities)            | Effect         | Damage                             |
-|-------------------------------------|----------------|------------------------------------|
 | [Equipment](#items)                 | Effect         | Equiped                            |
-|-------------------------------------|----------------|------------------------------------|
 
 <sub><sup>[(Table of contents)](#table-of-contents)</sup></sub> 
 
