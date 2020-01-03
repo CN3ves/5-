@@ -11,7 +11,7 @@ single player options.
 The 5+ system is a descriptor-oriented system. 
 This mean that <span style="color:green">descriptors</span> represent the underlying framework that can be easily adapted to accommodate many types of character concepts, game styles and genres. Using this framework, players can generate 
 the game and setting that best suits them. Understanding descriptors, how to use them and how they 
-interact is the essence of this gaming system. Generally, each descriptor is created by defining at least one charatceristic, which in turns determines how the descriptor is resolved. 
+interact is the essence of this gaming system. Generally, each descriptor is created by defining at least one charatceristic, which in turns determines how the descriptor is resolved. <sub><sup>[(Back to start)](#)</sup></sub> 
   
 | Descriptor                          | Characteristic | Resolution                         |
 |-------------------------------------|----------------|------------------------------------|
@@ -25,7 +25,7 @@ interact is the essence of this gaming system. Generally, each descriptor is cre
 | [Abilitiers](#abilities)            | Effect         | Damage                             |
 | [Equipment](#items)                 | Effect         | Equiped                            |
 
-<sub><sup>[(Table of contents)](#table-of-contents)</sup></sub> 
+
 
 #### Descriptors  
 Descriptors are small, clear sentences that define someone or something. 
