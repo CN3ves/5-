@@ -19,11 +19,13 @@
 >  3.3. [Improvement](#33-improvement)  
 >    &nbsp;&nbsp;&nbsp; - [*Abilities*](#abilities)  
 >    &nbsp;&nbsp;&nbsp; - [*Items*](#items)  
->4. Challenges  
->  4.1 Structure  
->  4.2 Objective   
->  4.3 Actions  
->  4.4 Movement  
+>4. [Challenges](#4-challenges)  
+>  4.1 [Structure](#41-structure)  
+>  4.2 [Objectives](#42-objectives)   
+>    &nbsp;&nbsp;&nbsp; - [*Successes*](##successes-damage)  
+>    &nbsp;&nbsp;&nbsp; - [*NPCs*](#npcs)  
+>  4.3 [Actions](#43-actions)  
+
 
 ## 1) Introduction  
 The 5+ system is a light, simple and flexible dice gaming system that can be used in various gaming contexts. 
@@ -255,3 +257,41 @@ Besides improving the character's own proficiency and power by increasing descri
 
 * Magical or other specific items allow for more general powers or effects to be imbued in the equipment: *<span style="color:grey"> Something as mundane as a poisoned dagger can unlock a poison ability, which can be called 3 times to induce poison on a target or a warhammer having the stun effect when a 6 is rolled. More exotic effect can be considered such as a scroll of thunder having a thunder spell descriptor that can be called to use the thunder spell at the specified level or a mantle of rose scent allowing automatic success convincing blind creatures the character is a talking rose. </span>*
 <sub><sup>[(Table of contents)](#table-of-contents)</sup></sub> 
+
+## 4) Challenges
+### 4.1 Structure  
+The game is structured as a sequence of actions the players have their characters attempting. This way, each player needs to constantly answer the question *“What now?”* To determine the actions their character will take. A <span style="color:green">turn</span> is a round of player’s actions, where the player narrates the character’s actions. In this way, turns work as a way to give all players equal opportunity to act, including skipping the turn. However, there is no intrinsic order within a turn, with all actions on the same turn being considered as simultaneously as possible. This means that the order the players act doesn’t have to match the actual order of character actions, being perfectly possible to a player to act after a player and decide to have the character act before the other player’s character. 
+
+A turn starts with a <span style="color:green">description of the situation</span> and a quick definition of what each NPC will be doing in the next instants after which each <span style="color:green">player describes the actions</span>  the character will do. Actions are free-form and if the player comes up with an idea, that should be implemented within reason. If an action requires a non-existent descriptor, it can easily be created on the fly, by considering character's concept and determine a reasonable proficiency. Once the actions of all involved parties are determined, <span style="color:green">all actions with uncertain results must be resolved</span>  by comparing the sum of a 2d6 and the appropriate success range, including those check requested as consequence of non-player characters’ (NPCs) actions.  Once the actions are resolved, check for double rolls and descriptor improvements.   
+<sub><sup>[(Table of contents)](#table-of-contents)</sup></sub> 
+
+### 4.2) Objectives  
+Each action attempted by a character is potential a challenge. Some of the actions described can just be role-played either because there are simple enough to always succeed or because they are impossible to the point of always failing. *<span style="color:grey">Let us take the action of walking as an example. If a character wakes up and tries to walk out of the room, there is no need to question the action’s results. Later on, if the same character tries to cross a river by walking over the water, the intended result is impossible because it will sink into the river. </span>* However, if the outcome of the action is uncertain, either because the character is being actively opposed by someone or something or because it is attempting a difficult non-routine action, a <span style="color:green">challenge</span>  situation may arise. Each challenge has an objective or a list of goals that need to be achieved before it can be overcome. 
+
+Challenges are defined by the winning and losing conditions as well as the opposition. The <span style="color:green">winning condition</span> is the total amount of successes the players need to collectively accumulate to overcome the challenge. For simple tasks, the winning condition is simply succeeding a descriptor check (or accumulation 1 success). However, more complex challenges, such as investigations, elections or even maybe disarming a particularly complex trap, will require more accumulated successes to be overcome. *<span style="color:grey">If the characters are challenged with a crime scene they must investigate, the clues they find depend on the number of successes they obtain, where each clue is a challenge goal. Similarly, in a combat, each enemy will be a goal that is defeated once a number of successes has been obtained. </span>* Even though nothing prevents these challenges from being solved with a single roll, playing through them slowly may focus the game on a particularly intense challenge. This will attenuate the effect of randomness in the outcome by diluting the impact of any single roll or increase the difficulty of one task, but provide more cinematic scenes by adding twists and turns until the final outcome. *<span style="color:grey"> The number of success required to win a challenge should depend on the desired difficulty of the challenge and the player’s key descriptor levels. As such, defining a default challenge could help set up and fine tune later challenges. The default challenge could be as simple as the sum of the key descriptors levels of all players, which would scale with the increasing character’s proficiency. In a combat challenge, the key descriptors would be the most used weapon descriptors, which determine how often the player’s will succeed. </span>*
+
+
+If the players are not allowed to fail the challenge, then they will continue to accumulate successes until eventually enough successes are accumulated (see failure handling [above](#failure-handling)). To keep the challenge real, <span style="color:green">losing conditions</span> may be considered for each challenge. A common loosing condition is damage accumulation to one resistance, where character become incapable of continuing their efforts. *<span style="color:grey"> The most common example would be damage accumulated to physical resistance during a fight, where a character can only take so much damage before collapsing unconscious or taking so many wounds before dying. However, each specific challenge type may be assigned a resistance descriptor effectively making this a general way to impose losing conditions. For example, failing to decipher an ancient script can damage frustration resistance, reflecting the character’s increases agitation and loss of focus due to the growing frustration. </span> There are potentially as many losing conditions as challenges, since each challenge may be lost differently. Common losing conditions to include: 
+
+* Time sensitive challenges: the players have only so many turns to overcome the challenge. *<span style="color:grey">The characters need to convince the commander of a enemy force to join your cause before the main force arrives if you’re to stand a chance opposing it </span>*
+* Failure tolerance: the player can fail only so many times. *<span style="color:grey">A character is trying to disable a complex explosive trap and with each failure there is a change of it exploding </span>*
+* Arm-wresting: The characters are opposed by someone in a back and forth challenge and need to avoid hitting the point of no return. *<span style="color:grey"> The charatcers need to convince the town’s population they are not infiltrated spies but have to struggle with whoever is spreading rumors against them before a critical mass of the population turns against them.  </span>*
+
+#### Successes (“damage”)
+The number of accumulated successes for any action is defined by the same 2d6 roll used to determine if the action succeeds. The default number of successes obtain is the lowest value rolled. This value may be ignored (immunity), downgraded to 1 (resistance), or upgraded to the highest value rolled (weakness). However, descriptors can provide modifiers and change the number of successes a character obtains for any given action. *<span style="color:grey">A character with a Attentive trait may obtain +1 successes when investigating, a character with a high quality axe equipped may deal twice the damage when rolling a 6 or new ability allows the character to split the successes of a logical argumentation to between two targets. </span>*  
+
+
+#### NPCs
+Besides the winning and losing conditions, challenges may have a clear <span style="color:green"> opposition </span> force. This can be as simple as a rolling boulder in a narrow corridor and as complex as a multi-regional organization. However, relevant opposition will add additional option to the challenge, contribution with bonuses, abilities and special effects than will make the challenge more difficult than otherwise. Often this opposition is in the form of a NPC or a group of NPCs (organization), which will have some signature ability or behavior. It is important to remember that, because the player’s roll define success on its own, NPCs do not roll. If a player succeeds in an opposed challenge, it’s because the opposition failed, which mean that NPC do not need to have a character sheet and are, like items, defined by a few descriptors: 
+
+* Goals: Why is the NPC opposing the players? *<span style="color:grey">Is it a giant hungry spider trying to eating the players, an demonic spirit hopping to corrupt them or simply a vengeful adventure trying to get payback </span>
+
+* Its actions and abilities: What actions the NPC attempt to do and what special abilities can it use? *<span style="color:grey">Can the NPC bite, smash or summon inter-dimensional demon of ultimate destruction? Or maybe it will simply insult and provoke the players? </span>* Calling on a NPC ability may be done at will to provide diversity to the conflict. However, some powerful abilities may depend on the player’s luck and be used as part of a critical fumble or when a 1 is rolled.
+
+* Its encounter behaviour: How does the NPC reacts to player’s successes and failures? *<span style="color:grey">Does the NPC can act more fearful as the players accumulate successes or more boldly as the players fail? Does it call for help after so many turns? Will it run if the situation turns sour? </span>*
+
+* Its difficulty: How hard will the NPC be to defeat? This is defined by both the NPC challenge rank and the number of success required to accumulate to win. Modifying the number of successes based on a default challenge is an easy way to fine tune an NPC difficulty, while changing the NPC rank will have a more clear impact on difficulty, influencing both the chances and amounts of success. *<span style="color:grey"> In order to simplify NPC generation, their damage is constant by default, being equal to 1+rank. The 1 represents the baseline damage which may easily be increases to accompany the players resistances’ tier progression. </span>*
+<sub><sup>[(Table of contents)](#table-of-contents)</sup></sub> 
+###  4.3) Actions  
+<sub><sup>[(Table of contents)](#table-of-contents)</sup></sub> 
+
