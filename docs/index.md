@@ -175,13 +175,11 @@ is not possible as well as promoting thinking of other ways of overcoming
 the same obstacle. So failure is an opportunity to add complications, twists and 
 new developments to the story that the players need to consider.
 
-*<span style="color:grey">  
+* *<span style="color:grey">  For simple challenges, the action may interrupted instead of failing, preventing the action from being repeated (a guard shows up, the lock breaks, etc.) The action fails not because the character isn’t skilled enough to do it, but because something happened while he was attempting it. </span>  
+* *<span style="color:grey">  if the challenge involves information, failure can result in partial recalling, confusing news, gathering rumours or even misleading or misinformation.</span>  
+* *<span style="color:grey">  For more complex challenges, failure may instead result in a reduced effect instead of a full effect, for example, each value away from the success range, damage is reduced by 1. Likewise, less information can be discovered, deciphered or recovered from documents or investigations.</span>  
+* *<span style="color:grey">  On the other hand if the resulting effect is negative, the action could fails with a negative effect such as accumulation of frustration resistance counter.</span>  
 
-* For simple challenges, the action may interrupted instead of failing, preventing the action from being repeated (a guard shows up, the lock breaks, etc.) The action fails not because the character isn’t skilled enough to do it, but because something happened while he was attempting it. 
-* if the challenge involves information, failure can result in partial recalling, confusing news, gathering rumours or even misleading or misinformation.
-* For more complex challenges, failure may instead result in a reduced effect instead of a full effect, for example, each value away from the success range, damage is reduced by 1. Likewise, less information can be discovered, deciphered or recovered from documents or investigations.
-* On the other hand if the resulting effect is negative, the action could fails with a negative effect such as accumulation of frustration resistance counter.
-</span>  
 
 #### Helping  
 
