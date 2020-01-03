@@ -1,33 +1,3 @@
-## Table of contents
-
->1. [Introduction](#1-introduction)  
->  &nbsp;&nbsp; - [*Descriptors*](#descriptors)  
->2. [Characteristics](#2-descriptor-characteristics)  
->  2.1. [Effect](#21-descriptor-effects)  
->  2.2. [Counter](#22-descriptor-counter)  
->  2.3. [Level](#23-descriptor-level)  
->    &nbsp;&nbsp;&nbsp; - [*Tiers*](#tiers)  
->  &nbsp;&nbsp; - [*Characters*](#characters)
->3. [Resolutions](#3-resolution-methods)  
->  3.1. [Success Range](#31-success-range)  
->    &nbsp;&nbsp; - [*Failure handling*](#failure-handling)  
->    &nbsp;&nbsp; - [*Helping*](#helping)  
->    &nbsp;&nbsp; - [*Special values*](#special-values)   
->  3.2. [Recovery](#32-recovery)  
->    &nbsp;&nbsp; - [*Wounds*](#wounds)   
->    &nbsp;&nbsp; - [*Conditions*](#conditions)  
->  3.3. [Improvement](#33-improvement)  
->    &nbsp;&nbsp;&nbsp; - [*Abilities*](#abilities)  
->    &nbsp;&nbsp;&nbsp; - [*Items*](#items)  
->4. [Challenges](#4-challenges)  
->  4.1 [Structure](#41-structure)  
->  4.2 [Objectives](#42-objectives)   
->    &nbsp;&nbsp;&nbsp; - [*Successes*](#successes-damage)  
->    &nbsp;&nbsp;&nbsp; - [*NPCs*](#npcs)  
->  4.3 [Actions](#43-actions)  
->5. [GMless options](#5-game-master-option)  
-
-
 ## 1) Introduction  
 The 5+ system is a light, simple and flexible dice gaming system that can be used in various gaming contexts. 
 It focuses on free-form narrative and player freedom, instead of diving deep into the mechanistic details, keeping 
@@ -47,10 +17,10 @@ interact is the essence of this gaming system. Generally, each descriptor is cre
 |-------------------------------------|----------------|------------------------------------|
 | [Trait](#21-descriptor-effects)     | Effect         | Permanent                          |
 | [Resistance](#22-descriptor-counter)| Counter        | [Recovery](#32-recovery)           |
-|  ''                                 | Level          | [Success Range](#31-success-range) |
-|  ''                                 | ''             | [Improvement](#31-success-range)   |
+|  _                                  | Level          | [Success Range](#31-success-range) |
+|  _                                  | _              | [Improvement](#31-success-range)   |
 | [Skill](#23-descriptor-level)       | Level          | [Success Range](#31-success-range) |
-|    ''                               | ''             | [Improvement](#31-success-range)   |
+|    _                                | _              | [Improvement](#31-success-range)   |
 | [Condition](#conditions)            | Effect         | Temporary                          |
 | [Abilitiers](#abilities)            | Effect         | Damage                             |
 | [Equipment](#items)                 | Effect         | Equiped                            |
