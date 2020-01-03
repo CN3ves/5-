@@ -22,7 +22,7 @@
 >4. [Challenges](#4-challenges)  
 >  4.1 [Structure](#41-structure)  
 >  4.2 [Objectives](#42-objectives)   
->    &nbsp;&nbsp;&nbsp; - [*Successes*](##successes-damage)  
+>    &nbsp;&nbsp;&nbsp; - [*Successes*](#successes-damage)  
 >    &nbsp;&nbsp;&nbsp; - [*NPCs*](#npcs)  
 >  4.3 [Actions](#43-actions)  
 
