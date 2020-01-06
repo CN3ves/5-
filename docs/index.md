@@ -37,7 +37,7 @@ development, using nothing but <span style="color:green">two six-sided dice (2d6
 for a wider shared storytelling experience. The addition of a standard French-suited deck allows for easy 
 single player options.  
   
-The 5+ system is a descriptor-oriented system. 
+The 5+ system is a descriptor-oriented system (DOS). 
 This means that <span style="color:green">descriptors</span> represent the underlying framework that can be easily adapted to accommodate many types of character concepts, game styles and genres. Using this framework, players can generate 
 the game and setting that best suits them. Understanding descriptors, how to use them and how they 
 interact is the essence of this gaming system. Generally, each descriptor is created by defining at least one charatceristic, which in turns determines how the descriptor is resolved. 
@@ -111,80 +111,38 @@ The starting level selection should be done in a way that suits the players, the
 
 ## 3) Resolution Methods  
 ### 3.1) Success Range  
-The system resolutions methods depend on characteristics available for a given descriptor, so that these methods may not be callable by all descriptors. <span style="color:green">Success range</span> is the method used when an action’s result is of uncertain. As such, success ranges are called to resolve situation where descriptors with level characteristic are used. This method takes into account both the character descriptors and the challenge itself, integrating all the values that modify the chances of a given action’s success, that is all <span style="color:green">modifiers</span>, into a range of values to which the sum of a 2d6 is compared to. If this sum is within the success range, then the action succeeds as intended. However, if the sum falls outside  the action fails or is somehow incomplete.  
-*<span style="color:grey">If a player rolls 3 and 4 on their 2d6 check to ride a horse fast enough, then their final result is 7. This action will success as intended if 7 is included in the success range. For example, it would success were the success range 5-7, but not 5-6.</span>*  
+The system resolutions methods depend on characteristics available for a given descriptor, so that these methods may not be callable by all descriptors. <span style="color:green">Success range</span> is the method used when an action’s result is of uncertain. As such, success ranges are called to resolve situations where descriptors with level characteristic are used. This method takes into account both the character’s descriptors and the challenge itself, integrating all the values that modify the chances of a given action’s success, that is all <span style="color:green">modifiers</span>, into a range of values to which the sum of a 2d6 is compared to. If this sum is within the success range, then the action succeeds as intended. However, if the sum falls outside the action fails or is somehow incomplete. *<span style="color:grey">If a player rolls 3 and 4 on the 2d6 check to ride a horse fast enough, then their final result is 7. This action will success as intended if 7 is included in the success range. For example, it would succeed were the success range 5-7, but not 5-6.</span>*  
 
-To estimate the success range, thus the probability an action will succeed, it is important to consider the base value of 5, which is the default value at which an untrained character succeeds an action.  Let’s say then, there the base success range is 5-5 *(including the extremes)*. The upper value of this range can be extended *(hence the name 5+)* by the character’s <span style="color:green">proficiency</span>. The character proficiency is the sum of all bonuses and penalties the character’s descriptors provide. In general, these are the skill or resistance level modified by the trait or condition effects:   
+To estimate the success range, thus the probability an action will succeed, it is important to keep in mind the base value of 5, which is the default value at which an untrained character succeeds an action. As such, the base success range is 5-5 *(including the extremes)*. The upper value of this range can be extended by the character’s <span style="color:green">proficiency</span> *(hence the name 5+)*, where the character proficiency is the sum of all bonuses and penalties the character’s descriptors provide. In general, these are the skill or resistance level modified by the trait or condition effects and accumulated damage: 
   
-1. Choose any appropriate descriptor, such as a skill for an active action or a resistance for a passive, instinctive action. Subtract the damage (if available) from the level. 
+1. Choose any appropriate descriptor, such as a skill for an active action or a resistance for a passive, instinctive action. Subtract the damage *(if available)* from the level. 
 2. To that value, add all trait and condition bonuses and penalties to determine the final proficiency.
-3. In addition, <span style="color:green">challenge difficulty</span> may provide quick +1 bonus or -1 penalty adjustments to proficiency.
+3. In addition, <span style="color:green">challenge difficulty</span> may provide quick a +1 bonus or -1 penalty adjustments to proficiency.
 4. Add the proficiency to 5 to determine the upper bound of the success range.
 
-For longer running games, the lower value of the range may also be modified. Each challenge will have a <span style="color:green">rank</span>, reflecting the relative difference between the character skill technique and power *(tier)* and that required to overcome the challenge. These modifiers are also added to 5 to determine the success range lower bound. Unless there is a significant difference in difficulty, most challenges’ rank will be 0, meaning that the lower bound of the success range will be 5 except in rare situations.  
-*<span style="color:grey"> A character trying to sneak past the castle guard is facing a challenge that requires a superior level of skill as the action occurs in plain daylight, so the challenge rank is defined as 2 (two tiers above the character). The character has two relevant descriptors: the sneak(4:1) skill and the ninja training trait (+1 bonus). The guards are on alert, since they intercepted a message and are expecting trouble (-1 situational penalty). The resulting upper bound is 5 + 4 (skill level) + 1 (training bonus) -1 (situation) = 9. The lower bound is 5 + 2 (rank) = 7. As such, the range of possible successful values is 7-9, meaning that if the sum of the 2d6 is 7, 8 or 9, the character’s action succeeds.</span>*
+For longer running games, the lower value of the range may also be modified. Each challenge will have a <span style="color:green">rank</span>, reflecting the relative difference between the character's technique and power *(tier)* and that required to overcome the challenge. These modifiers are also added to 5 to determine the success range lower bound. Unless there is a significant difference in difficulty, most challenges’ rank will be 0, meaning that the lower bound of the success range will be 5 except in rare situations. *<span style="color:grey"> A character trying to sneak past the castle guard is facing a challenge that requires a superior level of skill as the action occurs in plain daylight, so the challenge rank is defined as 2 (two tiers above the character). The character has two relevant descriptors: the sneak(4:1) skill and the ninja training trait (+1 bonus to stealthy actions). The guards are on alert, since they intercepted a message and are expecting trouble (-1 from challenge situational difficulty). The resulting upper bound is 5 + 4 (skill level) + 1 (training bonus) -1 (situation) = 9. The lower bound is 5 + 2 (rank) = 7. As such, the range of possible successful values is 7-9, meaning that if the sum of the 2d6 rolled is 7, 8 or 9, the character’s action succeeds.</span>*
 
 *Note* that, if the upper bound is below the lower bound, the range is invalid, and the character is not capable of succeeding no matter what. This means that, due to incompetence, natural toughness or magical means, the target of the action being effectively immune to the approach taken. 
 
 #### Failure handling  
-If the resulting sum of the 2d6 is within the success, 
-then the action’s result is as intended. But if the result 
-is outside this range, the action doesn’t have to simply fail. 
-The most important thing to keep in mind is that failure should 
-keep the story flowing instead of bringing it to a halt. 
-As such, failure handling should assume that, unless something happens, 
-given time and resources, characters would eventually complete the tasks 
-they are familiar with. From this it follows that, regardless of the original 
-result, players should not repeat the same the exact action for the same exact 
-purpose, unless there was a relevant change in the conditions.
-*<span style="color:grey"> If you are trying to jump a wall and you fail, you cannot 
-repeat the jump in the same conditions, because the first check already determines that 
-you are not skilled enough to do so under those circumstances. You may, 
-however, try jumping again if you were to find a better place or use some supporting equipment, 
-such as a wooden stool. </span>*. If and action could be 
-repeated until a success occurs, then such an action should be 
-considered an auto-success as it will have no impact in the narrative 
-(the player would jump the wall eventually!). 
+If the resulting sum of the 2d6 is within the success range, then the action’s result is as intended. However, if the result is outside this range, the action doesn’t have to simply fail. The most important thing to keep in mind is that failure should keep the story flowing instead of bringing it to a halt. As such, failure handling should assume that, unless something happens, given time and resources, characters would eventually complete the tasks they are familiar with. From this it follows that, regardless of the original result, players should not repeat the same the exact action for the same exact purpose, unless there was a relevant change in the challenged conditions. *<span style="color:grey"> If a character is trying to jump a wall and fails, it cannot repeat the jump in the same conditions, because the first check has already determined that it is not skilled enough to do so under those circumstances. However, the character may try jumping over the wall again if it were to find a better place or use supporting equipment, such as a wooden stool, changing the challenge conditions. </span>*. If an action could be repeated until a success occurs, then such an action should be considered an auto-success as it will have no impact in the narrative (the player would jump the wall eventually!).  
 
-The lack of repetition forces the players to explain why the action 
-is not possible as well as promoting thinking of other ways of overcoming 
-the same obstacle. So failure is an opportunity to add complications, twists and 
-new developments to the story that the players need to consider.
+The lack of repetition forces the players to explain why the action is not possible as well as promoting thinking of other ways of overcoming the same obstacle. As such, failure is an opportunity to add complications, twists and new developments to the story that the players need to consider:
 
-* *<span style="color:grey">  For simple challenges, the action may be interrupted instead of failing, preventing the action from being repeated (a guard shows up, the lock breaks, etc.) The action fails not because the character isn’t skilled enough to do it, but because something happened while he was attempting it. </span>*  
-* *<span style="color:grey">  if the challenge involves information, failure can result in partial recalling, confusing news, gathering rumors or even misleading or misinformation.</span>*  
-* *<span style="color:grey">  For more complex challenges, failure may instead result in a reduced effect instead of a full effect, for example, each value away from the success range, damage is reduced by 1. Likewise, less information can be discovered, deciphered or recovered from documents or investigations.</span>*  
-* *<span style="color:grey">  On the other hand, if the resulting effect is negative, the action could fails with a negative effect such as accumulation of frustration resistance counter.</span>* 
+* *<span style="color:grey"> For simple challenges, the action may be interrupted instead of failing, preventing the action from being repeated (a guard shows up, the lock breaks, etc.) The action fails not because the character isn’t proficient enough to do it, but because something happened while he was attempting it.</span>*  
+* *<span style="color:grey"> If the challenge involves information, failure can result in partial recalling, confusing news, gathering rumours or even misleading or misinformation.</span>*  
+* *<span style="color:grey">  For more complex challenges, failure may instead result in a reduced effect instead of a full effect. For example, each value away from the success range, damage is reduced by 1. Likewise, less information can be discovered, deciphered or recovered from documents or investigations.</span>*  
+* *<span style="color:grey">  On the other hand, if the resulting “reduced” effect is negative, the action could fail with a negative effect such as accumulation of frustration resistance counter.</span>* 
 
 
 #### Helping  
 
-if multiple players try the same action simultaneously, 
-one may receive help from the others when the situation 
-logically allows it. In such cases, any actions from another 
-character that can logically influence the outcome of a character’s action, 
-may allow a +1 help bonus to be used to tip the scales in favor of success, 
-effectively extending both character’s success range. 
-*<span style="color:grey"> If the players are trying to pick a lock of a small 
-and delicate box, it is possible for two characters to attempt the action, 
-where one character tries to pick the lock while the other guides or supports 
-the first character to complete its task by providing a +1 help. </span>*
+If multiple players try the same action simultaneously, one may receive help from the others when the situation logically allows it. In such cases, any action from another character that can logically influence the outcome of a given character’s action, may allow a +1 help bonus to be used to tip the scales in favour of success, effectively extending both character’s success range. *<span style="color:grey"> If the players are trying to pick a lock of a small and delicate box, it is possible for two characters to attempt the action, where one character tries to pick the lock while the other guides or supports the first character to complete its task by providing a +1 help.</span>*
 
-Besides helping in a single action, it is possible for characters to help each other 
-using different actions. On such cases, the help action needs to succeed to provide 
-the help bonus.
-*<span style="color:grey">One character tries to jump a wall and the other will 
-provide a push with his hands</span>*. Within this case, it may also be possible 
-for a character to help all other characters in their various actions simultaneously, 
-instead of focusing on the action from a  single character. In such case, all other characters 
-will gain the help bonus from one single action, however, the action will suffer from a 
--1 difficulty penalty. 
-*<span style="color:grey">A character can try to distract or outmaneuver an adversary during combat, 
-forcing it into a disadvantageous position and providing a +1 bonus to all actions from any other 
-character against that adversary. </span>* 
+Besides helping with a single action, it is possible for characters to help each other using different actions. On such cases, the help action needs to succeed to provide the help bonus. *<span style="color:grey">One character tries to jump a wall and the other will provide a push with his hands</span>*. Within this case, it may also be possible for a character to help all other characters in their various actions simultaneously, instead of focusing on the action of a single character. In such case, all other characters will gain the help bonus from one single action, however, the action will suffer from a -1 manoeuvre penalty. *<span style="color:grey">A character can try to distract or outmanoeuvre an adversary during combat, forcing it into a disadvantageous position and providing a +1 bonus to all actions from any other character against that adversary.</span>* 
 
 #### Special Values  
-Special values like 1 or 6 may be considered when defining the effects of some descriptors such as conditions and abilities (see below). In such cases, rolling a 1 can be seen as a bad outcome and rolling a 6 a good outcome. *<span style="color:grey"> For example, an ability effect dependent of rolling a 6, or additional fatigue damage taken when rolling a one, which allows for a more flexible and unpredictable ability generation. Likewise, a condition may worsen when a 1 is rolled or only be fully healed when a 6 is rolled.</span>* 
+Special values like 1 or 6 may be considered when defining the effects of some descriptors such as conditions and abilities *(see below)*. In such cases, rolling a 1 can be seen as a bad outcome and rolling a 6 a good outcome. *<span style="color:grey"> For example, an ability’s effect may depend on rolling a 6, or additional fatigue damage taken when rolling a 1, which allows for a more flexible and unpredictable ability generation. Likewise, a condition may worsen when a 1 is rolled or only be fully healed when a 6 is rolled.</span>* 
 
 ### 3.2) Recovery  
 Any descriptors having a counter can accumulate damage and so, may be allowed to recover. However, note that not all of these descriptors by recover naturally. *<span style="color:grey"> While minor scratches will heal with time, a damaged reputation may only the healable with actions</span>*. As such, the way these descriptors recover damage will vary with the nature of the descriptor, as recovering from mental stress is different than recovering from battle wounds. Most often than not, recovery is associated with either rest, healing in a safe and quiet place for some time, or a specific task, such as finding proof of a set up to recover one’s reputation.
@@ -265,7 +223,7 @@ In their turns, the players will act. These actions could be a violent attack wi
 * Attack: Active action to damage a target in any way (physically, mentally, socially, etc). *<span style="color:grey">These would include using weapons, intimidation or insulting a target, spreading rumors or lies or even develop a logical accusation, etc. as long as the result would plausibly damage a descriptor</span>*.
 * Defend: A Passive action used in to prevent damage in response or another character’s action. *<span style="color:grey">These would include dodging a trap, using armor or shields, rebutting an accusation, protecting social status during a scandal, etc. as long as it could plausibly prevent damage to a descriptor</span>*.
 * Abilities: Abilities are particular actions that not all character have access to. Even though this may not be relevant for all games, most of the abilities will be restricted costing damage to a specific descriptor, *<span style="color:grey">for example casting spells may deal damage to mind resistance descriptor due to the exhausting nature of magic </span>*, they may require constant concentration checks to maintain, *<span style="color:grey">a bard would need to keep passing performance actions to maintain its inspiring song  </span>*, or they may have specific activation conditions, *<span style="color:grey">such as rolling a 6 on a related action such as using dual strike with a staff</span>*.
-* Maneuvers: Active actions that result in bonuses or penalties due to outmaneuvering, distracting or discrediting the target. *<span style="color:grey">These actions could include action or trick that imposes a disadvantage (disarm, restrain, throw sand), provides a bonus (hide, use terrain advantage, aim, engage) or impose a condition (stunned, prone, confused) to a character</span>*. Given that some of these maneuvers may be considered powerful actions in some settings or games, it is possible to associate them with abilities, critical hits or even only triggering as free action when a 6 is rolled (or a one is rolled against the player).
+* Maneuvers: Active actions that result in bonuses or penalties due to outmaneuvering, distracting or discrediting the target. *<span style="color:grey">These actions could include action or trick that imposes a disadvantage (disarm, restrain, throw sand), provides a bonus (hide, use terrain advantage, aim, engage) or impose a condition (stunned, prone, confused) to a character</span>*. Given that some of these maneuvers may be considered powerful actions in some settings or games, it is possible to associate them with abilities, critical hits or even only triggering as free action when a 6 is rolled (or a one is rolled against the player). In addition, manouvre suffer a -1 manourvre difficult penalty by default.
 * Move: In this system, there are no grids, maps or any other sort of objective locations and positions during conflicts. The general layout is described, highlighting particularities that could be used for or against the players. All characters will start in relative positions to the players so tracking space is simplified by defining three regions in relation to the players: near, far and away. Melee and short-range actions can only target in the near area, which ranged actions can have targets in the far area. Only in very particular cases may someone target a character in the away area, as this represents an area outside the conflict zone.
 
 It is assumed that the character are always moving about their area so moving is only required to remove conditions (stand up, clear head), interact with particular items or other characters (reload a weapon, drag a wounded ally, push through) or approach targets in different areas. To move from one zone to another, an unblocked path (may interactions) and full movement (-2 move penalty to all actions) is required.    
