@@ -33,17 +33,16 @@
 The 5+ system is a light, simple and flexible dice gaming system that can be used in various gaming contexts. 
 It focuses on free-form narrative and player freedom, instead of diving deep into the mechanistic details, keeping 
 the story flowing at a good pace, while guaranteeing the possibility of building complex characters and their 
-development, using nothing but <span style="color:green">two six-sided dice (2d6)</span>, a pencil and a notebook. Being a generic gaming system, 
-it can be adapted to fit a diversity of settings, game styles, concepts and adventures. Specific options are 
-included to allow the players to drive the story, distributing and decentralizing of the Game Master’s (GM) task 
+development, using nothing but <span style="color:green">two six-sided dice (2d6)</span>, a pencil and a notebook. Being a generic gaming system, it can be adapted to fit a diversity of settings, game styles, concepts and adventures. Specific options are included to allow the players to drive the story, distributing and decentralizing of the Game Master’s (GM) task 
 for a wider shared storytelling experience. The addition of a standard French-suited deck allows for easy 
 single player options.  
   
 The 5+ system is a descriptor-oriented system. 
-This mean that <span style="color:green">descriptors</span> represent the underlying framework that can be easily adapted to accommodate many types of character concepts, game styles and genres. Using this framework, players can generate 
+This means that <span style="color:green">descriptors</span> represent the underlying framework that can be easily adapted to accommodate many types of character concepts, game styles and genres. Using this framework, players can generate 
 the game and setting that best suits them. Understanding descriptors, how to use them and how they 
 interact is the essence of this gaming system. Generally, each descriptor is created by defining at least one charatceristic, which in turns determines how the descriptor is resolved. 
-  
+<details>
+    <summary>Example of basic descriptors</summary>  
 | Descriptor                          | Characteristic | Resolution                         |
 |-------------------------------------|----------------|------------------------------------|
 | [Trait](#21-descriptor-effects)     | Effect         | Permanent                          |
@@ -55,7 +54,7 @@ interact is the essence of this gaming system. Generally, each descriptor is cre
 | [Condition](#conditions)            | Effect         | Temporary                          |
 | [Abilitiers](#abilities)            | Effect         | Damage                             |
 | [Equipment](#items)                 | Effect         | Equiped                            |
-
+</details>
 
 
 #### Descriptors  
