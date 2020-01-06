@@ -47,12 +47,12 @@ interact is the essence of this gaming system. Generally, each descriptor is cre
 |-------------------------------------|----------------|------------------------------------|
 | [Trait](#21-descriptor-effects)     | Effect         | Permanent                          |
 | [Resistance](#22-descriptor-counter)| Counter        | [Recovery](#32-recovery)           |
-|  _                                  | Level          | [Success Range](#31-success-range) |
-|  _                                  | _              | [Improvement](#31-success-range)   |
+|  &nbsp;                             | Level          | [Success Range](#31-success-range) |
+|  &nbsp;                             | &nbsp;         | [Improvement](#31-success-range)   |
 | [Skill](#23-descriptor-level)       | Level          | [Success Range](#31-success-range) |
-|    _                                | _              | [Improvement](#31-success-range)   |
+|    &nbsp;                           | &nbsp;         | [Improvement](#31-success-range)   |
 | [Condition](#conditions)            | Effect         | Temporary                          |
-| [Abilitiers](#abilities)            | Effect         | Damage                             |
+| [Ability](#abilities)               | Effect         | Damage                             |
 | [Equipment](#items)                 | Effect         | Equiped                            |
 
 
