@@ -6,7 +6,7 @@
 >  2.1. [Effect](#21-descriptor-effects)  
 >  2.2. [Counter](#22-descriptor-counter)  
 >  2.3. [Level](#23-descriptor-level)  
->    &nbsp;&nbsp;&nbsp; - [*Tiers*](#tiers)  
+>  &nbsp;&nbsp; - [*Tiers*](#tiers)  
 >  &nbsp;&nbsp; - [*Characters*](#characters)
 >3. [Resolutions](#3-resolution-methods)  
 >  3.1. [Success Range](#31-success-range)  
