@@ -25,7 +25,7 @@
 >    &nbsp;&nbsp;&nbsp; - [*Successes*](#successes-damage)  
 >    &nbsp;&nbsp;&nbsp; - [*NPCs*](#npcs)  
 >  4.3 [Actions](#43-actions)  
->5. [GMless options](#5-game-master-option)  
+>5. [GMless options](#5-game-master-options)  
 >    &nbsp;&nbsp;&nbsp; - [*Cards*](#cards)  
            
 
