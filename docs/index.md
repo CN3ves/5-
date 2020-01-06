@@ -116,10 +116,10 @@ The system resolutions methods depend on characteristics available for a given d
 
 To estimate the success range, thus the probability an action will succeed, it is important to consider the base value of 5, which is the default value at which an untrained character succeeds an action.  Let’s say then, there the base success range is 5-5 *(including the extremes)*. The upper value of this range can be extended *(hence the name 5+)* by the character’s <span style="color:green">proficiency</span>. The character proficiency is the sum of all bonuses and penalties the character’s descriptors provide. In general, these are the skill or resistance level modified by the trait or condition effects:   
   
-1.	Choose any appropriate descriptor, such as a skill for an active action or a resistance for a passive, instinctive action. Subtract the damage (if available) from the level. 
-2.	To that value, add all trait and condition bonuses and penalties to determine the final proficiency.
-3.	In addition, <span style="color:green">challenge difficulty</span> may provide quick +1 bonus or -1 penalty adjustments to proficiency.
-4.	Add the proficiency to 5 to determine the upper bound of the success range.
+1. Choose any appropriate descriptor, such as a skill for an active action or a resistance for a passive, instinctive action. Subtract the damage (if available) from the level. 
+2. To that value, add all trait and condition bonuses and penalties to determine the final proficiency.
+3. In addition, <span style="color:green">challenge difficulty</span> may provide quick +1 bonus or -1 penalty adjustments to proficiency.
+4. Add the proficiency to 5 to determine the upper bound of the success range.
 
 For longer running games, the lower value of the range may also be modified. Each challenge will have a <span style="color:green">rank</span>, reflecting the relative difference between the character skill technique and power *(tier)* and that required to overcome the challenge. These modifiers are also added to 5 to determine the success range lower bound. Unless there is a significant difference in difficulty, most challenges’ rank will be 0, meaning that the lower bound of the success range will be 5 except in rare situations.  
 *<span style="color:grey"> A character trying to sneak past the castle guard is facing a challenge that requires a superior level of skill as the action occurs in plain daylight, so the challenge rank is defined as 2 (two tiers above the character). The character has two relevant descriptors: the sneak(4:1) skill and the ninja training trait (+1 bonus). The guards are on alert, since they intercepted a message and are expecting trouble (-1 situational penalty). The resulting upper bound is 5 + 4 (skill level) + 1 (training bonus) -1 (situation) = 9. The lower bound is 5 + 2 (rank) = 7. As such, the range of possible successful values is 7-9, meaning that if the sum of the 2d6 is 7, 8 or 9, the character’s action succeeds.</span>*
@@ -151,10 +151,10 @@ is not possible as well as promoting thinking of other ways of overcoming
 the same obstacle. So failure is an opportunity to add complications, twists and 
 new developments to the story that the players need to consider.
 
-* *<span style="color:grey">  For simple challenges, the action may be interrupted instead of failing, preventing the action from being repeated (a guard shows up, the lock breaks, etc.) The action fails not because the character isn’t skilled enough to do it, but because something happened while he was attempting it. </span>  
-* *<span style="color:grey">  if the challenge involves information, failure can result in partial recalling, confusing news, gathering rumors or even misleading or misinformation.</span>  
-* *<span style="color:grey">  For more complex challenges, failure may instead result in a reduced effect instead of a full effect, for example, each value away from the success range, damage is reduced by 1. Likewise, less information can be discovered, deciphered or recovered from documents or investigations.</span>  
-* *<span style="color:grey">  On the other hand, if the resulting effect is negative, the action could fails with a negative effect such as accumulation of frustration resistance counter.</span> 
+* *<span style="color:grey">  For simple challenges, the action may be interrupted instead of failing, preventing the action from being repeated (a guard shows up, the lock breaks, etc.) The action fails not because the character isn’t skilled enough to do it, but because something happened while he was attempting it. </span>*  
+* *<span style="color:grey">  if the challenge involves information, failure can result in partial recalling, confusing news, gathering rumors or even misleading or misinformation.</span>*  
+* *<span style="color:grey">  For more complex challenges, failure may instead result in a reduced effect instead of a full effect, for example, each value away from the success range, damage is reduced by 1. Likewise, less information can be discovered, deciphered or recovered from documents or investigations.</span>*  
+* *<span style="color:grey">  On the other hand, if the resulting effect is negative, the action could fails with a negative effect such as accumulation of frustration resistance counter.</span>* 
 
 
 #### Helping  
