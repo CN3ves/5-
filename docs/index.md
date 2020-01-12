@@ -26,7 +26,8 @@
 >    &nbsp;&nbsp;&nbsp; - [*NPCs*](#npcs)  
 >  4.3 [Actions](#43-actions)  
 >5. [GMless options](#5-game-master-options)  
->    &nbsp;&nbsp;&nbsp; - [*Cards*](#cards)  
+>    &nbsp;&nbsp;&nbsp; - [*Single player*](#single-player)  
+>6. Game examples
            
 
 ## 1) Introduction  
@@ -229,12 +230,12 @@ Even though this system may be used without defining a Game Master that drives t
 * Allowing all players to add details to the scene, place or situation by suggesting what their characters notice. This way, all players have the opportunity to contribute to the scene, from simply adding new descriptive details and bringing out different things about the places they visit. This doesn’t need to be a major addition with plot ramifications, just a small decorative feature, a curious situation or filling up the room with a character could bring the scene to life.
 * When gathering information in towns, taverns or any other suitable place, allow the players to add their own rumours, hints and clues. These may be interesting twists to the story, personal takes on the plot, suggestions of side quests to take or simply adding background history to make the city feel more real.    
 
-#### Cards
-Besides the generally allowing all players to contribute, the “single-player option” can be used to actually remove the need for a game master. This option uses only a regular deck of cards, from which each player draws a hand of cards. The number of cards drawn depends on how the game is run, but 3 or 4 would give each player a good starting choice. The player with the lowest value card may play it, starting a scene and defining the next challenge. Once that challenge is complete, all players may play another card with a face value above the one on the table (note that, even though face values may differ from region to region, as long as all players involved agree on how to use the cards, this should not be a problem). Once no player can play more cards, the scene ends. Note that, using royals as important NPC encounters (maybe boss encounters!), aces special local events and joker far reaching, world changing events, the intensity of the scene is forced to increases as higher valued cards build up to an important challenge. On the other hand, the suits on the card determine the type of challenge the players are facing at the beginning, regardless of how it turns out in the end!):
-* Hearts are for socializers: Include a relevant amount of interaction with NPCs (chatty enemies, distressed peasants, negotiating passage).
-* Diamonds are for achievers: Include or point to some clear reward or something the players can achieve or collect (rare equipment sets, money, status).
-* Spades are for explorers: Introduce new lands, explain long lost secrets or clarify some historical event or any other discovery (background information, a rumors of distant lands, a secret revealed by an solving a puzzle).
-* Clubs are for killers: Should be filled with combat and fights (challenges of power, all out combat, arenas)
+#### Single player
+Besides generally allowing all players to contribute, the “single-player option” can be used to remove the need for a game master. This option uses only a regular deck of cards, from which each player draws a hand of cards. The number of cards drawn depends on how the game is run, but 3 or 4 would give each player a good starting choice. The player with the lowest value card may play it, starting a scene and defining the next challenge. Once that challenge is complete, all players may play another card with a face value above the one on the table *(note that, even though face values may differ from region to region, as long as all players involved agree on how to use the cards, this should not be a problem)*. Once no player can play more cards, the scene ends. However, not all values need to be the same: royals can be important NPC encounters (maybe boss encounters!), aces special local events and joker far reaching, world changing events, providing a growing intensity to the scene as higher valued cards build up to an important challenge. On the other hand, the suits on the card determine the type of challenge the players are facing at the beginning (regardless of how it turns out in the end!):
+* Hearts are for socializers: Include a relevant amount of interaction with NPCs (chatty enemies, distressed peasants, negotiating passage) and potential to peacefully solve the conflict with social skills.
+* Diamonds are for achievers: Include or point to some clear reward or something the players can achieve or collect (rare equipment sets, money, status), if not immediately after the encounter, maybe by opening future quest options.
+* Spades are for explorers: Introduce new lands, explain long lost secrets or clarify some historical event or any other discovery (background information, a rumours  of distant lands, a secret revealed by an solving a puzzle), which expands on the world, bringing more of it to life and deepening the setting and story.
+* Clubs are for killers: Should be filled with combat and fights (challenges of power, all out combat, arenas), adding particular challenges  or enemies for unique fights.
 
 
 Once a card is played, the challenge is introduced by the player that used the card, who is free add lore, locations and characters to the game, or even use previously mentioned characters or location and integrate them into their own scenes.   
