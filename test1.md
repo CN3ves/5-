@@ -87,22 +87,14 @@ ___
 
 ___
 
-**Longtooth Briarsmith**:
+**The evil that lies within**:
 
-<img src="https://gamersplane.com/characters/avatars/11245.jpg?1561460660" align="left" width="50" height="50" /> 
-<b>Well you heard the lady. <i>Orc</i></b> he snorts as Longtooth grins his long tooth and grabs a knife from the kitchen as he heads to the basement. <BR clear="left">
+<img src="https://gamersplane.com/characters/avatars/13311.jpg?1578996975" align="left" width="50" height="50" /> 
+<b>I see you. <BR clear="left">
 
-**Saurkhan Whitepelt**:
 
-<img src="https://gamersplane.com/characters/avatars/11398.jpg?1561560983" align="left" width="50" height="50" /> 
-<b>No door keeps me from my destiny!</b> he tries, but fails, to debilitated the door. <b>The structural integrity of said door is too great! We must find another way!</b> <BR clear="left">
-  
-**Rowan Cainr:**  
-
-<img src="https://gamersplane.com/ucp/avatars/avatar.png" align="left" width="50" height="50" /> 
-Fear not, I will belay the difference! <BR clear="left">
 
 ___
 
-<abbr title="pixels per inch">PPI</abbr>
+<font color="olive"><i>The stars are right! The stars are right!The stars are right!The stars are right!The stars are right!The stars are right!The stars are right!The stars are right!The stars are right!The stars are right!</i></font>
 
