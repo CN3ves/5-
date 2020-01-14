@@ -1,6 +1,9 @@
+---
+layout: horror
+---
 
 
-# title
+# ebook test
 
 
 <img src="https://i.imgur.com/MFcQvxo.png?1" alt="Strange Aeons">
