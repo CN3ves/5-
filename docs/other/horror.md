@@ -12,9 +12,8 @@ IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER F
 <br>
 <details>
   <summary><font color="maroon"><b>Necromicon</b></font></summary>
-  <img tyle="float: center;"  src="https://i.ebayimg.com/images/g/87gAAOSw4Q5bHmel/s-l300.jpg"/>
   <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300"></p>
+  <img width="230" height="150" src="https://i.ebayimg.com/images/g/87gAAOSw4Q5bHmel/s-l300.jpg"></p>
   <br/> <p align="center">“That is not dead which can eternal lie,  <br/>
   And with strange aeons even death may die.”</p><BR clear="left">   
 </details>
@@ -27,7 +26,7 @@ ___
 
 **The evil that lies within**:  
 
-<img src="https://gamersplane.com/characters/avatars/13311.jpg?1578996975" align="justify" width="50" height="50" /> 
+<img src="https://gamersplane.com/characters/avatars/13311.jpg?1578996975" align="justify" width="100" height="100" /> 
 A voice speaks: <font color="maroon"><b>I see you.</b></font> <BR clear="left">
 
 ___
