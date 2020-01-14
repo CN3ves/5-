@@ -1,6 +1,5 @@
 ---
 layout: system
-theme: jekyll-theme-minimal
 ---
 
 ## Table of contents
