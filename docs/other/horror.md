@@ -31,4 +31,4 @@ A voice speaks: <b>I see you.</b> <BR clear="left">
 
 ___
 
-<font color="olive"><i>The stars are right! The stars are right!The stars are right!The stars are right!The stars are right!The stars are right!The stars are right!The stars are right!The stars are right!The stars are right!</i></font>
+<font color="olive"><i>The stars are right! The stars are right!The stars are right!The stars are right!The stars are right!The stars are right!The stars are right!The stars are right!The stars are right!The stars are right!The stars are right!The stars are right!The stars are right!ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn. The stars are right!The stars are right!The stars are right!The stars are right!The stars are right!The stars are right!The stars are right!The stars are right!</i></font>
