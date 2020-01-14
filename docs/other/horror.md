@@ -12,7 +12,7 @@ theme: jekyll-theme-hacker
 IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN!
 <br>
 <details>
-  <summary><font color="blood"><<b>Necromicon</B></font></summary>
+  <summary><font color="blood"><b>Necromicon</b></font></summary>
   <img src="https://i.ebayimg.com/images/g/87gAAOSw4Q5bHmel/s-l300.jpg" align="center" />
   <br/> “That is not dead which can eternal lie,
 And with strange aeons even death may die.”<BR clear="left">   
