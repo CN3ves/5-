@@ -25,7 +25,7 @@ And with strange aeons even death may die.”<BR clear="left">
 ___
 
 **The evil that lies within**:
-<img src="https://gamersplane.com/characters/avatars/13311.jpg?1578996975" align="left" width="50" height="50" /> 
+<img src="https://gamersplane.com/characters/avatars/13311.jpg?1578996975" align="center" width="50" height="50" /> 
 A voice: <b>I see you.</b> <BR clear="left">
 
 ___
