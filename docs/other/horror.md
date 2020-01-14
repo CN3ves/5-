@@ -1,5 +1,6 @@
 ---
 layout: horror
+theme: hacker
 ---
 
 
