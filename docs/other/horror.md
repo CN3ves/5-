@@ -1,6 +1,6 @@
 ---
 layout: horror
-theme: hacker
+theme: jekyll-theme-hacker
 ---
 
 
