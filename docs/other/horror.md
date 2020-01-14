@@ -13,7 +13,7 @@ IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER F
 <details>
   <summary><font color="maroon"><b>Necromicon</b></font></summary>
   <p align="center">
-  <img width="230" height="150" src="https://i.ebayimg.com/images/g/87gAAOSw4Q5bHmel/s-l300.jpg"></p>
+  <img width="250" height="300" src="https://i.ebayimg.com/images/g/87gAAOSw4Q5bHmel/s-l300.jpg"></p>
   <br/> <p align="center">“That is not dead which can eternal lie,  <br/>
   And with strange aeons even death may die.”</p><BR clear="left">   
 </details>
