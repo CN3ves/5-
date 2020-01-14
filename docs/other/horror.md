@@ -1,6 +1,5 @@
 ---
 layout: horror
-theme: jekyll-theme-hacker
 ---
 
 
@@ -13,9 +12,9 @@ IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER FHTAGN! IÄ! IÄ! PATHFINDER F
 <br>
 <details>
   <summary><font color="blood"><b>Necromicon</b></font></summary>
-  <img src="https://i.ebayimg.com/images/g/87gAAOSw4Q5bHmel/s-l300.jpg" align="justify" />
-  <br/> “That is not dead which can eternal lie,
-And with strange aeons even death may die.”<BR clear="left">   
+  <img src="https://i.ebayimg.com/images/g/87gAAOSw4Q5bHmel/s-l300.jpg" align="center" />
+  <br/> <font align="center">“That is not dead which can eternal lie,  <br/>
+  And with strange aeons even death may die.”</font><BR clear="left">   
 </details>
 <br>
 <audio src="https://dl.dropbox.com/s/655uwprmjxuma3v/Billie-Eilish-bury-a-friend.mp3" controls>
