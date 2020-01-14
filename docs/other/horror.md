@@ -27,6 +27,7 @@ ___
 **The evil that lies within**:  
 
 <img src="https://gamersplane.com/characters/avatars/13311.jpg?1578996975" align="right" width="100" height="100" /> 
+<img src="https://gamersplane.com/characters/avatars/13311.jpg?1578996975" align="left" width="100" height="100" /> 
 A voice speaks: <font color="maroon"><b>I see you.</b></font>I see you.I see you.I see you.I see you.I see you.I see you.I see you.I see you.I see you.I see you.I see you.I see you.I see you.I see you.I see you.I see you.I see you.I see you.I see you.I see you.I see you.I see you.I see you.I see you.I see you.I see you.I see you.I see you.I see you.I see you.I see you.I see you.I see you.I see you.I see you.I see you.I see you. <BR clear="left">
 
 ___
