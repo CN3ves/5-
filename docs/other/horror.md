@@ -18,9 +18,10 @@ layout: horror
 
 ___
 
-**The evil that lies within**:  
+  
 
 <img src="https://gamersplane.com/characters/avatars/13311.jpg?1578996975" align="left" width="100" height="100" hspace=”5” vspace=”5”/> 
+**The evil that lies within**:
 <font color="olive"><i>
 You are lost in a city. You can't remember how or when you arrived at this place. It's as if you were just created here, no past, no memories and yet, as you look around, you seem to faintly recognise it. There is something familiar about this place, a lost memory fragment you try to cling on to, but never retrieve. Have you been here before? Your pulse pounds as, ragged and underprepared, you realise you are fleeing a tenacious citrine fog and the relentless threat you inexplicably know lurks within. Something is hunting you, something you know you cannot face.
 
