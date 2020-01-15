@@ -63,7 +63,7 @@ Lars will retreat from the fog, backing up towards a wall he will quietly call o
 
 
 <img src="https://gamersplane.com/characters/avatars/13258.jpg?1579078623" align="left" hspace="20" width="100" height="100" /> 
-<font color="purple"><b>Lars Skrilleg:</b></font><br>
+<font color="purple"><b>Girl:</b></font><br>
 Confused and disoriented, the girl looks around. her heart pounding. <b>"H-Hello? Wh-Who are you? Who...am I? Where is...this place?"</b><br>
 <br>
 
@@ -71,7 +71,7 @@ Confused and disoriented, the girl looks around. her heart pounding. <b>"H-Hello
 <font color="cyan"><b>Lars Skrilleg:</b></font><br>
 <b>”I am...am... It doesn’t matter. Do you know what is in the fog. What is hunting us.”</b>
 Lars will raise his voice, calling to the other shadows
-<b>”Hello, you there! We must Band together so we can face the hunter as a group. Who knows what it is?”</b><br>
+<b>”Hello, you there! We must Band together so we can face the hunter as a group. Who knows what it is?”</b>
 <br>
 
 
@@ -89,11 +89,11 @@ Lars will try to pick out the matching shadow to the voice and follow, scanning 
 
 <img src="https://gamersplane.com/characters/avatars/13254.jpg?1579078623" align="left" hspace="20" width="100" height="100" /> 
 <font color="blue"><b>Thelonious:</b></font><br>
-<i>others like me, lost in this strange place...</i><br>I follow the others, try to gather with the other voices.<br>
+<i>others like me, lost in this strange place...</i><br>I follow the others, try to gather with the other voices.
 <br>
 
 
-<img src="https://gamersplane.com/characters/avatars/13254.jpg?1579078623" align="left" hspace="20" width="100" height="100" /> 
+<img src="https://gamersplane.com/characters/avatars/13278.jpg?1579084183" align="left" hspace="20" width="100" height="100" /> 
 <font color="lime"><b>Nyssa:</b></font><br>
 Nyssa is uncertain who she can trust in this misty, shadowy place that defies her memories. She silently follows the voices, the only signs of human life in this forsaken city. Why does it seem familiar? What is that thought just beyond her ability to grasp, that clue that will help her piece it all together? She can't remember details. It's as if... something were stopping her from remembering.
 
