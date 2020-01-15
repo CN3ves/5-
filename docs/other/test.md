@@ -121,7 +121,7 @@ Behind, where Nyssa stands, the yellow fog and the relentless sound of pursuit g
 meanwhile... Tatterman appears!
 
 <p align="center">
-  <img src=https://db4sgowjqfwig.cloudfront.net/campaigns/159268/assets/716543/Tatterman.png?1490491836 alt="Strange Aeons">
+  <img src="https://db4sgowjqfwig.cloudfront.net/campaigns/159268/assets/716543/Tatterman.png?1490491836" alt="Tatterman">
 </p>
 
 <audio src="https://dl.dropbox.com/s/655uwprmjxuma3v/Billie-Eilish-bury-a-friend.mp3" controls>
