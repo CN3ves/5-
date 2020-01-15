@@ -27,10 +27,9 @@ ___
 
 ___
 <img src="https://gamersplane.com/characters/avatars/13255.jpg?1579076408" align="left" hspace="20" width="100" height="100" /> 
-<font color="green"><b>Emerald Escallera:</font>
-  <b>"Wha ? Where ?"</b>
-
-Looks around spinning in a wide circle. Touching the walls running her fingers along them.
+<font color="green"><b>Emerald Escallera:</b></font>
+  <b>"Wha ? Where ?"</b> <br>
+  Looks around spinning in a wide circle. Touching the walls running her fingers along them.
 She tries to keep away from the boiling moving fog.
 ___
 
