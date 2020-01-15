@@ -16,7 +16,7 @@ layout: horror
   <i>Necronomicon</i>
 </p>
 
-<audio src="https://motionarray.com/royalty-free-music/scare-horror-survival-18505" controls>
+<audio src="https://motionarray.com/browse/download/preview/18505" controls>
 </audio>
 
 ___
