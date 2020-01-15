@@ -6,13 +6,14 @@ layout: horror
 # "ebook" concept test
 
 <p align="center">
-<img src="https://i.imgur.com/MFcQvxo.png?1" alt="Strange Aeons">
+  <img src="https://i.imgur.com/MFcQvxo.png?1" alt="Strange Aeons">
 </p>
+
 <p align="center">
   <b>IÄ! IÄ! PATHFINDER FHTAGN!</b><br>
-“That is not dead which can eternal lie, <br>
-And with strange aeons even death may die.”<br>
-<i>Necronomicon</i>
+  “That is not dead which can eternal lie, <br>
+  And with strange aeons even death may die.”<br>
+  <i>Necronomicon</i>
 </p>
 
 ___
