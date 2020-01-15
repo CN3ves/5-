@@ -16,6 +16,9 @@ layout: horror
   <i>Necronomicon</i>
 </p>
 
+<audio src="https://motionarray.com/royalty-free-music/scare-horror-survival-18505" controls>
+</audio>
+
 ___
 <img src="https://gamersplane.com/characters/avatars/13311.jpg?1578996975" align="left" hspace="20" width="100" height="100" /> 
 <font color="black"><b>The evil that lies within:</b></font><font color="olive"><i>
