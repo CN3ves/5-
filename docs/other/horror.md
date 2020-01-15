@@ -37,7 +37,7 @@ ___
   <b>"Wha ? Where ?"</b> <br>
   Looks around spinning in a wide circle. Touching the walls running her fingers along them.
 She tries to keep away from the boiling moving fog.
-<br><br>
+<br><br><br>
 
 
 <img src="https://gamersplane.com/characters/avatars/13254.jpg?1579078623" align="left" hspace="20" width="100" height="100" /> 
@@ -45,7 +45,7 @@ She tries to keep away from the boiling moving fog.
 I stumble in confusion looking around for any open door or window in the crumbling walls. Anywhere where I can find shelter from this ominous mist...
 <br>
 <b>"Hide... don't let it find you..."</b>
-<br><br>
+<br><br><br>
 
 
 <img src="https://gamersplane.com/characters/avatars/13255.jpg?1579076408" align="left" hspace="20" width="100" height="100" /> 
