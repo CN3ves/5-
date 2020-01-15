@@ -40,7 +40,7 @@ ___
 
 <img src="https://gamersplane.com/characters/avatars/13254.jpg?1579078623" align="left" hspace="20" width="100" height="100" /> 
 <font color="blue"><b>Thelonious:</b></font><br>
-I stumble in confusion looking around for any open door or window in the crumbling walls. Anywhere where I can find shelter from this ominous mist... <b>"Hide... don't let it find you..."</b><br>
+I stumble in confusion looking around for any open door or window in the crumbling walls. Anywhere where I can find shelter from this ominous mist... <b>"Hide... don't let it find you..."</b>
 <br>
 
 
