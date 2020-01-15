@@ -7,7 +7,7 @@ layout: horror
 
 <p align="center">
 <img src="https://i.imgur.com/MFcQvxo.png?1" alt="Strange Aeons">
-
+<br>
 **IÄ! IÄ! PATHFINDER FHTAGN!**
 “That is not dead which can eternal lie, 
 And with strange aeons even death may die.”
