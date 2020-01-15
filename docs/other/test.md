@@ -117,7 +117,7 @@ As you all try to find your footing in this misty place, you notice others and s
 Behind, where Nyssa stands, the yellow fog and the relentless sound of pursuit grow closer. As you stop to think, gruesome sounds echo around you as the screams of pain from one of the shadowy shapes, you previously noticed in the fog go silent. Blood spatters across the wall in front of you and a brutally distorted corpse, half meat, half blood, drops at your feet. You can't recognise him, or her, but somehow, you feel it was one of you.
 </i></font>
 
-
+<br><br><br>
 meanwhile... Tatterman appears!
 
 <p align="center">
