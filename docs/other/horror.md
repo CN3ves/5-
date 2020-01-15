@@ -61,8 +61,47 @@ I stumble in confusion looking around for any open door or window in the crumbli
 Lars will retreat from the fog, backing up towards a wall he will quietly call out to the shadowy figures near him <b>"Hey friends. Who are you and where are we?"</b><br>
 <br>
 
+
 <img src="https://gamersplane.com/characters/avatars/13258.jpg?1579078623" align="left" hspace="20" width="100" height="100" /> 
 <font color="purple"><b>Lars Skrilleg:</b></font><br>
 Confused and disoriented, the girl looks around. her heart pounding. <b>"H-Hello? Wh-Who are you? Who...am I? Where is...this place?"</b><br>
 <br>
 
+<img src="https://gamersplane.com/characters/avatars/13291.jpg?1579078623" align="left" hspace="20" width="100" height="100" /> 
+<font color="cyan"><b>Lars Skrilleg:</b></font><br>
+<b>”I am...am... It doesn’t matter. Do you know what is in the fog. What is hunting us.”</b>
+Lars will raise his voice, calling to the other shadows
+<b>”Hello, you there! We must Band together so we can face the hunter as a group. Who knows what it is?”</b><br>
+<br>
+
+
+<img src="https://gamersplane.com/characters/avatars/13255.jpg?1579076408" align="left" hspace="20" width="100" height="100" /> 
+<font color="green"><b>Emerald Escallera:</b></font><br>
+  <b>"Makes sense. We have nothing to defend ourselves with though. Lets see what we can find up the alley."</b><br>
+<br>
+
+
+<img src="https://gamersplane.com/characters/avatars/13291.jpg?1579078623" align="left" hspace="20" width="100" height="100" /> 
+<font color="cyan"><b>Lars Skrilleg:</b></font><br>
+Lars will try to pick out the matching shadow to the voice and follow, scanning the fog around himself as he moves for any sign of danger.<br>
+<br>
+
+
+<img src="https://gamersplane.com/characters/avatars/13254.jpg?1579078623" align="left" hspace="20" width="100" height="100" /> 
+<font color="blue"><b>Thelonious:</b></font><br>
+<i>others like me, lost in this strange place...</i><br>I follow the others, try to gather with the other voices.<br>
+<br>
+
+
+<img src="https://gamersplane.com/characters/avatars/13254.jpg?1579078623" align="left" hspace="20" width="100" height="100" /> 
+<font color="lime"><b>Nyssa:</b></font><br>
+Nyssa is uncertain who she can trust in this misty, shadowy place that defies her memories. She silently follows the voices, the only signs of human life in this forsaken city. Why does it seem familiar? What is that thought just beyond her ability to grasp, that clue that will help her piece it all together? She can't remember details. It's as if... something were stopping her from remembering.
+
+She continues to follow the voices. They sound just as lost and confused as she, but they could just be part of the mystery as well. She'll observe from the shadows, see where these people head and follow them. Perhaps the voice is correct and banding together is the answer. She will watch and see, and if it seems safe, she may reveal herself to them.
+<br>
+
+
+<img src="https://gamersplane.com/characters/avatars/13255.jpg?1579076408" align="left" hspace="20" width="100" height="100" /> 
+<font color="green"><b>Emerald Escallera:</b></font><br>
+  <b>"Alright I was going to go left, I have no idea where we are or where this leads. Or even how I got here, someone must have bespelled us."</b><br>
+<br>
