@@ -20,6 +20,7 @@ layout: horror
 </audio>
 
 ___
+___
 
 <img src="https://gamersplane.com/characters/avatars/13311.jpg?1578996975" align="left" hspace="20" width="100" height="100" /> 
 <font color="black"><b>The evil that lies within:</b></font><font color="olive"><i>
@@ -30,7 +31,6 @@ You suddenly stop as you realise that all around is a wall of that sickly yellow
 
 ___
 
-___
 
 <img src="https://gamersplane.com/characters/avatars/13255.jpg?1579076408" align="left" hspace="20" width="100" height="100" /> 
 <font color="green"><b>Emerald Escallera:</b></font>
@@ -39,7 +39,6 @@ ___
 She tries to keep away from the boiling moving fog.
 <br><br>
 
-___
 
 <img src="https://gamersplane.com/characters/avatars/13254.jpg?1579078623" align="left" hspace="20" width="100" height="100" /> 
 <font color="blue"><b>Thelonious:</b></font>
@@ -48,30 +47,27 @@ I stumble in confusion looking around for any open door or window in the crumbli
 <b>"Hide... don't let it find you..."</b>
 <br><br>
 
-___
 
 <img src="https://gamersplane.com/characters/avatars/13255.jpg?1579076408" align="left" hspace="20" width="100" height="100" /> 
 <font color="green"><b>Emerald Escallera:</b></font>
   <b>"Who, who are you ? What is out there in the fog ?"</b> Emerald looks for someplace to hide and also picks out the left turn if she needs to run.
 <br><br><br>
 
-___
 
 <img src="https://gamersplane.com/characters/avatars/13254.jpg?1579078623" align="left" hspace="20" width="100" height="100" /> 
 <font color="blue"><b>Thelonious:</b></font>
 <b>"Hide... we must hide from the fog"</b> I answer confusedly, prodding the walls like a blind man.
 <br><br><br>
 
-___
 
 <img src="https://gamersplane.com/characters/avatars/13291.jpg?1579078623" align="left" hspace="20" width="100" height="100" /> 
 <font color="cyan"><b>Lars Skrilleg:</b></font>
 Lars will retreat from the fog, backing up towards a wall he will quietly call out to the shadowy figures near him <b>"Hey friends. Who are you and where are we?"</B>
 <br><br><br>
 
-___
 
 <img src="https://gamersplane.com/characters/avatars/13258.jpg?1579078623" align="left" hspace="20" width="100" height="100" /> 
 <font color="purple"><b>Lars Skrilleg:</b></font>
 Confused and disoriented, the girl looks around. her heart pounding. <b>"H-Hello? Wh-Who are you? Who...am I? Where is...this place?"</b>
 <br><br><br>
+
