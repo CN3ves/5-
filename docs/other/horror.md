@@ -8,10 +8,10 @@ layout: horror
 <p align="center">
 <img src="https://i.imgur.com/MFcQvxo.png?1" alt="Strange Aeons">
 
-[b]IÄ! IÄ! PATHFINDER FHTAGN![/b]
+**IÄ! IÄ! PATHFINDER FHTAGN!**
 “That is not dead which can eternal lie, 
 And with strange aeons even death may die.”
-[i]Necronomicon[/i]
+*Necronomicon*
 </p>
 
 ___
