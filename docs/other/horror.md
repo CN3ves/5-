@@ -65,6 +65,13 @@ ___
 ___
 
 <img src="https://gamersplane.com/characters/avatars/13291.jpg?1579078623" align="left" hspace="20" width="100" height="100" /> 
-<font color="blue"><b>Lars Skrilleg:</b></font>
+<font color="cyan"><b>Lars Skrilleg:</b></font>
 Lars will retreat from the fog, backing up towards a wall he will quietly call out to the shadowy figures near him <b>"Hey friends. Who are you and where are we?"</B>
+<br><br><br>
+
+___
+
+<img src="https://gamersplane.com/characters/avatars/13258.jpg?1579078623" align="left" hspace="20" width="100" height="100" /> 
+<font color="purple"><b>Lars Skrilleg:</b></font>
+Confused and disoriented, the girl looks around. her heart pounding. <b>"H-Hello? Wh-Who are you? Who...am I? Where is...this place?"</b>
 <br><br><br>
