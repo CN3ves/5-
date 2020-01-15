@@ -105,3 +105,14 @@ She continues to follow the voices. They sound just as lost and confused as she,
 <font color="green"><b>Emerald Escallera:</b></font><br>
   <b>"Alright I was going to go left, I have no idea where we are or where this leads. Or even how I got here, someone must have bespelled us."</b><br>
 <br>
+
+
+___
+___
+
+<img src="https://gamersplane.com/characters/avatars/13311.jpg?1578996975" align="left" hspace="20" width="100" height="100" /> 
+<font color="black"><b>The evil that lies within:</b></font><font color="olive"><i>
+As you all try to find your footing in this misty place, you notice others and slowly join them, one by one. All except for Nyssa, who decides to stay behind, lurking as a shadow just outside reach. As Emerald confusedly turns left, the alley walls sag, battered brick slumping over the path, nearly blotting out the bruised twilight sky. Again the grimy cobblestone path splits. This time one route curves uphill, while the other recklessly descends.
+
+Behind, where Nyssa stands, the yellow fog and the relentless sound of pursuit grow closer. As you stop to think, gruesome sounds echo around you as the screams of pain from one of the shadowy shapes, you previously noticed in the fog go silent. Blood spatters across the wall in front of you and a brutally distorted corpse, half meat, half blood, drops at your feet. You can't recognise him, or her, but somehow, you feel it was one of you.
+</i></font>
