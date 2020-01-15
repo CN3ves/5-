@@ -116,3 +116,20 @@ As you all try to find your footing in this misty place, you notice others and s
 
 Behind, where Nyssa stands, the yellow fog and the relentless sound of pursuit grow closer. As you stop to think, gruesome sounds echo around you as the screams of pain from one of the shadowy shapes, you previously noticed in the fog go silent. Blood spatters across the wall in front of you and a brutally distorted corpse, half meat, half blood, drops at your feet. You can't recognise him, or her, but somehow, you feel it was one of you.
 </i></font>
+
+
+meanwhile... 
+
+<p align="center">
+  <img src=https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/32b4898d-4fc5-4225-9dd7-1989a4da6a06/daemsju-f950ccbc-051e-421d-b993-005c1b5b2fb3.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzMyYjQ4OThkLTRmYzUtNDIyNS05ZGQ3LTE5ODlhNGRhNmEwNlwvZGFlbXNqdS1mOTUwY2NiYy0wNTFlLTQyMWQtYjk5My0wMDVjMWI1YjJmYjMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.SdRnj4OxiEt7JhZeB0qH6GmMZY5jz33e88DAArCbxWw" alt="Strange Aeons">
+</p>
+
+<audio src="https://dl.dropbox.com/s/655uwprmjxuma3v/Billie-Eilish-bury-a-friend.mp3" controls>
+<p>If you are reading this, it is because your browser does not support the audio element.</p>
+</audio>
+
+🎶 Warte, warte nur ein Weilchen,
+Bald kommt Tatterman zu dir.🎶
+
+
+
