@@ -3,7 +3,7 @@ layout: horror
 ---
 
 
-# ebook test
+# "ebook" concept test
 
 <p align="center">
 <img src="https://i.imgur.com/MFcQvxo.png?1" alt="Strange Aeons">
