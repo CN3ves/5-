@@ -34,7 +34,7 @@ ___
   <b>"Wha ? Where ?"</b> <br>
   Looks around spinning in a wide circle. Touching the walls running her fingers along them.
 She tries to keep away from the boiling moving fog.
-<br>
+<br><br>
 
 ___
 <img src="https://gamersplane.com/characters/avatars/13254.jpg?1579078623" align="left" hspace="20" width="100" height="100" /> 
@@ -42,22 +42,22 @@ ___
 I stumble in confusion looking around for any open door or window in the crumbling walls. Anywhere where I can find shelter from this ominous mist...
 <br>
 <b>"Hide... don't let it find you..."</b>
-<br>
+<br><br>
 
 ___
 <img src="https://gamersplane.com/characters/avatars/13255.jpg?1579076408" align="left" hspace="20" width="100" height="100" /> 
 <font color="green"><b>Emerald Escallera:</b></font>
   <b>"Who, who are you ? What is out there in the fog ?"</b> Emerald looks for someplace to hide and also picks out the left turn if she needs to run.
-<br>
+<br><br>
 
 ___
 <img src="https://gamersplane.com/characters/avatars/13254.jpg?1579078623" align="left" hspace="20" width="100" height="100" /> 
 <font color="blue"><b>Thelonious:</b></font>
 <b>"Hide... we must hide from the fog"</b> I answer confusedly, prodding the walls like a blind man.
-<br>
+<br><br>
 
 ___
 <img src="https://gamersplane.com/characters/avatars/13291.jpg?1579078623" align="left" hspace="20" width="100" height="100" /> 
 <font color="blue"><b>Lars Skrilleg:</b></font>
 Lars will retreat from the fog, backing up towards a wall he will quietly call out to the shadowy figures near him <b>"Hey friends. Who are you and where are we?"</B>
-<br>
+<br><br>
