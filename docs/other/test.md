@@ -1,8 +1,6 @@
 ---
 layout: horror
 ---
-
-[logs](https://gamersplane.com/forums/thread/14499/)  
 <p align="center">
   <img src="https://i.imgur.com/MFcQvxo.png?1" alt="Strange Aeons" width="100%" height="100%">
 </p>
@@ -10,7 +8,7 @@ layout: horror
 <font color="silver">
   <h1> "ebook" concept test </h1>
 </font>
-
+[logs](https://gamersplane.com/forums/thread/14499/)  
 <font color="silver">
 <p align="center">
   <b>IÄ! IÄ! PATHFINDER FHTAGN!</b><br>
