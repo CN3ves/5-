@@ -11,12 +11,14 @@ layout: horror
   <img src="https://i.imgur.com/MFcQvxo.png?1" alt="Strange Aeons">
 </p>
 
+<font color="silver">
 <p align="center">
   <b>IÄ! IÄ! PATHFINDER FHTAGN!</b><br>
   “That is not dead which can eternal lie, <br>
   And with strange aeons even death may die.”<br>
   <i>Necronomicon</i>
 </p>
+</font>
 
 <audio src="https://api.soundcloud.com/tracks/225459918/download?client_id=LBCcHmRB8XSStWL6wKH2HPACspQlXg2P" controls>
 </audio>
