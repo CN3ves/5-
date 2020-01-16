@@ -5,10 +5,17 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/horror.css?v=' | append: site.github.build_revision | relative_url }}">
-
+<style>
+body {
+  background-image: url('https://vignette.wikia.nocookie.net/lovecraft/images/a/a6/The_Yellow_Sign.jpg/revision/latest?cb=20161006134025');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
 {% seo %}
   <body style="background-color:black">
-   <div align="justify" style="background-image: url('https://vignette.wikia.nocookie.net/lovecraft/images/a/a6/The_Yellow_Sign.jpg/revision/latest?cb=20161006134025');>
+   <div align="justify";>
      {{ content }}
    </div>
   </body>
