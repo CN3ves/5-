@@ -8,13 +8,14 @@ layout: horror
 # "ebook" concept test 
 [logs](https://gamersplane.com/forums/thread/14499/)  
 
-
+<font color="marron">
 <p align="center">
   <b>IÄ! IÄ! PATHFINDER FHTAGN!</b><br>
   “That is not dead which can eternal lie, <br>
   And with strange aeons even death may die.”<br>
   <i>Necronomicon</i>
 </p>
+</font>
 
 
 
