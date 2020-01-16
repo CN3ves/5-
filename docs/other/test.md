@@ -23,7 +23,7 @@ ___
 ___
 
 <img src="https://gamersplane.com/characters/avatars/13311.jpg?1578996975" align="left" hspace="20" width="100" height="100" /> 
-<font color="black"><b>The evil that lies within:</b></font><font color="olive"><i>
+<font color="white"><b>The evil that lies within:</b></font><font color="olive"><i>
 You are lost in a city. You can't remember how or when you arrived at this place. It's as if you were just created here, no past, no memories and yet, as you look around, you seem to faintly recognise it. There is something familiar about this place, a lost memory fragment you try to cling on to, but never retrieve. Have you been here before? Your pulse pounds as, ragged and underprepared, you realise you are fleeing a tenacious citrine fog and the relentless threat you inexplicably know lurks within. Something is hunting you, something you know you cannot face.
 
 You suddenly stop as you realise that all around is a wall of that sickly yellow fog, tumbling through the alley’s canyon of crumbling, grey brick walls like some jaundiced flash flood. Ahead, an unfamiliar alley splits, curving to the left and right. Behind, from the silent swell of mist, emanates the sound of footsteps—slow, but somehow keeping pace with the careening, hungry wave. You notice shadowy shapes of other people through the thinner parts of the fog. You can tell they are as confused as you are.
@@ -111,7 +111,7 @@ ___
 ___
 
 <img src="https://gamersplane.com/characters/avatars/13311.jpg?1578996975" align="left" hspace="20" width="100" height="100" /> 
-<font color="black"><b>The evil that lies within:</b></font><font color="olive"><i>
+<font color="white"><b>The evil that lies within:</b></font><font color="olive"><i>
 As you all try to find your footing in this misty place, you notice others and slowly join them, one by one. All except for Nyssa, who decides to stay behind, lurking as a shadow just outside reach. As Emerald confusedly turns left, the alley walls sag, battered brick slumping over the path, nearly blotting out the bruised twilight sky. Again the grimy cobblestone path splits. This time one route curves uphill, while the other recklessly descends.
 
 Behind, where Nyssa stands, the yellow fog and the relentless sound of pursuit grow closer. As you stop to think, gruesome sounds echo around you as the screams of pain from one of the shadowy shapes, you previously noticed in the fog go silent. Blood spatters across the wall in front of you and a brutally distorted corpse, half meat, half blood, drops at your feet. You can't recognise him, or her, but somehow, you feel it was one of you.
