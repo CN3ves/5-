@@ -15,6 +15,8 @@ layout: horror
 # "ebook" concept test 
 [logs](https://gamersplane.com/forums/thread/14499/)  
 
+___
+___
 
 <details>
   <summary><b>[SOUND] Misty city background </b></summary>
@@ -22,9 +24,6 @@ layout: horror
 </audio>
 </details>  
 
-
-___
-___
 
 <font color="olive"><i>
 You are lost in a city. You can't remember how or when you arrived at this place. It's as if you were just created here, no past, no memories and yet, as you look around, you seem to faintly recognise it. There is something familiar about this place, a lost memory fragment you try to cling on to, but never retrieve. Have you been here before? Your pulse pounds as, ragged and underprepared, you realise you are fleeing a tenacious citrine fog and the relentless threat you inexplicably know lurks within. Something is hunting you, something you know you cannot face.
