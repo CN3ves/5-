@@ -26,12 +26,17 @@ ___
 <br>
 
 <font color="olive"><i>
-You are lost in a city. You can't remember how or when you arrived at this place. It's as if you were just created here, no past, no memories and yet, as you look around, you seem to faintly recognise it. There is something familiar about this place, a lost memory fragment you try to cling on to, but never retrieve. Have you been here before? Your pulse pounds as, ragged and underprepared, you realise you are fleeing a tenacious citrine fog and the relentless threat you inexplicably know lurks within. Something is hunting you, something you know you cannot face.
-
-You suddenly stop as you realise that all around is a wall of that sickly yellow fog, tumbling through the alley’s canyon of crumbling, grey brick walls like some jaundiced flash flood. Ahead, an unfamiliar alley splits, curving to the left and right. Behind, from the silent swell of mist, emanates the sound of footsteps—slow, but somehow keeping pace with the careening, hungry wave. You notice shadowy shapes of other people through the thinner parts of the fog. You can tell they are as confused as you are.
+I open my eyes. It is difficult to breathe here. I feel my neck tighten, the muscles hurting as if strangled. I take my hand to feel it, only to find the twisted roughness of… a rope. *“Mother, what have I done?”* I gasp for air as I realize the source of the weight on my neck. Something snakes next to me, and I feel the tail of that constrictor material macabre waving in tune with my body. I can't remember how I go here. In fact, I can’t remember much as if I was just born, no past, no memories… And yet, here I was lost in this city that felt somehow familiar. *”How did I get here? Am I dead?”* I grab the loose rope strongly. There is something familiar about this place, a lost memory fragment, a smell that I can almost feel. “Have I been here before?” A flash of a grand party, a masquerade and the depths of horror… 
 </i></font>
 
-<br><br><br>
+___
+___
+IGNORE
+___
+___
+
+<details>
+  <summary>Stuffs for laters</summary>
 meanwhile... Tatterman appears!
 
 <p align="center">
@@ -51,5 +56,5 @@ Bald kommt Tatterman zu dir.🎶
 <audio src="https://dl.dropbox.com/s/4v56hpne1l6zzui/mix_35s%20%28audio-joiner.com%29.mp3" controls>
 <p>If you are reading this, it is because your browser does not support the audio element.</p>
 </audio>
-
+<details>
 
