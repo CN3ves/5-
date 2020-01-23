@@ -12,7 +12,8 @@ layout: horror
   <i>Necronomicon</i>
 </font></p>
 
-# "ebook" concept test [logs](https://gamersplane.com/forums/thread/14499/)  
+# "ebook" concept test 
+--[logs](https://gamersplane.com/forums/thread/14499/)--  
 
 ___
 ___
