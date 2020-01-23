@@ -5,12 +5,12 @@ layout: horror
   <img src="https://i.imgur.com/MFcQvxo.png?1" alt="Strange Aeons" width="100%" height="100%">
 </p>
 
-<p align="center">
+<p align="center"><font size="10>
   <b>IÄ! IÄ! PATHFINDER FHTAGN!</b><br>
   “That is not dead which can eternal lie, <br>
   And with strange aeons even death may die.”<br>
   <i>Necronomicon</i>
-</p>
+</font></p>
 
 # "ebook" concept test [logs](https://gamersplane.com/forums/thread/14499/)  
 
