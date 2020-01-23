@@ -12,11 +12,11 @@ layout: horror
   <i>Necronomicon</i>
 </font></p>
 
-# "ebook" concept test [logs](https://gamersplane.com/forums/thread/14499/)
+# Chapter 1: In search of Sanity [logs](https://gamersplane.com/forums/thread/14499/)
 
 ___
 ___
-
+### Part 1: Prison of the mind
 <details>
   <summary><b>[SOUND] Misty city background </b></summary>
   <audio src="https://api.soundcloud.com/tracks/225459918/download?client_id=LBCcHmRB8XSStWL6wKH2HPACspQlXg2P" controls>
