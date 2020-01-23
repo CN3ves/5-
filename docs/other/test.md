@@ -16,7 +16,7 @@ layout: horror
 
 ___
 ___
-### Part 1: Prison of the mind
+## Part 1: Prison of the mind
 <details>
   <summary><b>[SOUND] Misty city background </b></summary>
   <audio src="https://api.soundcloud.com/tracks/225459918/download?client_id=LBCcHmRB8XSStWL6wKH2HPACspQlXg2P" controls>
