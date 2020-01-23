@@ -5,7 +5,7 @@ layout: horror
   <img src="https://i.imgur.com/MFcQvxo.png?1" alt="Strange Aeons" width="100%" height="100%">
 </p>
 
-<p align="center"><font size="6">
+<p align="center"><font size="5">
   <b>IÄ! IÄ! PATHFINDER FHTAGN!</b><br>
   “That is not dead which can eternal lie, <br>
   And with strange aeons even death may die.”<br>
@@ -23,7 +23,7 @@ ___
 </audio>
 </details> 
 
-<font color="olive" size="12">
+<font color="olive" size="8">
 I open my eyes. It is difficult to breathe here. I feel my neck tighten, the muscles hurting as if strangled. I take my hand to feel it, only to find the twisted roughness of… a rope. <i>“Mother, what have I done?”</i> I gasp for air as I realize the source of the weight on my neck. Something snakes next to me, and I feel the tail of that constrictor material macabre waving in tune with my body. I can't remember how I go here. In fact, I can’t remember much as if I was just born, no past, no memories… And yet, here I was lost in this city that felt somehow familiar. <i>“How did I get here? Am I dead?”</i> I grab the loose rope strongly. There is something familiar about this place, a lost memory fragment, a smell that I can almost feel. <i>“Have I been here before?”</i> A flash of a grand party, a masquerade and the depths of horror… 
 </font>
 
