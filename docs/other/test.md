@@ -7,10 +7,10 @@ layout: horror
 </p>
 
 <p align="center"><font size="4">
-  <b>IÄ! IÄ! PATHFINDER FHTAGN!</b><br>
+  <h0><b>IÄ! IÄ! PATHFINDER FHTAGN!</b><br>
   “That is not dead which can eternal lie, <br>
   And with strange aeons even death may die.”<br>
-  <i>Necronomicon</i>
+  <i>Necronomicon</i></h0>
 </font></p>
 
 ___
