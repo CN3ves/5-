@@ -183,6 +183,14 @@ As the characters improve their descriptors and becomes more proficient at certa
 
 Consistent with the increase of power, mastery of a new technique or even just the development of a new approach, unlocking higher tiers of a descriptor may optionally unlock abilities *(another example of descriptor subgroup)*. Abilities are special actions that character can use by pushing themselves a little further to impose additional effects on their target.  *<span style="color:grey">For example, if the sword skill (3:1) levels up with a double 6, it will unlock the next tier, sword (4:1+1), and the character may also learn the sword-related technique such as Quick-Draw: you may use your sword while still sheathed gaining a surprise attack with a bonus.</span>* Abilities are general effects and can be used for any descriptor that has a level characteristic, such as adding a fear condition with a successful intimidation attempt, being able to find extra clues in an investigation or easily noticing ambushes. Because abilities represent an additional effort than the underlying regular action, theses descriptors have a cost such as fatigue resistance damage, limiting the amount of times these actions can be used. *<span style="color:grey">One default ability to consider is raising the action stakes. This ability allows the characters to push their limits and attempt to improve the result of their action. For the cost of 1 fatigue damage, the dice can be re-rolled to either revert a failure or strengthen a success, allowing for both critical hits and critical fumbles to occur at defining moments of the adventure..</span>*    
 
+
+<details>
+  <summary><b>notes for reference (IGNORE)</b></summary>
+       <i>TOn raising and criticals</i>: It would make a lot of sense if raising' just increased or decreased the amount of success... particularly is successes were action points
+I roll a success 4,5 and raise it with another success 2,3. damage is 4 + 2 :open_mouth:
+if I failed with 1,2 damage would decrease to 4-1
+</details> 
+
 #### Items  
 Besides improving the character’s own proficiency and power by improving descriptors, characters may also improve by acquiring more powerful <span style="color:green">equipment</span>. Equipment can be considered as a sub-group of descriptors, describing those effects associated with a particular item. As such, equipment is free form and can be defined on the fly. In this way, equipment is a very flexible way to promote character progression as it can be used to influence any of the character’s own descriptors.  *<span style="color:grey">Depending on the game, these descriptors may have all characteristics, where the level reflects the item’s durability, the damage the damage accumulated during usage, the tier the minimum proficiency required to use the item effectively </span>*. Because equipment is free-form, the number of possible effects combinations makes its uses almost unlimited. However, there are a number of basic options that can be considered:
 
@@ -215,6 +223,14 @@ If the players are not allowed to fail the challenge, then they will continue to
 #### Successes (“damage”)
 The number of accumulated successes for any action is defined by the same 2d6 roll used to determine if the action succeeds. The default number of successes obtained for a single check is the lowest value rolled on both dice. This value may be ignored (immunity), downgraded to 1 (resistance), or upgraded to the highest value rolled (weakness) depending on the task and target themselves. However, descriptors can provide modifiers and change the number of successes a character obtains for any given action. *<span style="color:grey">A character with an Attentive trait may obtain +1 successes when investigating, a character with a high-quality axe equipped may deal twice the damage when rolling a 6 or a character may have an ability that allows it to split the successes of a logical argumentation action to between two targets. </span>*    
 
+<details>
+  <summary><b>notes for reference (IGNORE)</b></summary>
+       <i>Action points!</i>: instead of the dice defining if you succeed or fail.
+you roll it once per encounter
+and it defines the amount if successful actions you can do
+it will be similar to trail of cthulhu in that you spend these actions to get something
+           You can have graded effects as 1 is a weak success, 2 regular, 3 strong and 4 critical
+</details> 
 
 #### NPCs
 Besides the winning and losing conditions, challenges may have a clear <span style="color:green"> opposition </span> force. This can be as simple as a rolling boulder in a narrow corridor or as complex as a multi-regional organization. However, relevant opposition will add additional option to the challenge, contributing with bonuses, abilities and special effects than will make the challenge more difficult, but more interesting, than otherwise. Often this opposition is in the form of an NPC or a group of NPCs (organization), which will have some signature ability or behaviour. It is important to remember that, because the player’s roll defines success on its own, NPCs do not roll. If a player succeeds in an opposed challenge, it’s because the opposition failed, which mean that NPC do not need to have a character sheet and are, like items, defined by a few descriptors: 
