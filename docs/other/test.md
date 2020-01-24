@@ -1,7 +1,7 @@
 ---
 layout: horror
 ---
-# Chapter 1: In search of Sanity ([logs](https://gamersplane.com/forums/thread/14499/))
+
 <p align="center">
   <img src="https://i.imgur.com/MFcQvxo.png?1" alt="Strange Aeons" width="100%" height="100%">
 </p>
@@ -13,7 +13,8 @@ layout: horror
   <i>Necronomicon</i>
 </font></p>
 
-___
+___  
+# Chapter 1: In search of Sanity ([logs](https://gamersplane.com/forums/thread/14499/))
 ___   
 
 ## Part 1: Prison of the mind
