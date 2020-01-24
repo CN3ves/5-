@@ -1,6 +1,7 @@
 ---
 layout: horror
 ---
+# Chapter 1: In search of Sanity ([logs](https://gamersplane.com/forums/thread/14499/))
 <p align="center">
   <img src="https://i.imgur.com/MFcQvxo.png?1" alt="Strange Aeons" width="100%" height="100%">
 </p>
@@ -12,11 +13,10 @@ layout: horror
   <i>Necronomicon</i>
 </font></p>
 
-# Chapter 1: In search of Sanity [logs](https://gamersplane.com/forums/thread/14499/)
-## Part 1: Prison of the mind
 ___
-___
+___   
 
+## Part 1: Prison of the mind
 <details>
   <summary><b>[SOUND] Misty city background </b></summary>
   <audio src="https://api.soundcloud.com/tracks/225459918/download?client_id=LBCcHmRB8XSStWL6wKH2HPACspQlXg2P" controls>
