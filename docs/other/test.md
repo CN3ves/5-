@@ -22,7 +22,7 @@ ___
   
 <details>
   <summary><b>[SOUND] Misty city background </b></summary>
-  <audio src="https://api.soundcloud.com/tracks/225459918/download?client_id=LBCcHmRB8XSStWL6wKH2HPACspQlXg2P" controls>
+  <audio src="https://api.soundcloud.com/tracks/225459918/download?client_id=LBCcHmRB8XSStWL6wKH2HPACspQlXg2P" controls loop>
 </audio>
 </details> 
 
@@ -42,8 +42,11 @@ I find them again. More and more of them. Six, seven, maybe eight shadows bandin
 
 <details>
   <summary><b>[SOUND] Steps </b></summary>
-  <audio src="https://dl.dropbox.com/s/xe3c6mujchv353b/footsteps1.mp3" controls>
+  <audio src="https://dl.dropbox.com/s/xe3c6mujchv353b/footsteps1.mp3" controls loop>
 </audio>
+    <audio src="https://archive.org/details/ScaryFootstepsSound/walkandgrunt.mp3" controls loop>
+</audio>
+  
 </details> 
 <font color="olive" size="6">Behind, the yellow fog and the relentless sound of pursuit grow closer. And the strange fear hanging on the heavy air becomes a reality. Gruesome sounds echo from all the alleys and wall. The screams of pain slowly go silent as blood spatters across the wall in front of me. I stop, breathless, looking around for the source of the blood, for the hunter in the mist when a brutally distorted corpse, half meat, half blood, drops at my feet. The city goes silent once again…
 </font>
