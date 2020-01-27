@@ -42,11 +42,7 @@ I find them again. More and more of them. Six, seven, maybe eight shadows bandin
 
 <details>
   <summary><b>[SOUND] Steps </b></summary>
-  <audio src="https://dl.dropbox.com/s/xe3c6mujchv353b/footsteps1.mp3" controls loop>
-</audio>
-    <audio src="https://archive.org/details/ScaryFootstepsSound/walkandgrunt.mp3" controls loop>
-</audio>
-  
+  <audio src="https://dl.dropbox.com/s/0ib0rdbydt33tid/walkandgrunt.mp3" controls >
 </details> 
 <font color="olive" size="6">Behind, the yellow fog and the relentless sound of pursuit grow closer. And the strange fear hanging on the heavy air becomes a reality. Gruesome sounds echo from all the alleys and wall. The screams of pain slowly go silent as blood spatters across the wall in front of me. I stop, breathless, looking around for the source of the blood, for the hunter in the mist when a brutally distorted corpse, half meat, half blood, drops at my feet. The city goes silent once again…
 </font>
