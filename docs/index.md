@@ -1,5 +1,5 @@
 ---
-layout: 5plus
+layout: system
 ---
 
 ## Table of contents
