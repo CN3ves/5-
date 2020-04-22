@@ -3,7 +3,7 @@ layout: blank
 ---
 
 # 5+ Copy cat
-[<img src="http://soweic.com/wp-content/uploads/sites/2/2015/05/5plus.png" width="250" height="250"/>](http://soweic.com/wp-content/uploads/sites/2/2015/05/5plus.png) [<img src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/04/1-ZOX7-QCiE7TvZoI-UGNSEQ.jpeg" width="250" height="200"/>](https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/04/1-ZOX7-QCiE7TvZoI-UGNSEQ.jpeg)
+[<img src="http://soweic.com/wp-content/uploads/sites/2/2015/05/5plus.png" width="258" height="170"/>](http://soweic.com/wp-content/uploads/sites/2/2015/05/5plus.png) [<img src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/04/1-ZOX7-QCiE7TvZoI-UGNSEQ.jpeg" width="258" height="120"/>](https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/04/1-ZOX7-QCiE7TvZoI-UGNSEQ.jpeg)
 
 ## Table of contentsss
 
