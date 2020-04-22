@@ -4,7 +4,7 @@ layout: blank
 
 # 5+ Copy cat
 
-<img>https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/04/1-ZOX7-QCiE7TvZoI-UGNSEQ.jpeg</img>
+<img src=https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/04/1-ZOX7-QCiE7TvZoI-UGNSEQ.jpeg></img>
 
 ## Table of contents
 
