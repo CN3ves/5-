@@ -1,6 +1,3 @@
----
-layout: system
----
 
 ## Table of contentsss
 
