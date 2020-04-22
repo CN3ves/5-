@@ -3,7 +3,7 @@ layout: blank
 ---
 
 # 5+ Copy cat
-[<img src="http://soweic.com/wp-content/uploads/sites/2/2015/05/5plus.png" width="258" height="170"/>](http://soweic.com/wp-content/uploads/sites/2/2015/05/5plus.png) [<img src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/04/1-ZOX7-QCiE7TvZoI-UGNSEQ.jpeg" width="258" height="120"/>](https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/04/1-ZOX7-QCiE7TvZoI-UGNSEQ.jpeg)
+![](https://media.discordapp.net/attachments/701752946102239232/702577844592705667/unknown.png)
 
 ## Table of contentsss
 
