@@ -2,7 +2,7 @@
 layout: system
 ---
 
-## Table of contentsss
+## Table of contents
 
 >1. [Introduction](#1-introduction)  
 >  &nbsp;&nbsp; - [*Descriptors*](#descriptors)  
