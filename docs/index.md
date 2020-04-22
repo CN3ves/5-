@@ -5,7 +5,7 @@ title: DOS 5+ system
 description: A framework to create your games
 ---
 
-## Table of contents
+## Table of contentsss
 
 >1. [Introduction](#1-introduction)  
 >  &nbsp;&nbsp; - [*Descriptors*](#descriptors)  
