@@ -1,8 +1,5 @@
 ---
 layout: system
-remote_theme: jekyll-theme-minimal
-title: DOS 5+ system
-description: A framework to create your games
 ---
 
 ## Table of contentsss
