@@ -1,3 +1,6 @@
+---
+layout: blank
+---
 
 # 5+ Ctrl-cat
 
