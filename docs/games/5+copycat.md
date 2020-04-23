@@ -5,16 +5,18 @@ layout: blanck
 
 ## Table of contentsss
 
-1. [Introduction](#1-introduction)  
-  &nbsp;&nbsp; - [*Descriptors*](#descriptors)  
-2. [Characteristics](#2-descriptor-characteristics)  
-  2.1. [Effect](#21-descriptor-effects)  
+[Introduction](#1-introduction) | [Characteristics](#2-descriptor-characteristics) | [Resolutions](#3-resolution-methods) | [Challenges](#4-challenges)
+--------------------------------|--------------------------------|--------------------------------|--------------------------------|
+[*Descriptors*](#descriptors)  | [Effect](#21-descriptor-effects)  | [Success Range](#31-success-range)  | [Structure](#41-structure)  
+
+2. 
+  2.1. 
   2.2. [Counter](#22-descriptor-counter)  
   2.3. [Level](#23-descriptor-level)  
   &nbsp;&nbsp; - [*Tiers*](#tiers)  
   &nbsp;&nbsp; - [*Characters*](#characters)
-3. [Resolutions](#3-resolution-methods)  
-  3.1. [Success Range](#31-success-range)  
+3. 
+  3.1. 
     &nbsp;&nbsp; - [*Failure handling*](#failure-handling)  
     &nbsp;&nbsp; - [*Helping*](#helping)  
     &nbsp;&nbsp; - [*Special values*](#special-values)   
@@ -24,15 +26,13 @@ layout: blanck
   3.3. [Improvement](#33-improvement)  
     &nbsp;&nbsp;&nbsp; - [*Abilities*](#abilities)  
     &nbsp;&nbsp;&nbsp; - [*Items*](#items)  
-4. [Challenges](#4-challenges)  
-  4.1 [Structure](#41-structure)  
+4. 
+  4.1 
   4.2 [Objectives](#42-objectives)   
     &nbsp;&nbsp;&nbsp; - [*Successes*](#successes-damage)  
     &nbsp;&nbsp;&nbsp; - [*NPCs*](#npcs)  
   4.3 [Actions](#43-actions)  
-5. [GMless options](#5-game-master-options)  
-    &nbsp;&nbsp;&nbsp; - [*Single player*](#single-player)  
-6. Game examples
+
            
 
 ## 1) Introduction  
