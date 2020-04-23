@@ -16,23 +16,7 @@ layout: blank
 ## 1) Introduction  
 The 5+ system is a light, simple and flexible dice gaming system that was developed to simplify running high fantasy adventures (D&D, Pathfinder) to a play-by-post (PbP) format. Using nothing but <span style="color:green">two six-sided dice (2d6)</span> it attempts to remove most of the complexity and rules providing a stripped down system to run such adventures.  
   
-The 5+ system is a descriptor-oriented system (DOS). 
-This means that <span style="color:green">descriptors</span> represent the underlying framework that can be easily adapted to accommodate many types of character concepts, game styles and genres. Using this framework, players can generate 
-the game and setting that best suits them. Understanding descriptors, how to use them and how they 
-interact is the essence of this gaming system. Generally, each descriptor is created by defining at least one charatceristic, which in turns determines how the descriptor is resolved. 
-
-
-| Descriptor Subgroup                 | Characteristic | Resolution                         |
-|-------------------------------------|----------------|------------------------------------|
-| [Trait](#21-descriptor-effects)     | Effect         | Permanent                          |
-| [Resistance](#22-descriptor-counter)| Counter        | [Recovery](#32-recovery)           |
-|  &nbsp;                             | Level          | [Success Range](#31-success-range) |
-|  &nbsp;                             | &nbsp;         | [Improvement](#31-success-range)   |
-| [Skill](#23-descriptor-level)       | Level          | [Success Range](#31-success-range) |
-|    &nbsp;                           | &nbsp;         | [Improvement](#31-success-range)   |
-| [Condition](#conditions)            | Effect         | Temporary                          |
-| [Ability](#abilities)               | Effect         | Damage                             |
-| [Equipment](#items)                 | Effect         | Equipped                           |
+The 5+ system is a descriptor-oriented system (DOS), which means that <span style="color:green">descriptors</span> represent the underlying framework used to adapt and accommodate many types of character concepts. Descriptors are used instead of the original class system, giving the player's more flexibility to create their unique charatcers. Understanding descriptors, how to use them and how they interact is essencial to understanding the 5+ gaming system. 
 
 
 #### Descriptors  
@@ -50,6 +34,21 @@ strain and reputation and so on.
 
 Note: The suggested annotation used is *descriptor name (counter/level:tier) – effects*. 
 *<span style="color:grey">An intuitive example would be a general descriptor like Health (0/3:1) - Health reflects the general physiological and psychological functioning of the character’s body and mind: If the damage accumulated to Health is above its level, the character gains a wound descriptor. When gaining a wound, the damage accumulated resets to 0 if the wound level below Health’s tier, otherwise, the character is incapacitated.</span>*  
+
+Generally, each descriptor is created by defining at least one charatceristic, which in turns determines how the descriptor is resolved. 
+
+
+| Descriptor Subgroup                 | Characteristic | Resolution                         |
+|-------------------------------------|----------------|------------------------------------|
+| [Trait](#21-descriptor-effects)     | Effect         | Permanent                          |
+| [Resistance](#22-descriptor-counter)| Counter        | [Recovery](#32-recovery)           |
+|  &nbsp;                             | Level          | [Success Range](#31-success-range) |
+|  &nbsp;                             | &nbsp;         | [Improvement](#31-success-range)   |
+| [Skill](#23-descriptor-level)       | Level          | [Success Range](#31-success-range) |
+|    &nbsp;                           | &nbsp;         | [Improvement](#31-success-range)   |
+| [Condition](#conditions)            | Effect         | Temporary                          |
+| [Ability](#abilities)               | Effect         | Damage                             |
+| [Equipment](#items)                 | Effect         | Equipped                           |
 
 
 ## 2) Descriptor Characteristics  
