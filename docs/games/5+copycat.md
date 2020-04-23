@@ -1,3 +1,6 @@
+---
+layout: blanck
+---
 ![](https://media.discordapp.net/attachments/701752946102239232/702577844592705667/unknown.png)
 
 ## Table of contentsss
