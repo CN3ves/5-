@@ -5,7 +5,6 @@ layout: blanck
 
 ## Table of contents
 
-[Introduction](#1-introduction) 
 
 | [Characteristics](#2-descriptor-characteristics) | [Resolutions](#3-resolution-methods) | [Challenges](#4-challenges)   |
 ---------------------------------------------------|--------------------------------------|-------------------------------|
