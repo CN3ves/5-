@@ -3,7 +3,7 @@ layout: blank
 ---
 ![](https://media.discordapp.net/attachments/701752946102239232/702577844592705667/unknown.png)
 
-## Table of contentsz
+## Table of contents
 
 
 | [Descriptors](#2-descriptor-characteristics) | [Resolutions](#3-resolution-methods) | [Challenges](#4-challenges)   |
