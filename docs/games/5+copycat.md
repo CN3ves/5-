@@ -13,14 +13,8 @@ layout: blank
 |       [Level](#23-descriptor-level)          |  [Improvement](#33-improvement)      |  [Actions](#43-actions)       |
 
            
-
 ## 1) Introduction  
-The 5+ system is a light, simple and flexible dice gaming system that can be used in various gaming contexts. 
-It focuses on free-form narrative and player freedom, instead of diving deep into the mechanistic details, keeping 
-the story flowing at a good pace, while guaranteeing the possibility of building complex characters and their 
-development, using nothing but <span style="color:green">two six-sided dice (2d6)</span>, a pencil and a notebook. Being a generic gaming system, it can be adapted to fit a diversity of settings, game styles, concepts and adventures. Specific options are included to allow the players to drive the story, distributing and decentralizing of the Game Master’s (GM) task 
-for a wider shared storytelling experience. The addition of a standard French-suited deck allows for easy 
-single player options.  
+The 5+ system is a light, simple and flexible dice gaming system that was developed to simplify running high fantasy adventures (D&D, Pathfinder) to a play-by-post (PbP) format. Using nothing but <span style="color:green">two six-sided dice (2d6)</span> it attempts to remove most of the complexity and rules providing a stripped down system to run such adventures.  
   
 The 5+ system is a descriptor-oriented system (DOS). 
 This means that <span style="color:green">descriptors</span> represent the underlying framework that can be easily adapted to accommodate many types of character concepts, game styles and genres. Using this framework, players can generate 
