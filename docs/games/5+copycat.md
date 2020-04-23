@@ -5,13 +5,13 @@ layout: blanck
 
 ## Table of contents
 
-[Introduction](#1-introduction) | [Characteristics](#2-descriptor-characteristics) | [Resolutions](#3-resolution-methods) | [Challenges](#4-challenges)
---------------------------------|--------------------------------|--------------------------------|--------------------------------|
-[*Descriptors*](#descriptors)  | [Effect](#21-descriptor-effects)  | [Success Range](#31-success-range)  | [Structure](#41-structure)  
---------------------------------|--------------------------------|--------------------------------|--------------------------------|
- |[Counter](#22-descriptor-counter)  |[Recovery](#32-recovery)  | [Objectives](#42-objectives)  
---------------------------------|--------------------------------|--------------------------------|--------------------------------|
- | [Level](#23-descriptor-level)   | [Improvement](#33-improvement)  |  [Actions](#43-actions)  
+[Introduction](#1-introduction) 
+
+| [Characteristics](#2-descriptor-characteristics) | [Resolutions](#3-resolution-methods) | [Challenges](#4-challenges)   |
+---------------------------------------------------|--------------------------------------|-------------------------------|
+|         [Effect](#21-descriptor-effects)         |  [Success Range](#31-success-range)  |  [Structure](#41-structure)   | 
+|         [Counter](#22-descriptor-counter)        |  [Recovery](#32-recovery)            |  [Objectives](#42-objectives) |  
+|         [Level](#23-descriptor-level)            |  [Improvement](#33-improvement)      |  [Actions](#43-actions)       |
 
            
 
