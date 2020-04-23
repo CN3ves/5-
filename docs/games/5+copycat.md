@@ -3,7 +3,7 @@ layout: blanck
 ---
 ![](https://media.discordapp.net/attachments/701752946102239232/702577844592705667/unknown.png)
 
-## Table of contents
+## Table of contentsz
 
 
 | [Characteristics](#2-descriptor-characteristics) | [Resolutions](#3-resolution-methods) | [Challenges](#4-challenges)   |
