@@ -6,24 +6,23 @@ layout: blank
 ## Table of contents
 
 
-| [Descriptors](#2-descriptor-characteristics) | [Resolutions](#3-resolution-methods) | [Challenges](#4-challenges)   |
+| [Descriptors](#descriptors) | [Resolutions](#3-resolution-methods) | [Challenges](#4-challenges)   |
 -----------------------------------------------|--------------------------------------|-------------------------------|
 |       [Effect](#21-descriptor-effects)       |  [Success Range](#31-success-range)  |  [Structure](#41-structure)   | 
 |       [Counter](#22-descriptor-counter)      |  [Recovery](#32-recovery)            |  [Objectives](#42-objectives) |  
 |       [Level](#23-descriptor-level)          |  [Improvement](#33-improvement)      |  [Actions](#43-actions)       |
 
            
-## 1) Introduction  
+### Introduction  
 The 5+ system is a light, simple and flexible dice gaming system that was developed to simplify running high fantasy adventures (D&D, Pathfinder) to a play-by-post (PbP) format. Using nothing but <span style="color:green">two six-sided dice (2d6)</span> it attempts to remove most of the complexity and rules providing a stripped down system to run such adventures.  
   
 The 5+ system is a descriptor-oriented system (DOS), which means that <span style="color:green">descriptors</span> represent the underlying framework used to adapt and accommodate many types of character concepts. Descriptors are used instead of the original class system, giving the player's more flexibility to create their unique charatcers. Understanding descriptors, how to use them and how they interact is essencial to understanding the 5+ gaming system. 
 
 
-#### Descriptors  
-Descriptors are small, clear sentences that define someone or something. Unsurprisingly, adding descriptor together is what allows anything in the game to be described, including how characters relate to other characters and how they differ from each other. *<span style="color:grey">For example, a character can be defined as an explorer navigating exotic waters in search of new trading opportunities, which is different from the honour bound noble warrior that finds the explorer’s lost ship after a strong storm blew it off course.</span>*  
+### Descriptors  
+Descriptors are small, clear sentences that define someone or something. Unsurprisingly, adding descriptor together is what allows anything in the game to be described, including how characters relate to other characters and how they differ from each other. *<span style="color:grey">For example, a character can be defined as an or barbarian or a halfling rogue. Each of these "words" is a descriptor with associated characteristics.</span>*  
 
-An important feature of this system is that, given the free-form nature of descriptors, these can be generated on the fly as required. Taken to the extreme, this could mean that no character creation is required to start a game! 
-*<span style="color:grey">Let’s assume the noble warrior meets the explorer, who shows him a new powerful weapon, firearms. The warrior has never seen this type of device, so he would not have the descriptor that allows him to use firearms. Even though it is missing, the players can quickly agree that, given time to train using the new weapons, this descriptor may be added to the noble warrior’s descriptor list.</span>*  
+An important feature of this system is that, given the free-form nature of descriptors, these can be generated on the fly as required, allowing the original rules to be easily addapted or build upon. *<span style="color:grey">For example, during the course of the adventure the players discover ancient tomes of magic and try to study and unlock void magic. However, the campaign setting does not include void as a school of magic. To solve this issue, new skills, traits and spells can easily be added by the creation of descriptors on the spot!</span>*  
 
 Descriptors are combinations of <span style="color:green">characteristics</span>. Making any type of descriptor only requires an idea of what it is describing and then determine the combination of characteristics that matches it best. These specific combinations can be grouped into descriptor subgroups to help organise and generate a character and run a game. These base descriptor characteristics are:  
   
@@ -38,19 +37,6 @@ Note: The suggested annotation used is *descriptor name (counter/level:tier) –
 Generally, each descriptor is created by defining at least one charatceristic, which in turns determines how the descriptor is resolved. 
 
 
-| Descriptor Subgroup                 | Characteristic | Resolution                         |
-|-------------------------------------|----------------|------------------------------------|
-| [Trait](#21-descriptor-effects)     | Effect         | Permanent                          |
-| [Resistance](#22-descriptor-counter)| Counter        | [Recovery](#32-recovery)           |
-|  &nbsp;                             | Level          | [Success Range](#31-success-range) |
-|  &nbsp;                             | &nbsp;         | [Improvement](#31-success-range)   |
-| [Skill](#23-descriptor-level)       | Level          | [Success Range](#31-success-range) |
-|    &nbsp;                           | &nbsp;         | [Improvement](#31-success-range)   |
-| [Condition](#conditions)            | Effect         | Temporary                          |
-| [Ability](#abilities)               | Effect         | Damage                             |
-| [Equipment](#items)                 | Effect         | Equipped                           |
-
-
 ## 2) Descriptor Characteristics  
 ### 2.1) Descriptor Effects   
 Effects describe interactions between descriptors, allow or prevent certain actions or even define particular roleplaying guidelines. *<span style="color:grey">These include gaining a +1 bonus to an action or group of actions, forbid the use of magic by non-casters, simply stating that the character has thermal vision or other non-default characteristic for the setting, etc. For example, if the players are playing as underwater creatures, it is expected that that can breathe underwater, but maybe breathing air is not a given, so the amphibious trait effect would need to be described.</span>*  Descriptors with effects that are not expected to change reflect stable, long-term characteristics of a character or object. As such, these can be thought of a subgroup: <span style="color:green">traits</span>. This way, traits may include what is commonly thought of as ability scores, race, class, job or training. It additionally includes any physical and mental characteristics, personality, flaws, strengths, fears, background and even culture. Generally, they should describe defining features that distinguish the character or object. *<span style="color:grey"> For example, a strong character may have a trait descriptor Strong - you possess strength above the average person: you gain +1 bonus to non-combat actions involving strength. Even though being strong may not be a rare trait, it distinguishes the character of the average person. Another example would be the trait Mouldable – the shape of this object can be changed easily, which distinguish it from most other objects which have defined, unchangeable shapes (unless they break!)</span>*
@@ -63,6 +49,19 @@ Levels describe the proficiency of the character for a given action. This means 
 
 #### Tiers  
 Levels only describe the chances of using a descriptor successfully. However, the same skill can be used differently by different characters. This means that, even though two characters may be using the same skill with the same chances of success, one may still be trying to use a more powerful technique or method than the other. To distinguish different methods and approaches, <span style="color:green">tiers</span> of descriptor powers can be associated with their levels, where each tier represents a noticeable increase in the descriptor's power. *<span style="color:grey">We can think about the difference between two spellcasters, one apprentice and one archmage. If both are trying to cast a fire spell (using the same skill or action), it is clear that the archmage will succeed casting the same exact spell more often than the apprentice. However, if the archmage tries to cast a more powerful spell, his chances of summoning these more devastating energies may be the same as those of the apprentice casting the simplest of spells. The difference is in the power and complexity of the spell. Even though magic is an easy example to understand, this concept can be extended to every other skill: the sword technique may be deadlier, the smiting method may be more efficient, the diplomatic approach may be more convincing, etc..</span>* 
+
+
+| Descriptor Subgroup                 | Characteristic | Resolution                         |
+|-------------------------------------|----------------|------------------------------------|
+| [Trait](#21-descriptor-effects)     | Effect         | Permanent                          |
+| [Resistance](#22-descriptor-counter)| Counter        | [Recovery](#32-recovery)           |
+|  &nbsp;                             | Level          | [Success Range](#31-success-range) |
+|  &nbsp;                             | &nbsp;         | [Improvement](#31-success-range)   |
+| [Skill](#23-descriptor-level)       | Level          | [Success Range](#31-success-range) |
+|    &nbsp;                           | &nbsp;         | [Improvement](#31-success-range)   |
+| [Condition](#conditions)            | Effect         | Temporary                          |
+| [Ability](#abilities)               | Effect         | Damage                             |
+| [Equipment](#items)                 | Effect         | Equipped                           |
 
 #### Characters 
 Players should have at least one character through with they are represented within the game’s world. Characters are defined by their descriptors, but the character creation process depends on the theme and aim of the game and should be agreed upon at the set up. A character can be as simple as:  
